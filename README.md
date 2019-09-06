@@ -1,4 +1,4 @@
-# UD_Xibe_IU
+# UD_Xibe-IU
 
 ### We will create a treebank for Jungarian Xibe language based on available Xibe grammar books and Qapqal News.
 
