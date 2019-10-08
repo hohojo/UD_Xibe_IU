@@ -14,7 +14,10 @@ def wordFeatures(word):
                 'feats', 'head', 'deprel', 'deps', 'misc']
     for feature in features:
         featValue = {}
-        featValue[feature] = "_"
+        if feature == 'misc':
+            featValue[feature] = 'Translit='
+        else:
+            featValue[feature] = "_"
         result.append(featValue[feature])
     result.insert(0, word)
     return result
@@ -39,11 +42,12 @@ def wordFeatures(word):
 #     output.write(text+'\n')
 # output.close()
 
-def conlluConvert(en_text, xb_text):
+def conlluConvert(en_text, xb_text, translit_text):
     "convert raw data to conllu format"
     filename = xb_text.split('.')
     enText = open(en_text, 'r').readlines()
     xbText = open(xb_text, 'r').readlines()
+    translitText = open(translit_text, 'r').readlines()
     test = open(filename[0]+".conllu", 'w', encoding='utf-8')
 
     en_dict = {}
@@ -53,12 +57,27 @@ def conlluConvert(en_text, xb_text):
             en_dict[line[0]] = line[1].strip()
     # print(len(en_dict))
 
-    xb_dict = {}
+    xb_dict = {}  # {index:[xb_sent, translit]}
     for line in xbText:
         line = re.split(r'[.]', line)
+        xbTranslit = []
         if len(line) == 2:
-            xb_dict[line[0]] = line[1].strip()
+            xbTranslit.append(line[1].strip())
+
+        for lineTranslit in translitText:
+            lineTranslit = re.split(r'[.]', lineTranslit.strip())
+
+            if (len(lineTranslit) == 3 or len(lineTranslit) == 2) and lineTranslit[0] == line[0]:
+                xbTranslit.append(lineTranslit[1].strip())
+        # print(xbTranslit)
+        xb_dict[line[0]] = xbTranslit
     # print(len(xb_dict))
+
+    # translit_dict = {}
+    # for line in translitText:
+    #     line =
+    #     if len(line) == 2:
+    #         translit_dict[line[0]] = line[1].strip()
 
     sentPairs = {}
     for k_xb, v_xb in xb_dict.items():
@@ -68,19 +87,18 @@ def conlluConvert(en_text, xb_text):
                 sentPair.append(v_xb)
                 sentPair.append(v_en)
                 sentPairs[k_en] = sentPair
-
+    # print(sentPairs)
     for key, value in sentPairs.items():
         sentID = "# sent_id = " + filename[0]+"_"+key + "\n"
         test.write(sentID)
-        sentXB = "# sent = " + value[0] + "\n"
+        sentXB = "# sent = " + value[0][0] + "\n"
         test.write(sentXB)
-        sentTrans = "# sent[phon] = " + "\n"
+        sentTrans = "# sent[phon] = " + value[0][1] + "\n"
         test.write(sentTrans)
         sentEN = "# sent[eng] = " + value[1] + "\n"
         test.write(sentEN)
 
-        # xbSent = re.sub(r'[。，！？：”“]', r' \1 ', value[0])
-        sentence = value[0].strip().split(" ")
+        sentence = value[0][0].strip().split(" ")
         wordID = 1
 
         for w in sentence:
@@ -94,4 +112,5 @@ def conlluConvert(en_text, xb_text):
     print("Convert over!")
 
 
-conlluConvert('grammarbook_en_p1.txt', 'grammarbook_sjo_p1.txt')
+conlluConvert('grammarbook_en_p1.txt',
+              'grammarbook_sjo_p1.txt', 'grammarbook_translit_p1.txt')
