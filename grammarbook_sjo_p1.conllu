@@ -2,14 +2,14 @@
 # sent = ᡧᡠᠨ ᡨᡠᠴᡞᡫᡞ , ᡫᠠᠷᡥᡡᠨ ᡩᠣᠪᠣᠷᡞ ᠪᡝ ᠪᠣᡧᠣᡥᠣ 。
 # sent[phon] = šun tucifi , farhvn dobori be bošoho
 # sent[eng] = The sun rises, drives the dark away
-1	ᡧᡠᠨ	_	_	_	_	_	_	_	Translit=
-2	ᡨᡠᠴᡞᡫᡞ	_	_	_	_	_	_	_	Translit=
-3	,	_	_	_	_	_	_	_	Translit=
-4	ᡫᠠᠷᡥᡡᠨ	_	_	_	_	_	_	_	Translit=
-5	ᡩᠣᠪᠣᠷᡞ	_	_	_	_	_	_	_	Translit=
-6	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-7	ᠪᠣᡧᠣᡥᠣ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+1	ᡧᡠᠨ	_	NOUN	_	Number=Sing	2	nsubj	_	Translit=šun
+2	ᡨᡠᠴᡞᡫᡞ	ᡨᡠᠴᡞᠮᠪᡞ	VERB	_	VerbForm=Conv	0	root	_	Translit=tucifi
+3	,	_	PUNCT	_	_	_	2	punct	Translit=,
+4	ᡫᠠᠷᡥᡡᠨ	_	ADJ	_	_	_	5	amod	Translit=farhvn
+5	ᡩᠣᠪᠣᠷᡞ	_	NOUN	_	_	_	7	obj	Translit=dobori
+6	ᠪᡝ	_	PART	_	Case=Acc	5	case	_	Translit=be
+7	ᠪᠣᡧᠣᡥᠣ	ᠪᠣᡧᠣᠮᠪᡞ	VERB	_	Tense=Past	_	2	conj	Translit=bošoho
+8	。	_	PUNCT	_	_	_	7	punct	Translit=。
 
 # sent_id = grammarbook_sjo_p1_2
 # sent = ᠠᡤᠠ ᠠᠮᠪᡝᠷᠠᠮᡝ ᡩᠠᠮᡝ ᡩᡝᠷᡞᠪᡠᡥᡝ 。
