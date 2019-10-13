@@ -1,3 +1,22 @@
+# sent_id = grammarbook_sjo_p4_1
+# sent = ᠪᡝ ᠸᡝᡞᠯᡝᠰᡞ , ᠰᡠᠸᡝ ᡠᠰᡞᠰᡞ , ᠮᡠᠰᡝ ᡬᠠᠮᡠ ᡤᡠᠷᡠᠨ ᠪᠣᠣ  ᡞ ᡝᡪᡝᠨ ᡩᠠ 。
+# sent[phon] = be weilesi, suyen usisi, musen gmu gurun boo i ejen de
+# sent[eng] = We are workers, you are farmers, we are all the owner of the country
+1	ᠪᡝ	_	_	_	_	_	_	_	Translit=
+2	ᠸᡝᡞᠯᡝᠰᡞ	_	_	_	_	_	_	_	Translit=
+3	,	_	_	_	_	_	_	_	Translit=
+4	ᠰᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
+5	ᡠᠰᡞᠰᡞ	_	_	_	_	_	_	_	Translit=
+6	,	_	_	_	_	_	_	_	Translit=
+7	ᠮᡠᠰᡝ	_	_	_	_	_	_	_	Translit=
+8	ᡬᠠᠮᡠ	_	_	_	_	_	_	_	Translit=
+9	ᡤᡠᠷᡠᠨ	_	_	_	_	_	_	_	Translit=
+10	ᠪᠣᠣ	_	_	_	_	_	_	_	Translit=
+11	 ᡞ	_	_	_	_	_	_	_	Translit=
+12	ᡝᡪᡝᠨ	_	_	_	_	_	_	_	Translit=
+13	ᡩᠠ	_	_	_	_	_	_	_	Translit=
+14	。	_	_	_	_	_	_	_	Translit=
+
 # sent_id = grammarbook_sjo_p4_2
 # sent = ᡝᠷᡝ ᡠᠴᡠᠷᡞ ᠪᡝᠶᡝ ᡩᡠᠷᠰᡠᠨ ᡣᠠᡨᡠᠨ ᡤᡠᡞᡤᡠ ᠠᡞᠰᡝ , ᠸᡝᡞᠯᡝᠷᠠᠨ ᡞᠴᡞᠰᡥᡡᠨ ᡩᡝᠷᡝ ?
 # sent[phon] = ere ucuri beye dursun katun guigu aise weileran icishvn dere?
