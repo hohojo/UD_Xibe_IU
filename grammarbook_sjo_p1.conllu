@@ -1,119 +1,118 @@
-# sent_id = grammarbook_sjo_p1_1
+﻿# sent_id = grammarbook_sjo_p1_1
 # sent = ᡧᡠᠨ ᡨᡠᠴᡞᡫᡞ , ᡫᠠᠷᡥᡡᠨ ᡩᠣᠪᠣᠷᡞ ᠪᡝ ᠪᠣᡧᠣᡥᠣ 。
 # sent[phon] = šun tucifi , farhvn dobori be bošoho
 # sent[eng] = The sun rises, drives the dark away
-1	ᡧᡠᠨ	_	NOUN	_	Number=Sing	2	nsubj	_	Translit=šun
-2	ᡨᡠᠴᡞᡫᡞ	ᡨᡠᠴᡞᠮᠪᡞ	VERB	_	VerbForm=Conv	0	root	_	Translit=tucifi
-3	,	_	PUNCT	_	_	_	2	punct	Translit=,
-4	ᡫᠠᠷᡥᡡᠨ	_	ADJ	_	_	_	5	amod	Translit=farhvn
-5	ᡩᠣᠪᠣᠷᡞ	_	NOUN	_	_	_	7	obj	Translit=dobori
-6	ᠪᡝ	_	PART	_	Case=Acc	5	case	_	Translit=be
+1	ᡧᡠᠨ	ᡧᡠᠨ	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	Translit=šun
+2	ᡨᡠᠴᡞᡫᡞ	ᡨᡠᠴᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	0	root	_	Translit=tucifi
+3	,	,	PUNCT	_	_	_	2	punct	Translit=,
+4	ᡫᠠᠷᡥᡡᠨ	ᡫᠠᠷᡥᡡᠨ	ADJ	_	_	_	5	amod		Translit=farhvn
+5	ᡩᠣᠪᠣᠷᡞ	ᡩᠣᠪᠣᠷᡞ	NOUN	_	_	_	7	dobj	Translit=dobori
+6	ᠪᡝ	ᠪᡝ	PART	_	Case=Acc	5	case	_	Translit=be
 7	ᠪᠣᡧᠣᡥᠣ	ᠪᠣᡧᠣᠮᠪᡞ	VERB	_	Tense=Past	_	2	conj	Translit=bošoho
-8	。	_	PUNCT	_	_	_	7	punct	Translit=。
+8	。	。	PUNCT	_	_	_	7	punct	Translit=.
 
 # sent_id = grammarbook_sjo_p1_2
-# sent = ᠠᡤᠠ ᠠᠮᠪᡝᠷᠠᠮᡝ ᡩᠠᠮᡝ ᡩᡝᠷᡞᠪᡠᡥᡝ 。
-# sent[phon] = aga amberame dame derebuhe
-# sent[eng] = The rain starts raining hard
-1	ᠠᡤᠠ	_	_	_	_	_	_	_	Translit=
-2	ᠠᠮᠪᡝᠷᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡩᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡩᡝᠷᡞᠪᡠᡥᡝ	_	_	_	_	_	_	_	Translit=
-5	。	_	_	_	_	_	_	_	Translit=
+# sent = ᠠᡤᠠ ᠠᠮᠪᠠᠷᠠᠮᡝ ᡩᠠᠮᡝ ᡩᡝᠷᡞᠪᡠᡥᡝ 。
+# sent[phon] = aga ambarame dame deribuhe.
+# sent[eng] = It starts raining hard.
+1	ᠠᡤᠠ	ᠠᡤᠠ	NOUN	_	_	3	nsubj	_	Translit=aga
+2	ᠠᠮᠪᡝᠷᠠᠮᡝ	ᠠᠮᠪᠠᠷᠠᠮᠪᡞ	VERB	_	VerbForm=Conv	3	advcl	_	Translit=ambarame
+3	ᡩᠠᠮᡝ	ᡩᠠᠮᠪᡞ	VERB	_	VerbForm=Conv	0	root	_	Translit=dame
+4	ᡩᡝᠷᡞᠪᡠᡥᡝ	ᡩᡝᠷᡞᠪᡠᠮᠪᡞ	VERB	_	Tense=Past	3	advcl	_	Translit=deribuhe
+5	。	。	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_3
 # sent = ᡞᠯᡥᠠ ᠯᡝᠷ ᠰᡝᠮᡝ ᡞᠯᡥᠠᡫᡞ , ᠠᠪᠰᡞ ᡥᠣᠴᡞᡣᠣᠰᠠᡣᠠ 。
-# sent[phon] = ilha ler sem ilhafi , absi hocikosaka
-# sent[eng] = The flowers blossomed, how pretty
-1	ᡞᠯᡥᠠ	_	_	_	_	_	_	_	Translit=
-2	ᠯᡝᠷ	_	_	_	_	_	_	_	Translit=
-3	ᠰᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡞᠯᡥᠠᡫᡞ	_	_	_	_	_	_	_	Translit=
-5	,	_	_	_	_	_	_	_	Translit=
-6	ᠠᠪᠰᡞ	_	_	_	_	_	_	_	Translit=
-7	ᡥᠣᠴᡞᡣᠣᠰᠠᡣᠠ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+# sent[phon] = ilha ler seme ilhafi , absi hocikosaka.
+# sent[eng] = The flowers blossomed, how pretty.
+1	ᡞᠯᡥᠠ	ᡞᠯᡥᠠ	NOUN	_	_	4	nsubj	_	Translit=ilha
+2	ᠯᡝᠷ	ᠯᡝᠷ	ADV	_	_	4	advmod	_	Translit=ler
+3	ᠰᡝᠮᡝ	ᠰᡝᠮᡝ	_	_	_	2	compound	_	Translit=seme
+4	ᡞᠯᡥᠠᡫᡞ	ᠰᠯᠠᠮᠪᡞ	VERB	_	VerbForm=Conv	0	root	_	Translit=ilhafi
+5	,	,	PUNCT	_	_	_	4	punct	Translit=,
+6	ᠠᠪᠰᡞ	ᠠᠪᠰᡞ	ADV	_	_	_	7	advmod	Translit=absi
+7	ᡥᠣᠴᡞᡣᠣᠰᠠᡣᠠ	ᡥᠣᠴᡞᡣᠣᠰᠠᡣᠠ	ADJ	_	Degree=Pos	4	conj	_	Translit=hocikosaka
+8	。	。	PUNCT	_	_	_	7	punct	Translit=.
 
 # sent_id = grammarbook_sjo_p1_4
-# sent = ᡪᡠᠯᡤᡝᡞ ᠸᠣᠠᡩᡝ , ᠰᡞᠪᡝ ᡠᡣᠰᡠᠷᠠ ᠰᠠᠮᠠᠨ ᡨᠠᡪᡞᡥᡞᡪᠠᠨ ᠪᡝ ᠠᡣᡩᠠᠮᡝ ᠪᡞᡥᡝᠪᡞ 。
-# sent[phon] = julgei wonde , sibe uksura saman tajihijan be akdame bihebi
-# sent[eng] = In ancient times, Sibe people believed in Shamanism
-1	ᡪᡠᠯᡤᡝᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠸᠣᠠᡩᡝ	_	_	_	_	_	_	_	Translit=
-3	,	_	_	_	_	_	_	_	Translit=
-4	ᠰᡞᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡠᡣᠰᡠᠷᠠ	_	_	_	_	_	_	_	Translit=
-6	ᠰᠠᠮᠠᠨ	_	_	_	_	_	_	_	Translit=
-7	ᡨᠠᡪᡞᡥᡞᡪᠠᠨ	_	_	_	_	_	_	_	Translit=
-8	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-9	ᠠᡣᡩᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-10	ᠪᡞᡥᡝᠪᡞ	_	_	_	_	_	_	_	Translit=
-11	。	_	_	_	_	_	_	_	Translit=
+# sent = ᡪᡠᠯᡤᡝᡞ ᡫᠣᠨᡩᡝ , ᠰᡞᠪᡝ ᡠᡣᠰᡠᠷᠠ ᠰᠠᠮᠠᠨ ᡨᠠᠴᡞᡥᡞᠶᠠᠨ ᠪᡝ ᠠᡣᡩᠠᠮᡝ ᠪᡞᡥᡝᠪᡞ 。
+# sent[phon] = julgei fonde , sibe uksura saman tacihiyan be akdame bihebi.
+# sent[eng] = In ancient times, Sibe people believed in Shamanism.
+1	ᡪᡠᠯᡤᡝᡞ	ᡪᡠᠯᡤᡝ	NOUN	_	Case=Gen	2	nmod	_	Translit=julgei
+2	ᡫᠣᠨᡩᡝ	ᡫᠣᠨ	NOUN	_	Case=Dat	10	obl	_	Translit=fonde
+3	,	,	PUNCT	_	_	2	punct	_	Translit=,
+4	ᠰᡞᠪᡝ	ᠰᡞᠪᡝ	NOUN	_	_	5	nmod	_	Translit=sibe
+5	ᡠᡣᠰᡠᠷᠠ	ᡠᡣᠰᡠᠷᠠ	NOUN	_	_	9	nsubj	_	Translit=uksura
+6	ᠰᠠᠮᠠᠨ	ᠰᠠᠮᠠᠨ	NOUN	_	_	7	nmod	_	Translit=saman
+7	ᡨᠠᠴᡞᡥᡞᠶᠠᠨ	ᡨᠠᠴᡞᡥᡞᠶᠠᠨ	NOUN	_	_	9	dobj	_	Translit=tajihijan
+8	ᠪᡝ	ᠪᡝ	PART	_	Case=Acc	7	case	_	Translit=be
+9	ᠠᡣᡩᠠᠮᡝ	ᠠᡣᡩᠠᠮᠪᡞ	VERB	_	VerbForm=Inf|Tense=Pre	10	aux	_	Translit=akdame
+10	ᠪᡞᡥᡝᠪᡞ	ᠪᡞᠮᠪᡞ	AUX	_	Tense=Past	0	root	_	Translit=bihebi
+11	。	_	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_5
 # sent = ᠴᡞᠮᠠᠷᡞ ᡞᠨᡝᡢᡤᡞ ᡞ ᠣᡢᡤᠣᠯᠣ ᡪᡠᠸᠠᠴᡞ ᡝᠷᡞᠨ ᡩᡝ ᡪᡞᠮᠪᡞ 。
-# sent[phon] = cimari inenggi i onggolo juwaci erin de jimbi
-# sent[eng] = Tomorrow morning 10 oclock come
-1	ᠴᡞᠮᠠᠷᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡞᠨᡝᡢᡤᡞ	_	_	_	_	_	_	_	Translit=
-3	 ᡞ	_	_	_	_	_	_	_	Translit=
-4	ᠣᡢᡤᠣᠯᠣ	_	_	_	_	_	_	_	Translit=
-5	ᡪᡠᠸᠠᠴᡞ	_	_	_	_	_	_	_	Translit=
-6	ᡝᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
-7	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-8	ᡪᡞᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-9	。	_	_	_	_	_	_	_	Translit=
+# sent[phon] = cimari inenggi i onggolo juwaci erin de jimbi.
+# sent[eng] = Tomorrow morning 10 oclock come.
+1	ᠴᡞᠮᠠᠷᡞ	ᠴᡞᠮᠠᠷᡞ	NOUN	_	_	2	compound	_	Translit=cimari
+2	ᡞᠨᡝᡢᡤᡞ	ᡞᠨᡝᡢᡤᡞ	NOUN	_	_	4	compound	_	Translit=inenggi
+3	 ᡞ	 ᡞ	PART	_	Case=Gen	2	case	_	Translit=i
+4	ᠣᡢᡤᠣᠯᠣ	ᠣᡢᡤᠣᠯᠣ	ADP	_	_	5	compound	_	Translit=onggolo
+5	ᡪᡠᠸᠠᠴᡞ	ᡪᡠᠸᠠᠴᡞ	ADJ	_	NumType=Ord	6	amod	_	Translit=juwaci
+6	ᡝᠷᡞᠨ	ᡝᠷᡞᠨ	NOUN	_	_	8	obl	_	Translit=erin
+7	ᡩᡝ	ᡩᡝ	PART	_	Case=Dat	6	case	_	Translit=de
+8	ᡪᡞᠮᠪᡞ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Fut	0	root	_	Translit=jimbi
+9	。	。	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_6
-# sent = ᠪᡞᡠᠨᡥᡝ ᡥᡡᠯᠠᠷᠠ ᠨᡞᠶᠠᠯᠮᠠ , ᠠᡢᡤᠠ ᡩᡝ ᡥᡡᠯᠠᠮᡝ , ᠮᡠᡪᡞᠯᡝ ᡩᡝ ᡝᡪᡝᠮᠪᡞ 。
-# sent[phon] = bionhe hvlara niyalma , angga de hvlame, mujime de ejembi
-# sent[eng] = People who study, read with mouth, memorize with heart
-1	ᠪᡞᡠᠨᡥᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡥᡡᠯᠠᠷᠠ	_	_	_	_	_	_	_	Translit=
-3	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
-4	,	_	_	_	_	_	_	_	Translit=
-5	ᠠᡢᡤᠠ	_	_	_	_	_	_	_	Translit=
-6	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-7	ᡥᡡᠯᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-8	,	_	_	_	_	_	_	_	Translit=
-9	ᠮᡠᡪᡞᠯᡝ	_	_	_	_	_	_	_	Translit=
-10	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-11	ᡝᡪᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-12	。	_	_	_	_	_	_	_	Translit=
-
+# sent = ᠪᡞᡨᡥᡝ ᡥᡡᠯᠠᠷᠠ ᠨᡞᠶᠠᠯᠮᠠ , ᠠᡢᡤᠠ ᡩᡝ ᡥᡡᠯᠠᠮᡝ , ᠮᡠᡪᡞᠯᡝ ᡩᡝ ᡝᡪᡝᠮᠪᡞ 。
+# sent[phon] = bithe hvlara niyalma , angga de hvlame, mujime de ejembi.
+# sent[eng] = People who study, read with mouth, memorize with heart.
+1	ᠪᡞᡨᡥᡝ	ᠪᡞᡨᡥᡝ	NOUN	_	_	2	dobj	_	Translit=bithe
+2	ᡥᡡᠯᠠᠷᠠ	ᡥᡡᠯᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Part	3	acl:relcl	_	Translit=hvlara
+3	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	11	nsubj	_	Translit=niyalma
+4	,	,	PUNCT	_	_	3	punct	_	Translit=,
+5	ᠠᡢᡤᠠ	ᠠᡢᡤᠠ	NOUN	_	_	7	obl	_	Translit=angga
+6	ᡩᡝ	ᡩᡝ	PART	_	Case=Dat	5	case	_	Translit=de
+7	ᡥᡡᠯᠠᠮᡝ	ᡥᡡᠯᠠᠮᠪᡞ	VERB	_	VerbForm=Conv	11	conj	_	Translit=hvlame
+8	,	,	PUNCT	_	_	7	punct	_	Translit=,
+9	ᠮᡠᡪᡞᠯᡝ	ᠮᡠᡪᡞᠯᡝ	NOUN	_	_	11	obl	_	Translit=mujime
+10	ᡩᡝ	ᡩᡝ	PART	_	Case=Dat	9	case	_	Translit=de
+11	ᡝᡪᡝᠮᠪᡞ	ᡝᡪᡝᠮᠪᡞ	VERB	_	Tense=Pres	0	root	_	Translit=ejembi
+12	。	。	PUNCT	_	_	11	punct	_	Translit=.
 # sent_id = grammarbook_sjo_p1_7
 # sent = ᡤᡠᠴᡠ ᡩᡝ ᡠᠨᡝᡢᡤᡞ ᠶᠠᠷᡤᡞᠶᠠᠨ ᠣᠰᠣ , ᠪᠠᡞᡨᠠ ᡩᡝ ᡨᠣᠨᡩᠣ ᡨᠣᠪ ᠣᠰᠣ 。
 # sent[phon] = gucu de unenggi yargiyan oso , baita de tondo tob oso
 # sent[eng] = Be honest to friends, be fair in doing things
-1	ᡤᡠᠴᡠ	_	_	_	_	_	_	_	Translit=
-2	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡠᠨᡝᡢᡤᡞ	_	_	_	_	_	_	_	Translit=
-4	ᠶᠠᠷᡤᡞᠶᠠᠨ	_	_	_	_	_	_	_	Translit=
-5	ᠣᠰᠣ	_	_	_	_	_	_	_	Translit=
-6	,	_	_	_	_	_	_	_	Translit=
-7	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-8	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-9	ᡨᠣᠨᡩᠣ	_	_	_	_	_	_	_	Translit=
-10	ᡨᠣᠪ	_	_	_	_	_	_	_	Translit=
-11	ᠣᠰᠣ	_	_	_	_	_	_	_	Translit=
-12	。	_	_	_	_	_	_	_	Translit=
+1	ᡤᡠᠴᡠ	ᡤᡠᠴᡠ	NOUN	_	_	5	obl	_	Translit=gucu
+2	ᡩᡝ	ᡩᡝ	PART	_	Case=Dat	1	case	_	Translit=de
+3	ᡠᠨᡝᡢᡤᡞ	ᡠᠨᡝᡢᡤᡞ	ADJ	_	_	4	conj	_	Translit=unenggi
+4	ᠶᠠᠷᡤᡞᠶᠠᠨ	ᠶᠠᠷᡤᡞᠶᠠᠨ	ADJ	_	_	5	cop	_	Translit=yargiyan
+5	ᠣᠰᠣ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres	0	root	_	Translit=oso
+6	,	,	PUNCT	_	_	5	punct	_	Translit=,
+7	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	11	obl	_	Translit=baita
+8	ᡩᡝ	ᡩᡝ	PART	_	Case=Dat	7	case	_	Translit=de
+9	ᡨᠣᠨᡩᠣ	ᡨᠣᠨᡩᠣ	NOUN	_	_	10	compound	_	Translit=tondo
+10	ᡨᠣᠪ	ᡨᠣᠪ	NOUN	_	_	11	cop	_	Translit=tob
+11	ᠣᠰᠣ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres	5	conj	_	Translit=oso
+12	。	。	PUNCT	_	_	11	conj	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_8
-# sent = ᡠᠰᡞᠰᡞ ᡠᠰᡞᠨ ᠪᡝ ᡫᡠᠯᡝᡥᡝ ᠣᠪᡠᠮᠪᡞ , ᠠᡩᡠᠯᠠᠰᡞ ᠣᡢᡣᠣ ᠪᡝ ᡥᠣᠨᡥᡝ ᠣᠪᡠᠮᠪᡞ 。
-# sent[phon] = usisi usin be fulehe obumbi , adulasi ongko be honhe obumbi
+# sent = ᡠᠰᡞᠰᡞ ᡠᠰᡞᠨ ᠪᡝ ᡫᡠᠯᡝᡥᡝ ᠣᠪᡠᠮᠪᡞ , ᠠᡩᡠᠯᠠᠰᡞ ᠣᡢᡣᠣ ᠪᡝ ᡥᡝᡨᡥᡝ ᠣᠪᡠᠮᠪᡞ 。
+# sent[phon] = usisi usin be fulehe obumbi , adulasi ongko be hethe obumbi
 # sent[eng] = Farmers root in lands, nomads root in meadow
-1	ᡠᠰᡞᠰᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡠᠰᡞᠨ	_	_	_	_	_	_	_	Translit=
-3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡫᡠᠯᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠣᠪᡠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-6	,	_	_	_	_	_	_	_	Translit=
-7	ᠠᡩᡠᠯᠠᠰᡞ	_	_	_	_	_	_	_	Translit=
-8	ᠣᡢᡣᠣ	_	_	_	_	_	_	_	Translit=
-9	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-10	ᡥᠣᠨᡥᡝ	_	_	_	_	_	_	_	Translit=
-11	ᠣᠪᡠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-12	。	_	_	_	_	_	_	_	Translit=
+1	ᡠᠰᡞᠰᡞ	ᡠᠰᡞᠰᡞ	NOUN	_	_	5	nsubj	_	Translit=usisi
+2	ᡠᠰᡞᠨ	ᡠᠰᡞᠨ	NOUN	_	_	5	dobj	_	Translit=usin
+3	ᠪᡝ	ᠪᡝ	PART	_	Case=Acc	2	case	_	Translit=be
+4	ᡫᡠᠯᡝᡥᡝ	ᡫᡠᠯᡝᡥᡝ	NOUN	_	_	5	compound	_	Translit=fulehe
+5	ᠣᠪᡠᠮᠪᡞ	ᠣᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|Voice=Cau	0	root	_	Translit=obumbi
+6	,	,	PUNCT	_	_	5	punct	_	Translit=,
+7	ᠠᡩᡠᠯᠠᠰᡞ	ᠠᡩᡠᠯᠠᠰᡞ	NOUN	_	_	11	nsubj	_	Translit=adulasi
+8	ᠣᡢᡣᠣ	ᠣᡢᡣᠣ	NOUN	_	_	11	dobj	_	Translit=ongko
+9	ᠪᡝ	ᠪᡝ	PART	_	Case=Acc	8	case	_	Translit=be
+10	ᡥᡝᡨᡥᡝ	ᡥᡝᡨᡥᡝ	NOUN	_	_	11	compound	_	Translit=hethe
+11	ᠣᠪᡠᠮᠪᡞ	ᠣᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|Voice=Cau	5	conj	_	Translit=obumbi
+12	。	。	PUNCT	_	_	11	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_9
 # sent = ᠮᡞᠨᡞ ᠠᠮᠠ ᡠᠷᡠᠮᠴᡞ ᠴᡞ ᠶᠠᠪᡠᡥᠠ 。
@@ -330,7 +329,7 @@
 
 # sent_id = grammarbook_sjo_p1_25
 # sent = ᡞ ᡠᠣᠨᡥᠠᡞ ᠮᡞᠨᡞ ᡨᠠᠴᡞᠨ ᡤᡠᠴᡠ 。
-# sent[phon] = i uonhai mini tacin gucu
+# sent[phon] = i uthai mini tacin gucu
 # sent[eng] = He is my classmate
 1	ᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡠᠣᠨᡥᠠᡞ	_	_	_	_	_	_	_	Translit=
@@ -351,7 +350,7 @@
 
 # sent_id = grammarbook_sjo_p1_27
 # sent = ᡨᠠᠴᡞᠨ ᡤᡠᠴᡠᠰᠠ ᡪᡞᡢ ᠪᡞᡠᠨᡥᡝ ᡠᠷᡝᠪᡠᠮᡝ ᡞᠯᡞᡥᠠᠪᡞ 。
-# sent[phon] = tacin gucusa jing bionhe urebume ilihabi
+# sent[phon] = tacin gucusa jing bithe urebume ilihabi
 # sent[eng] = Students are reviewing lessons
 1	ᡨᠠᠴᡞᠨ	_	_	_	_	_	_	_	Translit=
 2	ᡤᡠᠴᡠᠰᠠ	_	_	_	_	_	_	_	Translit=
@@ -363,7 +362,7 @@
 
 # sent_id = grammarbook_sjo_p1_28
 # sent = ᡨᠠᠴᡞᠨ ᡤᡠᠴᡠᠰᠠ ᡪᡞᡢ ᠪᡞᡠᠨᡥᡝ ᡠᠷᡝᠪᡠᠮᡝ ᠪᡞᠮᠪᡞ 。
-# sent[phon] = tacin gucusa jing bionhe urebume bimbi
+# sent[phon] = tacin gucusa jing bithe urebume bimbi
 # sent[eng] = Students are reviewing lessons
 1	ᡨᠠᠴᡞᠨ	_	_	_	_	_	_	_	Translit=
 2	ᡤᡠᠴᡠᠰᠠ	_	_	_	_	_	_	_	Translit=
@@ -375,7 +374,7 @@
 
 # sent_id = grammarbook_sjo_p1_29
 # sent = ᡨᠠᠴᡞᠨ ᡤᡠᠴᡠᠰᠠ ᡪᡞᡢ ᠪᡞᡠᠨᡥᡝ ᡠᠷᡝᠪᡠᠮᡝ ᠪᡞ 。
-# sent[phon] = tacin gucusa jing bionhe urebume bi
+# sent[phon] = tacin gucusa jing bithe urebume bi
 # sent[eng] = Students are reviewing lessons
 1	ᡨᠠᠴᡞᠨ	_	_	_	_	_	_	_	Translit=
 2	ᡤᡠᠴᡠᠰᠠ	_	_	_	_	_	_	_	Translit=
@@ -457,7 +456,7 @@
 
 # sent_id = grammarbook_sjo_p1_36
 # sent = ᡨᡝᠰᡝ ᠠᠪᡣᠠ ᡤᡝᠷᡝᠮᠰᠠᡣᠠ ᡠᡠᠨᡥᠠᡞ ᡪᡠᠷᡣᠠᠨ ᠪᡞᡥᡝᠪᡞ 。
-# sent[phon] = tese abka geremsaka uonhai juraka bihebi
+# sent[phon] = tese abka geremsaka uthai juraka bihebi
 # sent[eng] = They have set off at dawn
 1	ᡨᡝᠰᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠠᠪᡣᠠ	_	_	_	_	_	_	_	Translit=
@@ -845,7 +844,7 @@
 
 # sent_id = grammarbook_sjo_p1_65
 # sent = ᠮᡠᠶᡞᠨ ᠰᡞᡠᠨᡥᡡᠮᡝ ᡣᡞᠴᡝᠮᡝ ᡨᠠᠴᡞᠴᡞ , ᡨᠠᠴᡞᠨ ᡫᠣᠨᠴᡞᠨ ᡠᡠᠨᡥᠠᡞ ᡞᠪᡝᡩᡝᠮᠪᡞ 。
-# sent[phon] = muyin sionhvme kiceme tacici , tacin foncin uonhai ibedembi
+# sent[phon] = muyin sionhvme kiceme tacici , tacin foncin uthai ibedembi
 # sent[eng] = If you study diligently, you will definitely make progress
 1	ᠮᡠᠶᡞᠨ	_	_	_	_	_	_	_	Translit=
 2	ᠰᡞᡠᠨᡥᡡᠮᡝ	_	_	_	_	_	_	_	Translit=
@@ -907,8 +906,8 @@
 9	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p1_69
-# sent = ᠠᡥᡡᠨ ᡩᡝᡠ ᡪᡠᠸᡝ ᠨᡞᠶᠠᠯᠮᠠ , ᠪᠣᡠ  ᡞ ᡥᠣᠨᡥᡝ  ᡞ ᡪᠠᠯᡞᠨ ᡩᡝ , ᠠᠮᠪᠠᠷᠠᠮᡝ ᡨᡝᠮᡧᡝᠨᡩᡠᠮᡝ ᡨᠠᠨᡨᠠᠨ᠋ᡠᠮᠪᡞ 。
-# sent[phon] = ahvn deo juwe niyalma , boo i honhe i jalin de , ambarame temšendume tantanumbi
+# sent = ᠠᡥᡡᠨ ᡩᡝᡠ ᡪᡠᠸᡝ ᠨᡞᠶᠠᠯᠮᠠ , ᠪᠣᡠ  ᡞ ᡥᡝᡨᡥᡝ  ᡞ ᡪᠠᠯᡞᠨ ᡩᡝ , ᠠᠮᠪᠠᠷᠠᠮᡝ ᡨᡝᠮᡧᡝᠨᡩᡠᠮᡝ ᡨᠠᠨᡨᠠᠨ᠋ᡠᠮᠪᡞ 。
+# sent[phon] = ahvn deo juwe niyalma , boo i hethe i jalin de , ambarame temšendume tantanumbi
 # sent[eng] = The two brothers fought for their property, quarreling and fighting with each other
 1	ᠠᡥᡡᠨ	_	_	_	_	_	_	_	Translit=
 2	ᡩᡝᡠ	_	_	_	_	_	_	_	Translit=
@@ -1312,7 +1311,7 @@
 
 # sent_id = grammarbook_sjo_p1_103
 # sent = ᠮᡞᠨᡞ ᠪᡞᡠᠨᡥᡝ ᠪᡝ ᡨᡝᠷᡝ ᡩᡝ ᡠᠮᡝ ᠪᡠᠷᡝ 。
-# sent[phon] = mini bionhe be tere de ume bure
+# sent[phon] = mini bithe be tere de ume bure
 # sent[eng] = Dont give him my book
 1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠪᡞᡠᠨᡥᡝ	_	_	_	_	_	_	_	Translit=
@@ -1418,7 +1417,7 @@
 
 # sent_id = grammarbook_sjo_p1_112
 # sent = ᡨᠠᠴᡞᡣᡡ ᡩᡝ ᡪᡞᡥᡝ ᠪᡝ ᡩᠠᡥᠠᠮᡝ , ᠪᡞᡠᠨᡥᡝ ᠪᡝ ᠰᠠᡞᠨ ᡨᠠᠴᡞᠴᡞᠨᠠ 。
-# sent[phon] = tacikv de jihe be dahame , bionhe be sain tacicina
+# sent[phon] = tacikv de jihe be dahame , bithe be sain tacicina
 # sent[eng] = Now that I come to school, I hope to study hard
 1	ᡨᠠᠴᡞᡣᡡ	_	_	_	_	_	_	_	Translit=
 2	ᡩᡝ	_	_	_	_	_	_	_	Translit=
