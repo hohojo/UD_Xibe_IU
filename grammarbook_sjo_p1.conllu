@@ -1,11 +1,11 @@
-﻿# sent_id = grammarbook_sjo_p1_1
+# sent_id = grammarbook_sjo_p1_1
 # sent = ᡧᡠᠨ ᡨᡠᠴᡞᡫᡞ , ᡫᠠᠷᡥᡡᠨ ᡩᠣᠪᠣᠷᡞ ᠪᡝ ᠪᠣᡧᠣᡥᠣ 。
 # sent[phon] = šun tucifi , farhvn dobori be bošoho.
 # sent[eng] = The sun rises, drives the dark away.
 1	ᡧᡠᠨ	ᡧᡠᠨ	NOUN	_	Case=Nom	2	nsubj	_	Translit=šun
 2	ᡨᡠᠴᡞᡫᡞ	ᡨᡠᠴᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	0	root	_	Translit=tucifi
 3	,	,	PUNCT	_	_	_	2	punct	Translit=,
-4	ᡫᠠᠷᡥᡡᠨ	ᡫᠠᠷᡥᡡᠨ	ADJ	_	_	_	5	amod		Translit=farhvn
+4	ᡫᠠᠷᡥᡡᠨ	ᡫᠠᠷᡥᡡᠨ	ADJ	_	_	5	amod	_	Translit=farhvn
 5	ᡩᠣᠪᠣᠷᡞ	ᡩᠣᠪᠣᠷᡞ	NOUN	_	_	7	dobj	_	Translit=dobori
 6	ᠪᡝ	ᠪᡝ	PART	_	Case=Acc	5	case	_	Translit=be
 7	ᠪᠣᡧᠣᡥᠣ	ᠪᠣᡧᠣᠮᠪᡞ	VERB	_	Tense=Past	_	2	conj	Translit=bošoho
