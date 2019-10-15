@@ -131,7 +131,7 @@
 # sent[eng] = His son came back from Beijing
 1	ᡞᠨᡞ	ᡞᠨᡞ	PRON	_	Number=Sing|Person=3|PronType=Prs|Poss=Yes	2	nmod:poss	_	Translit=ini
 2	ᡥᠠᡥᠠᡪᡠᡞ	ᡥᠠᡥᠠᡪᡠᡞ	NOUN	_	Number=Sing	6	nsubj	_	Translit=hahajui
-3	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	5	_	_	Translit=beijing
+3	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	5	obl	_	Translit=beijing
 4	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	PART	_	Case=Abl	3	case	_	Translit=deri
 5	ᠪᡝᡩᡝᠷᡝᠮᡝ	ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	6	advcl	_	Translit=bedereme
 6	ᡪᡞᡥᡝᠪᡞ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Past	0	root	_	Translit=jihebi
@@ -142,19 +142,19 @@
 # sent[phon] = ere alin tere alin deri den , ere bira tere bira ci onco
 # sent[eng] = This mountain is higher than that mountain, this river is wider than that river
 1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	2	det	_	Translit=ere
-2	ᠠᠯᡞᠨ	ᠠᠯᡞᠨ	NOUN	_	_	_	6	nsubj	Translit=alin
+2	ᠠᠯᡞᠨ	ᠠᠯᡞᠨ	NOUN	_	_	6	nsubj	_	Translit=alin
 3	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	DET	_	PronType=Dem	4	det	_	Translit=tere
-4	ᠠᠯᡞᠨ	ᠠᠯᡞᠨ	NOUN	_	_	_	6	obl	Translit=alin
-5	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	PART	_	Case=Cmp	_	4	case	Translit=deri
+4	ᠠᠯᡞᠨ	ᠠᠯᡞᠨ	NOUN	_	_	6	obl	_	Translit=alin
+5	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	PART	_	Case=Cmp	4	case	_	Translit=deri
 6	ᡩᡝᠨ	ᡩᡝᠨ	ADJ	_	Degree=Pos	0	root	_	Translit=den
-7	,	,	PUNCT	_	_	_	6	punct	Translit=,
+7	,	,	PUNCT	_	_	6	punct	_	Translit=,
 8	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	9	det	_	Translit=ere
-9	ᠪᡞᠷᠠ	ᠪᡞᠷᠠ	NOUN	_	_	_	13	nsubj	Translit=bira
+9	ᠪᡞᠷᠠ	ᠪᡞᠷᠠ	NOUN	_	_	13	nsubj	_	Translit=bira
 10	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	DET	_	PronType=Dem	11	det	_	Translit=tere
-11	ᠪᡞᠷᠠ	ᠪᡞᠷᠠ	NOUN	_	_	_	13	obl	Translit=bira
-12	ᠴᡞ	ᠴᡞ	PART	_	Case=Cmp	_	11	case	Translit=ci
+11	ᠪᡞᠷᠠ	ᠪᡞᠷᠠ	NOUN	_	_	13	obl	_	Translit=bira
+12	ᠴᡞ	ᠴᡞ	PART	_	Case=Cmp	11	case	_	Translit=ci
 13	ᠣᠨᠴᠣ	ᠣᠨᠴᠣ	ADJ	_	Degree=Pos	6	conj	_	Translit=onco
-14	。	。	PUNCT	_	_	_	13	punct	Translit=.
+14	。	。	PUNCT	_	_	13	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_12
 # sent = ᠮᡞᠨᡞ ᠪᡝᠶᡝ ᡩᡠᠷᠰᡠᠨ ᠨᡞᠮᡝᡣᡠ ᠪᠠᡥᠠᡥᠠ ᡩᡝᠷᡞ ᡝᠪᠰᡞ , ᡧᡠᠸᡝ ᠰᠠᡞᠨ ᠣᠮᡝ ᠮᡠᡨᡝᡥᡝᡣᡡ 。
@@ -165,7 +165,7 @@
 3	ᡩᡠᠷᠰᡠᠨ	ᡩᡠᠷᠰᡠᠨ	NOUN	_	_	5	nsbj	_	Translit=dursun
 4	ᠨᡞᠮᡝᡣᡠ	ᠨᡞᠮᡝᡣᡠ	NOUN	_	_	5	dobj	_	Translit=nimeku
 5	ᠪᠠᡥᠠᡥᠠ	ᠪᠠᡥᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Vnoun	6	_	_	Translit=bahaha
-6	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	PART	_	Case=Lat	5		_	Translit=deri
+6	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	PART	_	Case=Lat	5	_	_	Translit=deri
 7	ᡝᠪᠰᡞ	ᡝᠪᠰᡞ	ADV	_	_	_	_	_	Translit=ebsi
 8	,	,	PUNCT	_	_	_	_	_	Translit=,
 9	ᡧᡠᠸᡝ	ᡧᡠᠸᡝ	ADV	_	_	_	_	_	Translit=šuwe
