@@ -7,7 +7,7 @@
 3	,	,	PUNCT	_	_	_	2	punct	Translit=,
 4	ᡫᠠᠷᡥᡡᠨ	ᡫᠠᠷᡥᡡᠨ	ADJ	_	_	5	amod	_	Translit=farhvn
 5	ᡩᠣᠪᠣᠷᡞ	ᡩᠣᠪᠣᠷᡞ	NOUN	_	_	7	dobj	_	Translit=dobori
-6	ᠪᡝ	ᠪᡝ	PART	_	Case=Acc	5	case	_	Translit=be
+6	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	5	case	_	Translit=be
 7	ᠪᠣᡧᠣᡥᠣ	ᠪᠣᡧᠣᠮᠪᡞ	VERB	_	Tense=Past	_	2	conj	Translit=bošoho
 8	。	。	PUNCT	_	_	_	7	punct	Translit=.
 
