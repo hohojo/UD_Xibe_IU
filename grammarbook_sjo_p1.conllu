@@ -6,7 +6,7 @@
 2	ᡨᡠᠴᡞᡫᡞ	ᡨᡠᠴᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	0	root	_	Translit=tucifi
 3	,	,	PUNCT	_	_	_	2	punct	Translit=,
 4	ᡫᠠᠷᡥᡡᠨ	ᡫᠠᠷᡥᡡᠨ	ADJ	_	_	5	amod	_	Translit=farhvn
-5	ᡩᠣᠪᠣᠷᡞ	ᡩᠣᠪᠣᠷᡞ	NOUN	_	_	7	dobj	_	Translit=dobori
+5	ᡩᠣᠪᠣᠷᡞ	ᡩᠣᠪᠣᠷᡞ	NOUN	_	_	7	obj	_	Translit=dobori
 6	ᠪᡝ	ᠪᡝ	PART	_	Case=Acc	5	case	_	Translit=be
 7	ᠪᠣᡧᠣᡥᠣ	ᠪᠣᡧᠣᠮᠪᡞ	VERB	_	Tense=Past	_	2	conj	Translit=bošoho
 8	。	。	PUNCT	_	_	_	7	punct	Translit=.
@@ -44,7 +44,7 @@
 4	ᠰᡞᠪᡝ	ᠰᡞᠪᡝ	NOUN	_	_	5	nmod	_	Translit=sibe
 5	ᡠᡣᠰᡠᠷᠠ	ᡠᡣᠰᡠᠷᠠ	NOUN	_	_	9	nsubj	_	Translit=uksura
 6	ᠰᠠᠮᠠᠨ	ᠰᠠᠮᠠᠨ	NOUN	_	_	7	nmod	_	Translit=saman
-7	ᡨᠠᠴᡞᡥᡞᠶᠠᠨ	ᡨᠠᠴᡞᡥᡞᠶᠠᠨ	NOUN	_	_	9	dobj	_	Translit=tajihijan
+7	ᡨᠠᠴᡞᡥᡞᠶᠠᠨ	ᡨᠠᠴᡞᡥᡞᠶᠠᠨ	NOUN	_	_	9	obj	_	Translit=tajihijan
 8	ᠪᡝ	ᠪᡝ	PART	_	Case=Acc	7	case	_	Translit=be
 9	ᠠᡣᡩᠠᠮᡝ	ᠠᡣᡩᠠᠮᠪᡞ	VERB	_	VerbForm=Inf|Tense=Pre	10	aux	_	Translit=akdame
 10	ᠪᡞᡥᡝᠪᡞ	ᠪᡞᠮᠪᡞ	AUX	_	Tense=Past	0	root	_	Translit=bihebi
@@ -53,7 +53,7 @@
 # sent_id = grammarbook_sjo_p1_5
 # sent = ᠴᡞᠮᠠᠷᡞ ᡞᠨᡝᡢᡤᡞ %u202F%u185E ᠣᡢᡤᠣᠯᠣ ᡪᡠᠸᠠᠴᡞ ᡝᠷᡞᠨ ᡩᡝ ᡪᡞᠮᠪᡞ 。
 # sent[phon] = cimari inenggi i onggolo juwaci erin de jimbi.
-# sent[eng] = Tomorrow morning 10 oclock come.
+# sent[eng] = Tomorrow morning 10 o'clock come.
 1	ᠴᡞᠮᠠᠷᡞ	ᠴᡞᠮᠠᠷᡞ	NOUN	_	_	2	compound	_	Translit=cimari
 2	ᡞᠨᡝᡢᡤᡞ	ᡞᠨᡝᡢᡤᡞ	NOUN	_	_	4	compound	_	Translit=inenggi
 3	 ᡞ	 ᡞ	PART	_	Case=Gen	2	case	_	Translit=i
@@ -80,6 +80,7 @@
 10	ᡩᡝ	ᡩᡝ	PART	_	Case=Dat	9	case	_	Translit=de
 11	ᡝᡪᡝᠮᠪᡞ	ᡝᡪᡝᠮᠪᡞ	VERB	_	Tense=Pres	0	root	_	Translit=ejembi
 12	。	。	PUNCT	_	_	11	punct	_	Translit=.
+
 # sent_id = grammarbook_sjo_p1_7
 # sent = ᡤᡠᠴᡠ ᡩᡝ ᡠᠨᡝᡢᡤᡞ ᠶᠠᠷᡤᡞᠶᠠᠨ ᠣᠰᠣ , ᠪᠠᡞᡨᠠ ᡩᡝ ᡨᠣᠨᡩᠣ ᡨᠣᠪ ᠣᠰᠣ 。
 # sent[phon] = gucu de unenggi yargiyan oso , baita de tondo tob oso
@@ -102,13 +103,13 @@
 # sent[phon] = usisi usin be fulehe obumbi , adulasi ongko be hethe obumbi
 # sent[eng] = Farmers root in lands, nomads root in meadow
 1	ᡠᠰᡞᠰᡞ	ᡠᠰᡞᠰᡞ	NOUN	_	_	5	nsubj	_	Translit=usisi
-2	ᡠᠰᡞᠨ	ᡠᠰᡞᠨ	NOUN	_	_	5	dobj	_	Translit=usin
+2	ᡠᠰᡞᠨ	ᡠᠰᡞᠨ	NOUN	_	_	5	obj	_	Translit=usin
 3	ᠪᡝ	ᠪᡝ	PART	_	Case=Acc	2	case	_	Translit=be
 4	ᡫᡠᠯᡝᡥᡝ	ᡫᡠᠯᡝᡥᡝ	NOUN	_	_	5	compound	_	Translit=fulehe
 5	ᠣᠪᡠᠮᠪᡞ	ᠣᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|Voice=Cau	0	root	_	Translit=obumbi
 6	,	,	PUNCT	_	_	5	punct	_	Translit=,
 7	ᠠᡩᡠᠯᠠᠰᡞ	ᠠᡩᡠᠯᠠᠰᡞ	NOUN	_	_	11	nsubj	_	Translit=adulasi
-8	ᠣᡢᡣᠣ	ᠣᡢᡣᠣ	NOUN	_	_	11	dobj	_	Translit=ongko
+8	ᠣᡢᡣᠣ	ᠣᡢᡣᠣ	NOUN	_	_	11	obj	_	Translit=ongko
 9	ᠪᡝ	ᠪᡝ	PART	_	Case=Acc	8	case	_	Translit=be
 10	ᡥᡝᡨᡥᡝ	ᡥᡝᡨᡥᡝ	NOUN	_	_	11	compound	_	Translit=hethe
 11	ᠣᠪᡠᠮᠪᡞ	ᠣᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|Voice=Cau	5	conj	_	Translit=obumbi
@@ -162,8 +163,8 @@
 # sent[eng] = From when I got ill, I did not get well.
 1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=3|PronType=Prs|Poss=Yes	3	nmod:poss	_	Translit=mini
 2	ᠪᡝᠶᡝ	ᠪᡝᠶᡝ	NOUN	_	_	3	compound	_	Translit=beye
-3	ᡩᡠᠷᠰᡠᠨ	ᡩᡠᠷᠰᡠᠨ	NOUN	_	_	5	nsbj	_	Translit=dursun
-4	ᠨᡞᠮᡝᡣᡠ	ᠨᡞᠮᡝᡣᡠ	NOUN	_	_	5	dobj	_	Translit=nimeku
+3	ᡩᡠᠷᠰᡠᠨ	ᡩᡠᠷᠰᡠᠨ	NOUN	_	_	5	nsubj	_	Translit=dursun
+4	ᠨᡞᠮᡝᡣᡠ	ᠨᡞᠮᡝᡣᡠ	NOUN	_	_	5	obj	_	Translit=nimeku
 5	ᠪᠠᡥᠠᡥᠠ	ᠪᠠᡥᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Vnoun	6	_	_	Translit=bahaha
 6	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	PART	_	Case=Lat	5	_	_	Translit=deri
 7	ᡝᠪᠰᡞ	ᡝᠪᠰᡞ	ADV	_	_	_	_	_	Translit=ebsi
@@ -195,7 +196,7 @@
 # sent_id = grammarbook_sjo_p1_14
 # sent = ᠨᡞᠶᠠᠯᠮᠠ ᡞᠷᡤᡝᠨ  ᡞ ᠪᠠᠨᡪᡞᠨ ᡪᡠᠸᠠᠨ ᠠᠨᡞᠶᠠᡞ ᠣᡢᡤᠣᠯᠣ ᡩᡝᠷᡞ ᡠᠪᡠ  ᡞ ᠰᠠᡞᠨ ᠣᡥᠣᠪᡞ 。
 # sent[phon] = niyalma irgen i bajin juwan aniyai onggolo deri ubu i sain ohobi
-# sent[eng] = Peoples life is many times better than ten years ago
+# sent[eng] = People's life is many times better than ten years ago
 1	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
 2	ᡞᠷᡤᡝᠨ	_	_	_	_	_	_	_	Translit=
 3	 ᡞ	_	_	_	_	_	_	_	Translit=
