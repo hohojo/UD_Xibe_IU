@@ -145,7 +145,7 @@
 2	ᠠᠯᡞᠨ	ᠠᠯᡞᠨ	NOUN	_	_	6	nsubj	_	Translit=alin
 3	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	DET	_	PronType=Dem	4	det	_	Translit=tere
 4	ᠠᠯᡞᠨ	ᠠᠯᡞᠨ	NOUN	_	_	6	obl	_	Translit=alin
-5	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	PART	_	Case=Cmp		4	case	_	Translit=deri
+5	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	PART	_	Case=Cmp	4	case	_	Translit=deri
 6	ᡩᡝᠨ	ᡩᡝᠨ	ADJ	_	Degree=Pos	0	root	_	Translit=den
 7	,	,	PUNCT	_	_	6	punct	_	Translit=,
 8	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	9	det	_	Translit=ere
@@ -205,7 +205,7 @@
 7	ᠣᡢᡤᠣᠯᠣ	ᠣᡢᡤᠣᠯᠣ	ADP	_	_	12	advcl	_	Translit=onggolo
 8	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	PART	_	Case=Cmp	7	case	_	Translit=deri
 9	ᡠᠪᡠ	ᡠᠪᡠ	NOUN	_	_	11	advmod	_	Translit=ubu
-10	 ᡞ	%u202F%u185E	PART	Case=Gen	9	compound	_	_	Translit=i
+10	 ᡞ	%u202F%u185E	PART	_	Case=Gen	9	compound	_	Translit=i
 11	ᠰᠠᡞᠨ	ᠰᠠᡞᠨ	ADJ	_	Degree=Pos	12	cop	_	Translit=sain
 12	ᠣᡥᠣᠪᡞ	ᠣᠮᠪᡞ	AUX	_	Tense=Past	0	root	_	Translit=ohobi
 13	。	。	PUNCT	_	_	12	punct	_	Translit=.
@@ -236,9 +236,9 @@
 2	ᠰᡝᠷᡝᡢᡤᡝ	ᠰᡝᠷᡝᡢᡤᡝ	INTJ	_	_	1	_	_	Translit=serengge
 3	ᡨᠠᠴᡞᠨ	ᡨᠠᠴᡞᠨ	NOUN	_	_	4	compound	_	Translit=tacin
 4	ᠰᠠᠷᠠᠰᡠ	ᠰᠠᠷᠠᠰᡠ	NOUN	_	_	8	nmod	_	Translit=sarasu
-5	 ᡞ	%u202F%u185E	ADP	_	4	case	_	Translit=i
+5	 ᡞ	%u202F%u185E	ADP	_	_	4	case	_	Translit=i
 6	ᡧᡝᠷᡞ	ᡧᡝᠷᡞ	NOUN	_	_	8	nmod	_	Translit=šeri
-7	 ᡞ	%u202F%u185E	ADP	_	6	case	_	Translit=i
+7	 ᡞ	%u202F%u185E	ADP	_	_	6	case	_	Translit=i
 8	ᠰᡝᡣᡞᠶᡝᠨ	ᠰᡝᡣᡞᠶᡝᠨ	NOUN	_	_	0	root	_	Translit=sekiyen
 9	。	。	PUNCT	_	_	8	punct	_	Translit=.
 
