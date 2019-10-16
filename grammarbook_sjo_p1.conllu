@@ -1,4 +1,4 @@
-﻿# sent_id = grammarbook_sjo_p1_1
+# sent_id = grammarbook_sjo_p1_1
 # sent = ᡧᡠᠨ ᡨᡠᠴᡞᡫᡞ , ᡫᠠᠷᡥᡡᠨ ᡩᠣᠪᠣᠷᡞ ᠪᡝ ᠪᠣᡧᠣᡥᠣ 。
 # sent[phon] = šun tucifi , farhvn dobori be bošoho.
 # sent[eng] = The sun rises, drives the dark away.
@@ -152,7 +152,7 @@
 9	ᠪᡞᠷᠠ	ᠪᡞᠷᠠ	NOUN	_	_	13	nsubj	_	Translit=bira
 10	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	DET	_	PronType=Dem	11	det	_	Translit=tere
 11	ᠪᡞᠷᠠ	ᠪᡞᠷᠠ	NOUN	_	_	13	obl	_	Translit=bira
-12	ᠴᡞ	ᠴᡞ	PART	_	Case=Cmp		11	case	_	Translit=ci
+12	ᠴᡞ	ᠴᡞ	PART	_	Case=Cmp	11	case	_	Translit=ci
 13	ᠣᠨᠴᠣ	ᠣᠨᠴᠣ	ADJ	_	Degree=Pos	6	conj	_	Translit=onco
 14	。	。	PUNCT	_	_	13	punct	_	Translit=.
 
@@ -198,7 +198,7 @@
 # sent[eng] = Peoples life is many times better than ten years ago.
 1	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	2	compound	_	Translit=niyalma
 2	ᡞᠷᡤᡝᠨ	ᡞᠷᡤᡝᠨ	NOUN	_	_	4	nmod	_	Translit=irgen
-3	 ᡞ	%u202F%u185E	PART	Case=Gen	2	case	_	Translit=i
+3	 ᡞ	%u202F%u185E	PART	_	Case=Gen	2	case	_	Translit=i
 4	ᠪᠠᠨᡪᡞᠨ	ᠪᠠᠨᡪᡞᠨ	NOUN	_	_	12	nsubj	_	Translit=bajin
 5	ᡪᡠᠸᠠᠨ	ᡪᡠᠸᠠᠨ	NUM	_	NumType=Card	6	nummod	_	Translit=juwan
 6	ᠠᠨᡞᠶᠠᡞ	ᠠᠨᡞᠶᠠᡞ	NOUN	_	Case=Gen	7	nmod	_	Translit=aniyai
