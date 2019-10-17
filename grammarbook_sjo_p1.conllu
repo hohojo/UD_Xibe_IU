@@ -44,7 +44,7 @@
 4	ᠰᡞᠪᡝ	ᠰᡞᠪᡝ	NOUN	_	_	5	nmod	_	Translit=sibe
 5	ᡠᡣᠰᡠᠷᠠ	ᡠᡣᠰᡠᠷᠠ	NOUN	_	_	9	nsubj	_	Translit=uksura
 6	ᠰᠠᠮᠠᠨ	ᠰᠠᠮᠠᠨ	NOUN	_	_	7	nmod	_	Translit=saman
-7	ᡨᠠᠴᡞᡥᡞᠶᠠᠨ	ᡨᠠᠴᡞᡥᡞᠶᠠᠨ	NOUN	_	_	9	dobj	_	Translit=tajihijan
+7	ᡨᠠᠴᡞᡥᡞᠶᠠᠨ	ᡨᠠᠴᡞᡥᡞᠶᠠᠨ	NOUN	_	_	9	obj	_	Translit=tajihijan
 8	ᠪᡝ	ᠪᡝ	PART	_	Case=Acc	7	case	_	Translit=be
 9	ᠠᡣᡩᠠᠮᡝ	ᠠᡣᡩᠠᠮᠪᡞ	VERB	_	VerbForm=Inf|Tense=Pre	10	aux	_	Translit=akdame
 10	ᠪᡞᡥᡝᠪᡞ	ᠪᡞᠮᠪᡞ	AUX	_	Tense=Past	0	root	_	Translit=bihebi
@@ -53,7 +53,7 @@
 # sent_id = grammarbook_sjo_p1_5
 # sent = ᠴᡞᠮᠠᠷᡞ ᡞᠨᡝᡢᡤᡞ %u202F%u185E ᠣᡢᡤᠣᠯᠣ ᡪᡠᠸᠠᠴᡞ ᡝᠷᡞᠨ ᡩᡝ ᡪᡞᠮᠪᡞ 。
 # sent[phon] = cimari inenggi i onggolo juwaci erin de jimbi.
-# sent[eng] = Tomorrow morning 10 oclock come.
+# sent[eng] = Tomorrow morning 10 o'clock come.
 1	ᠴᡞᠮᠠᠷᡞ	ᠴᡞᠮᠠᠷᡞ	NOUN	_	_	2	compound	_	Translit=cimari
 2	ᡞᠨᡝᡢᡤᡞ	ᡞᠨᡝᡢᡤᡞ	NOUN	_	_	4	compound	_	Translit=inenggi
 3	 ᡞ	 ᡞ	PART	_	Case=Gen	2	case	_	Translit=i
@@ -80,6 +80,7 @@
 10	ᡩᡝ	ᡩᡝ	PART	_	Case=Dat	9	case	_	Translit=de
 11	ᡝᡪᡝᠮᠪᡞ	ᡝᡪᡝᠮᠪᡞ	VERB	_	Tense=Pres	0	root	_	Translit=ejembi
 12	。	。	PUNCT	_	_	11	punct	_	Translit=.
+
 # sent_id = grammarbook_sjo_p1_7
 # sent = ᡤᡠᠴᡠ ᡩᡝ ᡠᠨᡝᡢᡤᡞ ᠶᠠᠷᡤᡞᠶᠠᠨ ᠣᠰᠣ , ᠪᠠᡞᡨᠠ ᡩᡝ ᡨᠣᠨᡩᠣ ᡨᠣᠪ ᠣᠰᠣ 。
 # sent[phon] = gucu de unenggi yargiyan oso , baita de tondo tob oso
@@ -102,13 +103,13 @@
 # sent[phon] = usisi usin be fulehe obumbi , adulasi ongko be hethe obumbi
 # sent[eng] = Farmers root in lands, nomads root in meadow
 1	ᡠᠰᡞᠰᡞ	ᡠᠰᡞᠰᡞ	NOUN	_	_	5	nsubj	_	Translit=usisi
-2	ᡠᠰᡞᠨ	ᡠᠰᡞᠨ	NOUN	_	_	5	dobj	_	Translit=usin
+2	ᡠᠰᡞᠨ	ᡠᠰᡞᠨ	NOUN	_	_	5	obj	_	Translit=usin
 3	ᠪᡝ	ᠪᡝ	PART	_	Case=Acc	2	case	_	Translit=be
 4	ᡫᡠᠯᡝᡥᡝ	ᡫᡠᠯᡝᡥᡝ	NOUN	_	_	5	compound	_	Translit=fulehe
 5	ᠣᠪᡠᠮᠪᡞ	ᠣᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|Voice=Cau	0	root	_	Translit=obumbi
 6	,	,	PUNCT	_	_	5	punct	_	Translit=,
 7	ᠠᡩᡠᠯᠠᠰᡞ	ᠠᡩᡠᠯᠠᠰᡞ	NOUN	_	_	11	nsubj	_	Translit=adulasi
-8	ᠣᡢᡣᠣ	ᠣᡢᡣᠣ	NOUN	_	_	11	dobj	_	Translit=ongko
+8	ᠣᡢᡣᠣ	ᠣᡢᡣᠣ	NOUN	_	_	11	obj	_	Translit=ongko
 9	ᠪᡝ	ᠪᡝ	PART	_	Case=Acc	8	case	_	Translit=be
 10	ᡥᡝᡨᡥᡝ	ᡥᡝᡨᡥᡝ	NOUN	_	_	11	compound	_	Translit=hethe
 11	ᠣᠪᡠᠮᠪᡞ	ᠣᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|Voice=Cau	5	conj	_	Translit=obumbi
@@ -165,7 +166,7 @@
 3	ᡩᡠᠷᠰᡠᠨ	ᡩᡠᠷᠰᡠᠨ	NOUN	_	_	5	nsbj	_	Translit=dursun
 4	ᠨᡞᠮᡝᡣᡠ	ᠨᡞᠮᡝᡣᡠ	NOUN	_	_	5	obj	_	Translit=nimeku
 5	ᠪᠠᡥᠠᡥᠠ	ᠪᠠᡥᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Vnoun	12	advcl	_	Translit=bahaha
-6	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	PART	_	Case=Lat	5	case	_	Translit=deri
+6	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	ADP	_	Case=Lat	5	case	_	Translit=deri
 7	ᡝᠪᠰᡞ	ᡝᠪᠰᡞ	ADV	_	_	5	case	_	Translit=ebsi
 8	,	,	PUNCT	_	_	5	punct	_	Translit=,
 9	ᡧᡠᠸᡝ	ᡧᡠᠸᡝ	ADV	_	_	10	advmod	_	Translit=šuwe
@@ -194,18 +195,19 @@
 
 # sent_id = grammarbook_sjo_p1_14
 # sent = ᠨᡞᠶᠠᠯᠮᠠ ᡞᠷᡤᡝᠨ  ᡞ ᠪᠠᠨᡪᡞᠨ ᡪᡠᠸᠠᠨ ᠠᠨᡞᠶᠠᡞ ᠣᡢᡤᠣᠯᠣ ᡩᡝᠷᡞ ᡠᠪᡠ  ᡞ ᠰᠠᡞᠨ ᠣᡥᠣᠪᡞ 。
+
 # sent[phon] = niyalma irgen i bajin juwan aniyai onggolo deri ubu i sain ohobi.
-# sent[eng] = Peoples life is many times better than ten years ago.
+# sent[eng] = People's life is many times better than ten years ago.
 1	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	2	compound	_	Translit=niyalma
 2	ᡞᠷᡤᡝᠨ	ᡞᠷᡤᡝᠨ	NOUN	_	_	4	nmod	_	Translit=irgen
-3	 ᡞ	%u202F%u185E	PART	_	Case=Gen	2	case	_	Translit=i
+3	 ᡞ	%u202F%u185E	ADP	_	Case=Gen	2	case	_	Translit=i
 4	ᠪᠠᠨᡪᡞᠨ	ᠪᠠᠨᡪᡞᠨ	NOUN	_	_	12	nsubj	_	Translit=bajin
 5	ᡪᡠᠸᠠᠨ	ᡪᡠᠸᠠᠨ	NUM	_	NumType=Card	6	nummod	_	Translit=juwan
 6	ᠠᠨᡞᠶᠠᡞ	ᠠᠨᡞᠶᠠᡞ	NOUN	_	Case=Gen	7	nmod	_	Translit=aniyai
 7	ᠣᡢᡤᠣᠯᠣ	ᠣᡢᡤᠣᠯᠣ	ADP	_	_	12	advcl	_	Translit=onggolo
-8	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	PART	_	Case=Cmp	7	case	_	Translit=deri
+8	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	ADP	_	Case=Cmp	7	case	_	Translit=deri
 9	ᡠᠪᡠ	ᡠᠪᡠ	NOUN	_	_	11	advmod	_	Translit=ubu
-10	 ᡞ	%u202F%u185E	PART	_	Case=Gen	9	compound	_	Translit=i
+10	 ᡞ	%u202F%u185E	ADP	_	Case=Gen	9	compound	_	Translit=i
 11	ᠰᠠᡞᠨ	ᠰᠠᡞᠨ	ADJ	_	Degree=Pos	12	cop	_	Translit=sain
 12	ᠣᡥᠣᠪᡞ	ᠣᠮᠪᡞ	AUX	_	Tense=Past	0	root	_	Translit=ohobi
 13	。	。	PUNCT	_	_	12	punct	_	Translit=.
