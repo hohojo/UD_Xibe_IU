@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 # sent_id = grammarbook_sjo_p1_1
 # text = ᡧᡠᠨ ᡨᡠᠴᡞᡫᡞ , ᡫᠠᠷᡥᡡᠨ ᡩᠣᠪᠣᠷᡞ ᠪᡝ ᠪᠣᡧᠣᡥᠣ 。
 # text[tran] = šun tucifi , farhvn dobori be bošoho.
@@ -570,95 +570,95 @@
 10	。	。	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_44
-# text = ᠰᡞᠨᡞ ᡤᡞᠰᡠᠷᡝᡥᡝ ᠪᠠᡞᡨᠠ ᠪᡝ , ᠪᡞ ᡤᡝᡪᡞᠨᡝ ᡝᠮᡤᡝᠷᡞ ᠪᠣᡩᠣᡥᠣᡢᡤᡝ 。
-# text[tran] = sini gisunrehe baita be , bi gejine emgeri bodohongge.
+# text = ᠰᡞᠨᡞ ᡤᡞᠰᡠᠷᡝᡥᡝ ᠪᠠᡞᡨᠠ ᠪᡝ , ᠪᡞ ᡣᡝᡪᡞᠨᡝ ᡝᠮᡤᡝᠷᡞ ᠪᠣᡩᠣᡥᠣᡢᡤᡝ 。
+# text[tran] = sini gisunrehe baita be , bi kejine emgeri bodohongge.
 # text[eng] = The thing you told me, I have thought it over.
-1	ᠰᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡤᡞᠰᡠᠷᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	,	_	_	_	_	_	_	_	Translit=
-6	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-7	ᡤᡝᡪᡞᠨᡝ	_	_	_	_	_	_	_	Translit=
-8	ᡝᠮᡤᡝᠷᡞ	_	_	_	_	_	_	_	Translit=
-9	ᠪᠣᡩᠣᡥᠣᡢᡤᡝ	_	_	_	_	_	_	_	Translit=
-10	。	_	_	_	_	_	_	_	Translit=
+1	ᠰᡞᠨᡞ	ᠰᡞᠨᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs|Poss=Yes	3	nmod:poss	_	Translit=sini
+2	ᡤᡞᠰᡠᠷᡝᡥᡝ	ᡤᡞᠰᡠᠨᠷᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Part	3	acl	_	Translit=gisunrehe
+3	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	9	obj	_	Translit=baita
+4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
+5	,	,	PUNCT	_	_	3	punct	_	Translit=,
+6	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Translit=bi
+7	ᡣᡝᡪᡞᠨᡝ	ᡣᡝᡪᡞᠨᡝ	ADJ	_	Degree=Pos	9	advmod	_	Translit=kejine
+8	ᡝᠮᡤᡝᠷᡞ	ᡝᠮᡤᡝᠷᡞ	ADV	_	_	7	advmod	_	Translit=emgeri
+9	ᠪᠣᡩᠣᡥᠣᡢᡤᡝ	ᠪᠣᡩᠣᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=bodohongge
+10	。	。	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_45
-# text = ᡝᠷᡝ ᠨᡞᠮᡥᠠ ᠪᡝ ᠪᡞ ᡪᠠᡫᠠᡥᠠᡢᡤᡝ 。
-# text[tran] = ere nilha be bi jafahangge
-# text[eng] = These fish were caught by me
-1	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠨᡞᠮᡥᠠ	_	_	_	_	_	_	_	Translit=
-3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-5	ᡪᠠᡫᠠᡥᠠᡢᡤᡝ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text = ᡝᠷᡝ ᠨᡞᠮᠠᡥᠠ ᠪᡝ ᠪᡞ ᡪᠠᡫᠠᡥᠠᡢᡤᡝ 。
+# text[tran] = ere nimaha be bi jafahangge.
+# text[eng] = These fish were caught by me.
+1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	2	det	_	Translit=ere
+2	ᠨᡞᠮᠠᡥᠠ	ᠨᡞᠮᠠᡥᠠ	NOUN	_	_	5	obj	_	Translit=nimaha
+3	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	2	case	_	Translit=be
+4	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	5	nsubj	_	Translit=bi
+5	ᡪᠠᡫᠠᡥᠠᡢᡤᡝ	ᡪᠠᡫᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=jafahangge
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_46
 # text = ᠪᡞ ᡠᠷᡠᠨᠠᡣᡡ ᡣᡞᠴᡝᠮᡝ ᡨᠠᠴᡞᠮᠪᡞ 。
-# text[tran] = bi urunakv giceme tacimbi
-# text[eng] = I will study hard
-1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡠᠷᡠᠨᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-3	ᡣᡞᠴᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡨᠠᠴᡞᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-5	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = bi urunakv kiceme tacimbi.
+# text[eng] = I will study hard.
+1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=bi
+2	ᡠᠷᡠᠨᠠᡣᡡ	ᡠᠷᡠᠨᠠᡣᡡ	ADV	_	_	3	advmod	_	Translit=urunakv
+3	ᡣᡞᠴᡝᠮᡝ	ᡣᡞᠴᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	4	advcl	_	Translit=kiceme
+4	ᡨᠠᠴᡞᠮᠪᡞ	ᡨᠠᠴᡞᠮᠪᡞ	VERB	_	Tense=Fut|VerbForm=Fin	0	root	_	Translit=tacimbi
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_47
 # text = ᡨᡝᠰᡝ ᡠᠷᡠᠮᠴᡞ ᡩᡝ ᡤᡝᠨᡝᠮᠪᡞ 。
-# text[tran] = tese urumci de genembi
-# text[eng] = They will go to Urumqi
-1	ᡨᡝᠰᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡠᠷᡠᠮᠴᡞ	_	_	_	_	_	_	_	Translit=
-3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡤᡝᠨᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-5	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tese urumci de genembi.
+# text[eng] = They will go to Urumqi.
+1	ᡨᡝᠰᡝ	ᡨᡝᠰᡝ	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Translit=tese
+2	ᡠᠷᡠᠮᠴᡞ	ᡠᠷᡠᠮᠴᡞ	PROPN	_	_	4	obl:loc	_	Translit=urumci
+3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Abl	2	case	_	Translit=de
+4	ᡤᡝᠨᡝᠮᠪᡞ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Fut|VerbForm=Fin	0	root	_	Translit=genembi
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_48
 # text = ᠪᡝ ᠴᡞᠮᠠᠷᡞ ᡥᠠᡞᠯᠠᠨ ᡤᡠᠷᡞᠪᡠᠮᠪᡞ 。
-# text[tran] = be cimari hailan guribumbi
-# text[eng] = We will plant trees tomorrow
-1	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠴᡞᠮᠠᠷᡞ	_	_	_	_	_	_	_	Translit=
-3	ᡥᠠᡞᠯᠠᠨ	_	_	_	_	_	_	_	Translit=
-4	ᡤᡠᠷᡞᠪᡠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-5	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = be cimari hailan guribumbi.
+# text[eng] = We will plant trees tomorrow.
+1	ᠪᡝ	ᠪᡝ	PRON	_	Number=Plur|Person=1|PronType=Prs|Clusivity=Ex	4	nsubj	_	Translit=be
+2	ᠴᡞᠮᠠᠷᡞ	ᠴᡞᠮᠠᠷᡞ	NOUN	_	_	4	obl:temp	_	Translit=cimari
+3	ᡥᠠᡞᠯᠠᠨ	ᡥᠠᡞᠯᠠᠨ	NOUN	_	_	4	obj	_	Translit=hailan
+4	ᡤᡠᠷᡞᠪᡠᠮᠪᡞ	ᡤᡠᠷᡞᠪᡠᠮᠪᡞ	VERB	_	Tense=Fut|VerbForm=Fin|Voice=Cau	0	root	_	Translit=guribumbi
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_49
 # text = ᠴᠣᠷᠣ ᡧᠣᠯᠣ ᠰᡞᠨᡩᠠᠮᠪᡞ 。
-# text[tran] = coro šolo sindambi
-# text[eng] = We will have holiday the day after tomorrow
-1	ᠴᠣᠷᠣ	_	_	_	_	_	_	_	Translit=
-2	ᡧᠣᠯᠣ	_	_	_	_	_	_	_	Translit=
-3	ᠰᡞᠨᡩᠠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-4	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = coro šolo sindambi.
+# text[eng] = We will have holiday the day after tomorrow.
+1	ᠴᠣᠷᠣ	ᠴᠣᠷᠣ	NOUN	_	_	3	obl:temp	_	Translit=coro
+2	ᡧᠣᠯᠣ	ᡧᠣᠯᠣ	NOUN	_	_	3	obj	_	Translit=šolo
+3	ᠰᡞᠨᡩᠠᠮᠪᡞ	ᠰᡞᠨᡩᠠᠮᠪᡞ	VERB	_	Tense=Fut|VerbForm=Fin	0	root	_	Translit=sindambi
+4	。	。	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_50
 # text = ᠪᡞ ᠰᡞᠨᡞ ᡤᡞᠰᡠᠨ ᠪᡝ ᠠᡣᡩᠠᠮᠪᡞ 。
-# text[tran] = bi sini gisun be akdambi
-# text[eng] = I believe in your words
-1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠰᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-3	ᡤᡞᠰᡠᠨ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠠᡣᡩᠠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = bi sini gisun be akdambi.
+# text[eng] = I believe in your words.
+1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Translit=bi
+2	ᠰᡞᠨᡞ	ᠰᡞᠨᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs|Poss=Yes	3	nmod:poss	_	Translit=sini
+3	ᡤᡞᠰᡠᠨ	ᡤᡞᠰᡠᠨ	NOUN	_	_	5	obj	_	Translit=gisun
+4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
+5	ᠠᡣᡩᠠᠮᠪᡞ	ᠠᡣᡩᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=akdambi
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_51
 # text = ᠪᡝ ᠮᠠᡫᠠᡤᡠᠷᡠᠨ ᠪᡝ ᡥᠠᡞᠷᠠᠮᠪᡞ , ᠨᡞᠶᠠᠯᠮᠠ ᡞᠷᡤᡝᠨ ᠪᡝ ᡥᠠᡞᠷᠠᠮᠪᡞ 。
-# text[tran] = be mafagurun be hairambi , niyalma irgen be hairambi
-# text[eng] = We love motherland, love people
-1	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠮᠠᡫᠠᡤᡠᠷᡠᠨ	_	_	_	_	_	_	_	Translit=
-3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡥᠠᡞᠷᠠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-5	,	_	_	_	_	_	_	_	Translit=
-6	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
-7	ᡞᠷᡤᡝᠨ	_	_	_	_	_	_	_	Translit=
-8	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-9	ᡥᠠᡞᠷᠠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-10	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = be mafagurun be hairambi , niyalma irgen be hairambi.
+# text[eng] = We love motherland, love people.
+1	ᠪᡝ	ᠪᡝ	PRON	_	Number=Plur|Person=1|PronType=Prs|Clusivity=Ex	4	nsubj	_	Translit=be
+2	ᠮᠠᡫᠠᡤᡠᠷᡠᠨ	ᠮᠠᡫᠠᡤᡠᠷᡠᠨ	NOUN	_	_	4	obj	_	Translit=mafagurun
+3	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	2	case	_	Translit=be
+4	ᡥᠠᡞᠷᠠᠮᠪᡞ	ᡥᠠᡞᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=hairambi
+5	,	,	PUNCT	_	_	4	punct	_	Translit=,
+6	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	7	compound	_	Translit=niyalma
+7	ᡞᠷᡤᡝᠨ	ᡞᠷᡤᡝᠨ	NOUN	_	_	9	obj	_	Translit=irgen
+8	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	7	case	_	Translit=be
+9	ᡥᠠᡞᠷᠠᠮᠪᡞ	ᡥᠠᡞᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	4	ccomp	_	Translit=hairambi
+10	。	。	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_52
 # text = ᠰᡞᠪᡝ ᡠᡣᠰᡠᠷᠠᡞ ᠨᡞᠶᠠᠯᠮᠠ ᡞᠷᡤᡝᠨ ᠮᠣᡠ ᡪᡠᡧᡞ  ᡞ ᠪᠠᡞᠯᡞ ᡩᡝ ᠠᡨᡝᡥᡝᠮᡝ ᡥᡠᡣᡧᡝᠮᠪᡞ 。
