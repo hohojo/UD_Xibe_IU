@@ -943,143 +943,143 @@
 9	。	。	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_71
-# text = ᡝᠮᡝ ᡤᠠᡞᡨᠠᡞ ᠨᡞᠮᡝᡣᡠᡢᡥᡝ ᠣᡥᠣ ᡩᡝ ᠠᠮᠠ ᠰᡝᠰᡠᠯᡝᡫᡞ , ᡝᠪᡠᡥᡠ ᠰᠠᠪᡠᡥᡡ ᡩᠠᡞᡫᡠ ᠰᠣᠯᡞᠨᡪᡞᠮᠪᡞ 。
-# text[tran] = eme gaitai nimekunghe oho de ama sesulefi , ebuhu sabuhv daifu solinjimbi
-# text[eng] = Mother suddenly fell ill and father was in a hurry to come to call the doctor
-1	ᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡤᠠᡞᡨᠠᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠨᡞᠮᡝᡣᡠᡢᡥᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠣᡥᠣ	_	_	_	_	_	_	_	Translit=
-5	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-6	ᠠᠮᠠ	_	_	_	_	_	_	_	Translit=
-7	ᠰᡝᠰᡠᠯᡝᡫᡞ	_	_	_	_	_	_	_	Translit=
-8	,	_	_	_	_	_	_	_	Translit=
-9	ᡝᠪᡠᡥᡠ	_	_	_	_	_	_	_	Translit=
-10	ᠰᠠᠪᡠᡥᡡ	_	_	_	_	_	_	_	Translit=
-11	ᡩᠠᡞᡫᡠ	_	_	_	_	_	_	_	Translit=
-12	ᠰᠣᠯᡞᠨᡪᡞᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-13	。	_	_	_	_	_	_	_	Translit=
+# text = ᡝᠮᡝ ᡤᠠᡞᡨᠠᡞ ᠨᡞᠮᡝᡣᡠᡢᡤᡝ ᠣᡥᠣ ᡩᡝ ᠠᠮᠠ ᠰᡝᠰᡠᠯᡝᡫᡞ , ᡝᠪᡠᡥᡠ ᠰᠠᠪᡠᡥᡡ ᡩᠠᡞᡫᡠ ᠰᠣᠯᡞᠨᡪᡞᠮᠪᡞ 。
+# text[tran] = eme gaitai nimekungge oho de ama sesulefi , ebuhu sabuhv daifu solinjimbi.
+# text[eng] = Mother suddenly fell ill and father was in a hurry to come to call the doctor.
+1	ᡝᠮᡝ	ᡝᠮᡝ	NOUN	_	_	4	nsubj	_	Translit=eme
+2	ᡤᠠᡞᡨᠠᡞ	ᡤᠠᡞᡨᠠᡞ	ADV	_	_	4	advmod	_	Translit=gaitai
+3	ᠨᡞᠮᡝᡣᡠᡢᡤᡝ	ᠨᡞᠮᡝᡣᡠᡢᡤᡝ	ADJ	_	Degree=Pos	4	xcomp	_	Translit=nimekungge
+4	ᠣᡥᠣ	ᠣᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	6	obl:reason	_	Translit=oho
+5	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	4	case	_	Translit=de
+6	ᠠᠮᠠ	ᠠᠮᠠ	NOUN	_	_	7	nsubj	_	Translit=ama
+7	ᠰᡝᠰᡠᠯᡝᡫᡞ	ᠰᡝᠰᡠᠯᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	12	advcl	_	Translit=sesulefi
+8	,	,	PUNCT	_	_	7	punct	_	Translit=,
+9	ᡝᠪᡠᡥᡠ	ᡝᠪᡠᡥᡠ	ADJ	_	_	10	compound	_	Translit=ebuhu
+10	ᠰᠠᠪᡠᡥᡡ	ᠰᠠᠪᡠᡥᡡ	X	_	_	12	advmod	_	Translit=sabuhv
+11	ᡩᠠᡞᡫᡠ	ᡩᠠᡞᡫᡠ	NOUN	_	_	12	obj	_	Translit=daifu
+12	ᠰᠣᠯᡞᠨᡪᡞᠮᠪᡞ	ᠰᠣᠯᡞᠨᡪᡞᠮᠪ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=solinjimbi
+13	。	。	PUNCT	_	_	12	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_72
 # text = ᠪᡞ ᡝᠷᡝ ᠨᡞᠶᠠᠯᠮᠠ ᠪᡝ ᡨᠠᡣᠠᠷᠠᡣᡡ 。
-# text[tran] = bi ere niyalma be takarakv
-# text[eng] = I dont know this person
-1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡨᠠᡣᠠᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = bi ere niyalma be takarakv.
+# text[eng] = I dont know this person.
+1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Translit=bi
+2	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	3	det	_	Translit=ere
+3	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	5	obj	_	Translit=niyalma
+4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
+5	ᡨᠠᡣᠠᠷᠠᡣᡡ	ᡨᠠᡣᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=takarakv
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_73
 # text = ᡨᡝᠷᡝ ᡠᠮᠠᡞ ᠪᠠᡞᡨᠠ ᠠᠷᠠᠷᠠᠠᡣᡡ 。
-# text[tran] = tere umai baita ararakv
-# text[eng] = He does nothing
-1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡠᠮᠠᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-4	ᠠᠷᠠᠷᠠᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-5	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tere umai baita ararakv.
+# text[eng] = He does nothing.
+1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=tere
+2	ᡠᠮᠠᡞ	ᡠᠮᠠᡞ	ADV	_	_	4	advmod	_	Translit=umai
+3	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	4	obj	_	Translit=baita
+4	ᠠᠷᠠᠷᠠᠠᡣᡡ	ᠠᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=ararakv
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_74
 # text = ᠠᠪᡣᠠ ᡧᡠᠸᡝ ᠠᡤᠠ ᠠᡤᠠᠷᠠᡣᡡ 。
-# text[tran] = abka šuwe aga agarakv
-# text[eng] = It does not rain
-1	ᠠᠪᡣᠠ	_	_	_	_	_	_	_	Translit=
-2	ᡧᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠠᡤᠠ	_	_	_	_	_	_	_	Translit=
-4	ᠠᡤᠠᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-5	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = abka šuwe aga agarakv.
+# text[eng] = It does not rain.
+1	ᠠᠪᡣᠠ	ᠠᠪᡣᠠ	NOUN	_	_	4	nsubj	_	Translit=abka
+2	ᡧᡠᠸᡝ	ᡧᡠᠸᡝ	ADV	_	_	4	advmod	_	Translit=šuwe
+3	ᠠᡤᠠ	ᠠᡤᠠ	NOUN	_	_	4	obj	_	Translit=aga
+4	ᠠᡤᠠᠷᠠᡣᡡ	ᠠᡤᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=agarakv
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_75
 # text = ᠪᡞ ᠸᡝᡞᠯᡝᠮᠠᡥᠠᡣᡡ ᠪᡞ 。
-# text[tran] = bi weilemahakv bi
-# text[eng] = I am not working now
-1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠸᡝᡞᠯᡝᠮᠠᡥᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-3	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-4	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = bi weilemahakv bi.
+# text[eng] = I am not working now.
+1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Translit=bi
+2	ᠸᡝᡞᠯᡝᠮᠠᡥᠠᡣᡡ	ᠸᡝᡞᠯᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=weilemahakv
+3	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	2	aux	_	Translit=bi
+4	。	。	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_76
 # text = ᠮᡞᠨᡞ ᡩᡝᡠ ᡨᠠᠴᡞᠮᠠᡥᠠᡣᡡ ᠪᡞ 。
-# text[tran] = mini deo tacimahakv bi
-# text[eng] = My younger brother is not going to school yet
-1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡩᡝᡠ	_	_	_	_	_	_	_	Translit=
-3	ᡨᠠᠴᡞᠮᠠᡥᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-5	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = mini deo tacimahakv bi.
+# text[eng] = My younger brother is not going to school yet.
+1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	2	nmod:poss	_	Translit=mini
+2	ᡩᡝᡠ	ᡩᡝᡠ	NOUN	_	_	3	nsubj	_	Translit=deo
+3	ᡨᠠᠴᡞᠮᠠᡥᠠᡣᡡ	ᡨᠠᠴᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=tacimahakv
+4	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	3	aux	_	Translit=bi
+5	。	。	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_77
 # text = ᡞᠰᠠᠨ ᠨᡝᡞᠮᠠᡥᠠᡣᡡ ᠪᡞ 。
 # text[tran] = isan neimahakv bi
 # text[eng] = There is no meeting now
-1	ᡞᠰᠠᠨ	_	_	_	_	_	_	_	Translit=
-2	ᠨᡝᡞᠮᠠᡥᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-3	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-4	。	_	_	_	_	_	_	_	Translit=
+1	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	2	nsubj	_	Translit=isan
+2	ᠨᡝᡞᠮᠠᡥᠠᡣᡡ	ᠨᡝᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=neimahakv
+3	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	2	aux	_	Translit=bi
+4	。	。	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_78
-# text = ᠪᡞ ᡝᠷᡝ ᡥᡝᠷᡤᡝᠨ  ᡞ ᡤᡡᠨᡞᠨ ᠪᡝ ᡠᠯᡥᡞᠷᠠᡣᡡ ᡞᠯᡞᡥᠠᠪᡞ 。
-# text[tran] = bi ere hergen i gvnin be ulhirakv
-# text[eng] = I dont understand the meaning of this character
-1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡥᡝᠷᡤᡝᠨ	_	_	_	_	_	_	_	Translit=
-4	 ᡞ	_	_	_	_	_	_	_	Translit=
-5	ᡤᡡᠨᡞᠨ	_	_	_	_	_	_	_	Translit=
-6	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-7	ᡠᠯᡥᡞᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-8	ᡞᠯᡞᡥᠠᠪᡞ	_	_	_	_	_	_	_	Translit=
-9	。	_	_	_	_	_	_	_	Translit=
+# text = ᠪᡞ ᡝᠷᡝ ᡥᡝᠷᡤᡝᠨ %u202F%u185E ᡤᡡᠨᡞᠨ ᠪᡝ ᡠᠯᡥᡞᠷᠠᡣᡡ ᡞᠯᡞᡥᠠᠪᡞ 。
+# text[tran] = bi ere hergen i gvnin be ulhirakv ilihabi.
+# text[eng] = I dont understand the meaning of this character.
+1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=bi
+2	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	3	det	_	Translit=ere
+3	ᡥᡝᠷᡤᡝᠨ	ᡥᡝᠷᡤᡝᠨ	NOUN	_	_	5	nmod	_	Translit=hergen
+4	 ᡞ	%u202F%u185E	ADP	_	Case=Gen	3	case	_	Translit=i
+5	ᡤᡡᠨᡞᠨ	ᡤᡡᠨᡞᠨ	NOUN	_	_	7	obj	_	Translit=gvnin
+6	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	5	case	_	Translit=be
+7	ᡠᠯᡥᡞᠷᠠᡣᡡ	ᡠᠯᡥᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=ulhirakv
+8	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᡥᠠᠪᡞ	AUX	_	VerbForm=Fin	7	aux	_	Translit=ilihabi
+9	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_79
 # text = ᠮᡞᠨᡞ ᠶᠠᠰᠠ ᡞᠯᡤᠠᡧᠠᠮᡝ ᠰᠠᠪᡠᠷᠠᡣᡡ ᡞᠯᡞᡥᠠᠪᡞ 。
-# text[tran] = mini yasa ilgašame saburakv ilihabi
-# text[eng] = My eyes are so farsighted that I cannot see anything
-1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠶᠠᠰᠠ	_	_	_	_	_	_	_	Translit=
-3	ᡞᠯᡤᠠᡧᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠰᠠᠪᡠᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-5	ᡞᠯᡞᡥᠠᠪᡞ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = mini yasa ilgašame saburakv ilihabi.
+# text[eng] = My eyes are so farsighted that I cannot see anything.
+1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	2	nmod:poss	_	Translit=mini
+2	ᠶᠠᠰᠠ	ᠶᠠᠰᠠ	NOUN	_	_	4	nsubj	_	Translit=yasa
+3	ᡞᠯᡤᠠᡧᠠᠮᡝ	ᡞᠯᡤᠠᡧᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	4	advcl	_	Translit=ilgašame
+4	ᠰᠠᠪᡠᠷᠠᡣᡡ	ᠰᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=saburakv
+5	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᡥᠠᠪᡞ	AUX	_	VerbForm=Fin	4	aux	_	Translit=ilihabi
+6	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_80
-# text = ᠰᡝᠷᡝᠨ ᡝᡫᡠᡪᡝᡫᡞ , ᠶᠠᠪᡠᠮᡝ ᠮᡠᡨᡝᠷᠠᡣᡡ ᡞᠯᡞᡥᠠᠪᡞ 。
-# text[tran] = seren efujefi , yabume muterakv
-# text[eng] = Because the car broke down, so I cannot go now
-1	ᠰᡝᠷᡝᠨ	_	_	_	_	_	_	_	Translit=
-2	ᡝᡫᡠᡪᡝᡫᡞ	_	_	_	_	_	_	_	Translit=
-3	,	_	_	_	_	_	_	_	Translit=
-4	ᠶᠠᠪᡠᠮᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠮᡠᡨᡝᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-6	ᡞᠯᡞᡥᠠᠪᡞ	_	_	_	_	_	_	_	Translit=
-7	。	_	_	_	_	_	_	_	Translit=
+# text = ᠰᡝᡪᡝᠨ ᡝᡫᡠᡪᡝᡫᡞ , ᠶᠠᠪᡠᠮᡝ ᠮᡠᡨᡝᠷᠠᡣᡡ ᡞᠯᡞᡥᠠᠪᡞ 。
+# text[tran] = sejen efujefi , yabume muterakv ilihabi.
+# text[eng] = Because the car broke down, so I cannot go now.
+1	ᠰᡝᡪᡝᠨ	ᠰᡝᡪᡝᠨ	NOUN	_	_	2	nsubj	_	Translit=sejen
+2	ᡝᡫᡠᡪᡝᡫᡞ	ᡝᡫᡠᡪᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=efujefi
+3	,	,	PUNCT	_	_	2	punct	_	Translit=,
+4	ᠶᠠᠪᡠᠮᡝ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=yabume
+5	ᠮᡠᡨᡝᠷᠠᡣᡡ	ᠮᡠᡨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=muterakv
+6	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᡥᠠᠪᡞ	AUX	_	VerbForm=Fin	5	aux	_	Translit=ilihabi
+7	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_81
 # text = ᠪᡞ ᡩᠠᡞᡫᡠᠷᠠᠨ ᡣᡡᠸᠠᠷᠠᠨ ᡩᡝ ᡩᡝᡩᡠᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ 。
-# text[tran] = bi daifuran kvwaran de dedume dulehekv
-# text[eng] = I havent ever been lived in hospital
-1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡩᠠᡞᡫᡠᠷᠠᠨ	_	_	_	_	_	_	_	Translit=
-3	ᡣᡡᠸᠠᠷᠠᠨ	_	_	_	_	_	_	_	Translit=
-4	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡩᡝᡩᡠᠮᡝ	_	_	_	_	_	_	_	Translit=
-6	ᡩᡠᠯᡝᡥᡝᡣᡡ	_	_	_	_	_	_	_	Translit=
-7	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = bi daifuran kvwaran de dedume dulehekv.
+# text[eng] = I havent ever been lived in hospital.
+1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Translit=bi
+2	ᡩᠠᡞᡫᡠᠷᠠᠨ	ᡩᠠᡞᡫᡠᠷᠠᠨ	NOUN	_	_	3	compound	_	Translit=daifuran
+3	ᡣᡡᠸᠠᠷᠠᠨ	ᡣᡡᠸᠠᠷᠠᠨ	NOUN	_	_	5	obl:loc	_	Translit=kvwaran
+4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
+5	ᡩᡝᡩᡠᠮᡝ	ᡩᡝᡩᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	6	advcl	_	Translit=dedume
+6	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=dulehekv
+7	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_82
 # text = ᠪᡞ ᡩᠠᡞᡫᡠᠷᠠᠨ ᡣᡡᠸᠠᠷᠠᠨ ᡩᡝ ᡩᡝᡩᡠᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ ᠪᡞ 。
-# text[tran] = bi daifuran kvwaran de dedume dulehekv bi
-# text[eng] = I havent ever been lived in hospital
-1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡩᠠᡞᡫᡠᠷᠠᠨ	_	_	_	_	_	_	_	Translit=
-3	ᡣᡡᠸᠠᠷᠠᠨ	_	_	_	_	_	_	_	Translit=
-4	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡩᡝᡩᡠᠮᡝ	_	_	_	_	_	_	_	Translit=
-6	ᡩᡠᠯᡝᡥᡝᡣᡡ	_	_	_	_	_	_	_	Translit=
-7	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = bi daifuran kvwaran de dedume dulehekv bi.
+# text[eng] = I havent ever been lived in hospital.
+1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Translit=bi
+2	ᡩᠠᡞᡫᡠᠷᠠᠨ	ᡩᠠᡞᡫᡠᠷᠠᠨ	NOUN	_	_	3	compound	_	Translit=daifuran
+3	ᡣᡡᠸᠠᠷᠠᠨ	ᡣᡡᠸᠠᠷᠠᠨ	NOUN	_	_	5	obl:loc	_	Translit=kvwaran
+4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
+5	ᡩᡝᡩᡠᠮᡝ	ᡩᡝᡩᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	6	advcl	_	Translit=dedume
+6	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=dulehekv
+7	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	6	aux	_	Translit=bi
+8	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_83
 # text = ᡝᠷᡝ ᠮᡝᡪᡞᡤᡝ ᠪᡝ ᡩᠣᠨᡪᡞᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ 。
