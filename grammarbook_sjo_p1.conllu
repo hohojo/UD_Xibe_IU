@@ -1083,138 +1083,138 @@
 
 # sent_id = grammarbook_sjo_p1_83
 # text = ᡝᠷᡝ ᠮᡝᡪᡞᡤᡝ ᠪᡝ ᡩᠣᠨᡪᡞᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ 。
-# text[tran] = ere mejige be donjime dulehekv
-# text[eng] = This news is never heard of
-1	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠮᡝᡪᡞᡤᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡩᠣᠨᡪᡞᠮᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡩᡠᠯᡝᡥᡝᡣᡡ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = ere mejige be donjime dulehekv.
+# text[eng] = This news is never heard of.
+1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	2	det	_	Translit=ere
+2	ᠮᡝᡪᡞᡤᡝ	ᠮᡝᡪᡞᡤᡝ	NOUN	_	_	4	obj	_	Translit=mejige
+3	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	2	case	_	Translit=be
+4	ᡩᠣᠨᡪᡞᠮᡝ	ᡩᠣᠨᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=donjime
+5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=dulehekv
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_84
 # text = ᡝᠷᡝ ᠮᡝᡪᡞᡤᡝ ᠪᡝ ᡩᠣᠨᡪᡞᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ ᠪᡞ 。
-# text[tran] = ere mejige be donjime dulehekv bi
-# text[eng] = This news is never heard of
-1	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠮᡝᡪᡞᡤᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡩᠣᠨᡪᡞᠮᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡩᡠᠯᡝᡥᡝᡣᡡ	_	_	_	_	_	_	_	Translit=
-6	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-7	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = ere mejige be donjime dulehekv bi.
+# text[eng] = This news is never heard of.
+1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	2	det	_	Translit=ere
+2	ᠮᡝᡪᡞᡤᡝ	ᠮᡝᡪᡞᡤᡝ	NOUN	_	_	4	obj	_	Translit=mejige
+3	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	2	case	_	Translit=be
+4	ᡩᠣᠨᡪᡞᠮᡝ	ᡩᠣᠨᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=donjime
+5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=dulehekv
+6	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	5	aux	_	Translit=bi
+7	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_85
 # text = ᠪᡞ  ᠮᡠᡣᡩᡝᠨ ᡩᡝ ᡤᡝᠨᡝᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ 。
-# text[tran] = bi mukden de geneme dulehekv
-# text[eng] = I have never been to Shenyang
-1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-2	 ᠮᡠᡣᡩᡝᠨ	_	_	_	_	_	_	_	Translit=
-3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡤᡝᠨᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡩᡠᠯᡝᡥᡝᡣᡡ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = bi Mukden de geneme dulehekv.
+# text[eng] = I have never been to Shenyang.
+1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=bi
+2	ᠮᡠᡣᡩᡝᠨ	ᠮᡠᡣᡩᡝᠨ	PROPN	_	_	4	obl:loc	_	Translit=Mukden
+3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
+4	ᡤᡝᠨᡝᠮᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=geneme
+5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=dulehekv
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_86
 # text = ᠪᡞ  ᠮᡠᡣᡩᡝᠨ ᡩᡝ ᡤᡝᠨᡝᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ ᠪᡞ 。
-# text[tran] = bi mukden de geneme dulehekv bi
-# text[eng] = I have never been to Shenyang
-1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-2	 ᠮᡠᡣᡩᡝᠨ	_	_	_	_	_	_	_	Translit=
-3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡤᡝᠨᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡩᡠᠯᡝᡥᡝᡣᡡ	_	_	_	_	_	_	_	Translit=
-6	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-7	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = bi Mukden de geneme dulehekv bi.
+# text[eng] = I have never been to Shenyang.
+1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Translit=bi
+2	ᠮᡠᡣᡩᡝᠨ	ᠮᡠᡣᡩᡝᠨ	PROPN	_	_	4	obl:loc	_	Translit=Mukden
+3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
+4	ᡤᡝᠨᡝᠮᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=geneme
+5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=dulehekv
+6	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	5	aux	_	Translit=bi
+7	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_87
 # text = ᠠᠯᡞᠨ ᡩᡝ ᠨᡞᡠᡥᡝ ᠰᠠᠪᡠᡥᠠᡣᡡ 。
-# text[tran] = alin de niohe sabuhakv
-# text[eng] = Wolf has never been seen in the mountain
-1	ᠠᠯᡞᠨ	_	_	_	_	_	_	_	Translit=
-2	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠨᡞᡠᡥᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠰᠠᠪᡠᡥᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-5	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = alin de niohe sabuhakv.
+# text[eng] = Wolf has never been seen in the mountain.
+1	ᠠᠯᡞᠨ	ᠠᠯᡞᠨ	NOUN	_	_	4	obl:loc	_	Translit=alin
+2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
+3	ᠨᡞᡠᡥᡝ	ᠨᡞᡠᡥᡝ	NOUN	_	_	4	obj	_	Translit=niohe
+4	ᠰᠠᠪᡠᡥᠠᡣᡡ	ᠰᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=sabuhakv
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_88
 # text = ᠪᡞ ᠰᠠᠷᡞᠨ ᡪᡝᠮᡝ ᡤᡝᠨᡝᡥᡝᡣᡡ ᠪᡞ 。
-# text[tran] = bi sarin jeme genehekv bi
-# text[eng] = I didn't go to the banquet
-1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠰᠠᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
-3	ᡪᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡤᡝᠨᡝᡥᡝᡣᡡ	_	_	_	_	_	_	_	Translit=
-5	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = bi sarin jeme genehekv bi.
+# text[eng] = I didn't go to the banquet.
+1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=bi
+2	ᠰᠠᠷᡞᠨ	ᠰᠠᠷᡞᠨ	NOUN	_	_	3	obj	_	Translit=sarin
+3	ᡪᡝᠮᡝ	ᡪᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	4	advcl	_	Translit=jeme
+4	ᡤᡝᠨᡝᡥᡝᡣᡡ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=genehekv
+5	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	4	aux	_	Translit=bi
+6	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_89
 # text = ᠰᡞᠨᡞ ᡤᡞᠰᡠᠷᡝᡥᡝ ᠪᠠᡞᡨᠠ ᠪᡝ ᠣᡢᡤᠣᡥᠣᡣᡡ 。
-# text[tran] = sini gisurehe baita be onggohokv
-# text[eng] = What you said is not forgotten
-1	ᠰᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡤᡞᠰᡠᠷᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠣᡢᡤᠣᡥᠣᡣᡡ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = sini gisurehe baita be onggohokv.
+# text[eng] = What you said is not forgotten.
+1	ᠰᡞᠨᡞ	ᠰᡞᠨᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs|Poss=Yes	3	nmod:poss	_	Translit=sini
+2	ᡤᡞᠰᡠᠷᡝᡥᡝ	ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Part	3	acl:relcl	_	Translit=gisurehe
+3	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	5	obj	_	Translit=baita
+4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
+5	ᠣᡢᡤᠣᡥᠣᡣᡡ	ᠣᡢᡤᠣᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=onggohokv
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_90
 # text = ᠰᡞ ᠰᡠᠨᡪᠠᠴᡞ ᡣᡞᠴᡝᠨ ᠪᡝ ᡥᡡᠯᠠ !
-# text[tran] = si sunjaci kicen be hvla !
-# text[eng] = You read lesson five
-1	ᠰᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠰᡠᠨᡪᠠᠴᡞ	_	_	_	_	_	_	_	Translit=
-3	ᡣᡞᠴᡝᠨ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡥᡡᠯᠠ	_	_	_	_	_	_	_	Translit=
-6	!	_	_	_	_	_	_	_	Translit=
+# text[tran] = si sunjaci kicen be hvla!
+# text[eng] = You read lesson five!
+1	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Translit=si
+2	ᠰᡠᠨᡪᠠᠴᡞ	ᠰᡠᠨᡪᠠᠴᡞ	ADJ	_	NumType=Ord	3	amod	_	Translit=sunjaci
+3	ᡣᡞᠴᡝᠨ	ᡣᡞᠴᡝᠨ	NOUN	_	_	5	obj	_	Translit=kicen
+4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
+5	ᡥᡡᠯᠠ	ᡥᡡᠯᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=hvla
+6	!	!	PUNCT	_	_	5	punct	_	Translit=!
 
 # sent_id = grammarbook_sjo_p1_91
 # text = ᠰᡠᠸᡝ ᡥᡡᡩᡠᠨ ᠸᡝᡞᠯᡝ !
-# text[tran] = suwe hvdun weile !
-# text[eng] = Get to work
-1	ᠰᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡥᡡᡩᡠᠨ	_	_	_	_	_	_	_	Translit=
-3	ᠸᡝᡞᠯᡝ	_	_	_	_	_	_	_	Translit=
-4	!	_	_	_	_	_	_	_	Translit=
+# text[tran] = suwe hvdun weile!
+# text[eng] = Get to work!
+1	ᠰᡠᠸᡝ	ᠰᡠᠸᡝ	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Translit=suwe
+2	ᡥᡡᡩᡠᠨ	ᡥᡡᡩᡠᠨ	ADV	_	_	3	advmod	_	Translit=hvdun
+3	ᠸᡝᡞᠯᡝ	ᠸᡝᡞᠯᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=weile
+4	!	!	PUNCT	_	_	3	punct	_	Translit=!
 
 # sent_id = grammarbook_sjo_p1_92
 # text = ᡝᠨᡝᡢᡤᡞ ᠰᡞ ᠪᡠᡩᠠ ᠠᠷᠠ !
 # text[tran] = enenggi si buda ara !
-# text[eng] = Today you cook
-1	ᡝᠨᡝᡢᡤᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠰᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠪᡠᡩᠠ	_	_	_	_	_	_	_	Translit=
-4	ᠠᠷᠠ	_	_	_	_	_	_	_	Translit=
-5	!	_	_	_	_	_	_	_	Translit=
+# text[eng] = Today you cook!
+1	ᡝᠨᡝᡢᡤᡞ	ᡝᠨᡝᡢᡤᡞ	NOUN	_	_	4	obl:temp	_	Translit=enenggi
+2	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Translit=si
+3	ᠪᡠᡩᠠ	ᠪᡠᡩᠠ	NOUN	_	_	4	obj	_	Translit=buda
+4	ᠠᠷᠠ	ᠠᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=ara
+5	!	!	PUNCT	_	_	4	punct	_	Translit=!
 
 # sent_id = grammarbook_sjo_p1_93
 # text = ᠪᠠᡞᡨᠠ ᠪᡝ ᡧᡠᠮᡞᠨ ᠨᠠᠷᡥᡡᠨ ᠪᠣᡩᠣ !
 # text[tran] = baita be šumin narhvn bodo !
-# text[eng] = Think things deeply
-1	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-2	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡧᡠᠮᡞᠨ	_	_	_	_	_	_	_	Translit=
-4	ᠨᠠᠷᡥᡡᠨ	_	_	_	_	_	_	_	Translit=
-5	ᠪᠣᡩᠣ	_	_	_	_	_	_	_	Translit=
-6	!	_	_	_	_	_	_	_	Translit=
+# text[eng] = Think things deeply and carefully!
+1	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	5	obj	_	Translit=baita
+2	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	1	case	_	Translit=be
+3	ᡧᡠᠮᡞᠨ	ᡧᡠᠮᡞᠨ	ADJ	_	Degree=Pos	5	advmod	_	Translit=šumin
+4	ᠨᠠᠷᡥᡡᠨ	ᠨᠠᠷᡥᡡᠨ	ADJ	_	Degree=Pos	5	advmod	_	Translit=narhvn
+5	ᠪᠣᡩᠣ	ᠪᠣᡩᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=bodo
+6	!	!	PUNCT	_	_	5	punct	_	Translit=!
 
 # sent_id = grammarbook_sjo_p1_94
-# text = ᠰᠠᠷᡞᠨ  ᡞ ᡪᠠᡣᠠ ᠪᡝ ᠯᠠᠪᡩᡠ ᡪᡝᡫᡠ , ᠯᠠᠪᡩᡠ ᠯᠠᠪᡩᡠ ᠣᠮᡞ 。
-# text[tran] = sarin i jaka be labdu jefu , labdu labdu omi
-# text[eng] = The food on the table, eat well, drink well
-1	ᠰᠠᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
-2	 ᡞ	_	_	_	_	_	_	_	Translit=
-3	ᡪᠠᡣᠠ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠯᠠᠪᡩᡠ	_	_	_	_	_	_	_	Translit=
-6	ᡪᡝᡫᡠ	_	_	_	_	_	_	_	Translit=
-7	,	_	_	_	_	_	_	_	Translit=
-8	ᠯᠠᠪᡩᡠ	_	_	_	_	_	_	_	Translit=
-9	ᠯᠠᠪᡩᡠ	_	_	_	_	_	_	_	Translit=
-10	ᠣᠮᡞ	_	_	_	_	_	_	_	Translit=
-11	。	_	_	_	_	_	_	_	Translit=
+# text = ᠰᠠᠷᡞᠨ %u202F%u185E ᡪᠠᡣᠠ ᠪᡝ ᠯᠠᠪᡩᡠ ᡪᡝᡫᡠ , ᠯᠠᠪᡩᡠ ᠯᠠᠪᡩᡠ ᠣᠮᡞ 。
+# text[tran] = sarin i jaka be labdu jefu , labdu labdu omi.
+# text[eng] = The food on the table, eat well, drink well.
+1	ᠰᠠᠷᡞᠨ	ᠰᠠᠷᡞᠨ	NOUN	_	_	3	nmod	_	Translit=sarin
+2	ᡞ	%u202F%u185E	ADP	_	Case=Gen	1	case	_	Translit=i
+3	ᡪᠠᡣᠠ	ᡪᠠᡣᠠ	NOUN	_	_	6	obj	_	Translit=jaka
+4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
+5	ᠯᠠᠪᡩᡠ	ᠯᠠᠪᡩᡠ	ADJ	_	_	6	advmod	_	Translit=labdu
+6	ᡪᡝᡫᡠ	ᡪᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=jefu
+7	,	,	PUNCT	_	_	6	punct	_	Translit=,
+8	ᠯᠠᠪᡩᡠ	ᠯᠠᠪᡩᡠ	ADJ	_	_	9	compound	_	Translit=labdu
+9	ᠯᠠᠪᡩᡠ	ᠯᠠᠪᡩᡠ	ADJ	_	_	10	advmod	_	Translit=labdu
+10	ᠣᠮᡞ	ᠣᠮᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	6	conj	_	Translit=omi
+11	。	。	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_95
 # text = ᡝᠷᡝ ᡝᠮᡠ ᡫᠣᠯᡥᡡ ᠪᡝᠯᡝ ᠪᡝ ᠰᡞ ᡤᠠᡞᠰᡠ 。
