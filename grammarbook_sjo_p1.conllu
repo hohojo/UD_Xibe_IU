@@ -303,8 +303,8 @@
 
 # sent_id = grammarbook_sjo_p1_23
 # text = ᡤᡞᠰᡠᠨ ᠰᡝᠷᡝᡢᡤᡝ ᡤᡡᠨᡞᠨ ᠮᡠᡪᡞᠨ ᠪᡝ ᡞᠰᡥᡠᠨᡩᡝ ᡥᠠᡫᡠᠮᠪᡠᠷᡝ ᠠᡤᡡᠷᠠ 。
-# text[tran] = gisun serengge gvnin mujin be ishunde hafumbure agvra
-# text[eng] = Language is the tool of communicating thoughts
+# text[tran] = gisun serengge gvnin mujin be ishunde hafumbure agvra.
+# text[eng] = Language is the tool of communicating thoughts.
 1	ᡤᡞᠰᡠᠨ	ᡤᡞᠰᡠᠨ	NOUN	_	_	8	nsubj	_	Translit=gisun
 2	ᠰᡝᠷᡝᡢᡤᡝ	ᠰᡝᠷᡝᡢᡤᡝ	INTJ	_	_	8	cop	_	Translit=serengge
 3	ᡤᡡᠨᡞᠨ	ᡤᡡᠨᡞᠨ	NOUN	_	_	4	compound	_	Translit=gvnin
@@ -1217,117 +1217,117 @@
 11	。	。	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_95
-# text = ᡝᠷᡝ ᡝᠮᡠ ᡫᠣᠯᡥᡡ ᠪᡝᠯᡝ ᠪᡝ ᠰᡞ ᡤᠠᡞᠰᡠ 。
-# text[tran] = ere emu folhv bele be si gaisu
-# text[eng] = You take this bag of rice
-1	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-3	ᡫᠣᠯᡥᡡ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡝᠯᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-6	ᠰᡞ	_	_	_	_	_	_	_	Translit=
-7	ᡤᠠᡞᠰᡠ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+# text = ᡝᠷᡝ ᡝᠮᡠ ᡫᡠᠯᡥᡡ ᠪᡝᠯᡝ ᠪᡝ ᠰᡞ ᡤᠠᡞᠰᡠ 。
+# text[tran] = ere emu fulhv bele be si gaisu.
+# text[eng] = You take this bag of rice.
+1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	2	det	_	Translit=ere
+2	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	3	nummod	_	Translit=emu
+3	ᡫᡠᠯᡥᡡ	ᡫᡠᠯᡥᡡ	NOUN	_	_	4	clf	_	Translit=fulhv
+4	ᠪᡝᠯᡝ	ᠪᡝᠯᡝ	NOUN	_	_	7	obj	_	Translit=bele
+5	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	4	case	_	Translit=be
+6	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=prs	7	nsubj	_	Translit=si
+7	ᡤᠠᡞᠰᡠ	ᡤᠠᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=gaisu
+8	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_96
-# text = ᠰᡞ ᡠᠪᠴᡞ ᡪᡞᡠ 。
-# text[tran] = si ubci jio
-# text[eng] = You come here
-1	ᠰᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡠᠪᠴᡞ	_	_	_	_	_	_	_	Translit=
-3	ᡪᡞᡠ	_	_	_	_	_	_	_	Translit=
-4	。	_	_	_	_	_	_	_	Translit=
+# text = ᠰᡞ ᡠᠪᠠᠴᡞ ᡪᡞᡠ 。
+# text[tran] = si ubci jio.
+# text[eng] = You come here.
+1	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=si
+2	ᡠᠪᠠᠴᡞ	ᡠᠪᠠᠴᡞ	PRON	_	PronType=Dem|Case=Lat	3	obl:loc	_	Translit=ubaci
+3	ᡪᡞᡠ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=jio
+4	。	。	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_97
 # text = ᡨᠠᠴᡞᠨ ᡩᡝ ᠮᠠᡢᡤᠠ ᡫᠣᠨᡪᡞᠨ ᠪᡞ ᠣᠴᡞ , ᠰᡝᡫᡠ ᠪᡝ ᠪᠠᡞᠰᡠ 。
-# text[tran] = tacin de mangga fonjin bi oci , sefu be baisu
-# text[eng] = If you have problem in study, please ask teacher for help
-1	ᡨᠠᠴᡞᠨ	_	_	_	_	_	_	_	Translit=
-2	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠮᠠᡢᡤᠠ	_	_	_	_	_	_	_	Translit=
-4	ᡫᠣᠨᡪᡞᠨ	_	_	_	_	_	_	_	Translit=
-5	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-6	ᠣᠴᡞ	_	_	_	_	_	_	_	Translit=
-7	,	_	_	_	_	_	_	_	Translit=
-8	ᠰᡝᡫᡠ	_	_	_	_	_	_	_	Translit=
-9	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-10	ᠪᠠᡞᠰᡠ	_	_	_	_	_	_	_	Translit=
-11	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tacin de mangga fonjin bi oci , sefu be baisu.
+# text[eng] = If you have problem in study, please ask teacher for help.
+1	ᡨᠠᠴᡞᠨ	ᡨᠠᠴᡞᠨ	NOUN	_	_	4	obl	_	Translit=tacin
+2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
+3	ᠮᠠᡢᡤᠠ	ᠮᠠᡢᡤᠠ	ADJ	_	Degree=Pos	4	amod	_	Translit=mangga
+4	ᡫᠣᠨᡪᡞᠨ	ᡫᠣᠨᡪᡞᠨ	NOUN	_	_	5	obj	_	Translit=fonjin
+5	ᠪᡞ	ᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	10	advcl	_	Translit=bi
+6	ᠣᠴᡞ	ᠣᠴᡞ	SCONJ	_	_	5	mark	_	Translit=oci
+7	,	,	PUNCT	_	_	5	punct	_	Translit=,
+8	ᠰᡝᡫᡠ	ᠰᡝᡫᡠ	NOUN	_	_	10	obj	_	Translit=sefu
+9	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	8	case	_	Translit=be
+10	ᠪᠠᡞᠰᡠ	ᠪᠠᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=baisu
+11	。	。	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_98
 # text = ᡨᡝᠰᡝ ᡥᡡᡩᡠᠨ ᠶᠠᠪᡠᡣᡞᠨᡞ 。
-# text[tran] = tese hvdun yabukini
-# text[eng] = Let them go quickly
-1	ᡨᡝᠰᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡥᡡᡩᡠᠨ	_	_	_	_	_	_	_	Translit=
-3	ᠶᠠᠪᡠᡣᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-4	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tese hvdun yabukini.
+# text[eng] = Let them go quickly.
+1	ᡨᡝᠰᡝ	ᡨᡝᠰᡝ	PRON	_	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Translit=tese
+2	ᡥᡡᡩᡠᠨ	ᡥᡡᡩᡠᠨ	ADJ	_	Degree=Pos	3	advmod	_	Translit=hvdun
+3	ᠶᠠᠪᡠᡣᡞᠨᡞ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=yabukini
+4	。	。	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_99
 # text = ᠠᡣᡩᡠᠨᡨᠠᡞ ᠮᡠᡣᡝ ᠰᡞᠨᡩᠠᠮᡝ ᡤᡝᠨᡝᡣᡞᠨᡞ 。
-# text[tran] = akduntai muke sindame genekini
-# text[eng] = Let Akduntai water it
-1	ᠠᡣᡩᡠᠨᡨᠠᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠮᡠᡣᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠰᡞᠨᡩᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡤᡝᠨᡝᡣᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-5	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = Akduntai muke sindame genekini.
+# text[eng] = Let Akduntai go to water it.
+1	ᠠᡣᡩᡠᠨᡨᠠᡞ	ᠠᡣᡩᡠᠨᡨᠠᡞ	PROPN	_	_	4	nsubj	_	Translit=Akduntai
+2	ᠮᡠᡣᡝ	ᠮᡠᡣᡝ	NOUN	_	_	3	obj	_	Translit=muke
+3	ᠰᡞᠨᡩᠠᠮᡝ	ᠰᡞᠨᡩᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	4	advcl	_	Translit=sindambi
+4	ᡤᡝᠨᡝᡣᡞᠨᡞ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=genekini
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_100
 # text = ᡨᡝᠰᡝ ᡝᠷᡝ ᠪᠠᡞᡨᠠ ᠪᡝ ᠠᠷᠠᡣᡞᠨᡞ 。
-# text[tran] = tese ere baita be arakini
-# text[eng] = Let them do this thing
-1	ᡨᡝᠰᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠠᠷᠠᡣᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tese ere baita be arakini.
+# text[eng] = Let them do this thing.
+1	ᡨᡝᠰᡝ	ᡨᡝᠰᡝ	PRON	_	Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Translit=tese
+2	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	3	det	_	Translit=ere
+3	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	5	obj	_	Translit=baita
+4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
+5	ᠠᠷᠠᡣᡞᠨᡞ	ᠠᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=arakini
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_101
 # text = ᡠᠮᡝ ᡣᠠᡞᠴᠠᠮᡝ ᠰᡠᠷᡝᠷᡝ , ᡤᡞᠰᡠᠨ ᠪᡞᠴᡞ ᠰᠠᡞᠨ ᡤᡞᠰᡠᠷᡝ 。
-# text[tran] = ume kaicame surere , gisun bici sain gisure
-# text[eng] = Dont yell, take nicely
-1	ᡠᠮᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡣᠠᡞᠴᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠰᡠᠷᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-4	,	_	_	_	_	_	_	_	Translit=
-5	ᡤᡞᠰᡠᠨ	_	_	_	_	_	_	_	Translit=
-6	ᠪᡞᠴᡞ	_	_	_	_	_	_	_	Translit=
-7	ᠰᠠᡞᠨ	_	_	_	_	_	_	_	Translit=
-8	ᡤᡞᠰᡠᠷᡝ	_	_	_	_	_	_	_	Translit=
-9	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = ume kaicame surere , gisun bici sain gisure.
+# text[eng] = Dont yell, take nicely.
+1	ᡠᠮᡝ	ᡠᠮᡝ	ADV	_	Polarity=Neg	3	advmod	_	Translit=ume
+2	ᡣᠠᡞᠴᠠᠮᡝ	ᡣᠠᡞᠴᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	3	advcl	_	Translit=kaicame
+3	ᠰᡠᠷᡝᠷᡝ	ᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	8	conj	_	Translit=surere
+4	,	,	PUNCT	_	_	3	punct	_	Translit=,
+5	ᡤᡞᠰᡠᠨ	ᡤᡞᠰᡠᠨ	NOUN	_	_	6	obj	_	Translit=gisun
+6	ᠪᡞᠴᡞ	ᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Cnd	8	advcl	_	Translit=bici
+7	ᠰᠠᡞᠨ	ᠰᠠᡞᠨ	ADJ	_	_	8	advmod	_	Translit=sain
+8	ᡤᡞᠰᡠᠷᡝ	ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=gisure
+9	。	。	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_102
 # text = ᠰᡠᠸᡝ ᡠᠮᡝ ᡩᡠᠷᡤᡝᠷᡝ , ᠰᡞᠨᡞ ᠶᡝᠶᡝ ᠠᠮᡤᠠᡣᡞᠨᡞ 。
-# text[tran] = suwe ume durgere , sini yeye amgakini
-# text[eng] = Dont make noise, let your grandpa sleep well
-1	ᠰᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡠᠮᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡩᡠᠷᡤᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-4	,	_	_	_	_	_	_	_	Translit=
-5	ᠰᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-6	ᠶᡝᠶᡝ	_	_	_	_	_	_	_	Translit=
-7	ᠠᠮᡤᠠᡣᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = suwe ume durgere , sini yeye amgakini.
+# text[eng] = Dont make noise, let your grandpa sleep well.
+1	ᠰᡠᠸᡝ	ᠰᡠᠸᡝ	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Translit=suwe
+2	ᡠᠮᡝ	ᡠᠮᡝ	ADV	_	Polarity=Neg	3	advmod	_	Translit=ume
+3	ᡩᡠᠷᡤᡝᠷᡝ	ᡩᡠᠷᡤᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	7	conj	_	Translit=durgere
+4	,	,	PUNCT	_	_	3	punct	_	Translit=,
+5	ᠰᡞᠨᡞ	ᠰᡞᠨᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs|Poss=Yes	6	nmod:poss	_	Translit=sini
+6	ᠶᡝᠶᡝ	ᠶᡝᠶᡝ	NOUN	_	_	7	nsubj	_	Translit=yeye
+7	ᠠᠮᡤᠠᡣᡞᠨᡞ	ᠠᠮᡤᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=amgakini
+8	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_103
 # text = ᠮᡞᠨᡞ ᠪᡞᡠᠨᡥᡝ ᠪᡝ ᡨᡝᠷᡝ ᡩᡝ ᡠᠮᡝ ᠪᡠᠷᡝ 。
-# text[tran] = mini bithe be tere de ume bure
-# text[eng] = Dont give him my book
-1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠪᡞᡠᠨᡥᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-6	ᡠᠮᡝ	_	_	_	_	_	_	_	Translit=
-7	ᠪᡠᠷᡝ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = mini bithe be tere de ume bure.
+# text[eng] = Dont give him my book.
+1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	2	nmod:poss	_	Translit=mini
+2	ᠪᡞᡠᠨᡥᡝ	ᠪᡞᡠᠨᡥᡝ	NOUN	_	_	7	obj	_	Translit=bithe
+3	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	2	case	_	Translit=be
+4	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	7	obl	_	Translit=tere
+5	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	4	case	_	Translit=de
+6	ᡠᠮᡝ	ᡠᠮᡝ	ADV	_	_	7	advmod	_	Translit=ume
+7	ᠪᡠᠷᡝ	ᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=bure
+8	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_104
 # text = ᠰᡞ ᠠᡞ ᠪᠠᡞᡨᠠ ᡩᡝ ᠮᡠᡪᡞᠨ ᡠᠰᠠᠪᡠᡫᡞ ᠰᠣᡢᡤᠣᠮᠪᡞ ?
-# text[tran] = si ai baita de mujin usabufi songgombi ?
-# text[eng] = Why are you crying
+# text[tran] = si ai baita de mujin usabufi songgombi?
+# text[eng] = Why are you crying？
 1	ᠰᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠠᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
