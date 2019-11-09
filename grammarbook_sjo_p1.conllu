@@ -1328,110 +1328,110 @@
 # text = ᠰᡞ ᠠᡞ ᠪᠠᡞᡨᠠ ᡩᡝ ᠮᡠᡪᡞᠨ ᡠᠰᠠᠪᡠᡫᡞ ᠰᠣᡢᡤᠣᠮᠪᡞ ?
 # text[tran] = si ai baita de mujin usabufi songgombi?
 # text[eng] = Why are you crying？
-1	ᠰᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠠᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-4	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠮᡠᡪᡞᠨ	_	_	_	_	_	_	_	Translit=
-6	ᡠᠰᠠᠪᡠᡫᡞ	_	_	_	_	_	_	_	Translit=
-7	ᠰᠣᡢᡤᠣᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-8	?	_	_	_	_	_	_	_	Translit=
+1	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Translit=si
+2	ᠠᡞ	ᠠᡞ	PRON	_	PronType=Int	3	det	_	Translit=ai
+3	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	7	obl	_	Translit=baita
+4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
+5	ᠮᡠᡪᡞᠨ	ᠮᡠᡪᡞᠨ	NOUN	_	_	6	nsubj	_	Translit=mujin
+6	ᡠᠰᠠᠪᡠᡫᡞ	ᡠᠰᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv|Voice=Cau	7	advcl	_	Translit=usabufi
+7	ᠰᠣᡢᡤᠣᠮᠪᡞ	ᠰᠣᡢᡤᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=songgombi
+8	?	?	PUNCT	_	_	7	punct	_	Translit=?
 
 # sent_id = grammarbook_sjo_p1_105
 # text = ᠮᡠᠰᡝ ᠴᡞᠮᠠᠷᡞ ᠶᠠᠪᡠᡣᡞ 。
-# text[tran] = muse cimari yabuki
-# text[eng] = Lets go tomorrow
-1	ᠮᡠᠰᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠴᡞᠮᠠᠷᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠶᠠᠪᡠᡣᡞ	_	_	_	_	_	_	_	Translit=
-4	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = muse cimari yabuki.
+# text[eng] = Lets go tomorrow.
+1	ᠮᡠᠰᡝ	ᠮᡠᠰᡝ	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Translit=muse
+2	ᠴᡞᠮᠠᠷᡞ	ᠴᡞᠮᠠᠷᡞ	NOUN	_	_	3	obl:temp	_	Translit=cimari
+3	ᠶᠠᠪᡠᡣᡞ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=yabuki
+4	。	。	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_106
 # text = ᡣᡞᠴᡝᠨ ᡨᠠᡫᠠᠨᠠᠷᠠ ᡝᠷᡞᠨ ᡞᠰᡞᠨᠠᡥᠠ , ᡤᡝᠮᡠ ᡨᡝᡣᡞ 。
-# text[tran] = kicen tafanara erin isinaha , gemu teki ?
-# text[eng] = Its time for class, please sit down
-1	ᡣᡞᠴᡝᠨ	_	_	_	_	_	_	_	Translit=
-2	ᡨᠠᡫᠠᠨᠠᠷᠠ	_	_	_	_	_	_	_	Translit=
-3	ᡝᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
-4	ᡞᠰᡞᠨᠠᡥᠠ	_	_	_	_	_	_	_	Translit=
-5	,	_	_	_	_	_	_	_	Translit=
-6	ᡤᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-7	ᡨᡝᡣᡞ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = kicen tafanara erin isinaha , gemu teki.
+# text[eng] = Its time for class, please sit down.
+1	ᡣᡞᠴᡝᠨ	ᡣᡞᠴᡝᠨ	NOUN	_	_	2	nsubj	_	Translit=kicen
+2	ᡨᠠᡫᠠᠨᠠᠷᠠ	ᡨᠠᡫᠠᠨᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Part	3	acl:relcl	_	Translit=tafanara
+3	ᡝᠷᡞᠨ	ᡝᠷᡞᠨ	NOUN	_	_	4	nsubj	_	Translit=erin
+4	ᡞᠰᡞᠨᠠᡥᠠ	ᡞᠰᡞᠨᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin|Mood=Ind	7	parataxis	_	Translit=isinaha
+5	,	,	PUNCT	_	_	4	punct	_	Translit=,
+6	ᡤᡝᠮᡠ	ᡤᡝᠮᡠ	ADV	_	_	7	advmod	_	Translit=gemu
+7	ᡨᡝᡣᡞ	ᡨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=teki
+8	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_107
 # text = ᠰᡞᠷᠠᠮᡝ ᠠᠴᠠᡣᡞ 。
-# text[tran] = sirame acaki
-# text[eng] = Goodbye
-1	ᠰᡞᠷᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠠᠴᠠᡣᡞ	_	_	_	_	_	_	_	Translit=
-3	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = sirame acaki.
+# text[eng] = Goodbye.
+1	ᠰᡞᠷᠠᠮᡝ	ᠰᡞᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	2	advcl	_	Translit=sirame
+2	ᠠᠴᠠᡣᡞ	ᠠᠴᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=acaki
+3	。	。	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_108
-# text = ᠮᡞᠨᡞ ᠠᡩᡝᠪᡠᡣᡠ ᡨᠠᡧᠠᠨ ᠪᡝ ᡤᡞᠯᡪᠠᠷᠠᡠ 。
-# text[tran] = mini adebuku tašan be giljarao
-# text[eng] = Please forgive my fault
-1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠠᡩᡝᠪᡠᡣᡠ	_	_	_	_	_	_	_	Translit=
-3	ᡨᠠᡧᠠᠨ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡤᡞᠯᡪᠠᠷᠠᡠ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text = ᠮᡞᠨᡞ ᡝᠨᡩᡝᠪᡠᡣᡠ ᡨᠠᡧᠠᠨ ᠪᡝ ᡤᡞᠯᡪᠠᠷᠠᡠ 。
+# text[tran] = mini endebuku tašan be giljarao.
+# text[eng] = Please forgive my fault.
+1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	3	nmod:poss	_	Translit=mini
+2	ᡝᠨᡩᡝᠪᡠᡣᡠ	ᡝᠨᡩᡝᠪᡠᡣᡠ	NOUN	_	_	3	compound	_	Translit=endebuku
+3	ᡨᠠᡧᠠᠨ	ᡨᠠᡧᠠᠨ	ADJ	_	_	5	obj	_	Translit=tašan
+4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
+5	ᡤᡞᠯᡪᠠᠷᠠᡠ	ᡤᡞᠯᡪᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=giljarao
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_109
-# text = ᡝᠷᡝ ᡝᠮᡠ ᡫᡝᠮᡦᡞᠨ ᡪᠠᠰᡞᡤᠠᠨ ᠪᡝ ᠮᡞᠨᡞ ᠪᠣᡠ ᡩᡝ ᡞᠰᡞᠪᡠᠷᡝᡠ 。
-# text[tran] = ere emu fempin jasigan be mini boo de isibureo
-# text[eng] = Please send this letter to my home
-1	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-3	ᡫᡝᠮᡦᡞᠨ	_	_	_	_	_	_	_	Translit=
-4	ᡪᠠᠰᡞᡤᠠᠨ	_	_	_	_	_	_	_	Translit=
-5	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-6	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-7	ᠪᠣᡠ	_	_	_	_	_	_	_	Translit=
-8	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-9	ᡞᠰᡞᠪᡠᠷᡝᡠ	_	_	_	_	_	_	_	Translit=
-10	。	_	_	_	_	_	_	_	Translit=
+# text = ᡝᠷᡝ ᡝᠮᡠ ᡫᡝᠮᡦᡞ ᡪᠠᠰᡞᡤᠠᠨ ᠪᡝ ᠮᡞᠨᡞ ᠪᠣᡠ ᡩᡝ ᡞᠰᡞᠪᡠᠷᡝᡠ 。
+# text[tran] = ere emu fempi jasigan be mini boo de isibureo.
+# text[eng] = Please send this letter to my home.
+1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	2	det	_	Translit=ere
+2	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	3	nummod	_	Translit=emu
+3	ᡫᡝᠮᡦᡞ	ᡫᡝᠮᡦᡞ	NOUN	_	_	4	clf	_	Translit=fempi
+4	ᡪᠠᠰᡞᡤᠠᠨ	ᡪᠠᠰᡞᡤᠠᠨ	NOUN	_	_	9	obj	_	Translit=jasigan
+5	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	4	case	_	Translit=be
+6	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	7	nmod:poss	_	Translit=mini
+7	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	9	obl:loc	_	Translit=boo
+8	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	7	case	_	Translit=de
+9	ᡞᠰᡞᠪᡠᠷᡝᡠ	ᡞᠰᡞᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Voice=Cau|Mood=Imp	0	root	_	Translit=isibureo
+10	。	。	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_110
-# text = ᡨᡝᠷᡝ  ᡞ ᠪᠠᡞᡥᠠᠨᠠᠨ ᠪᡝ ᠪᠣᡩᠣᠷᠣᡠ 。
-# text[tran] = tere i baihanan be bodoroo
-# text[eng] = Please consider his request
-1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	 ᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠪᠠᡞᡥᠠᠨᠠᠨ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠪᠣᡩᠣᠷᠣᡠ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text = ᡨᡝᠷᡝ %u202F%u185E ᠪᠠᡞᡥᠠᠨᠠᠨ ᠪᡝ ᠪᠣᡩᠣᠷᠣᡠ 。
+# text[tran] = tere i baihanan be bodoroo.
+# text[eng] = Please consider his request.
+1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nmod	_	Translit=tere
+2	ᡞ	%u202F%u185E	ADP	_	Case=Gen	1	case	_	Translit=i
+3	ᠪᠠᡞᡥᠠᠨᠠᠨ	ᠪᠠᡞᡥᠠᠨᠠᠨ	NOUN	_	_	5	obj	_	Translit=baihanan
+4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
+5	ᠪᠣᡩᠣᠷᠣᡠ	ᠪᠣᡩᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=bodoroo
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_111
-# text = ᠠᠷᡣᡞ ᡩᠠᠮᠪᡝᡣᡠ ᠪᡝ ᠣᠮᡞᠮᡝ ᡤᠣᠴᡞᠷᡝ ᠪᡝ ᠨᠠᡣᠠᠴᡞᠨᠠ 。
-# text[tran] = arki dambeku be omime gocire be nakacina
-# text[eng] = Hope to get rid of smoking and drinking
-1	ᠠᠷᡣᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡩᠠᠮᠪᡝᡣᡠ	_	_	_	_	_	_	_	Translit=
-3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠣᠮᡞᠮᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡤᠣᠴᡞᠷᡝ	_	_	_	_	_	_	_	Translit=
-6	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-7	ᠨᠠᡣᠠᠴᡞᠨᠠ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+# text = ᠠᠷᡣᡞ ᡩᠠᠮᠪᠠᡣᡠ ᠪᡝ ᠣᠮᡞᠮᡝ ᡤᠣᠴᡞᠷᡝ ᠪᡝ ᠨᠠᡣᠠᠴᡞᠨᠠ 。
+# text[tran] = arki dambaku be omime gocire be nakacina.
+# text[eng] = Hope to get rid of smoking and drinking.
+1	ᠠᠷᡣᡞ	ᠠᠷᡣᡞ	NOUN	_	_	2	conj	_	Translit=arki
+2	ᡩᠠᠮᠪᠠᡣᡠ	ᡩᠠᠮᠪᠠᡣᡠ	NOUN	_	_	5	obj	_	Translit=dambaku
+3	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	2	case	_	Translit=be
+4	ᠣᠮᡞᠮᡝ	ᠣᠮᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=omime
+5	ᡤᠣᠴᡞᠷᡝ	ᡤᠣᠴᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Vnoun	7	obj	_	Translit=gocire
+6	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	5	case	_	Translit=be
+7	ᠨᠠᡣᠠᠴᡞᠨᠠ	ᠨᠠᡣᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=nakacina
+8	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_112
 # text = ᡨᠠᠴᡞᡣᡡ ᡩᡝ ᡪᡞᡥᡝ ᠪᡝ ᡩᠠᡥᠠᠮᡝ , ᠪᡞᡠᠨᡥᡝ ᠪᡝ ᠰᠠᡞᠨ ᡨᠠᠴᡞᠴᡞᠨᠠ 。
-# text[tran] = tacikv de jihe be dahame , bithe be sain tacicina
-# text[eng] = Now that I come to school, I hope to study hard
-1	ᡨᠠᠴᡞᡣᡡ	_	_	_	_	_	_	_	Translit=
-2	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡪᡞᡥᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡩᠠᡥᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-6	,	_	_	_	_	_	_	_	Translit=
-7	ᠪᡞᡠᠨᡥᡝ	_	_	_	_	_	_	_	Translit=
-8	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-9	ᠰᠠᡞᠨ	_	_	_	_	_	_	_	Translit=
-10	ᡨᠠᠴᡞᠴᡞᠨᠠ	_	_	_	_	_	_	_	Translit=
-11	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tacikv de jihe be dahame , bithe be sain tacicina.
+# text[eng] = Now that I come to school, I hope to study hard.
+1	ᡨᠠᠴᡞᡣᡡ	ᡨᠠᠴᡞᡣᡡ	NOUN	_	_	3	obl:loc	_	Translit=tacikv
+2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
+3	ᡪᡞᡥᡝ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Vnoun	5	obj	_	Translit=jihe
+4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
+5	ᡩᠠᡥᠠᠮᡝ	ᡩᠠᡥᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	10	advcl	_	Translit=dahame
+6	,	,	PUNCT	_	_	5	punct	_	Translit=,
+7	ᠪᡞᡠᠨᡥᡝ	ᠪᡞᡠᠨᡥᡝ	NOUN	_	_	10	obj	_	Translit=bithe
+8	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	7	case	_	Translit=be
+9	ᠰᠠᡞᠨ	ᠰᠠᡞᠨ	ADJ	_	_	10	advmod	_	Translit=sain
+10	ᡨᠠᠴᡞᠴᡞᠨᠠ	ᡨᠠᠴᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=tacicina
+11	。	。	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_113
 # text = ᡨᡝᠷᡝ ᠴᡞᠮᠠᠷᡞ ᡧᡞᠨᡞ ᡝᠮᡤᡞ ᠴᠠᠪᠴᠠᠯ ᡩᡝ ᡤᡝᠨᡝᡣᡞ ᠰᡝᠮᠪᡞ 。
