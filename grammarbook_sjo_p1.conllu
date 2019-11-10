@@ -27,7 +27,7 @@
 # text[eng] = The flowers blossomed, how pretty.
 1	ᡞᠯᡥᠠ	ᡞᠯᡥᠠ	NOUN	_	_	4	nsubj	_	Translit=ilha
 2	ᠯᡝᠷ	ᠯᡝᠷ	ADV	_	_	4	advmod	_	Translit=ler
-3	ᠰᡝᠮᡝ	ᠰᡝᠮᡝ	_	_	_	2	compound	_	Translit=seme
+3	ᠰᡝᠮᡝ	ᠰᡝᠮᡝ	X	_	_	2	compound	_	Translit=seme
 4	ᡞᠯᡥᠠᡫᡞ	ᠰᠯᠠᠮᠪᡞ	VERB	_	VerbForm=Conv	0	root	_	Translit=ilhafi
 5	,	,	PUNCT	_	_	4	punct	_	Translit=,
 6	ᠠᠪᠰᡞ	ᠠᠪᠰᡞ	ADV	_	_	7	advmod	_	Translit=absi
@@ -47,7 +47,7 @@
 7	ᡨᠠᠴᡞᡥᡞᠶᠠᠨ	ᡨᠠᠴᡞᡥᡞᠶᠠᠨ	NOUN	_	_	9	obj	_	Translit=tajihijan
 8	ᠪᡝ	ᠪᡝ	PART	_	Case=Acc	7	case	_	Translit=be
 9	ᠠᡣᡩᠠᠮᡝ	ᠠᡣᡩᠠᠮᠪᡞ	VERB	_	VerbForm=Inf|Tense=Pre	10	aux	_	Translit=akdame
-10	ᠪᡞᡥᡝᠪᡞ	ᠪᡞᠮᠪᡞ	AUX	_	Tense=Past	0	root	_	Translit=bihebi
+10	ᠪᡞᡥᡝᠪᡞ	ᠪᡞᠮᠪᡞ	AUX	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=bihebi
 11	。	_	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_5
@@ -918,9 +918,9 @@
 5	,	,	PUNCT	_	_	4	punct	_	Translit=,
 6	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	8	nmod	_	Translit=boo
 7	 ᡞ	%u202F%u185E	ADP	_	Case=Gen	6	case	_	Translit=i
-8	ᡥᡝᡨᡥᡝ	ᡥᡝᡨᡥᡝ	NOUN	_	_	10	obj	_	Translit=hethe
+8	ᡥᡝᡨᡥᡝ	ᡥᡝᡨᡥᡝ	NOUN	_	_	15	obl:reason	_	Translit=hethe
 9	 ᡞ	%u202F%u185E	ADP	_	Case=Gen	8	case	_	Translit=i
-10	ᡪᠠᠯᡞᠨ	ᡪᠠᠯᡞᠨ	ADP	_	_	15	obl:reason	_	Translit=jalin
+10	ᡪᠠᠯᡞᠨ	ᡪᠠᠯᡞᠨ	ADP	_	_	8	nmod:case	_	Translit=jalin
 11	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	10	case	_	Translit=de
 12	,	,	PUNCT	_	_	10	punct	_	Translit=,
 13	ᠠᠮᠪᠠᠷᠠᠮᡝ	ᠠᠮᠪᠠᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	14	advcl	_	Translit=ambarame
@@ -996,7 +996,7 @@
 # text[tran] = bi weilemahakv bi.
 # text[eng] = I am not working now.
 1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Translit=bi
-2	ᠸᡝᡞᠯᡝᠮᠠᡥᠠᡣᡡ	ᠸᡝᡞᠯᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=weilemahakv
+2	ᠸᡝᡞᠯᡝᠮᠠᡥᠠᡣᡡ	ᠸᡝᡞᠯᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Polarity=Neg	0	root	_	Translit=weilemahakv
 3	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	2	aux	_	Translit=bi
 4	。	。	PUNCT	_	_	2	punct	_	Translit=.
 
@@ -1006,8 +1006,8 @@
 # text[eng] = My younger brother is not going to school yet.
 1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	2	nmod:poss	_	Translit=mini
 2	ᡩᡝᡠ	ᡩᡝᡠ	NOUN	_	_	3	nsubj	_	Translit=deo
-3	ᡨᠠᠴᡞᠮᠠᡥᠠᡣᡡ	ᡨᠠᠴᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=tacimahakv
-4	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	3	aux	_	Translit=bi
+3	ᡨᠠᠴᡞᠮᠠᡥᠠᡣᡡ	ᡨᠠᠴᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Polarity=Neg	0	root	_	Translit=tacimahakv
+4	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin|Mood=Ind	3	aux	_	Translit=bi
 5	。	。	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_77
@@ -1015,8 +1015,8 @@
 # text[tran] = isan neimahakv bi
 # text[eng] = There is no meeting now
 1	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	2	nsubj	_	Translit=isan
-2	ᠨᡝᡞᠮᠠᡥᠠᡣᡡ	ᠨᡝᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=neimahakv
-3	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	2	aux	_	Translit=bi
+2	ᠨᡝᡞᠮᠠᡥᠠᡣᡡ	ᠨᡝᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Polarity=Neg	0	root	_	Translit=neimahakv
+3	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin|Mood=Ind	2	aux	_	Translit=bi
 4	。	。	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_78
@@ -1029,8 +1029,8 @@
 4	 ᡞ	%u202F%u185E	ADP	_	Case=Gen	3	case	_	Translit=i
 5	ᡤᡡᠨᡞᠨ	ᡤᡡᠨᡞᠨ	NOUN	_	_	7	obj	_	Translit=gvnin
 6	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	5	case	_	Translit=be
-7	ᡠᠯᡥᡞᠷᠠᡣᡡ	ᡠᠯᡥᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=ulhirakv
-8	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᡥᠠᠪᡞ	AUX	_	VerbForm=Fin	7	aux	_	Translit=ilihabi
+7	ᡠᠯᡥᡞᠷᠠᡣᡡ	ᡠᠯᡥᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Polarity=Neg	0	root	_	Translit=ulhirakv
+8	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᡥᠠᠪᡞ	AUX	_	VerbForm=Fin|Mood=Ind	7	aux	_	Translit=ilihabi
 9	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_79
@@ -1040,8 +1040,8 @@
 1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	2	nmod:poss	_	Translit=mini
 2	ᠶᠠᠰᠠ	ᠶᠠᠰᠠ	NOUN	_	_	4	nsubj	_	Translit=yasa
 3	ᡞᠯᡤᠠᡧᠠᠮᡝ	ᡞᠯᡤᠠᡧᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	4	advcl	_	Translit=ilgašame
-4	ᠰᠠᠪᡠᠷᠠᡣᡡ	ᠰᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=saburakv
-5	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᡥᠠᠪᡞ	AUX	_	VerbForm=Fin	4	aux	_	Translit=ilihabi
+4	ᠰᠠᠪᡠᠷᠠᡣᡡ	ᠰᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Polarity=Neg	0	root	_	Translit=saburakv
+5	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᡥᠠᠪᡞ	AUX	_	VerbForm=Fin|Mood=Ind	4	aux	_	Translit=ilihabi
 6	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_80
@@ -1052,8 +1052,8 @@
 2	ᡝᡫᡠᡪᡝᡫᡞ	ᡝᡫᡠᡪᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=efujefi
 3	,	,	PUNCT	_	_	2	punct	_	Translit=,
 4	ᠶᠠᠪᡠᠮᡝ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=yabume
-5	ᠮᡠᡨᡝᠷᠠᡣᡡ	ᠮᡠᡨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=muterakv
-6	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᡥᠠᠪᡞ	AUX	_	VerbForm=Fin	5	aux	_	Translit=ilihabi
+5	ᠮᡠᡨᡝᠷᠠᡣᡡ	ᠮᡠᡨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Polarity=Neg	0	root	_	Translit=muterakv
+6	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᡥᠠᠪᡞ	AUX	_	VerbForm=Fin|Mood=Ind	5	aux	_	Translit=ilihabi
 7	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_81
@@ -1064,9 +1064,9 @@
 2	ᡩᠠᡞᡫᡠᠷᠠᠨ	ᡩᠠᡞᡫᡠᠷᠠᠨ	NOUN	_	_	3	compound	_	Translit=daifuran
 3	ᡣᡡᠸᠠᠷᠠᠨ	ᡣᡡᠸᠠᠷᠠᠨ	NOUN	_	_	5	obl:loc	_	Translit=kvwaran
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
-5	ᡩᡝᡩᡠᠮᡝ	ᡩᡝᡩᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	6	advcl	_	Translit=dedume
-6	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=dulehekv
-7	。	。	PUNCT	_	_	6	punct	_	Translit=.
+5	ᡩᡝᡩᡠᠮᡝ	ᡩᡝᡩᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	0	root	_	Translit=dedume
+6	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Tense=Past|VerbForm=Fin|Polarity=Neg	5	aux	_	Translit=dulehekv
+7	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_82
 # text = ᠪᡞ ᡩᠠᡞᡫᡠᠷᠠᠨ ᡣᡡᠸᠠᠷᠠᠨ ᡩᡝ ᡩᡝᡩᡠᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ ᠪᡞ 。
@@ -1076,10 +1076,10 @@
 2	ᡩᠠᡞᡫᡠᠷᠠᠨ	ᡩᠠᡞᡫᡠᠷᠠᠨ	NOUN	_	_	3	compound	_	Translit=daifuran
 3	ᡣᡡᠸᠠᠷᠠᠨ	ᡣᡡᠸᠠᠷᠠᠨ	NOUN	_	_	5	obl:loc	_	Translit=kvwaran
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
-5	ᡩᡝᡩᡠᠮᡝ	ᡩᡝᡩᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	6	advcl	_	Translit=dedume
-6	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=dulehekv
-7	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	6	aux	_	Translit=bi
-8	。	。	PUNCT	_	_	6	punct	_	Translit=.
+5	ᡩᡝᡩᡠᠮᡝ	ᡩᡝᡩᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	0	root	_	Translit=dedume
+6	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Tense=Past|VerbForm=Fin|Polarity=Neg	5	aux	_	Translit=dulehekv
+7	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	5	aux	_	Translit=bi
+8	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_83
 # text = ᡝᠷᡝ ᠮᡝᡪᡞᡤᡝ ᠪᡝ ᡩᠣᠨᡪᡞᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ 。
@@ -1088,9 +1088,9 @@
 1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	2	det	_	Translit=ere
 2	ᠮᡝᡪᡞᡤᡝ	ᠮᡝᡪᡞᡤᡝ	NOUN	_	_	4	obj	_	Translit=mejige
 3	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	2	case	_	Translit=be
-4	ᡩᠣᠨᡪᡞᠮᡝ	ᡩᠣᠨᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=donjime
-5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=dulehekv
-6	。	。	PUNCT	_	_	5	punct	_	Translit=.
+4	ᡩᠣᠨᡪᡞᠮᡝ	ᡩᠣᠨᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	0	root	_	Translit=donjime
+5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Tense=Past|VerbForm=Fin|Polarity=Neg	4	aux	_	Translit=dulehekv
+6	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_84
 # text = ᡝᠷᡝ ᠮᡝᡪᡞᡤᡝ ᠪᡝ ᡩᠣᠨᡪᡞᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ ᠪᡞ 。
@@ -1099,10 +1099,10 @@
 1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	2	det	_	Translit=ere
 2	ᠮᡝᡪᡞᡤᡝ	ᠮᡝᡪᡞᡤᡝ	NOUN	_	_	4	obj	_	Translit=mejige
 3	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	2	case	_	Translit=be
-4	ᡩᠣᠨᡪᡞᠮᡝ	ᡩᠣᠨᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=donjime
-5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=dulehekv
-6	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	5	aux	_	Translit=bi
-7	。	。	PUNCT	_	_	5	punct	_	Translit=.
+4	ᡩᠣᠨᡪᡞᠮᡝ	ᡩᠣᠨᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	0	root	_	Translit=donjime
+5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Tense=Past|VerbForm=Fin|Polarity=Neg	4	aux	_	Translit=dulehekv
+6	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	4	aux	_	Translit=bi
+7	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_85
 # text = ᠪᡞ  ᠮᡠᡣᡩᡝᠨ ᡩᡝ ᡤᡝᠨᡝᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ 。
@@ -1111,21 +1111,21 @@
 1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=bi
 2	ᠮᡠᡣᡩᡝᠨ	ᠮᡠᡣᡩᡝᠨ	PROPN	_	_	4	obl:loc	_	Translit=Mukden
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
-4	ᡤᡝᠨᡝᠮᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=geneme
-5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=dulehekv
-6	。	。	PUNCT	_	_	5	punct	_	Translit=.
+4	ᡤᡝᠨᡝᠮᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	0	root	_	Translit=geneme
+5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Tense=Past|VerbForm=Fin|Polarity=Neg	4	aux	_	Translit=dulehekv
+6	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_86
 # text = ᠪᡞ  ᠮᡠᡣᡩᡝᠨ ᡩᡝ ᡤᡝᠨᡝᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ ᠪᡞ 。
 # text[tran] = bi Mukden de geneme dulehekv bi.
 # text[eng] = I have never been to Shenyang.
-1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Translit=bi
+1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=bi
 2	ᠮᡠᡣᡩᡝᠨ	ᠮᡠᡣᡩᡝᠨ	PROPN	_	_	4	obl:loc	_	Translit=Mukden
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
-4	ᡤᡝᠨᡝᠮᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=geneme
-5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=dulehekv
-6	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	5	aux	_	Translit=bi
-7	。	。	PUNCT	_	_	5	punct	_	Translit=.
+4	ᡤᡝᠨᡝᠮᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	0	root	_	Translit=geneme
+5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Tense=Past|VerbForm=Fin|Polarity=Neg	4	aux	_	Translit=dulehekv
+6	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	4	aux	_	Translit=bi
+7	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_87
 # text = ᠠᠯᡞᠨ ᡩᡝ ᠨᡞᡠᡥᡝ ᠰᠠᠪᡠᡥᠠᡣᡡ 。
@@ -1144,7 +1144,7 @@
 1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=bi
 2	ᠰᠠᠷᡞᠨ	ᠰᠠᠷᡞᠨ	NOUN	_	_	3	obj	_	Translit=sarin
 3	ᡪᡝᠮᡝ	ᡪᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	4	advcl	_	Translit=jeme
-4	ᡤᡝᠨᡝᡥᡝᡣᡡ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=genehekv
+4	ᡤᡝᠨᡝᡥᡝᡣᡡ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Inf|Polarity=Neg	0	root	_	Translit=genehekv
 5	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	4	aux	_	Translit=bi
 6	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
@@ -1290,7 +1290,7 @@
 # text[eng] = Dont yell, take nicely.
 1	ᡠᠮᡝ	ᡠᠮᡝ	ADV	_	Polarity=Neg	3	advmod	_	Translit=ume
 2	ᡣᠠᡞᠴᠠᠮᡝ	ᡣᠠᡞᠴᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	3	advcl	_	Translit=kaicame
-3	ᠰᡠᠷᡝᠷᡝ	ᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	8	conj	_	Translit=surere
+3	ᠰᡠᠷᡝᠷᡝ	ᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	8	parataxis	_	Translit=surere
 4	,	,	PUNCT	_	_	3	punct	_	Translit=,
 5	ᡤᡞᠰᡠᠨ	ᡤᡞᠰᡠᠨ	NOUN	_	_	6	obj	_	Translit=gisun
 6	ᠪᡞᠴᡞ	ᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Cnd	8	advcl	_	Translit=bici
@@ -1434,187 +1434,187 @@
 11	。	。	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_113
-# text = ᡨᡝᠷᡝ ᠴᡞᠮᠠᠷᡞ ᡧᡞᠨᡞ ᡝᠮᡤᡞ ᠴᠠᠪᠴᠠᠯ ᡩᡝ ᡤᡝᠨᡝᡣᡞ ᠰᡝᠮᠪᡞ 。
-# text[tran] = tere cimari šini emgi cabcal de geneki sembi
-# text[eng] = He hopes to go to Cabcal with you tomorrow
-1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠴᡞᠮᠠᠷᡞ	_	_	_	_	_	_	_	Translit=
-3	ᡧᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-4	ᡝᠮᡤᡞ	_	_	_	_	_	_	_	Translit=
-5	ᠴᠠᠪᠴᠠᠯ	_	_	_	_	_	_	_	Translit=
-6	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-7	ᡤᡝᠨᡝᡣᡞ	_	_	_	_	_	_	_	Translit=
-8	ᠰᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-9	。	_	_	_	_	_	_	_	Translit=
+# text = ᡨᡝᠷᡝ ᠴᡞᠮᠠᠷᡞ ᠰᡞᠨᡞ ᡝᠮᡤᡞ ᠴᠠᠪᠴᠠᠯ ᡩᡝ ᡤᡝᠨᡝᡣᡞ ᠰᡝᠮᠪᡞ 。
+# text[tran] = tere cimari sini emgi cabcal de geneki sembi.
+# text[eng] = He hopes to go to Cabcal with you tomorrow.
+1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=tere
+2	ᠴᡞᠮᠠᠷᡞ	ᠴᡞᠮᠠᠷᡞ	NOUN	_	_	7	obl:temp	_	Translit=cimari
+3	ᠰᡞᠨᡞ	ᠰᡞᠨᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs|Poss=Yes|Case=Gen	7	obl:comitative	_	Translit=sini
+4	ᡝᠮᡤᡞ	ᡝᠮᡤᡞ	ADP	_	Case=Com	3	case	_	Translit=emgi
+5	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	7	obl:loc	_	Translit=cabcal
+6	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	5	case	_	Translit=de
+7	ᡤᡝᠨᡝᡣᡞ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=geneki
+8	ᠰᡝᠮᠪᡞ	ᠰᡝᠮᠪᡞ	AUX	_	_	7	aux	_	Translit=sembi
+9	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_114
 # text = ᠠᠨᡨᠠᡥᠠ ᡤᡝᠮᡠ ᠪᡝᡩᡝᠷᡝᠮᡝ ᠶᠠᠪᡠᡣᡞ ᠰᡝᠮᠪᡞ 。
-# text[tran] = antaha gemu bedereme yabuki sembi
-# text[eng] = Guests all want to go back
-1	ᠠᠨᡨᠠᡥᠠ	_	_	_	_	_	_	_	Translit=
-2	ᡤᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-3	ᠪᡝᡩᡝᠷᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠶᠠᠪᡠᡣᡞ	_	_	_	_	_	_	_	Translit=
-5	ᠰᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = antaha gemu bedereme yabuki sembi.
+# text[eng] = Guests all want to go back.
+1	ᠠᠨᡨᠠᡥᠠ	ᠠᠨᡨᠠᡥᠠ	NOUN	_	_	4	nsubj	_	Translit=antaha
+2	ᡤᡝᠮᡠ	ᡤᡝᠮᡠ	ADV	_	_	4	advmod	_	Translit=gemu
+3	ᠪᡝᡩᡝᠷᡝᠮᡝ	ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	4	advcl	_	Translit=bedereme
+4	ᠶᠠᠪᡠᡣᡞ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=yabuki
+5	ᠰᡝᠮᠪᡞ	ᠰᡝᠮᠪᡞ	AUX	_	_	4	aux	_	Translit=sembi
+6	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_115
 # text = ᠪᡝ ᠮᡝᠨᡞ ᠪᠠᠨᡪᡞᠨ ᠪᡝ ᡝᠯᡝᡞ ᠰᠠᡞᠯᠠᠮᡝ ᠪᠠᠨᡪᡞᡣᡞ ᠰᡝᠮᠪᡞ 。
-# text[tran] = be mini banjin be elei sailame banjiki sembi
-# text[eng] = We plan to live better
-1	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠮᡝᠨᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠪᠠᠨᡪᡞᠨ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡝᠯᡝᡞ	_	_	_	_	_	_	_	Translit=
-6	ᠰᠠᡞᠯᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-7	ᠪᠠᠨᡪᡞᡣᡞ	_	_	_	_	_	_	_	Translit=
-8	ᠰᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-9	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = be meni banjin be elei sailame banjiki sembi.
+# text[eng] = We plan to live better.
+1	ᠪᡝ	ᠪᡝ	PRON	_	Number=Plur|Person=1|PronType=Prs|Clusivity=Ex	7	nsubj	_	Translit=be
+2	ᠮᡝᠨᡞ	ᠮᡝᠨᡞ	PRON	_	Number=Plur|Person=1|PronType=Prs|Clusivity=Ex|Poss=Yes	3	nmod:poss	_	Translit=meni
+3	ᠪᠠᠨᡪᡞᠨ	ᠪᠠᠨᡪᡞᠨ	NOUN	_	_	7	obj	_	Translit=banjin
+4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
+5	ᡝᠯᡝᡞ	ᡝᠯᡝᡞ	ADV	_	_	6	advmod	_	Translit=elei
+6	ᠰᠠᡞᠯᠠᠮᡝ	ᠰᠠᡞᠯᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	7	advcl	_	Translit=sailame
+7	ᠪᠠᠨᡪᡞᡣᡞ	ᠪᠠᠨᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Mood=Imp	0	root	_	Translit=banjiki
+8	ᠰᡝᠮᠪᡞ	ᠰᡝᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Fin|Mood=Ind	7	aux	_	Translit=sembi
+9	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_116
 # text = ᡨᠠᠴᡞᠨ ᡤᡠᠴᡠᠰᡝ ᡤᡝᠮᡠ ᡝᠷᡝ ᡩᠣᠪᠣᠷᡞ ᡥᡝᠯᠮᡝᡫᡞᠨ ᡨᡠᠸᠠᡣᡞ ᠰᡝᠮᠪᡞ 。
-# text[tran] = tacin gucuse gemu ere dobori helmefin tuwaki sembi
-# text[eng] = Students all hope to watch movie tonight
-1	ᡨᠠᠴᡞᠨ	_	_	_	_	_	_	_	Translit=
-2	ᡤᡠᠴᡠᠰᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡤᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-4	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡩᠣᠪᠣᠷᡞ	_	_	_	_	_	_	_	Translit=
-6	ᡥᡝᠯᠮᡝᡫᡞᠨ	_	_	_	_	_	_	_	Translit=
-7	ᡨᡠᠸᠠᡣᡞ	_	_	_	_	_	_	_	Translit=
-8	ᠰᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-9	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tacin gucuse gemu ere dobori helmefin tuwaki sembi.
+# text[eng] = Students all hope to watch movie tonight.
+1	ᡨᠠᠴᡞᠨ	ᡨᠠᠴᡞᠨ	NOUN	_	_	2	compound	_	Translit=tacin
+2	ᡤᡠᠴᡠᠰᡝ	ᡤᡠᠴᡠ	NOUN	_	Number=Plur	7	nsubj	_	Translit=gucuse
+3	ᡤᡝᠮᡠ	ᡤᡝᠮᡠ	ADV	_	_	7	advmod	_	Translit=gemu
+4	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	5	det	_	Translit=ere
+5	ᡩᠣᠪᠣᠷᡞ	ᡩᠣᠪᠣᠷᡞ	NOUN	_	_	7	obl:temp	_	Translit=bodori
+6	ᡥᡝᠯᠮᡝᡫᡞᠨ	ᡥᡝᠯᠮᡝᡫᡞᠨ	NOUN	_	_	7	obj	_	Translit=helmefin
+7	ᡨᡠᠸᠠᡣᡞ	ᡨᡠᠸᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Mood=Imp	0	root	_	Translit=tuwaki
+8	ᠰᡝᠮᠪᡞ	ᠰᡝᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Fin|Mood=Ind	7	aux	_	Translit=sembi
+9	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_117
 # text = ᡨᡝᠷᡝ ᡤᡝᠨᡝᠴᡞ , ᠰᡞ ᡞᠨᡠ ᡤᡝᠨᡝᡣᡞ 。
-# text[tran] = tere geneci , si inu geneki
-# text[eng] = If he goes, you go too
-1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡤᡝᠨᡝᠴᡞ	_	_	_	_	_	_	_	Translit=
-3	,	_	_	_	_	_	_	_	Translit=
-4	ᠰᡞ	_	_	_	_	_	_	_	Translit=
-5	ᡞᠨᡠ	_	_	_	_	_	_	_	Translit=
-6	ᡤᡝᠨᡝᡣᡞ	_	_	_	_	_	_	_	Translit=
-7	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tere geneci , si inu geneki.
+# text[eng] = If he goes, you go too.
+1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=tere
+2	ᡤᡝᠨᡝᠴᡞ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Cnd	6	advcl	_	Translit=geneci
+3	,	,	PUNCT	_	_	2	punct	_	Translit=,
+4	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Translit=si
+5	ᡞᠨᡠ	ᡞᠨᡠ	ADV	_	_	6	advmod	_	Translit=inu
+6	ᡤᡝᠨᡝᡣᡞ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VernForm=Fin|Mood=Imp	0	root	_	Translit=geneki
+7	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_118
 # text = ᡞ ᠪᡝ ᠰᠠᠪᡠᠴᡞ , ᠮᡞᠨᡞ ᠪᠠᡩᡝ ᡪᡞᡠ ᠰᡝᠮᡝ ᠠᠯᠠᠴᡞᠨᠠ 。
-# text[tran] = i be sabuci , mini bade jio seme alacina
-# text[eng] = If you see him, please tell him to come to me
-1	ᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠰᠠᠪᡠᠴᡞ	_	_	_	_	_	_	_	Translit=
-4	,	_	_	_	_	_	_	_	Translit=
-5	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-6	ᠪᠠᡩᡝ	_	_	_	_	_	_	_	Translit=
-7	ᡪᡞᡠ	_	_	_	_	_	_	_	Translit=
-8	ᠰᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-9	ᠠᠯᠠᠴᡞᠨᠠ	_	_	_	_	_	_	_	Translit=
-10	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = i be sabuci , mini bade jio seme alacina.
+# text[eng] = If you see him, please tell him to come to me.
+1	ᡞ	ᡞ	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	Translit=i
+2	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	1	case	_	Translit=be
+3	ᠰᠠᠪᡠᠴᡞ	ᠰᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Cnd	9	advcl	_	Translit=sabuci
+4	,	,	PUNCT	_	_	3	punct	_	Translit=,
+5	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	6	nmod:poss	_	Translit=mini
+6	ᠪᠠᡩᡝ	ᠪᠠ	NOUN	_	Case=Dat	7	obl:loc	_	Translit=bade
+7	ᡪᡞᡠ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Mood=Imp	9	advcl	_	Translit=jio
+8	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Conv	7	aux	_	Translit=seme
+9	ᠠᠯᠠᠴᡞᠨᠠ	ᠠᠯᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=alacina
+10	。	。	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_119
 # text = ᡨᡝᠰᡝ ᡤᡝᠮᡠ ᠶᠠᠪᡠᠴᡞ , ᠰᡠᠸᡝ ᡪᡞᡠ 。
-# text[tran] = tese gemu yabuci , suwe jio
-# text[eng] = If they all leave, you come
-1	ᡨᡝᠰᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡤᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-3	ᠶᠠᠪᡠᠴᡞ	_	_	_	_	_	_	_	Translit=
-4	,	_	_	_	_	_	_	_	Translit=
-5	ᠰᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
-6	ᡪᡞᡠ	_	_	_	_	_	_	_	Translit=
-7	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tese gemu yabuci , suwe jio.
+# text[eng] = If they all leave, you come.
+1	ᡨᡝᠰᡝ	ᡨᡝᠰᡝ	PRON	_	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Translit=tese
+2	ᡤᡝᠮᡠ	ᡤᡝᠮᡠ	ADV	_	_	3	advmod	_	Translit=gemu
+3	ᠶᠠᠪᡠᠴᡞ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Cnd	6	advcl	_	Translit=yabuci
+4	,	,	PUNCT	_	_	3	punct	_	Translit=,
+5	ᠰᡠᠸᡝ	ᠰᡠᠸᡝ	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	Translit=suwe
+6	ᡪᡞᡠ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=jio
+7	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_120
 # text = ᠪᠠᡞᡨᠠ ᡪᡠᡣᡝᠨ ᠣᠴᡞ , ᡥᡡᡩᡠᠨ ᠪᡝᡩᡝᠷᡝᡣᡞ 。
-# text[tran] = baita juken oci , hvdun bedereki
-# text[eng] = If things do not go well, please come back soon
-1	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-2	ᡪᡠᡣᡝᠨ	_	_	_	_	_	_	_	Translit=
-3	ᠣᠴᡞ	_	_	_	_	_	_	_	Translit=
-4	,	_	_	_	_	_	_	_	Translit=
-5	ᡥᡡᡩᡠᠨ	_	_	_	_	_	_	_	Translit=
-6	ᠪᡝᡩᡝᠷᡝᡣᡞ	_	_	_	_	_	_	_	Translit=
-7	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = baita juken oci , hvdun bedereki.
+# text[eng] = If things do not go well, please come back soon.
+1	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	3	nsubj	_	Translit=baita
+2	ᡪᡠᡣᡝᠨ	ᡪᡠᡣᡝᠨ	ADV	_	_	3	advmod	_	Translit=juken
+3	ᠣᠴᡞ	ᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Cnd	6	advcl	_	Translit=oci
+4	,	,	PUNCT	_	_	3	punct	_	Translit=,
+5	ᡥᡡᡩᡠᠨ	ᡥᡡᡩᡠᠨ	ADJ	_	_	6	advmod	_	Translit=hvdun
+6	ᠪᡝᡩᡝᠷᡝᡣᡞ	ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=bedereki
+7	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_121
-# text = ᠰᡞ ᠴᡞᠮᠠᠷᡞ ᡝᠷᡩᡝ ᡝᠷᡞᠨᡩᡝ ᠠᠴᡞᠪᡠᠮᡝ ᡪᡞᠷᡣᡡ ᠣᠴᡞ , ᠪᡝ ᠰᡞᠮᠪᡝ ᠠᠯᡞᠶᠠᠷᠠᡣᡡ 。
-# text[tran] = si cimari erde erinde acibume jirkv oci , be simbe aliyarakv
-# text[eng] = If you dont come back on time tomorrow morning, we will not wait for you
-1	ᠰᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠴᡞᠮᠠᠷᡞ	_	_	_	_	_	_	_	Translit=
-3	ᡝᠷᡩᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡝᠷᡞᠨᡩᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠠᠴᡞᠪᡠᠮᡝ	_	_	_	_	_	_	_	Translit=
-6	ᡪᡞᠷᡣᡡ	_	_	_	_	_	_	_	Translit=
-7	ᠣᠴᡞ	_	_	_	_	_	_	_	Translit=
-8	,	_	_	_	_	_	_	_	Translit=
-9	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-10	ᠰᡞᠮᠪᡝ	_	_	_	_	_	_	_	Translit=
-11	ᠠᠯᡞᠶᠠᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-12	。	_	_	_	_	_	_	_	Translit=
+# text = ᠰᡞ ᠴᡞᠮᠠᠷᡞ ᡝᠷᡩᡝ ᡝᠷᡞᠨᡩᡝ ᠠᠴᠠᠪᡠᠮᡝ ᡪᡞᠷᡣᡡ ᠣᠴᡞ , ᠪᡝ ᠰᡞᠮᠪᡝ ᠠᠯᡞᠶᠠᠷᠠᡣᡡ 。
+# text[tran] = si cimari erde erinde acabume jirkv oci , be simbe aliyarakv.
+# text[eng] = If you dont come back on time tomorrow morning, we will not wait for you.
+1	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Translit=si
+2	ᠴᡞᠮᠠᠷᡞ	ᠴᡞᠮᠠᠷᡞ	NOUN	_	_	3	compound	_	Translit=cimari
+3	ᡝᠷᡩᡝ	ᡝᠷᡩᡝ	NOUN	_	_	6	obl:temp	_	Translit=erde
+4	ᡝᠷᡞᠨᡩᡝ	ᡝᠷᡞᠨ	NOUN	_	Case=Dat	6	obl:temp	_	Translit=erinde
+5	ᠠᠴᠠᠪᡠᠮᡝ	ᠠᠴᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	6	advcl	_	Translit=acabume
+6	ᡪᡞᠷᡣᡡ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Polarity=Neg	11	advcl	_	Translit=jirkv
+7	ᠣᠴᡞ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Fin|Mood=Cnd	6	aux	_	Translit=oci
+8	,	,	PUNCT	_	_	6	punct	_	Translit=,
+9	ᠪᡝ	ᠪᡝ	PRON	_	Number=Plur|Person=1|PronType=Prs|Clusivity=Ex	11	nsubj	_	Translit=be
+10	ᠰᡞᠮᠪᡝ	ᠰᡞᠮᠪᡝ	PRON	_	Number=Sing|Person=2|PronType=Prs|Case=Acc	11	obj	_	Translit=simbe
+11	ᠠᠯᡞᠶᠠᠷᠠᡣᡡ	ᠠᠯᡞᠶᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=aliyarakv
+12	。	。	PUNCT	_	_	11	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_122
-# text = ᠰᡞᠨᡩᡝ ᡝᠨᡝᡢᡤᡞ  ᡞ ᠰᡝᠷᡣᡞᠨ ᠪᡞᠴᡞ , ᠮᡞᠨᡩᡝ ᡪᡠᠸᡝᠨ ᠪᡠᠷᡝᡠ 。
-# text[tran] = sinde enenggi i serkin bici , minde juwen bureo
-# text[eng] = If you have todays newspaper, please lend it to me
-1	ᠰᡞᠨᡩᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡝᠨᡝᡢᡤᡞ	_	_	_	_	_	_	_	Translit=
-3	 ᡞ	_	_	_	_	_	_	_	Translit=
-4	ᠰᡝᠷᡣᡞᠨ	_	_	_	_	_	_	_	Translit=
-5	ᠪᡞᠴᡞ	_	_	_	_	_	_	_	Translit=
-6	,	_	_	_	_	_	_	_	Translit=
-7	ᠮᡞᠨᡩᡝ	_	_	_	_	_	_	_	Translit=
-8	ᡪᡠᠸᡝᠨ	_	_	_	_	_	_	_	Translit=
-9	ᠪᡠᠷᡝᡠ	_	_	_	_	_	_	_	Translit=
-10	。	_	_	_	_	_	_	_	Translit=
+# text = ᠰᡞᠨᡩᡝ ᡝᠨᡝᡢᡤᡞ %u202F%u185E ᠰᡝᠷᡣᡞᠨ ᠪᡞᠴᡞ , ᠮᡞᠨᡩᡝ ᡪᡠᠸᡝᠨ ᠪᡠᠷᡝᡠ 。
+# text[tran] = sinde enenggi i serkin bici , minde juwen bureo.
+# text[eng] = If you have todays newspaper, please lend it to me.
+1	ᠰᡞᠨᡩᡝ	ᠰᡞᠨᡩᡝ	PRON	_	Number=Sing|Person=2|PronType=Prs|Case=Dat	5	obl:beneficiary	_	Translit=sinde
+2	ᡝᠨᡝᡢᡤᡞ	ᡝᠨᡝᡢᡤᡞ	NOUN	_	_	4	nmod	_	Translit=enenggi
+3	ᡞ	%u202F%u185E	ADP	_	Case=Gen	2	case	_	Translit=i
+4	ᠰᡝᠷᡣᡞᠨ	ᠰᡝᠷᡣᡞᠨ	NOUN	_	_	5	cop:exist	_	Translit=serkin
+5	ᠪᡞᠴᡞ	ᠪᡞ	VERB	_	VerbForm=Fin|Mood=Cnd	9	advcl	_	Translit=bici
+6	,	,	PUNCT	_	_	5	punct	_	Translit=,
+7	ᠮᡞᠨᡩᡝ	ᠮᡞᠨᡩᡝ	PRON	_	Number=Sing|Person=1|PronType=Prs|Case=Dat	9	obl:beneficiary	_	Translit=minde
+8	ᡪᡠᠸᡝᠨ	ᡪᡠᠸᡝᠨ	NOUN	_	_	9	compound:verb	_	Translit=juwen
+9	ᠪᡠᠷᡝᡠ	ᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=bureo
+10	。	。	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_123
-# text = ᠰᡞᠨᡩᡝ ᡝᠨᡝᡢᡤᡞ  ᡞ ᠰᡝᠷᡣᡞᠨ ᠪᡞ ᠣᠴᡞ , ᠮᡞᠨᡩᡝ ᡪᡠᠸᡝᠨ ᠪᡠᠷᡝᡠ 。
-# text[tran] = sinde enenggi i serkin bi oci , minde juwen bureo
-# text[eng] = If you have todays newspaper, please lend it to me
-1	ᠰᡞᠨᡩᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡝᠨᡝᡢᡤᡞ	_	_	_	_	_	_	_	Translit=
-3	 ᡞ	_	_	_	_	_	_	_	Translit=
-4	ᠰᡝᠷᡣᡞᠨ	_	_	_	_	_	_	_	Translit=
-5	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-6	ᠣᠴᡞ	_	_	_	_	_	_	_	Translit=
-7	,	_	_	_	_	_	_	_	Translit=
-8	ᠮᡞᠨᡩᡝ	_	_	_	_	_	_	_	Translit=
-9	ᡪᡠᠸᡝᠨ	_	_	_	_	_	_	_	Translit=
-10	ᠪᡠᠷᡝᡠ	_	_	_	_	_	_	_	Translit=
-11	。	_	_	_	_	_	_	_	Translit=
+# text = ᠰᡞᠨᡩᡝ ᡝᠨᡝᡢᡤᡞ %u202F%u185E ᠰᡝᠷᡣᡞᠨ ᠪᡞ ᠣᠴᡞ , ᠮᡞᠨᡩᡝ ᡪᡠᠸᡝᠨ ᠪᡠᠷᡝᡠ 。
+# text[tran] = sinde enenggi i serkin bi oci , minde juwen bureo.
+# text[eng] = If you have todays newspaper, please lend it to me.
+1	ᠰᡞᠨᡩᡝ	ᠰᡞᠨᡩᡝ	PRON	_	Number=Sing|Person=2|PronType=Prs|Case=Dat	5	obl:beneficiary	_	Translit=sinde
+2	ᡝᠨᡝᡢᡤᡞ	ᡝᠨᡝᡢᡤᡞ	NOUN	_	_	4	nmod	_	Translit=enenggi
+3	ᡞ	%u202F%u185E	ADP	_	Case=Gen	2	case	_	Translit=i
+4	ᠰᡝᠷᡣᡞᠨ	ᠰᡝᠷᡣᡞᠨ	NOUN	_	_	5	cop:exist	_	Translit=serkin
+5	ᠪᡞ	ᠪᡞ	VERB	_	VerbForm=Inf	10	advcl	_	Translit=bi
+6	ᠣᠴᡞ	ᠣᠮᠪᡞ	AUX	_	VerbForm=Fin|Mood=Cnd	5	aux	_	Translit=oci
+7	,	,	PUNCT	_	_	5	punct	_	Translit=,
+8	ᠮᡞᠨᡩᡝ	ᠮᡞᠨᡩᡝ	PRON	_	Number=Sing|Person=1|PronType=Prs|Case=Dat	10	obl:beneficiary	_	Translit=minde
+9	ᡪᡠᠸᡝᠨ	ᡪᡠᠸᡝᠨ	NOUN	_	_	10	compound:verb	_	Translit=juwen
+10	ᠪᡠᠷᡝᡠ	ᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=bureo
+11	。	。	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_124
 # text = ᡨᡝᠷᡝ ᠪᠣᡠ ᡩᡝ ᠠᡣᡡᠴᡞ , ᡨᠣᡣᡨᠣᡫᡞ ᠠᠯᠪᠠᠨ ᡩᡝ ᡤᡝᠨᡝᡥᡝ 。
-# text[tran] = tere boo de akvci , toktofi alban de genehe
-# text[eng] = If he is not home, he definitely has gone to work
-1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠪᠣᡠ	_	_	_	_	_	_	_	Translit=
-3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠠᡣᡡᠴᡞ	_	_	_	_	_	_	_	Translit=
-5	,	_	_	_	_	_	_	_	Translit=
-6	ᡨᠣᡣᡨᠣᡫᡞ	_	_	_	_	_	_	_	Translit=
-7	ᠠᠯᠪᠠᠨ	_	_	_	_	_	_	_	Translit=
-8	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-9	ᡤᡝᠨᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
-10	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tere boo de akvci , toktofi alban de genehe.
+# text[eng] = If he is not home, he definitely has gone to work.
+1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	4	cop:exist	_	Translit=tere
+2	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	4	obl:loc	_	Translit=boo
+3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
+4	ᠠᡣᡡᠴᡞ	ᠠᡣᡡ	VERB	_	VerbForm=Fin|Polarity=Neg	9	advcl	_	Translit=akvci
+5	,	,	PUNCT	_	_	4	punct	_	Translit=,
+6	ᡨᠣᡣᡨᠣᡫᡞ	ᡨᠣᡣᡨᠣᠮᠪᡞ	VERB	_	Tense=Fin|VerbForm=Conv	9	advcl	_	Translit=toktofi
+7	ᠠᠯᠪᠠᠨ	ᠠᠯᠪᠠᠨ	NOUN	_	_	9	obl:loc	_	Translit=alban
+8	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	7	case	_	Translit=de
+9	ᡤᡝᠨᡝᡥᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=genehe
+10	。	。	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_125
 # text = ᡨᡝᠷᡝ ᠪᠣᡠ ᡩᡝ ᠠᡣᡡ ᠣᠴᡞ , ᡨᠣᡣᡨᠣᡫᡞ ᠠᠯᠪᠠᠨ ᡩᡝ ᡤᡝᠨᡝᡥᡝ 。
-# text[tran] = tere boo de akv oci , toktofi alban de genehe
-# text[eng] = If he is not home, he definitely has gone to work
-1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠪᠣᡠ	_	_	_	_	_	_	_	Translit=
-3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-5	ᠣᠴᡞ	_	_	_	_	_	_	_	Translit=
-6	,	_	_	_	_	_	_	_	Translit=
-7	ᡨᠣᡣᡨᠣᡫᡞ	_	_	_	_	_	_	_	Translit=
-8	ᠠᠯᠪᠠᠨ	_	_	_	_	_	_	_	Translit=
-9	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-10	ᡤᡝᠨᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
-11	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tere boo de akv oci , toktofi alban de genehe.
+# text[eng] = If he is not home, he definitely has gone to work.
+1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	4	cop:exist	_	Translit=tere
+2	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	4	obl:loc	_	Translit=boo
+3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
+4	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	VerbForm=Inf|Polarity=Neg	10	advcl	_	Translit=akv
+5	ᠣᠴᡞ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Fin|Mood=Cnd	4	aux	_	Translit=oci
+6	,	,	PUNCT	_	_	4	punct	_	Translit=,
+7	ᡨᠣᡣᡨᠣᡫᡞ	ᡨᠣᡣᡨᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	10	advcl	_	Translit=toktofi
+8	ᠠᠯᠪᠠᠨ	ᠠᠯᠪᠠᠨ	NOUN	_	_	10	obl:loc	_	Translit=alban
+9	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	8	case	_	Translit=de
+10	ᡤᡝᠨᡝᡥᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin|Mood=Ind	0	root	_	Translit=genehe
+11	。	。	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_126
 # text = ᡨᡝᠷᡝ ᠪᡝ ᡠᡩᡠ ᡤᡝᠷᡞ ᡥᡡᠯᠠᠴᡞᠪᡝ , ᡧᡠᠸᡝ ᡪᡞᡥᡝᡣᡡ 。
