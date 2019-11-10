@@ -1,7 +1,7 @@
 # sent_id = grammarbook_sjo_p2_1
-# sent = ᠰᡞ ᠠᡨᡝᡣᡝ ᠠᡪᡞᡤᡝ ᡥᡝᠷᡤᡝᠨ ᠪᡝ ᠰᠠᠪᡠᠮᠪᡞᡠ ?
-# sent[phon] = si atake ajige hergen be abumbio?
-# sent[eng] = Can you see such small characters
+# text = ᠰᡞ ᠠᡨᡝᡣᡝ ᠠᡪᡞᡤᡝ ᡥᡝᠷᡤᡝᠨ ᠪᡝ ᠰᠠᠪᡠᠮᠪᡞᡠ ?
+# text[tran] = si atake ajige hergen be abumbio?
+# text[eng] = Can you see such small characters
 1	ᠰᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠠᡨᡝᡣᡝ	_	_	_	_	_	_	_	Translit=
 3	ᠠᡪᡞᡤᡝ	_	_	_	_	_	_	_	Translit=
@@ -11,9 +11,9 @@
 7	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_2
-# sent = ᡝᠷᡝ ᠨᡞᠶᠠᠯᠮᠠ ᠪᡝ ᠰᡞ ᡨᠠᡣᠠᠮᠪᡞᡠ ?
-# sent[phon] = ere niyalma be si takambio?
-# sent[eng] = Do you know this person
+# text = ᡝᠷᡝ ᠨᡞᠶᠠᠯᠮᠠ ᠪᡝ ᠰᡞ ᡨᠠᡣᠠᠮᠪᡞᡠ ?
+# text[tran] = ere niyalma be si takambio?
+# text[eng] = Do you know this person
 1	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
 3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
@@ -22,9 +22,9 @@
 6	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_3
-# sent = ᡨᡝᠰᡝ ᠴᡞᠮᠠᠷᡞ ᡝᠷᡩᡝ ᠶᠠᠪᡠᠮᠪᡞᡠ ?
-# sent[phon] = tese cimari erde yabumbio?
-# sent[eng] = Do they go/leave tomorrow morning
+# text = ᡨᡝᠰᡝ ᠴᡞᠮᠠᠷᡞ ᡝᠷᡩᡝ ᠶᠠᠪᡠᠮᠪᡞᡠ ?
+# text[tran] = tese cimari erde yabumbio?
+# text[eng] = Do they go/leave tomorrow morning
 1	ᡨᡝᠰᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠴᡞᠮᠠᠷᡞ	_	_	_	_	_	_	_	Translit=
 3	ᡝᠷᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -32,9 +32,9 @@
 5	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_4
-# sent = ᠰᡞᡣᠰᡝ ᠰᡠᠸᡝ ᡥᡝᠯᠮᡝᡫᡞᠨ ᡨᡠᠸᠠᡥᠠᡠ ?
-# sent[phon] = sikse suwe helmefin tuwahao?
-# sent[eng] = Did you watch the movie yesterday
+# text = ᠰᡞᡣᠰᡝ ᠰᡠᠸᡝ ᡥᡝᠯᠮᡝᡫᡞᠨ ᡨᡠᠸᠠᡥᠠᡠ ?
+# text[tran] = sikse suwe helmefin tuwahao?
+# text[eng] = Did you watch the movie yesterday
 1	ᠰᡞᡣᠰᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠰᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
 3	ᡥᡝᠯᠮᡝᡫᡞᠨ	_	_	_	_	_	_	_	Translit=
@@ -42,9 +42,9 @@
 5	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_5
-# sent = ᠰᡞ ᡠᠷᡠᠮᠴᡞ ᡩᡝ ᡤᡝᠨᡝᡥᡝᡠ ?
-# sent[phon] = si urumci de geneheo?
-# sent[eng] = Did you go to Urumqi
+# text = ᠰᡞ ᡠᠷᡠᠮᠴᡞ ᡩᡝ ᡤᡝᠨᡝᡥᡝᡠ ?
+# text[tran] = si urumci de geneheo?
+# text[eng] = Did you go to Urumqi
 1	ᠰᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡠᠷᡠᠮᠴᡞ	_	_	_	_	_	_	_	Translit=
 3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -52,9 +52,9 @@
 5	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_6
-# sent = ᠠᡞ ᠰᠠᡞᠨ ᠮᡝᡪᡞᡤᡝ ᡩᠣᠨᡪᡞᡥᠠᡠ ?
-# sent[phon] = ai sain mejige donjihao?
-# sent[eng] = What good news did you hear
+# text = ᠠᡞ ᠰᠠᡞᠨ ᠮᡝᡪᡞᡤᡝ ᡩᠣᠨᡪᡞᡥᠠᡠ ?
+# text[tran] = ai sain mejige donjihao?
+# text[eng] = What good news did you hear
 1	ᠠᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠰᠠᡞᠨ	_	_	_	_	_	_	_	Translit=
 3	ᠮᡝᡪᡞᡤᡝ	_	_	_	_	_	_	_	Translit=
@@ -62,9 +62,9 @@
 5	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_7
-# sent = ᠮᡞᠨᡞ ᡤᡡᠨᡞᡤᠠᠨ ᠪᡝ ᠪᠣᡩᠣᡥᠣᡠ ?
-# sent[phon] = mini gvnigan be bodohoo?
-# sent[eng] = Did you consider my advice
+# text = ᠮᡞᠨᡞ ᡤᡡᠨᡞᡤᠠᠨ ᠪᡝ ᠪᠣᡩᠣᡥᠣᡠ ?
+# text[tran] = mini gvnigan be bodohoo?
+# text[eng] = Did you consider my advice
 1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡤᡡᠨᡞᡤᠠᠨ	_	_	_	_	_	_	_	Translit=
 3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
@@ -72,9 +72,9 @@
 5	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_8
-# sent = ᡝᠷᡝ ᠮᡠᡨᡝᡧᠠᠨ ᠰᡝᡫᡠ  ᡞ ᡥᡝᠯᠮᡝᠨ ᠨᡞᠷᡠᡤᠠᠨ ᠸᠠᡣᠠᡠ ?
-# sent[phon] = ere mutešan sefu i helmen nirugan wakao?
-# sent[eng] = Is it Professor Muteshans photo or not
+# text = ᡝᠷᡝ ᠮᡠᡨᡝᡧᠠᠨ ᠰᡝᡫᡠ  ᡞ ᡥᡝᠯᠮᡝᠨ ᠨᡞᠷᡠᡤᠠᠨ ᠸᠠᡣᠠᡠ ?
+# text[tran] = ere mutešan sefu i helmen nirugan wakao?
+# text[eng] = Is it Professor Muteshans photo or not
 1	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠮᡠᡨᡝᡧᠠᠨ	_	_	_	_	_	_	_	Translit=
 3	ᠰᡝᡫᡠ	_	_	_	_	_	_	_	Translit=
@@ -85,9 +85,9 @@
 8	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_9
-# sent = ᡝᠷᡝ ᠪᡞᡠᠨᡥᡝ ᠪᡝ ᡨᠠᡣᠠ ᠮᡞᠨᡩᡝ ᡪᡠᠸᡝᠨ ᠪᡠᠴᡞ ᠣᠮᠪᡞᡠ ᠣᡪᠣᠷᠠᡣᡡᠨ ?
-# sent[phon] = ere bionhe be taka minde juwen buci ombio ojorakvn?
-# sent[eng] = Can you borrow me this book or not
+# text = ᡝᠷᡝ ᠪᡞᡠᠨᡥᡝ ᠪᡝ ᡨᠠᡣᠠ ᠮᡞᠨᡩᡝ ᡪᡠᠸᡝᠨ ᠪᡠᠴᡞ ᠣᠮᠪᡞᡠ ᠣᡪᠣᠷᠠᡣᡡᠨ ?
+# text[tran] = ere bithe be taka minde juwen buci ombio ojorakvn?
+# text[eng] = Can you borrow me this book or not
 1	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠪᡞᡠᠨᡥᡝ	_	_	_	_	_	_	_	Translit=
 3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
@@ -100,9 +100,9 @@
 10	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_10
-# sent = ᠰᡞ ᠪᡝᡞᡪᡞᡢ ᡩᡝ ᡤᡝᠨᡝᠷᠠᡣᡡᠨ ?
-# sent[phon] = si beijing de generakvn?
-# sent[eng] = Dont you go to Beijing
+# text = ᠰᡞ ᠪᡝᡞᡪᡞᡢ ᡩᡝ ᡤᡝᠨᡝᠷᠠᡣᡡᠨ ?
+# text[tran] = si beijing de generakvn?
+# text[eng] = Dont you go to Beijing
 1	ᠰᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠪᡝᡞᡪᡞᡢ	_	_	_	_	_	_	_	Translit=
 3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -110,9 +110,9 @@
 5	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_11
-# sent = ᠰᡞ ᠪᡝᡞᡪᡞᡢ ᡩᡝ ᡤᡝᠨᡝᡥᡝᡣᡡᠨ ?
-# sent[phon] = si beijing de genehekvn?
-# sent[eng] = Didnt you go to Beijing
+# text = ᠰᡞ ᠪᡝᡞᡪᡞᡢ ᡩᡝ ᡤᡝᠨᡝᡥᡝᡣᡡᠨ ?
+# text[tran] = si beijing de genehekvn?
+# text[eng] = Didnt you go to Beijing
 1	ᠰᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠪᡝᡞᡪᡞᡢ	_	_	_	_	_	_	_	Translit=
 3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -120,27 +120,27 @@
 5	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_12
-# sent = ᡨᡝᠷᡝ ᠴᡞᠮᠠᠷᡞ ᠶᠠᠪᡠᠷᠠᡣᡡᠨ ?
-# sent[phon] = tere cimari yaburakvn?
-# sent[eng] = Dont he leave tomorrow
+# text = ᡨᡝᠷᡝ ᠴᡞᠮᠠᠷᡞ ᠶᠠᠪᡠᠷᠠᡣᡡᠨ ?
+# text[tran] = tere cimari yaburakvn?
+# text[eng] = Dont he leave tomorrow
 1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠴᡞᠮᠠᠷᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠶᠠᠪᡠᠷᠠᡣᡡᠨ	_	_	_	_	_	_	_	Translit=
 4	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_13
-# sent = ᡨᡝᠷᡝ ᡝᠨᡝᡢᡤᡞ ᠶᠠᠪᡠᡥᠠᡣᡡᠨ ?
-# sent[phon] = tere enenggi yabuhakvn?
-# sent[eng] = Didnt he leave today
+# text = ᡨᡝᠷᡝ ᡝᠨᡝᡢᡤᡞ ᠶᠠᠪᡠᡥᠠᡣᡡᠨ ?
+# text[tran] = tere enenggi yabuhakvn?
+# text[eng] = Didnt he leave today
 1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
 2	ᡝᠨᡝᡢᡤᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠶᠠᠪᡠᡥᠠᡣᡡᠨ	_	_	_	_	_	_	_	Translit=
 4	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_14
-# sent = ᠴᠣᠷᠣ ᡞ ᠰᠠᠷᡞᠨ ᡩᡝ ᠰᡞ ᡤᡝᠨᡝᠮᠪᡞᡠ ᡤᡝᠨᡝᠷᠠᡣᡡᠨ ?
-# sent[phon] = coro i sarin de si genembio generakvn?
-# sent[eng] = Do you go to the banquet or not
+# text = ᠴᠣᠷᠣ ᡞ ᠰᠠᠷᡞᠨ ᡩᡝ ᠰᡞ ᡤᡝᠨᡝᠮᠪᡞᡠ ᡤᡝᠨᡝᠷᠠᡣᡡᠨ ?
+# text[tran] = coro i sarin de si genembio generakvn?
+# text[eng] = Do you go to the banquet or not
 1	ᠴᠣᠷᠣ	_	_	_	_	_	_	_	Translit=
 2	ᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠰᠠᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
@@ -151,9 +151,9 @@
 8	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_15
-# sent = ᠠᠨᡨᠠᡥᠠᠰᠠ ᠴᡞᠮᠠᠷᡞ ᠶᠠᠪᡠᠮᠪᡞᡠ ᠶᠠᠪᡠᠷᠠᡣᡡᠨ ?
-# sent[phon] = antahasa cimari yabumbio yaburakvn?
-# sent[eng] = Do guests leave tomorrow or not
+# text = ᠠᠨᡨᠠᡥᠠᠰᠠ ᠴᡞᠮᠠᠷᡞ ᠶᠠᠪᡠᠮᠪᡞᡠ ᠶᠠᠪᡠᠷᠠᡣᡡᠨ ?
+# text[tran] = antahasa cimari yabumbio yaburakvn?
+# text[eng] = Do guests leave tomorrow or not
 1	ᠠᠨᡨᠠᡥᠠᠰᠠ	_	_	_	_	_	_	_	Translit=
 2	ᠴᡞᠮᠠᠷᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠶᠠᠪᡠᠮᠪᡞᡠ	_	_	_	_	_	_	_	Translit=
@@ -161,9 +161,9 @@
 5	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_16
-# sent = ᠮᡠᠰᡝᡞ ᠰᡝᡫᡠ ᡤᡠᠷᡠᠨ ᡨᡠᠯᡝᠷᡤᡞ ᡩᡝᠷᡞ ᠪᡝᡩᡝᠷᡝᠮᡝ ᡪᡞᡥᡝ ᠰᡝᠮᠪᡞ , ᠰᡞ ᠰᠠᠪᡠᡥᠠᡠ ᠰᠠᠪᡠᡥᠠᡣᡡᠨ ?
-# sent[phon] = musei sefu gurun tulergi deri bedereme jihe sembi, si sabuhao sabuhakvn?
-# sent[eng] = I heard that our teacher came back from abroad, did you see him or not
+# text = ᠮᡠᠰᡝᡞ ᠰᡝᡫᡠ ᡤᡠᠷᡠᠨ ᡨᡠᠯᡝᠷᡤᡞ ᡩᡝᠷᡞ ᠪᡝᡩᡝᠷᡝᠮᡝ ᡪᡞᡥᡝ ᠰᡝᠮᠪᡞ , ᠰᡞ ᠰᠠᠪᡠᡥᠠᡠ ᠰᠠᠪᡠᡥᠠᡣᡡᠨ ?
+# text[tran] = musei sefu gurun tulergi deri bedereme jihe sembi, si sabuhao sabuhakvn?
+# text[eng] = I heard that our teacher came back from abroad, did you see him or not
 1	ᠮᡠᠰᡝᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠰᡝᡫᡠ	_	_	_	_	_	_	_	Translit=
 3	ᡤᡠᠷᡠᠨ	_	_	_	_	_	_	_	Translit=
@@ -179,9 +179,9 @@
 13	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_17
-# sent = ᡥᡡᡪᡞᠨᡨᠣᡠ ᡪᡠᠰᡞ ᡤᡡᠯᡪᠠ ᡩᡝ ᡪᡞᡥᡝ ᠰᡝᠷᡝ  ᠮᡝᡪᡞᡤᡝ ᠪᡝ ᡩᠣᠨᡪᡞᡥᠠᡠ ᡩᠣᠨᡪᡞᡥᠠᡣᡡᠨ ?
-# sent[phon] = hvjintoo jusi gvlja de jihe sere mejige be donjihao donjihakvn?
-# sent[eng] = Did you hear or not the news that Chairman Hu Jintao will come to Ili
+# text = ᡥᡡᡪᡞᠨᡨᠣᡠ ᡪᡠᠰᡞ ᡤᡡᠯᡪᠠ ᡩᡝ ᡪᡞᡥᡝ ᠰᡝᠷᡝ  ᠮᡝᡪᡞᡤᡝ ᠪᡝ ᡩᠣᠨᡪᡞᡥᠠᡠ ᡩᠣᠨᡪᡞᡥᠠᡣᡡᠨ ?
+# text[tran] = hvjintoo jusi gvlja de jihe sere mejige be donjihao donjihakvn?
+# text[eng] = Did you hear or not the news that Chairman Hu Jintao will come to Ili
 1	ᡥᡡᡪᡞᠨᡨᠣᡠ	_	_	_	_	_	_	_	Translit=
 2	ᡪᡠᠰᡞ	_	_	_	_	_	_	_	Translit=
 3	ᡤᡡᠯᡪᠠ	_	_	_	_	_	_	_	Translit=
@@ -195,9 +195,9 @@
 11	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_18
-# sent = ᡨᡝᠷᡝ ᠰᠠᠷᡤᠠᠨᡪᡠᡞ ᠪᠣᡠ  ᡞ ᠪᠠᠨᡪᡞᠨ ᠮᠠᡢᡤᠠ ᠰᡝᠮᡝ ᡨᠠᡪᡞᠴᡞ ᠣᡪᠣᠷᠠᡥᡡ 。
-# sent[phon] = tere sarganjui boo i banjin mangga seme tajici ojorahv
-# sent[eng] = I am afraid that girl cannot go to school because of her family difficulties
+# text = ᡨᡝᠷᡝ ᠰᠠᠷᡤᠠᠨᡪᡠᡞ ᠪᠣᡠ  ᡞ ᠪᠠᠨᡪᡞᠨ ᠮᠠᡢᡤᠠ ᠰᡝᠮᡝ ᡨᠠᡪᡞᠴᡞ ᠣᡪᠣᠷᠠᡥᡡ 。
+# text[tran] = tere sarganjui boo i banjin mangga seme tajici ojorahv
+# text[eng] = I am afraid that girl cannot go to school because of her family difficulties
 1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠰᠠᠷᡤᠠᠨᡪᡠᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠪᠣᡠ	_	_	_	_	_	_	_	Translit=
@@ -210,9 +210,9 @@
 10	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_19
-# sent = ᠰᠣᠯᡞᡥᠠ ᠰᠠᠷᡞᠨ ᡩᡝ ᡤᡝᠨᡝᠮᡝ ᠮᡠᡨᡝᠷᠠᡣᡡ ᠠᠶᠠᡠ 。
-# sent[phon] = soliha sarin de geneme muterakv ayao
-# sent[eng] = I am afraid I cannot go to the banquet
+# text = ᠰᠣᠯᡞᡥᠠ ᠰᠠᠷᡞᠨ ᡩᡝ ᡤᡝᠨᡝᠮᡝ ᠮᡠᡨᡝᠷᠠᡣᡡ ᠠᠶᠠᡠ 。
+# text[tran] = soliha sarin de geneme muterakv ayao
+# text[eng] = I am afraid I cannot go to the banquet
 1	ᠰᠣᠯᡞᡥᠠ	_	_	_	_	_	_	_	Translit=
 2	ᠰᠠᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
 3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -222,9 +222,9 @@
 7	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_20
-# sent = ᠮᡠᡣᡝᡞ ᡤᠠᠰᡥᠠᠨ ᡩᡝ ᠪᠣᡠ ᡠᠯᡝᠨ ᡤᡝᠮᡠ ᡤᠠᠰᡞᡥᡞᠶᠠᠪᡠᠮᡝ ᠰᡠᠨᡨᡝᡥᡝ ᠠᠶᠠᡠ 。
-# sent[phon] = mukei gashan de boo ulen gemu gasihiyabume suntehe ayao
-# sent[eng] = I am afraid the houses have been washed away
+# text = ᠮᡠᡣᡝᡞ ᡤᠠᠰᡥᠠᠨ ᡩᡝ ᠪᠣᡠ ᡠᠯᡝᠨ ᡤᡝᠮᡠ ᡤᠠᠰᡞᡥᡞᠶᠠᠪᡠᠮᡝ ᠰᡠᠨᡨᡝᡥᡝ ᠠᠶᠠᡠ 。
+# text[tran] = mukei gashan de boo ulen gemu gasihiyabume suntehe ayao
+# text[eng] = I am afraid the houses have been washed away
 1	ᠮᡠᡣᡝᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡤᠠᠰᡥᠠᠨ	_	_	_	_	_	_	_	Translit=
 3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -237,9 +237,9 @@
 10	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_21
-# sent = ᡝᠷᡞᠨ ᡩᡝ ᠠᠴᠠᠮᡝ ᡪᡞᠮᡝ ᠮᡠᡨᡝᠷᠠᡣᡡ ᠠᠶᠣᡠ ᠰᡝᠮᠪᡞ 。
-# sent[phon] = erin de acame jime muterakv ayoo sembi
-# sent[eng] = I am afraid he could not come on time
+# text = ᡝᠷᡞᠨ ᡩᡝ ᠠᠴᠠᠮᡝ ᡪᡞᠮᡝ ᠮᡠᡨᡝᠷᠠᡣᡡ ᠠᠶᠣᡠ ᠰᡝᠮᠪᡞ 。
+# text[tran] = erin de acame jime muterakv ayoo sembi
+# text[eng] = I am afraid he could not come on time
 1	ᡝᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
 2	ᡩᡝ	_	_	_	_	_	_	_	Translit=
 3	ᠠᠴᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
@@ -250,9 +250,9 @@
 8	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_22
-# sent = ᠠᡩᠠᡣᡞ ᠪᠣᡠ  ᡞ ᡫᡝᡢᠰᡝ ᡥᡝᡥᡝ ᡠᠴᡠᠯᡝᠮᡝ ᠮᠠᡣᠰᡞᠮᡝ ᠰᠣᡢᡤᠣᠮᡝ ᡞᠨᡪᡝᠮᡝ ᠰᡠᠷᡝᠮᡝ ᡨᠣᡠᠮᡝ ᠨᠠᡣᠠᠷᠠᡣᡡ 。
-# sent[phon] = adaki boo i fengse hehe uculeme maksime songgome injeme sureme toome nakarakv
-# sent[eng] = The neighbor's mad woman was singing and dancing, crying, laughing and cursing
+# text = ᠠᡩᠠᡣᡞ ᠪᠣᡠ  ᡞ ᡫᡝᡢᠰᡝ ᡥᡝᡥᡝ ᡠᠴᡠᠯᡝᠮᡝ ᠮᠠᡣᠰᡞᠮᡝ ᠰᠣᡢᡤᠣᠮᡝ ᡞᠨᡪᡝᠮᡝ ᠰᡠᠷᡝᠮᡝ ᡨᠣᡠᠮᡝ ᠨᠠᡣᠠᠷᠠᡣᡡ 。
+# text[tran] = adaki boo i fengse hehe uculeme maksime songgome injeme sureme toome nakarakv
+# text[eng] = The neighbor's mad woman was singing and dancing, crying, laughing and cursing
 1	ᠠᡩᠠᡣᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠪᠣᡠ	_	_	_	_	_	_	_	Translit=
 3	 ᡞ	_	_	_	_	_	_	_	Translit=
@@ -268,9 +268,9 @@
 13	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_23
-# sent = ᠪᡞ ᡤᠠᡧᠠᠨ ᡩᡝ ᡤᡝᠨᡝᡫᡞ , ᠠᠮᠠ ᡝᠮᡝ ᡪᠠᡞ ᡤᡞᠷᠠᡢᡤᡞ ᠶᠠᠯᡞ ᡤᡠᠴᡠ ᡤᠠᠷᡤᠠᠨ ᠪᡝ ᡨᡠᠸᠠᡫᡞ ᡪᡞᡥᡝ 。
-# sent[phon] = bi gašan de genefi, ama eme jai giranggi yali gucu garaga be tuwafi jihe
-# sent[eng] = I went back to my hometown to visit my parents, relatives and friends
+# text = ᠪᡞ ᡤᠠᡧᠠᠨ ᡩᡝ ᡤᡝᠨᡝᡫᡞ , ᠠᠮᠠ ᡝᠮᡝ ᡪᠠᡞ ᡤᡞᠷᠠᡢᡤᡞ ᠶᠠᠯᡞ ᡤᡠᠴᡠ ᡤᠠᠷᡤᠠᠨ ᠪᡝ ᡨᡠᠸᠠᡫᡞ ᡪᡞᡥᡝ 。
+# text[tran] = bi gašan de genefi, ama eme jai giranggi yali gucu garaga be tuwafi jihe
+# text[eng] = I went back to my hometown to visit my parents, relatives and friends
 1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡤᠠᡧᠠᠨ	_	_	_	_	_	_	_	Translit=
 3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -289,9 +289,9 @@
 16	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_24
-# sent = ᠪᡞ ᡠᡠᠨᡥᠠᡞ ᡤᡝᠨᡝᡫᡞ ᡪᡞᠮᠪᡞ 。
-# sent[phon] = bi uonhai genefi jimbi
-# sent[eng] = I will be right back
+# text = ᠪᡞ ᡠᡠᠨᡥᠠᡞ ᡤᡝᠨᡝᡫᡞ ᡪᡞᠮᠪᡞ 。
+# text[tran] = bi uthai genefi jimbi
+# text[eng] = I will be right back
 1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡠᡠᠨᡥᠠᡞ	_	_	_	_	_	_	_	Translit=
 3	ᡤᡝᠨᡝᡫᡞ	_	_	_	_	_	_	_	Translit=
@@ -299,9 +299,9 @@
 5	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_25
-# sent = ᠰᡞᠨᡞ ᠶᡝᠶᡝ ᠠᡞᡣᠠ ᠪᡝᡩᡝᠷᡝᠮᡝ ᡪᡞᠴᡞ , ᠮᡞᠨᡩᡝ ᠮᡝᡪᡞᡤᡝ ᡞᠰᡞᠪᡠᠷᡝᡠ 。
-# sent[phon] = sini yeye aika bedereme jici, minde mejige isibureo
-# sent[eng] = Please give me a message if your grandpa comes back
+# text = ᠰᡞᠨᡞ ᠶᡝᠶᡝ ᠠᡞᡣᠠ ᠪᡝᡩᡝᠷᡝᠮᡝ ᡪᡞᠴᡞ , ᠮᡞᠨᡩᡝ ᠮᡝᡪᡞᡤᡝ ᡞᠰᡞᠪᡠᠷᡝᡠ 。
+# text[tran] = sini yeye aika bedereme jici, minde mejige isibureo
+# text[eng] = Please give me a message if your grandpa comes back
 1	ᠰᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠶᡝᠶᡝ	_	_	_	_	_	_	_	Translit=
 3	ᠠᡞᡣᠠ	_	_	_	_	_	_	_	Translit=
@@ -314,9 +314,9 @@
 10	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_26
-# sent = ᡝᠮᡝ ᡪᠣᠪᠣᡥᠣᡞ ᡧᡠᠯᠣ  ᡞ ᡫᡠᠨᡞᠶᡝᡥᡝ ᡧᠠᠷᠠᡣᠠ 。
-# sent[phon] = eme jobohoi šulo i funiyehe šaraka
-# sent[eng] = My mothers hair turned white with fatigue
+# text = ᡝᠮᡝ ᡪᠣᠪᠣᡥᠣᡞ ᡧᡠᠯᠣ  ᡞ ᡫᡠᠨᡞᠶᡝᡥᡝ ᡧᠠᠷᠠᡣᠠ 。
+# text[tran] = eme jobohoi šulo i funiyehe šaraka
+# text[eng] = My mothers hair turned white with fatigue
 1	ᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
 2	ᡪᠣᠪᠣᡥᠣᡞ	_	_	_	_	_	_	_	Translit=
 3	ᡧᡠᠯᠣ	_	_	_	_	_	_	_	Translit=
@@ -326,9 +326,9 @@
 7	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_27
-# sent = ᡩᠠᠰᠠᡥᠠᠯᠠ ᡪᡞᠯᡞᡥᠠᡢᡤᠠ ᠰᠠᡞᠰᠠ  ᡞ ᠪᡠᠴᡝᡨᡝᠮᡝ ᠪᠠᡨᠠ ᡩᡝ ᡩᠠᡥᠠᠷᠠᡣᡡ ᠣᡠᠷᡞ ᠰᡠᡣᡩᡠᠨ , ᡨᡝᡨᡝᠯᡝ ᠠᠮᡤᠠ ᠠᠯᠠᠨ  ᡞ ᡨᠠᠴᡞᠷᡝ ᡩᡠᠷᡠᠨ ᡨᡠᠸᠠᡣᡡ ᠣᡥᠣᠪᡞ 。
-# sent[phon] = dasahala jilihangga sainsa i buceteme bata de daharakv oori sukdun, tetele amga alan i tacire durun tuwakv ohobi
-# sent[eng] = The spirit of the revolutionary martyrs to death has become an example for future generations
+# text = ᡩᠠᠰᠠᡥᠠᠯᠠ ᡪᡞᠯᡞᡥᠠᡢᡤᠠ ᠰᠠᡞᠰᠠ  ᡞ ᠪᡠᠴᡝᡨᡝᠮᡝ ᠪᠠᡨᠠ ᡩᡝ ᡩᠠᡥᠠᠷᠠᡣᡡ ᠣᡠᠷᡞ ᠰᡠᡣᡩᡠᠨ , ᡨᡝᡨᡝᠯᡝ ᠠᠮᡤᠠ ᠠᠯᠠᠨ  ᡞ ᡨᠠᠴᡞᠷᡝ ᡩᡠᠷᡠᠨ ᡨᡠᠸᠠᡣᡡ ᠣᡥᠣᠪᡞ 。
+# text[tran] = dasahala jilihangga sainsa i buceteme bata de daharakv oori sukdun, tetele amga alan i tacire durun tuwakv ohobi
+# text[eng] = The spirit of the revolutionary martyrs to death has become an example for future generations
 1	ᡩᠠᠰᠠᡥᠠᠯᠠ	_	_	_	_	_	_	_	Translit=
 2	ᡪᡞᠯᡞᡥᠠᡢᡤᠠ	_	_	_	_	_	_	_	Translit=
 3	ᠰᠠᡞᠰᠠ	_	_	_	_	_	_	_	Translit=
@@ -351,9 +351,9 @@
 20	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_28
-# sent = ᡞᠯᠠᠴᡞ ᡤᡞᡢ  ᡞ ᠣᡨᠣᠯᠣ ᡨᡝᠨᡞ ᠠᠮᡤᠠᡥᠠ 。
-# sent[phon] = ilaci ging i otolo teni alagaha
-# sent[eng] = I went to sleep late at night
+# text = ᡞᠯᠠᠴᡞ ᡤᡞᡢ  ᡞ ᠣᡨᠣᠯᠣ ᡨᡝᠨᡞ ᠠᠮᡤᠠᡥᠠ 。
+# text[tran] = ilaci ging i otolo teni alagaha
+# text[eng] = I went to sleep late at night
 1	ᡞᠯᠠᠴᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡤᡞᡢ	_	_	_	_	_	_	_	Translit=
 3	 ᡞ	_	_	_	_	_	_	_	Translit=
@@ -363,9 +363,9 @@
 7	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_29
-# sent = ᡪᡠᡤᡡᠨ ᡠᠨᡩᡠᠷᡞ ᠶᠠᠪᡠᠷᠠᠯᠠᠮᡝ ᡥᠠᠷᡤᠠᡧᠠᡥᠠᡞ , ᠰᡝᠷᡝᠪᡠᡥᡝᡣᡡ ᡠᡠᠨᡥᠠᡞ ᠪᠣᡠ ᡩᡝ ᡞᠰᡞᠨᠠᡥᠠ 。
-# sent[phon] = jugvn unduri yaburalame hargašahai, serebuhekv uonhai boo de isinaha
-# sent[eng] = Walking and swimming along the way, unconsciously arrived at home
+# text = ᡪᡠᡤᡡᠨ ᡠᠨᡩᡠᠷᡞ ᠶᠠᠪᡠᠷᠠᠯᠠᠮᡝ ᡥᠠᠷᡤᠠᡧᠠᡥᠠᡞ , ᠰᡝᠷᡝᠪᡠᡥᡝᡣᡡ ᡠᡠᠨᡥᠠᡞ ᠪᠣᡠ ᡩᡝ ᡞᠰᡞᠨᠠᡥᠠ 。
+# text[tran] = jugvn unduri yaburalame hargašahai, serebuhekv uthai boo de isinaha
+# text[eng] = Walking and swimming along the way, unconsciously arrived at home
 1	ᡪᡠᡤᡡᠨ	_	_	_	_	_	_	_	Translit=
 2	ᡠᠨᡩᡠᠷᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠶᠠᠪᡠᠷᠠᠯᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
@@ -379,9 +379,9 @@
 11	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_30
-# sent = ᠪᡞᡠᠨᡥᡝ ᠪᡝ ᡥᡡᠯᠠᠷᠠᠯᠠᠮᡝ ᠠᠷᠠᠴᡞ , ᡪᠠ  ᡞ ᠠᠮᡠ ᡪᡞᠷᠠᡣᡡ 。
-# sent[phon] = bionhe be hvlaralame araci, wa i amu jirakv
-# sent[eng] = Reading while writing, it is not easy to fall asleep
+# text = ᠪᡞᡠᠨᡥᡝ ᠪᡝ ᡥᡡᠯᠠᠷᠠᠯᠠᠮᡝ ᠠᠷᠠᠴᡞ , ᡪᠠ  ᡞ ᠠᠮᡠ ᡪᡞᠷᠠᡣᡡ 。
+# text[tran] = bithe be hvlaralame araci, wa i amu jirakv
+# text[eng] = Reading while writing, it is not easy to fall asleep
 1	ᠪᡞᡠᠨᡥᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠪᡝ	_	_	_	_	_	_	_	Translit=
 3	ᡥᡡᠯᠠᠷᠠᠯᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
@@ -394,9 +394,9 @@
 10	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_31
-# sent = ᡨᡝᠷᡝ ᡠᡪᡠ ᠪᡝ ᡤᡞᡩᠠᡫᡞ ᠪᠣᡩᠣᠷᠣᠯᠠᠮᡝ ᠶᠠᠪᡠᠮᠪᡞ 。
-# sent[phon] = tere uju be gidafi bodorolame yabumbi
-# sent[eng] = He walks while thinking with his head down
+# text = ᡨᡝᠷᡝ ᡠᡪᡠ ᠪᡝ ᡤᡞᡩᠠᡫᡞ ᠪᠣᡩᠣᠷᠣᠯᠠᠮᡝ ᠶᠠᠪᡠᠮᠪᡞ 。
+# text[tran] = tere uju be gidafi bodorolame yabumbi
+# text[eng] = He walks while thinking with his head down
 1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
 2	ᡠᡪᡠ	_	_	_	_	_	_	_	Translit=
 3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
@@ -406,9 +406,9 @@
 7	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_32
-# sent = ᡤᡞᠰᡠᠨ ᠸᠠᡪᡞᡢᡤᠠᠯᠠ , ᡠᡠᠨᡥᠠᡞ ᡪᡞᠯᡞ ᡩᠠᡫᡞ ᠶᠠᠪᡠᡥᠠ 。
-# sent[phon] = gisun wajinggala, uonhai jili dafi yabuha
-# sent[eng] = Before the words were finished, he got angry and left
+# text = ᡤᡞᠰᡠᠨ ᠸᠠᡪᡞᡢᡤᠠᠯᠠ , ᡠᡠᠨᡥᠠᡞ ᡪᡞᠯᡞ ᡩᠠᡫᡞ ᠶᠠᠪᡠᡥᠠ 。
+# text[tran] = gisun wajinggala, uthai jili dafi yabuha
+# text[eng] = Before the words were finished, he got angry and left
 1	ᡤᡞᠰᡠᠨ	_	_	_	_	_	_	_	Translit=
 2	ᠸᠠᡪᡞᡢᡤᠠᠯᠠ	_	_	_	_	_	_	_	Translit=
 3	,	_	_	_	_	_	_	_	Translit=
@@ -419,9 +419,9 @@
 8	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_33
-# sent = ᠪᠠᡞᡨᠠ ᡨᡠᠴᡞᡢᡤᡝᠯᡝ ᡩᠣᡞᡤᠣᠨᡩᡝ ᡤᡞᠶᠠᠨᡞ ᡪᡝᠪᡣᡝᠯᡝᠮᠪᡞ 。
-# sent[phon] = baita tucinggele giyani jebkelembi
-# sent[eng] = Prior to an accident, precautions should be taken
+# text = ᠪᠠᡞᡨᠠ ᡨᡠᠴᡞᡢᡤᡝᠯᡝ ᡩᠣᡞᡤᠣᠨᡩᡝ ᡤᡞᠶᠠᠨᡞ ᡪᡝᠪᡣᡝᠯᡝᠮᠪᡞ 。
+# text[tran] = baita tucinggele giyani jebkelembi
+# text[eng] = Prior to an accident, precautions should be taken
 1	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
 2	ᡨᡠᠴᡞᡢᡤᡝᠯᡝ	_	_	_	_	_	_	_	Translit=
 3	ᡩᠣᡞᡤᠣᠨᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -430,9 +430,9 @@
 6	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_34
-# sent = ᠰᡞ ᠶᠠᠪᡠᠮᠰᠠᡣᠠ , ᠰᡞᠨᡞ ᡩᡝᡠ ᠰᡞᠮᠪᡝ ᠪᠠᡞᡨᠠ ᡪᡞᡥᡝ 。
-# sent[phon] = si yabumsaka, sini deo simbe baita jihe
-# sent[eng] = You just left, your brother came to find you
+# text = ᠰᡞ ᠶᠠᠪᡠᠮᠰᠠᡣᠠ , ᠰᡞᠨᡞ ᡩᡝᡠ ᠰᡞᠮᠪᡝ ᠪᠠᡞᡨᠠ ᡪᡞᡥᡝ 。
+# text[tran] = si yabumsaka, sini deo simbe baita jihe
+# text[eng] = You just left, your brother came to find you
 1	ᠰᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠶᠠᠪᡠᠮᠰᠠᡣᠠ	_	_	_	_	_	_	_	Translit=
 3	,	_	_	_	_	_	_	_	Translit=
@@ -444,9 +444,9 @@
 9	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_35
-# sent = ᡠᠷᡝᠪᡝᠰᡠ ᠪᡝ ᠠᠷᠠᠮᡝ ᠸᠠᡪᡞᠮᡝ ᠰᠠᡣᠠ , ᡠᡠᠨᡥᠠᡞ ᡞᠰᠠᠨ ᠨᡝᡞᠮᠪᡞ ᠰᡝᠮᡝ ᡠᠯᡥᡞᠪᡠᠨᡪᡞᡥᡝ 。
-# sent[phon] = urebesu be arame wajime saka, uonhai isan neimbi seme ulhibunjihe
-# sent[eng] = No sooner had you finished your homework than you came to inform the meeting
+# text = ᡠᠷᡝᠪᡝᠰᡠ ᠪᡝ ᠠᠷᠠᠮᡝ ᠸᠠᡪᡞᠮᡝ ᠰᠠᡣᠠ , ᡠᡠᠨᡥᠠᡞ ᡞᠰᠠᠨ ᠨᡝᡞᠮᠪᡞ ᠰᡝᠮᡝ ᡠᠯᡥᡞᠪᡠᠨᡪᡞᡥᡝ 。
+# text[tran] = urebesu be arame wajime saka, uthai isan neimbi seme ulhibunjihe
+# text[eng] = No sooner had you finished your homework than you came to inform the meeting
 1	ᡠᠷᡝᠪᡝᠰᡠ	_	_	_	_	_	_	_	Translit=
 2	ᠪᡝ	_	_	_	_	_	_	_	Translit=
 3	ᠠᠷᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
@@ -461,9 +461,9 @@
 12	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_36
-# sent = ᠶᠠᠰᠠ ᠨᡞᠴᡠᠮᠰᠠᡣᠠ , ᡪᡞᠯᡤᠠᠨ ᠰᡞᠨᡩᠠᠮᡝ ᡣᠠᡞᠴᠠᠷᠠ ᡩᡝ ᠰᡝᠰᡠᠯᡝᡫᡞ ᡤᡝᡨᡝᡥᡝ 。
-# sent[phon] = yasa nicumsaka, jilgan sindame kaicara de sesulefi getehe
-# sent[eng] = Hardly had I closed my eyes when I was awakened by a loud shout
+# text = ᠶᠠᠰᠠ ᠨᡞᠴᡠᠮᠰᠠᡣᠠ , ᡪᡞᠯᡤᠠᠨ ᠰᡞᠨᡩᠠᠮᡝ ᡣᠠᡞᠴᠠᠷᠠ ᡩᡝ ᠰᡝᠰᡠᠯᡝᡫᡞ ᡤᡝᡨᡝᡥᡝ 。
+# text[tran] = yasa nicumsaka, jilgan sindame kaicara de sesulefi getehe
+# text[eng] = Hardly had I closed my eyes when I was awakened by a loud shout
 1	ᠶᠠᠰᠠ	_	_	_	_	_	_	_	Translit=
 2	ᠨᡞᠴᡠᠮᠰᠠᡣᠠ	_	_	_	_	_	_	_	Translit=
 3	,	_	_	_	_	_	_	_	Translit=
@@ -476,9 +476,9 @@
 10	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_37
-# sent = ᡪᡠᡤᡡᠨ ᡩᡝ ᡠᠴᠠᠷᠠᡥᠠ ᠨᡞᠶᠠᠯᠮᠠ 。
-# sent[phon] = jugvn de ucaraha niyalma
-# sent[eng] = The person I met on street
+# text = ᡪᡠᡤᡡᠨ ᡩᡝ ᡠᠴᠠᠷᠠᡥᠠ ᠨᡞᠶᠠᠯᠮᠠ 。
+# text[tran] = jugvn de ucaraha niyalma
+# text[eng] = The person I met on street
 1	ᡪᡠᡤᡡᠨ	_	_	_	_	_	_	_	Translit=
 2	ᡩᡝ	_	_	_	_	_	_	_	Translit=
 3	ᡠᠴᠠᠷᠠᡥᠠ	_	_	_	_	_	_	_	Translit=
@@ -486,9 +486,9 @@
 5	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_38
-# sent = ᡩᡠᠯᡝᡣᡝ ᠠᠨᡞᠶᠠᡞ ᡨᡠᡪᡞᡣᡝ ᠪᠠᡞᡨᠠ 。
-# sent[phon] = tuleke aniyai tujike baita
-# sent[eng] = Things happened last year
+# text = ᡩᡠᠯᡝᡣᡝ ᠠᠨᡞᠶᠠᡞ ᡨᡠᡪᡞᡣᡝ ᠪᠠᡞᡨᠠ 。
+# text[tran] = tuleke aniyai tujike baita
+# text[eng] = Things happened last year
 1	ᡩᡠᠯᡝᡣᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠠᠨᡞᠶᠠᡞ	_	_	_	_	_	_	_	Translit=
 3	ᡨᡠᡪᡞᡣᡝ	_	_	_	_	_	_	_	Translit=
@@ -496,9 +496,9 @@
 5	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_39
-# sent = ᡝᠮᡝ  ᡞ ᡥᡡᠸᠠᡧᠠᠪᡠᡥᠠ ᠪᠠᡞᠯᡞ ᠪᡝ ᡣᠠᠷᡠᠯᠠᠮᡝ ᠸᠠᡪᡞᠷᠠᡣᡡ 。
-# sent[phon] = ere i hvwašabuha baili be karulame wajirakv
-# sent[eng] = I can never repay my mothers upbringing
+# text = ᡝᠮᡝ  ᡞ ᡥᡡᠸᠠᡧᠠᠪᡠᡥᠠ ᠪᠠᡞᠯᡞ ᠪᡝ ᡣᠠᠷᡠᠯᠠᠮᡝ ᠸᠠᡪᡞᠷᠠᡣᡡ 。
+# text[tran] = ere i hvwašabuha baili be karulame wajirakv
+# text[eng] = I can never repay my mothers upbringing
 1	ᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
 2	 ᡞ	_	_	_	_	_	_	_	Translit=
 3	ᡥᡡᠸᠠᡧᠠᠪᡠᡥᠠ	_	_	_	_	_	_	_	Translit=
@@ -509,9 +509,9 @@
 8	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_40
-# sent = ᡪᡠᠯᡤᡝ ᠴᡞ ᠠᠪᠰᡞ ᡥᠠᠯᠠᠷᠠᡣᡡ ᡨᠣᡣᡨᠣᡥᠣ ᡣᠣᡠᠯᡞ ᠪᡞᡠ ?
-# sent[phon] = julge ci absi halarakv toktoho kooli bio?
-# sent[eng] = Is there an invariable regulation since ancient times
+# text = ᡪᡠᠯᡤᡝ ᠴᡞ ᠠᠪᠰᡞ ᡥᠠᠯᠠᠷᠠᡣᡡ ᡨᠣᡣᡨᠣᡥᠣ ᡣᠣᡠᠯᡞ ᠪᡞᡠ ?
+# text[tran] = julge ci absi halarakv toktoho kooli bio?
+# text[eng] = Is there an invariable regulation since ancient times
 1	ᡪᡠᠯᡤᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠴᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠠᠪᠰᡞ	_	_	_	_	_	_	_	Translit=
@@ -522,9 +522,9 @@
 8	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_41
-# sent = ᡪᡞᡢᡣᡞᠨᡞ ᡪᠠᠯᠠᠨ ᡩᡝ ᡩᠣᠨᡪᡞᡥᠠᡣᡡ ᡫᡝᠷᡤᡠᠸᡝᠴᡠᡣᡝ ᠪᠠᡞᡨᠠ 。
-# sent[phon] = jingkini jalan de donjihakv ferguwecuke baita
-# sent[eng] = It was a strange thing that had never been heard of in the world
+# text = ᡪᡞᡢᡣᡞᠨᡞ ᡪᠠᠯᠠᠨ ᡩᡝ ᡩᠣᠨᡪᡞᡥᠠᡣᡡ ᡫᡝᠷᡤᡠᠸᡝᠴᡠᡣᡝ ᠪᠠᡞᡨᠠ 。
+# text[tran] = jingkini jalan de donjihakv ferguwecuke baita
+# text[eng] = It was a strange thing that had never been heard of in the world
 1	ᡪᡞᡢᡣᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡪᠠᠯᠠᠨ	_	_	_	_	_	_	_	Translit=
 3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -534,9 +534,9 @@
 7	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_42
-# sent = ᠰᠠᠷᡤᠠᡧᠠᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ ᠠᠯᡞᠨ ᠪᡞᠷᠠ ᡣᡝᠮᡠᠨᡞ ᠯᠠᠪᡩᡠ ᠪᡞ 。
-# sent[phon] = sargašame dulehekv alin bira kemuni labdu bi
-# sent[eng] = There are many mountains and rivers that have never been visited
+# text = ᠰᠠᠷᡤᠠᡧᠠᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ ᠠᠯᡞᠨ ᠪᡞᠷᠠ ᡣᡝᠮᡠᠨᡞ ᠯᠠᠪᡩᡠ ᠪᡞ 。
+# text[tran] = sargašame dulehekv alin bira kemuni labdu bi
+# text[eng] = There are many mountains and rivers that have never been visited
 1	ᠰᠠᠷᡤᠠᡧᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
 2	ᡩᡠᠯᡝᡥᡝᡣᡡ	_	_	_	_	_	_	_	Translit=
 3	ᠠᠯᡞᠨ	_	_	_	_	_	_	_	Translit=
@@ -547,9 +547,9 @@
 8	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_43
-# sent = ᡩᠣᠨᡪᡞᡥᠠᠯᠠ ᡠᠷᠰᡝ ᡠᠷᡤᡠᠨᡪᡝᠷᡣᡡᡢᡤᡝ ᠠᡣᡡ 。
-# sent[phon] = donjihala urse urgunjerkvngge akv
-# sent[eng] = All who hear are pleased
+# text = ᡩᠣᠨᡪᡞᡥᠠᠯᠠ ᡠᠷᠰᡝ ᡠᠷᡤᡠᠨᡪᡝᠷᡣᡡᡢᡤᡝ ᠠᡣᡡ 。
+# text[tran] = donjihala urse urgunjerkvngge akv
+# text[eng] = All who hear are pleased
 1	ᡩᠣᠨᡪᡞᡥᠠᠯᠠ	_	_	_	_	_	_	_	Translit=
 2	ᡠᠷᠰᡝ	_	_	_	_	_	_	_	Translit=
 3	ᡠᠷᡤᡠᠨᡪᡝᠷᡣᡡᡢᡤᡝ	_	_	_	_	_	_	_	Translit=
@@ -557,9 +557,9 @@
 5	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_44
-# sent = ᡠᡪᠠᠷᠠᡥᠠᠯᠠ ᠨᡞᠶᠠᠯᠮᠠ ᡫᡝᠷᡤᡠᠸᡝᠷᡣᡡᡢᡤᡝ ᠠᡣᡡ 。
-# sent[phon] = ujarahala niyalma injehekvngge akv
-# sent[eng] = Praise is given to all that I met
+# text = ᡠᡪᠠᠷᠠᡥᠠᠯᠠ ᠨᡞᠶᠠᠯᠮᠠ ᡫᡝᠷᡤᡠᠸᡝᠷᡣᡡᡢᡤᡝ ᠠᡣᡡ 。
+# text[tran] = ujarahala niyalma injehekvngge akv
+# text[eng] = Praise is given to all that I met
 1	ᡠᡪᠠᠷᠠᡥᠠᠯᠠ	_	_	_	_	_	_	_	Translit=
 2	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
 3	ᡫᡝᠷᡤᡠᠸᡝᠷᡣᡡᡢᡤᡝ	_	_	_	_	_	_	_	Translit=
@@ -567,9 +567,9 @@
 5	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_45
-# sent = ᠪᡞᠰᡞᠷᡝᠯᡝ ᠨᡞᠶᠠᠯᠮᠠ ᡞᠨᡪᡝᡥᡝᡣᡡᡢᡤᡝ ᠠᡣᡡ 。
-# sent[phon] = bisirele niyalma injehekvngge akv
-# sent[eng] = All people there laughed
+# text = ᠪᡞᠰᡞᠷᡝᠯᡝ ᠨᡞᠶᠠᠯᠮᠠ ᡞᠨᡪᡝᡥᡝᡣᡡᡢᡤᡝ ᠠᡣᡡ 。
+# text[tran] = bisirele niyalma injehekvngge akv
+# text[eng] = All people there laughed
 1	ᠪᡞᠰᡞᠷᡝᠯᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
 3	ᡞᠨᡪᡝᡥᡝᡣᡡᡢᡤᡝ	_	_	_	_	_	_	_	Translit=
@@ -577,9 +577,9 @@
 5	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_46
-# sent = ᡨᡠᠷᠠᠷᠠ ᠠᡤᠠ ᡩᠣᡣᠰᡞᠨ ᡝᡩᡠᠨ ᠰᠠᠰᠠ ᡪᡞᠷᡝ ᡪᠠᡣᠠᡩᠠ , ᡩᡠᠯᡝᠷᡤᡞ ᡩᡝ ᠸᡝᡞᠯᡝᠮᡝ ᡞᠯᡞᡥᠠ ᡠᠷᠰᡝ ᡤᡝᠮᡠ ᠮᠠᡞᡣᠠᠨ ᠴᡞ ᡫᡝᡣᠰᡞᠮᡝ ᡩᠣᠰᡞᡥᠠ 。
-# sent[phon] = turara aga doksin edun sasa jire jakada, tulergide weileme iliha urse gemu maikan ci feksime dosiha
-# sent[eng] = Because of the sudden storm, all the workers outside went into their tents
+# text = ᡨᡠᠷᠠᠷᠠ ᠠᡤᠠ ᡩᠣᡣᠰᡞᠨ ᡝᡩᡠᠨ ᠰᠠᠰᠠ ᡪᡞᠷᡝ ᡪᠠᡣᠠᡩᠠ , ᡩᡠᠯᡝᠷᡤᡞ ᡩᡝ ᠸᡝᡞᠯᡝᠮᡝ ᡞᠯᡞᡥᠠ ᡠᠷᠰᡝ ᡤᡝᠮᡠ ᠮᠠᡞᡣᠠᠨ ᠴᡞ ᡫᡝᡣᠰᡞᠮᡝ ᡩᠣᠰᡞᡥᠠ 。
+# text[tran] = turara aga doksin edun sasa jire jakada, tulergide weileme iliha urse gemu maikan ci feksime dosiha
+# text[eng] = Because of the sudden storm, all the workers outside went into their tents
 1	ᡨᡠᠷᠠᠷᠠ	_	_	_	_	_	_	_	Translit=
 2	ᠠᡤᠠ	_	_	_	_	_	_	_	Translit=
 3	ᡩᠣᡣᠰᡞᠨ	_	_	_	_	_	_	_	Translit=
@@ -601,9 +601,9 @@
 19	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_47
-# sent = ᡨᠠᠴᡞᡣᡡ ᡩᡝ ᡨᠠᠴᡞᠮᠠᡥᠠ ᡨᠠᠴᡞᠰᠠ ᡤᡝᠮᡠ ᡣᡠᠪᡠᠨ ᡨᡠᡢᡤᡞᠶᡝᠮᡝ ᡤᡝᠨᡝᡥᡝ 。
-# sent[phon] = tacikv de tacimaha tacisa gemu kubun tunggiyeme genehe
-# sent[eng] = All on-campus students went to pick cotton
+# text = ᡨᠠᠴᡞᡣᡡ ᡩᡝ ᡨᠠᠴᡞᠮᠠᡥᠠ ᡨᠠᠴᡞᠰᠠ ᡤᡝᠮᡠ ᡣᡠᠪᡠᠨ ᡨᡠᡢᡤᡞᠶᡝᠮᡝ ᡤᡝᠨᡝᡥᡝ 。
+# text[tran] = tacikv de tacimaha tacisa gemu kubun tunggiyeme genehe
+# text[eng] = All on-campus students went to pick cotton
 1	ᡨᠠᠴᡞᡣᡡ	_	_	_	_	_	_	_	Translit=
 2	ᡩᡝ	_	_	_	_	_	_	_	Translit=
 3	ᡨᠠᠴᡞᠮᠠᡥᠠ	_	_	_	_	_	_	_	Translit=
@@ -615,9 +615,9 @@
 9	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_48
-# sent = ᠰᡝᡪᡝᠨ ᡩᡝ ᡨᡝᡫᡞ ᡪᡠᡣᡡᠨ ᠶᠠᠪᡠᠮᠠᡥᠠ ᠨᡞᠶᠠᠯᠮᠠ , ᡤᡝᠮᡠ ᠠᠮᡠ ᡪᡞᡫᡞ , ᠶᠠᠰᠠ ᠪᡝ ᠨᡞᠴᡠᡥᡝ 。
-# sent[phon] = sejen de tefi jukvn yabumaha niyalma, gemu amu jifi, yasa be nicuhe
-# sent[eng] = The passengers on the bus were so sleepy that they closed their eyes
+# text = ᠰᡝᡪᡝᠨ ᡩᡝ ᡨᡝᡫᡞ ᡪᡠᡣᡡᠨ ᠶᠠᠪᡠᠮᠠᡥᠠ ᠨᡞᠶᠠᠯᠮᠠ , ᡤᡝᠮᡠ ᠠᠮᡠ ᡪᡞᡫᡞ , ᠶᠠᠰᠠ ᠪᡝ ᠨᡞᠴᡠᡥᡝ 。
+# text[tran] = sejen de tefi jukvn yabumaha niyalma, gemu amu jifi, yasa be nicuhe
+# text[eng] = The passengers on the bus were so sleepy that they closed their eyes
 1	ᠰᡝᡪᡝᠨ	_	_	_	_	_	_	_	Translit=
 2	ᡩᡝ	_	_	_	_	_	_	_	Translit=
 3	ᡨᡝᡫᡞ	_	_	_	_	_	_	_	Translit=
@@ -635,9 +635,9 @@
 15	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_49
-# sent = ᠨᡞᠶᠠᠯᠮᠠ ᡝᡫᡠᡪᡝᠮᡝ ᠰᠣᡢᡤᠣᠷᡣᡡᡢᡤᡝ ᠠᡣᡡ 。
-# sent[phon] = niyalma efujeme songgorkvngge akv
-# sent[eng] = All who were there wept
+# text = ᠨᡞᠶᠠᠯᠮᠠ ᡝᡫᡠᡪᡝᠮᡝ ᠰᠣᡢᡤᠣᠷᡣᡡᡢᡤᡝ ᠠᡣᡡ 。
+# text[tran] = niyalma efujeme songgorkvngge akv
+# text[eng] = All who were there wept
 1	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
 2	ᡝᡫᡠᡪᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
 3	ᠰᠣᡢᡤᠣᠷᡣᡡᡢᡤᡝ	_	_	_	_	_	_	_	Translit=
@@ -645,9 +645,9 @@
 5	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_50
-# sent = ᡥᠠᠯᡥᡡᠨ ᡧᠣᠯᠣ ᡩᡝ ᠪᠣᡠᠴᡞ ᠪᡝᡩᡝᠷᡝᡥᡝᡣᡡᡢᡤᡝ , ᡝᠮᡥᡠᠨ ᠮᡞᠨᡞ ᡨᡝᡞᠯᡝ ᠸᠠᡣᠠ 。
-# sent[phon] = halhvn šolo de booci bederehekvngge, emhun mini teile waka
-# sent[eng] = I'm not the only one who didn't go home for the summer vacation
+# text = ᡥᠠᠯᡥᡡᠨ ᡧᠣᠯᠣ ᡩᡝ ᠪᠣᡠᠴᡞ ᠪᡝᡩᡝᠷᡝᡥᡝᡣᡡᡢᡤᡝ , ᡝᠮᡥᡠᠨ ᠮᡞᠨᡞ ᡨᡝᡞᠯᡝ ᠸᠠᡣᠠ 。
+# text[tran] = halhvn šolo de booci bederehekvngge, emhun mini teile waka
+# text[eng] = I'm not the only one who didn't go home for the summer vacation
 1	ᡥᠠᠯᡥᡡᠨ	_	_	_	_	_	_	_	Translit=
 2	ᡧᠣᠯᠣ	_	_	_	_	_	_	_	Translit=
 3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -661,18 +661,18 @@
 11	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_51
-# sent = ᡨᡝᠷᡝ ᠶᠠᠪᡠᠷᠠᡣᡡ ᠰᡝᡥᡝᡣᡡ 。
-# sent[phon] = tere yabumakv sehekv
-# sent[eng] = He did not say that he did not go
+# text = ᡨᡝᠷᡝ ᠶᠠᠪᡠᠷᠠᡣᡡ ᠰᡝᡥᡝᡣᡡ 。
+# text[tran] = tere yabumakv sehekv
+# text[eng] = He did not say that he did not go
 1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠶᠠᠪᡠᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
 3	ᠰᡝᡥᡝᡣᡡ	_	_	_	_	_	_	_	Translit=
 4	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_52
-# sent = ᡨᡝᠷᡝ ᠶᠠᠪᡠᠮᠪᡞ ᠰᡝᠴᡞ , ᠶᠠᠪᡠᡤᡞᠨᡞ 。
-# sent[phon] = tere yabumbi seci, yabugini
-# sent[eng] = If he says to go, let him go
+# text = ᡨᡝᠷᡝ ᠶᠠᠪᡠᠮᠪᡞ ᠰᡝᠴᡞ , ᠶᠠᠪᡠᡤᡞᠨᡞ 。
+# text[tran] = tere yabumbi seci, yabugini
+# text[eng] = If he says to go, let him go
 1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠶᠠᠪᡠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠰᡝᠴᡞ	_	_	_	_	_	_	_	Translit=
@@ -681,9 +681,9 @@
 6	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_53
-# sent = ᠮᡞᠨᡞ ᡤᡝᠪᡠ ᠪᡝ ᠮᡠᡨᡝᡧᠠᠨ ᠰᡝᠮᠪᡞ 。
-# sent[phon] = mini gebu be mutešan sembi
-# sent[eng] = My name is Muteshan
+# text = ᠮᡞᠨᡞ ᡤᡝᠪᡠ ᠪᡝ ᠮᡠᡨᡝᡧᠠᠨ ᠰᡝᠮᠪᡞ 。
+# text[tran] = mini gebu be mutešan sembi
+# text[eng] = My name is Muteshan
 1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡤᡝᠪᡠ	_	_	_	_	_	_	_	Translit=
 3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
@@ -692,9 +692,9 @@
 6	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_54
-# sent = ᠴᠠᠪᠴᠠᠯ  ᡞ ᠠᠮᠠᠷᡤᡞ ᡤᡡᠯᡪᠠ  ᡞ ᡪᡠᠯᡝᠷᡤᡞ , ᡩᡝᠷᡤᡞ ᠴᡞ ᠸᠠᠰᡞ ᡝᠶᡝᡥᡝ ᠪᡞᠷᠠ ᠪᡝ ᡞᠯᡞ ᠪᡞᠷᠠ ᠰᡝᠮᠪᡞ 。
-# sent[phon] = cabcal i amargi gvlin i julergi, dergi ci wasi eyehe bira be ili bira sembi
-# sent[eng] = North to Cabcal and south to Ining, the river flowing from east to west is called Ili River
+# text = ᠴᠠᠪᠴᠠᠯ  ᡞ ᠠᠮᠠᠷᡤᡞ ᡤᡡᠯᡪᠠ  ᡞ ᡪᡠᠯᡝᠷᡤᡞ , ᡩᡝᠷᡤᡞ ᠴᡞ ᠸᠠᠰᡞ ᡝᠶᡝᡥᡝ ᠪᡞᠷᠠ ᠪᡝ ᡞᠯᡞ ᠪᡞᠷᠠ ᠰᡝᠮᠪᡞ 。
+# text[tran] = cabcal i amargi gvlin i julergi, dergi ci wasi eyehe bira be ili bira sembi
+# text[eng] = North to Cabcal and south to Ining, the river flowing from east to west is called Ili River
 1	ᠴᠠᠪᠴᠠᠯ	_	_	_	_	_	_	_	Translit=
 2	 ᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠠᠮᠠᠷᡤᡞ	_	_	_	_	_	_	_	Translit=
@@ -714,9 +714,9 @@
 17	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_55
-# sent = ᠠᠨ  ᡞ ᡤᡞᠰᡠᠨ ᡩᡝ ᡤᡞᠰᡠᠷᡝᡥᡝᡢᡤᡝ : ᡪᡠᡤᡡᠨ ᡤᠣᠷᠣ ᡩᡝ ᠮᠣᠷᡞᠨ ᡥᡡᠰᡠᠨ ᠪᡝ ᠰᠠᠮᠪᡞ , ᡞᠨᡝᡢᡤᡞ ᡤᠣᡞᡩᠠᠴᡞ ᠨᡞᠶᠠᠯᠮᠠᡞ ᠮᡠᡪᡞᠯᡝᠨ ᠪᡝ ᡨᠠᡣᠠᠮᠪᡞ ᠰᡝᠮᠪᡞ 。
-# sent[phon] = ai i gisun de gisurehengge: jugvn goro de murin hvsun be sambi, inenggi goidaci niyalmai mujilen be takambi sembi
-# sent[eng] = As the saying goes, time reveals a persons heart
+# text = ᠠᠨ  ᡞ ᡤᡞᠰᡠᠨ ᡩᡝ ᡤᡞᠰᡠᠷᡝᡥᡝᡢᡤᡝ : ᡪᡠᡤᡡᠨ ᡤᠣᠷᠣ ᡩᡝ ᠮᠣᠷᡞᠨ ᡥᡡᠰᡠᠨ ᠪᡝ ᠰᠠᠮᠪᡞ , ᡞᠨᡝᡢᡤᡞ ᡤᠣᡞᡩᠠᠴᡞ ᠨᡞᠶᠠᠯᠮᠠᡞ ᠮᡠᡪᡞᠯᡝᠨ ᠪᡝ ᡨᠠᡣᠠᠮᠪᡞ ᠰᡝᠮᠪᡞ 。
+# text[tran] = ai i gisun de gisurehengge: jugvn goro de murin hvsun be sambi, inenggi goidaci niyalmai mujilen be takambi sembi
+# text[eng] = As the saying goes, time reveals a persons heart
 1	ᠠᠨ	_	_	_	_	_	_	_	Translit=
 2	 ᡞ	_	_	_	_	_	_	_	Translit=
 3	ᡤᡞᠰᡠᠨ	_	_	_	_	_	_	_	Translit=
@@ -741,9 +741,9 @@
 22	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_56
-# sent = ᠪᠠᡞᡨᠠ ᠪᡝ ᡞᠨᡩᡝ ᡫᠣᠨᡪᡞᠴᡞ , ᠰᠠᠷᠠᡣᡡ ᠰᡝᡥᡝ 。
-# sent[phon] = baita be inde fonjici, sarakv sehe
-# sent[eng] = If ask him this time, he said he did not know
+# text = ᠪᠠᡞᡨᠠ ᠪᡝ ᡞᠨᡩᡝ ᡫᠣᠨᡪᡞᠴᡞ , ᠰᠠᠷᠠᡣᡡ ᠰᡝᡥᡝ 。
+# text[tran] = baita be inde fonjici, sarakv sehe
+# text[eng] = If ask him this time, he said he did not know
 1	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
 2	ᠪᡝ	_	_	_	_	_	_	_	Translit=
 3	ᡞᠨᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -754,18 +754,18 @@
 8	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_57
-# sent = ᡨᡝᠷᡝ ᠶᠠᠪᡠᡣᡞ ᠰᡝᠮᠪᡞ 。
-# sent[phon] = tere yabuki sembi
-# sent[eng] = He wants to leave
+# text = ᡨᡝᠷᡝ ᠶᠠᠪᡠᡣᡞ ᠰᡝᠮᠪᡞ 。
+# text[tran] = tere yabuki sembi
+# text[eng] = He wants to leave
 1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠶᠠᠪᡠᡣᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠰᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
 4	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_58
-# sent = ᡩᠠᠯᡩᠠᡣᡞ ᠰᡝᡥᡝᡞ ᡞᠯᡝᡨᡠᠯᡝᠮᠪᡞ ᡣᠠᡞ , ᡪᠠᠪᡧᠠᡣᡞ ᠰᡝᡥᡝᡞ ᡠᡫᠠᠷᠠᠮᠪᡞ ᡣᠠᡞ 。
-# sent[phon] = daldaki sehei iletulembi kai, jabšaki sehei ufarambi kai
-# sent[eng] = The more that you want to conceal, the more you expose; the more you want to gain, the more you lose
+# text = ᡩᠠᠯᡩᠠᡣᡞ ᠰᡝᡥᡝᡞ ᡞᠯᡝᡨᡠᠯᡝᠮᠪᡞ ᡣᠠᡞ , ᡪᠠᠪᡧᠠᡣᡞ ᠰᡝᡥᡝᡞ ᡠᡫᠠᠷᠠᠮᠪᡞ ᡣᠠᡞ 。
+# text[tran] = daldaki sehei iletulembi kai, jabšaki sehei ufarambi kai
+# text[eng] = The more that you want to conceal, the more you expose; the more you want to gain, the more you lose
 1	ᡩᠠᠯᡩᠠᡣᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠰᡝᡥᡝᡞ	_	_	_	_	_	_	_	Translit=
 3	ᡞᠯᡝᡨᡠᠯᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
@@ -778,9 +778,9 @@
 10	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_59
-# sent = ᠠᠯᠠᡤᠠ ᡪᠠᠯᠠᠨ ᡩᡝ ᡥᡡᡨᡠᠷᡞ ᡫᡝᡢᡧᡝᠨ ᠸᡝᠷᡞᡣᡞ ᠰᡝᠮᠪᡞ 。
-# sent[phon] = alaga jalan de hvturi fengšen weriki sembi
-# sent[eng] = I want to leave a blessing for future generations
+# text = ᠠᠯᠠᡤᠠ ᡪᠠᠯᠠᠨ ᡩᡝ ᡥᡡᡨᡠᠷᡞ ᡫᡝᡢᡧᡝᠨ ᠸᡝᠷᡞᡣᡞ ᠰᡝᠮᠪᡞ 。
+# text[tran] = alaga jalan de hvturi fengšen weriki sembi
+# text[eng] = I want to leave a blessing for future generations
 1	ᠠᠯᠠᡤᠠ	_	_	_	_	_	_	_	Translit=
 2	ᡪᠠᠯᠠᠨ	_	_	_	_	_	_	_	Translit=
 3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -791,18 +791,18 @@
 8	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_60
-# sent = ᡞᠴᡞᡥᡞᠶᠠᠮᡝ ᠮᡠᡨᡝᠷᠠᡥᡡ ᠰᡝᠮᠪᡞ 。
-# sent[phon] = icihiyame muterahv sembi
-# sent[eng] = I am afraid I cannot make it
+# text = ᡞᠴᡞᡥᡞᠶᠠᠮᡝ ᠮᡠᡨᡝᠷᠠᡥᡡ ᠰᡝᠮᠪᡞ 。
+# text[tran] = icihiyame muterahv sembi
+# text[eng] = I am afraid I cannot make it
 1	ᡞᠴᡞᡥᡞᠶᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠮᡠᡨᡝᠷᠠᡥᡡ	_	_	_	_	_	_	_	Translit=
 3	ᠰᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
 4	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_61
-# sent = ᠮᡞᠨᡞ ᠪᠠᡞᡨᠠ ᡩᡝ ᠰᡝᡥᡝᡞ , ᠰᡞᠨᡞ ᠪᠠᡞᡨᠠ ᠪᡝ ᠰᠠᠷᡨᠠᠪᡠᡥᠠ 。
-# sent[phon] = mini baita de sehei, sini baita be sartabuha
-# sent[eng] = Because of my things, your things are delayed
+# text = ᠮᡞᠨᡞ ᠪᠠᡞᡨᠠ ᡩᡝ ᠰᡝᡥᡝᡞ , ᠰᡞᠨᡞ ᠪᠠᡞᡨᠠ ᠪᡝ ᠰᠠᠷᡨᠠᠪᡠᡥᠠ 。
+# text[tran] = mini baita de sehei, sini baita be sartabuha
+# text[eng] = Because of my things, your things are delayed
 1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
 3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -815,9 +815,9 @@
 10	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_62
-# sent = ᡞᠯᠠᠨ ᠨᡞᠶᠠᠯᠮᠠ ᡝᠮᡠ ᠮᡠᡪᡞᠯᡝᠨ ᠣᠴᡞ , ᠰᡠᠸᠠᠶᠠᠨ ᠪᠣᡞᡥᠣᠨ ᡞᠨᡠ ᠠᡞᠰᡞᠨ ᠣᠮᠪᡞ 。
-# sent[phon] = ilan niyalma emu mujilen oci, suwayan boihon inu aisin ombi
-# sent[eng] = All people cooperate with each other, yellow earth turns to gold
+# text = ᡞᠯᠠᠨ ᠨᡞᠶᠠᠯᠮᠠ ᡝᠮᡠ ᠮᡠᡪᡞᠯᡝᠨ ᠣᠴᡞ , ᠰᡠᠸᠠᠶᠠᠨ ᠪᠣᡞᡥᠣᠨ ᡞᠨᡠ ᠠᡞᠰᡞᠨ ᠣᠮᠪᡞ 。
+# text[tran] = ilan niyalma emu mujilen oci, suwayan boihon inu aisin ombi
+# text[eng] = All people cooperate with each other, yellow earth turns to gold
 1	ᡞᠯᠠᠨ	_	_	_	_	_	_	_	Translit=
 2	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
 3	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
@@ -832,9 +832,9 @@
 12	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_63
-# sent = ᡣᡝᡣᡨᡝ ᡣᠠᡣᡨᠠ ᡪᡠᡤᡡᠨ ᠪᡝ ᡩᠠᠰᠠᡫᡞ , ᡝᠮᡤᡝᠷᡞᠨ ᠨᡝᠴᡞᠨ ᠣᠨᠴᠣ ᠣᡥᠣ 。
-# sent[phon] = kekte kekta jugvn be dasafi, emgerin necin onco oho
-# sent[eng] = The roads that used to be rugged turned to be flat and wide
+# text = ᡣᡝᡣᡨᡝ ᡣᠠᡣᡨᠠ ᡪᡠᡤᡡᠨ ᠪᡝ ᡩᠠᠰᠠᡫᡞ , ᡝᠮᡤᡝᠷᡞᠨ ᠨᡝᠴᡞᠨ ᠣᠨᠴᠣ ᠣᡥᠣ 。
+# text[tran] = kekte kekta jugvn be dasafi, emgerin necin onco oho
+# text[eng] = The roads that used to be rugged turned to be flat and wide
 1	ᡣᡝᡣᡨᡝ	_	_	_	_	_	_	_	Translit=
 2	ᡣᠠᡣᡨᠠ	_	_	_	_	_	_	_	Translit=
 3	ᡪᡠᡤᡡᠨ	_	_	_	_	_	_	_	Translit=
@@ -848,9 +848,9 @@
 11	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_64
-# sent = ᠮᡞᠨᡞ ᠠᠮᠠ ᠮᡞᠮᠪᡝ ᠰᡞᠷᠠᠮᡝ ᠰᡝᡫᡠ ᠣᠰᠣ ᠰᡝᡥᡝ 。
-# sent[phon] = mini ama mimbe sirame sefu oso sehe
-# sent[eng] = My father wants me to be a teacher in future
+# text = ᠮᡞᠨᡞ ᠠᠮᠠ ᠮᡞᠮᠪᡝ ᠰᡞᠷᠠᠮᡝ ᠰᡝᡫᡠ ᠣᠰᠣ ᠰᡝᡥᡝ 。
+# text[tran] = mini ama mimbe sirame sefu oso sehe
+# text[eng] = My father wants me to be a teacher in future
 1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠠᠮᠠ	_	_	_	_	_	_	_	Translit=
 3	ᠮᡞᠮᠪᡝ	_	_	_	_	_	_	_	Translit=
@@ -861,9 +861,9 @@
 8	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_65
-# sent = ᡝᠷᡝ ᠮᠣᠷᡞᠨ ᠪᡝ ᠶᠠᠯᡠᠴᡞ ᠣᠮᠪᡞ 。
-# sent[phon] = ere morin be yaluci ombi
-# sent[eng] = This horse is rideable
+# text = ᡝᠷᡝ ᠮᠣᠷᡞᠨ ᠪᡝ ᠶᠠᠯᡠᠴᡞ ᠣᠮᠪᡞ 。
+# text[tran] = ere morin be yaluci ombi
+# text[eng] = This horse is rideable
 1	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠮᠣᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
 3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
@@ -872,9 +872,9 @@
 6	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_66
-# sent = ᡠᠯᡥᡞᠴᡠᠨ ᠮᡝᠨᡞ ᠪᠠᠨᠰᡝ  ᡞ ᠪᠠᠨᠰᡝ ᡩᠠ ᠣᡥᠣᠪᡞ 。
-# sent[phon] = ulhicun mini banse i banse da ohobi
-# sent[eng] = He serves as monitor of our class
+# text = ᡠᠯᡥᡞᠴᡠᠨ ᠮᡝᠨᡞ ᠪᠠᠨᠰᡝ  ᡞ ᠪᠠᠨᠰᡝ ᡩᠠ ᠣᡥᠣᠪᡞ 。
+# text[tran] = ulhicun mini banse i banse da ohobi
+# text[eng] = He serves as monitor of our class
 1	ᡠᠯᡥᡞᠴᡠᠨ	_	_	_	_	_	_	_	Translit=
 2	ᠮᡝᠨᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠪᠠᠨᠰᡝ	_	_	_	_	_	_	_	Translit=
@@ -885,9 +885,9 @@
 8	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_67
-# sent = ᠰᡞᠨᡞ ᠶᠠᠨᡩᡠᡥᠠ ᠪᠠᡞᡨᠠ ᠪᡝ , ᡨᡝᠷᡝ ᠣᠮᠪᡞ ᠰᡝᡥᡝ 。
-# sent[phon] = sini yanduha baita be, tere ombi sehe
-# sent[eng] = He said yes to what you entrusted
+# text = ᠰᡞᠨᡞ ᠶᠠᠨᡩᡠᡥᠠ ᠪᠠᡞᡨᠠ ᠪᡝ , ᡨᡝᠷᡝ ᠣᠮᠪᡞ ᠰᡝᡥᡝ 。
+# text[tran] = sini yanduha baita be, tere ombi sehe
+# text[eng] = He said yes to what you entrusted
 1	ᠰᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠶᠠᠨᡩᡠᡥᠠ	_	_	_	_	_	_	_	Translit=
 3	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
@@ -899,9 +899,9 @@
 9	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_68
-# sent = ᠮᡠᠰᡝᡞ ᡤᡞᠰᡠᠷᡝᡥᡝ ᠪᠠᡞᡨᠠ , ᠣᡪᠣᠷᠣ ᠮᡠᠷᡠ ᠪᡞ 。
-# sent[phon] = musei gisurehe baita, ojoro muru bi
-# sent[eng] = What we said seem to work
+# text = ᠮᡠᠰᡝᡞ ᡤᡞᠰᡠᠷᡝᡥᡝ ᠪᠠᡞᡨᠠ , ᠣᡪᠣᠷᠣ ᠮᡠᠷᡠ ᠪᡞ 。
+# text[tran] = musei gisurehe baita, ojoro muru bi
+# text[eng] = What we said seem to work
 1	ᠮᡠᠰᡝᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡤᡞᠰᡠᠷᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
 3	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
@@ -912,9 +912,9 @@
 8	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_69
-# sent = ᡠᡩᡠ ᡞᠨᡝᡢᡤᡞ ᠣᡥᠠᡣᡡ , ᡞᠴᡝ ᡨᠠᠴᡞᠰᠠ ᠰᡞᠷᠠᠨ ᠰᡞᠷᠠᠨ  ᡞ ᠪᠣᡠᠯᠠᠨᡪᡞᡥᡝ 。
-# sent[phon] = udu inenggi ohokv, ice tacisa siran siran i boolanjihe
-# sent[eng] = A few days later, new students began to register one by one
+# text = ᡠᡩᡠ ᡞᠨᡝᡢᡤᡞ ᠣᡥᠠᡣᡡ , ᡞᠴᡝ ᡨᠠᠴᡞᠰᠠ ᠰᡞᠷᠠᠨ ᠰᡞᠷᠠᠨ  ᡞ ᠪᠣᡠᠯᠠᠨᡪᡞᡥᡝ 。
+# text[tran] = udu inenggi ohokv, ice tacisa siran siran i boolanjihe
+# text[eng] = A few days later, new students began to register one by one
 1	ᡠᡩᡠ	_	_	_	_	_	_	_	Translit=
 2	ᡞᠨᡝᡢᡤᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠣᡥᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
@@ -928,9 +928,9 @@
 11	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_70
-# sent = ᠪᡞ ᡤᡡᠯᡪᠠ ᡩᡝ ᡞᠰᡞᠨᡪᡞᡫᡞ , ᡣᡝᡪᡞᠨᡝ ᡠᡩᡠ ᡞᠨᡝᡢᡤᡞ ᠣᡥᠣ 。
-# sent[phon] = bi gvlja de isinjifi, kejine udu inenggi oho
-# sent[eng] = I have been to Ining for several days
+# text = ᠪᡞ ᡤᡡᠯᡪᠠ ᡩᡝ ᡞᠰᡞᠨᡪᡞᡫᡞ , ᡣᡝᡪᡞᠨᡝ ᡠᡩᡠ ᡞᠨᡝᡢᡤᡞ ᠣᡥᠣ 。
+# text[tran] = bi gvlja de isinjifi, kejine udu inenggi oho
+# text[eng] = I have been to Ining for several days
 1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡤᡡᠯᡪᠠ	_	_	_	_	_	_	_	Translit=
 3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -943,9 +943,9 @@
 10	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_71
-# sent = ᡩᠣᠪᠣᠷᡞ ᠣᠮᡝ , ᡥᠣᡨᠣᠨ ᡩᠣᠷᡤᡞ ᠠᠮᠪᠠ ᡪᡠᡤᡡᠨ  ᡞ ᡪᡠᠸᡝ ᡝᠷᡤᡞ  ᡞ ᡩᡝᡢᡪᠠᠨ , ᠠᡞᠮᠠᡣᠠ ᡞᠨᡝᡢᡤᡞ ᡧᡠᠨ  ᡞ ᠠᡩᠠᠯᡞ ᡝᠯᡩᡝᡧᡝᠮᠪᡞ 。
-# sent[phon] = dobori ome, hoton dorgi amba jugvn i juwe ergi i dengjan šun i adali eldešembi
-# sent[eng] = When it comes to night, the street lamps on both sides of the city streets light up as they do in the daytime
+# text = ᡩᠣᠪᠣᠷᡞ ᠣᠮᡝ , ᡥᠣᡨᠣᠨ ᡩᠣᠷᡤᡞ ᠠᠮᠪᠠ ᡪᡠᡤᡡᠨ  ᡞ ᡪᡠᠸᡝ ᡝᠷᡤᡞ  ᡞ ᡩᡝᡢᡪᠠᠨ , ᠠᡞᠮᠠᡣᠠ ᡞᠨᡝᡢᡤᡞ ᡧᡠᠨ  ᡞ ᠠᡩᠠᠯᡞ ᡝᠯᡩᡝᡧᡝᠮᠪᡞ 。
+# text[tran] = dobori ome, hoton dorgi amba jugvn i juwe ergi i dengjan šun i adali eldešembi
+# text[eng] = When it comes to night, the street lamps on both sides of the city streets light up as they do in the daytime
 1	ᡩᠣᠪᠣᠷᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠣᠮᡝ	_	_	_	_	_	_	_	Translit=
 3	,	_	_	_	_	_	_	_	Translit=
@@ -968,9 +968,9 @@
 20	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_72
-# sent = ᡪᠠᠯᠠᠨ ᠪᡝ ᡤᡞᠰᡠᠷᡝᠴᡞ , ᠰᡞ ᠮᡞᠨᡩᡝ ᡠᡢᡤᠠᠨ ᠣᠮᠪᡞ 。
-# sent[phon] = jalan be gisureci, si minde unggan ombi
-# sent[eng] = In terms of seniority, you are my elder
+# text = ᡪᠠᠯᠠᠨ ᠪᡝ ᡤᡞᠰᡠᠷᡝᠴᡞ , ᠰᡞ ᠮᡞᠨᡩᡝ ᡠᡢᡤᠠᠨ ᠣᠮᠪᡞ 。
+# text[tran] = jalan be gisureci, si minde unggan ombi
+# text[eng] = In terms of seniority, you are my elder
 1	ᡪᠠᠯᠠᠨ	_	_	_	_	_	_	_	Translit=
 2	ᠪᡝ	_	_	_	_	_	_	_	Translit=
 3	ᡤᡞᠰᡠᠷᡝᠴᡞ	_	_	_	_	_	_	_	Translit=
@@ -982,9 +982,9 @@
 9	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_73
-# sent = ᡪᡠᡤᡡᠨ ᡪᡠᡩᡠ ᡥᠠᠨᠴᡞ , ᡠᡪᡠᡞ ᠣᡣᠰᠣᠨ ᠪᡝ ᠣᡣᠰᠣᠷᠠᡣᡡ ᠣᠴᡞ , ᠠᡩᠠᠷᠠᠮᡝ ᡞᠰᡞᠨᠠᠴᡞ ᠣᠮᠪᡞ 。
-# sent[phon] = jugvn judu hanci, ujui okson be oksorakv oci, adarame isinaci ombi
-# sent[eng] = Though the road is nearby, we cannot reach it unless we take the first step
+# text = ᡪᡠᡤᡡᠨ ᡪᡠᡩᡠ ᡥᠠᠨᠴᡞ , ᡠᡪᡠᡞ ᠣᡣᠰᠣᠨ ᠪᡝ ᠣᡣᠰᠣᠷᠠᡣᡡ ᠣᠴᡞ , ᠠᡩᠠᠷᠠᠮᡝ ᡞᠰᡞᠨᠠᠴᡞ ᠣᠮᠪᡞ 。
+# text[tran] = jugvn judu hanci, ujui okson be oksorakv oci, adarame isinaci ombi
+# text[eng] = Though the road is nearby, we cannot reach it unless we take the first step
 1	ᡪᡠᡤᡡᠨ	_	_	_	_	_	_	_	Translit=
 2	ᡪᡠᡩᡠ	_	_	_	_	_	_	_	Translit=
 3	ᡥᠠᠨᠴᡞ	_	_	_	_	_	_	_	Translit=
@@ -1001,9 +1001,9 @@
 14	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_74
-# sent = ᠪᠠᡞᡨᠠᡞ ᠣᡢᡤᠣᠯᠣ ᡤᡡᠨᡞᠨ ᠸᡝᠷᡝᡧᡝᡥᡝ ᠪᡞᠴᡞ , ᡨᡝᠨᡨᡝᡣᡝ ᠠᠮᠪᠠ ᡠᡫᠠᠷᠠᠷᠠᡣᡡ ᠪᡞᡥᡝ 。
-# sent[phon] = baitai onggolo gvnin werešehe bici, tenteke amba ufararakv bihe
-# sent[eng] = If we had noticed beforehand, the loss would not have been so great
+# text = ᠪᠠᡞᡨᠠᡞ ᠣᡢᡤᠣᠯᠣ ᡤᡡᠨᡞᠨ ᠸᡝᠷᡝᡧᡝᡥᡝ ᠪᡞᠴᡞ , ᡨᡝᠨᡨᡝᡣᡝ ᠠᠮᠪᠠ ᡠᡫᠠᠷᠠᠷᠠᡣᡡ ᠪᡞᡥᡝ 。
+# text[tran] = baitai onggolo gvnin werešehe bici, tenteke amba ufararakv bihe
+# text[eng] = If we had noticed beforehand, the loss would not have been so great
 1	ᠪᠠᡞᡨᠠᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠣᡢᡤᠣᠯᠣ	_	_	_	_	_	_	_	Translit=
 3	ᡤᡡᠨᡞᠨ	_	_	_	_	_	_	_	Translit=
@@ -1017,9 +1017,9 @@
 11	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_75
-# sent = ᠮᡞᠨᡞ ᡪᡠᠸᡝ ᠠᡥᡡᠨ ᡤᡝᠮᡠ ᡠᠰᡞᠰᠠ ᠪᡞᡥᡝ 。
-# sent[phon] = mini juwe ahvn gemu usisa bihe
-# sent[eng] = My two elder brothers are all farmers
+# text = ᠮᡞᠨᡞ ᡪᡠᠸᡝ ᠠᡥᡡᠨ ᡤᡝᠮᡠ ᡠᠰᡞᠰᠠ ᠪᡞᡥᡝ 。
+# text[tran] = mini juwe ahvn gemu usisa bihe
+# text[eng] = My two elder brothers are all farmers
 1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡪᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
 3	ᠠᡥᡡᠨ	_	_	_	_	_	_	_	Translit=
@@ -1029,9 +1029,9 @@
 7	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_76
-# sent = ᡝᠮᡠ ᠨᡞᠶᠠᠯᠮᠠᡞ ᠪᠠᡞᡨᠠ ᠣᠴᡞ , ᡤᡝᠮᡠᠨᡞ ᡪᠠ ᠪᡞᡥᡝ , ᡤᡝᠷᡝᠨ ᠨᡞᠶᠠᠯᠮᠠᡞ ᠪᠠᡞᡨᠠ ᠣᡫᡞ , ᡞᠴᡞᡥᡞᠶᠠᠷᠠ ᡩᡝ ᡪᠠᠴᡞ ᠮᠠᡢᡤᠠ 。
-# sent[phon] = emu niyalmai baita oci, gemuni ja bihe, geren niyalmai baita ofi, icihiyara de jaci mangga
-# sent[eng] = If it is an individuals business, it is easy, because it is everyones business, so it is difficult to do
+# text = ᡝᠮᡠ ᠨᡞᠶᠠᠯᠮᠠᡞ ᠪᠠᡞᡨᠠ ᠣᠴᡞ , ᡤᡝᠮᡠᠨᡞ ᡪᠠ ᠪᡞᡥᡝ , ᡤᡝᠷᡝᠨ ᠨᡞᠶᠠᠯᠮᠠᡞ ᠪᠠᡞᡨᠠ ᠣᡫᡞ , ᡞᠴᡞᡥᡞᠶᠠᠷᠠ ᡩᡝ ᡪᠠᠴᡞ ᠮᠠᡢᡤᠠ 。
+# text[tran] = emu niyalmai baita oci, gemuni ja bihe, geren niyalmai baita ofi, icihiyara de jaci mangga
+# text[eng] = If it is an individuals business, it is easy, because it is everyones business, so it is difficult to do
 1	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
 2	ᠨᡞᠶᠠᠯᠮᠠᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
@@ -1053,9 +1053,9 @@
 19	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_77
-# sent = ᡪᡠᠯᡤᡝᡞ ᡫᠣᠨᡩᡝ , ᡝᠮᡠ ᡨᠣᡣᠰᠣ ᡩᡝ ᡝᠮᡠ ᠰᠠᡞᡣᠠᠨ ᡤᡞᠷᡠ ᠰᠠᠷᡤᠠᠨᡪᡠᡞ ᠪᡞᠮᠪᡞ 。
-# sent[phon] = julgei fonde, emu tokso de emu saikan giru sarganjui bimbi
-# sent[eng] = Once upon a time, there was a beautiful girl in a village
+# text = ᡪᡠᠯᡤᡝᡞ ᡫᠣᠨᡩᡝ , ᡝᠮᡠ ᡨᠣᡣᠰᠣ ᡩᡝ ᡝᠮᡠ ᠰᠠᡞᡣᠠᠨ ᡤᡞᠷᡠ ᠰᠠᠷᡤᠠᠨᡪᡠᡞ ᠪᡞᠮᠪᡞ 。
+# text[tran] = julgei fonde, emu tokso de emu saikan giru sarganjui bimbi
+# text[eng] = Once upon a time, there was a beautiful girl in a village
 1	ᡪᡠᠯᡤᡝᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡫᠣᠨᡩᡝ	_	_	_	_	_	_	_	Translit=
 3	,	_	_	_	_	_	_	_	Translit=
@@ -1070,9 +1070,9 @@
 12	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_78
-# sent = ᠪᠣᡞᡤᠣᠨ ᡨᠣᠮᡝ ᡩᡝᠨᡩᡝᠮᡝ ᠪᡠᡥᡝ ᠮᠣᠷᡞᠨ ᡝᠮᡣᡝ , ᠰᡝᡪᡝᠨ ᡝᠮᡣᡝ , ᡨᡝᠮᡝᠨ ᡝᠮᡣᡝ 。
-# sent[phon] = boigon tome dendeme buhe morin emke, sejen emke, temen emke
-# sent[eng] = Every household was given a horse, a car and a camel
+# text = ᠪᠣᡞᡤᠣᠨ ᡨᠣᠮᡝ ᡩᡝᠨᡩᡝᠮᡝ ᠪᡠᡥᡝ ᠮᠣᠷᡞᠨ ᡝᠮᡣᡝ , ᠰᡝᡪᡝᠨ ᡝᠮᡣᡝ , ᡨᡝᠮᡝᠨ ᡝᠮᡣᡝ 。
+# text[tran] = boigon tome dendeme buhe morin emke, sejen emke, temen emke
+# text[eng] = Every household was given a horse, a car and a camel
 1	ᠪᠣᡞᡤᠣᠨ	_	_	_	_	_	_	_	Translit=
 2	ᡨᠣᠮᡝ	_	_	_	_	_	_	_	Translit=
 3	ᡩᡝᠨᡩᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
@@ -1088,9 +1088,9 @@
 13	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_79
-# sent = ᡨᡝᠰᡝ ᡩᡝ ᡤᡞᠶᠠᠨ  ᡞ ᡞᠴᡞᡥᡞᠶᠠᠷᠠ ᠪᠠᡞᡨᠠ ᠪᡝ ᡝᠮᡣᡝ ᡝᠮᡣᡝᠨ  ᡞ ᡤᡝᡨᡠᡣᡝᠯᡝᠮᡝ ᠠᡫᠠᠪᡠᡥᠠ 。
-# sent[phon] = tese de giyan i icihiyara baita be emke emken i getukeleme afabuha
-# sent[eng] = A clear account of what they should do is given
+# text = ᡨᡝᠰᡝ ᡩᡝ ᡤᡞᠶᠠᠨ  ᡞ ᡞᠴᡞᡥᡞᠶᠠᠷᠠ ᠪᠠᡞᡨᠠ ᠪᡝ ᡝᠮᡣᡝ ᡝᠮᡣᡝᠨ  ᡞ ᡤᡝᡨᡠᡣᡝᠯᡝᠮᡝ ᠠᡫᠠᠪᡠᡥᠠ 。
+# text[tran] = tese de giyan i icihiyara baita be emke emken i getukeleme afabuha
+# text[eng] = A clear account of what they should do is given
 1	ᡨᡝᠰᡝ	_	_	_	_	_	_	_	Translit=
 2	ᡩᡝ	_	_	_	_	_	_	_	Translit=
 3	ᡤᡞᠶᠠᠨ	_	_	_	_	_	_	_	Translit=
@@ -1106,9 +1106,9 @@
 13	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_80
-# sent = ᡝᠮᡣᡝ ᡝᠮᡣᡝᠨ  ᡞ ᡨᡠᠴᡞᠮᡝ ᠶᠠᠪᡠᡥᠠ 。
-# sent[phon] = emke emken i tucime yabuha
-# sent[eng] = One by one left
+# text = ᡝᠮᡣᡝ ᡝᠮᡣᡝᠨ  ᡞ ᡨᡠᠴᡞᠮᡝ ᠶᠠᠪᡠᡥᠠ 。
+# text[tran] = emke emken i tucime yabuha
+# text[eng] = One by one left
 1	ᡝᠮᡣᡝ	_	_	_	_	_	_	_	Translit=
 2	ᡝᠮᡣᡝᠨ	_	_	_	_	_	_	_	Translit=
 3	 ᡞ	_	_	_	_	_	_	_	Translit=
@@ -1117,9 +1117,9 @@
 6	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_81
-# sent = ᡩᡠᡞᠴᡞ ᠪᡞᠯᡤᠠᠨ ᡤᡠᠪᠴᡞ ᡤᡠᠷᡠᠨ  ᡞ ᡣᠠᡨᡠᠷᡝᠪᡠᠨ ᡞᠰᠠᠷᡞᠨ ᡩᡝ , ᡤᡠᠮᡝᡞᡪᡝᠨ ᡰᡠᡤᡠᠸᠠᡢ ᠨᡞᠷᡠ ᠪᡝᠷᡞ ᡤᠠᠪᡨᠠᠷᠠ ᠮᡝᡣᡨᡝᠨ ᡩᡝ ᡠᡪᡠ ᡤᠠᡞᡥᠠ 。
-# sent[phon] = duici bilaga gubci gurun i katurebun isarin de, gumeijen rruguwang niru beri gebtara mekten de uju geiha
-# sent[eng] = At the fourth National Games, Guo Meizhen and Ru Guang won the first prize in shooting
+# text = ᡩᡠᡞᠴᡞ ᠪᡞᠯᡤᠠᠨ ᡤᡠᠪᠴᡞ ᡤᡠᠷᡠᠨ  ᡞ ᡣᠠᡨᡠᠷᡝᠪᡠᠨ ᡞᠰᠠᠷᡞᠨ ᡩᡝ , ᡤᡠᠮᡝᡞᡪᡝᠨ ᡰᡠᡤᡠᠸᠠᡢ ᠨᡞᠷᡠ ᠪᡝᠷᡞ ᡤᠠᠪᡨᠠᠷᠠ ᠮᡝᡣᡨᡝᠨ ᡩᡝ ᡠᡪᡠ ᡤᠠᡞᡥᠠ 。
+# text[tran] = duici bilaga gubci gurun i katurebun isarin de, gumeijen rruguwang niru beri gebtara mekten de uju geiha
+# text[eng] = At the fourth National Games, Guo Meizhen and Ru Guang won the first prize in shooting
 1	ᡩᡠᡞᠴᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠪᡞᠯᡤᠠᠨ	_	_	_	_	_	_	_	Translit=
 3	ᡤᡠᠪᠴᡞ	_	_	_	_	_	_	_	Translit=
@@ -1141,9 +1141,9 @@
 19	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_82
-# sent = ᠪᡞ ᠪᡝᡞᡪᡞᡢ ᡩᡝ ᡠᡪᡠᡞ ᠮᡠᡩᠠᠨ ᡪᡞᠮᠪᡞ 。
-# sent[phon] = bi beijing de ujui muden jimbi
-# sent[eng] = It is my first time coming to Beijing
+# text = ᠪᡞ ᠪᡝᡞᡪᡞᡢ ᡩᡝ ᡠᡪᡠᡞ ᠮᡠᡩᠠᠨ ᡪᡞᠮᠪᡞ 。
+# text[tran] = bi beijing de ujui muden jimbi
+# text[eng] = It is my first time coming to Beijing
 1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠪᡝᡞᡪᡞᡢ	_	_	_	_	_	_	_	Translit=
 3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
@@ -1153,9 +1153,9 @@
 7	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_83
-# sent = ᡨᡝᠷᡝᡞ ᡨᠠᠴᡞᠨ ᡨᡝᠰᡝᡞ ᠪᠠᠨᠰᡝ ᡩᡝ , ᡠᡪᡠ ᠸᠠᡣᠠ ᠣᠴᡞ ᡤᡝᠯᡞ ᡪᠠᡞ ᠣᠮᠪᡞ 。
-# sent[phon] = terei tacin tesei banse de, uju waka oci geli jai ombi
-# sent[eng] = He ranks first or second in his class
+# text = ᡨᡝᠷᡝᡞ ᡨᠠᠴᡞᠨ ᡨᡝᠰᡝᡞ ᠪᠠᠨᠰᡝ ᡩᡝ , ᡠᡪᡠ ᠸᠠᡣᠠ ᠣᠴᡞ ᡤᡝᠯᡞ ᡪᠠᡞ ᠣᠮᠪᡞ 。
+# text[tran] = terei tacin tesei banse de, uju waka oci geli jai ombi
+# text[eng] = He ranks first or second in his class
 1	ᡨᡝᠷᡝᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡨᠠᠴᡞᠨ	_	_	_	_	_	_	_	Translit=
 3	ᡨᡝᠰᡝᡞ	_	_	_	_	_	_	_	Translit=
@@ -1171,18 +1171,18 @@
 13	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_84
-# sent = ᡞᠯᠠᠨᠣᡫᡞ ᠠᡞᠪᡞᡩᡝᠷᡞ ᡪᡞᡥᡝᡠ ?
-# sent[phon] = ilanofi aibideri jiheo?
-# sent[eng] = Where are you three from
+# text = ᡞᠯᠠᠨᠣᡫᡞ ᠠᡞᠪᡞᡩᡝᠷᡞ ᡪᡞᡥᡝᡠ ?
+# text[tran] = ilanofi aibideri jiheo?
+# text[eng] = Where are you three from
 1	ᡞᠯᠠᠨᠣᡫᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠠᡞᠪᡞᡩᡝᠷᡞ	_	_	_	_	_	_	_	Translit=
 3	ᡪᡞᡥᡝᡠ	_	_	_	_	_	_	_	Translit=
 4	?	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_85
-# sent = ᠰᡠᠸᡝ ᡪᡠᠸᡝᠨᠣᡫᡞ ᠴᡞᠯᠠᠷᡞ ᡝᠷᡩᡝ ᠪᡠᡩᠠᡞ ᠠᠮᠠᠯᠠ , ᠰᡝᡪᡝᠨ ᡩᡝ ᡨᡝᡫᡞ ᡣᡠᠪᡠᠨ ᡨᡠᡢᡤᡞᠶᡝᠮᡝ ᡤᡝᠨᡝ 。
-# sent[phon] = suwe juwenofi cilari erde budai amala, sejen de tefi kubun tunggiyeme gene
-# sent[eng] = Tomorrow after breakfast, you ten take a car to picking cottons
+# text = ᠰᡠᠸᡝ ᡪᡠᠸᡝᠨᠣᡫᡞ ᠴᡞᠯᠠᠷᡞ ᡝᠷᡩᡝ ᠪᡠᡩᠠᡞ ᠠᠮᠠᠯᠠ , ᠰᡝᡪᡝᠨ ᡩᡝ ᡨᡝᡫᡞ ᡣᡠᠪᡠᠨ ᡨᡠᡢᡤᡞᠶᡝᠮᡝ ᡤᡝᠨᡝ 。
+# text[tran] = suwe juwenofi cilari erde budai amala, sejen de tefi kubun tunggiyeme gene
+# text[eng] = Tomorrow after breakfast, you ten take a car to picking cottons
 1	ᠰᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
 2	ᡪᡠᠸᡝᠨᠣᡫᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠴᡞᠯᠠᠷᡞ	_	_	_	_	_	_	_	Translit=
@@ -1199,9 +1199,9 @@
 14	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_86
-# sent = ᡞᠯᠠᠨᠣᡫᡞ ᡝᠮᡠ ᠮᡠᡪᡞᠨ , ᠰᡠᠸᠠᠶᠠᠨ ᠪᠣᡞᡥᠣᠨ ᡞᠨᡠ ᠠᡞᠰᡞᠨ ᠣᠮᠪᡞ 。
-# sent[phon] = ilanofi emu mujin, suwayan boihon inu aisin ombi
-# sent[eng] = Three people are of one mind, yellow earth can turn to gold
+# text = ᡞᠯᠠᠨᠣᡫᡞ ᡝᠮᡠ ᠮᡠᡪᡞᠨ , ᠰᡠᠸᠠᠶᠠᠨ ᠪᠣᡞᡥᠣᠨ ᡞᠨᡠ ᠠᡞᠰᡞᠨ ᠣᠮᠪᡞ 。
+# text[tran] = ilanofi emu mujin, suwayan boihon inu aisin ombi
+# text[eng] = Three people are of one mind, yellow earth can turn to gold
 1	ᡞᠯᠠᠨᠣᡫᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
 3	ᠮᡠᡪᡞᠨ	_	_	_	_	_	_	_	Translit=
@@ -1214,9 +1214,9 @@
 10	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_87
-# sent = ᠠᡣᡩᠠᠴᡠᠨ ᠮᡠᡪᡞᠯᡝᠨ ᡨᠠᡢᡤᡡ ᡠᠪᡠ ᠪᡞᠮᡝ ᡨᡠᡧᠠᠨᡠᠨ ᠪᡝ ᠠᠯᡞᠮᡝ ᡤᠠᡞᠮᠪᡞ 。
-# sent[phon] = akdacun mujilen tanggv ubu bime tušanun be alime gaimbi
-# sent[eng] = Confidently accept the tasks
+# text = ᠠᡣᡩᠠᠴᡠᠨ ᠮᡠᡪᡞᠯᡝᠨ ᡨᠠᡢᡤᡡ ᡠᠪᡠ ᠪᡞᠮᡝ ᡨᡠᡧᠠᠨᡠᠨ ᠪᡝ ᠠᠯᡞᠮᡝ ᡤᠠᡞᠮᠪᡞ 。
+# text[tran] = akdacun mujilen tanggv ubu bime tušanun be alime gaimbi
+# text[eng] = Confidently accept the tasks
 1	ᠠᡣᡩᠠᠴᡠᠨ	_	_	_	_	_	_	_	Translit=
 2	ᠮᡠᡪᡞᠯᡝᠨ	_	_	_	_	_	_	_	Translit=
 3	ᡨᠠᡢᡤᡡ	_	_	_	_	_	_	_	Translit=
@@ -1229,9 +1229,9 @@
 10	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_88
-# sent = ᡨᡝᠷᡝ ᡨᠠᠴᡞᠨ ᠰᠠᠷᠠᠰᡠ ᡝᠷᡩᡝᠮᡠ ᠮᡠᡨᡝᠨ ᠮᡞᠨᠴᡞ ᡪᡠᠸᠠᠨ ᡠᠪᡠ ᡫᡠᠯᡠ 。
-# sent[phon] = tere tacin sarasu erdemu muten minci juwan ubu fulu
-# sent[eng] = His intellectual virtue is ten times better than mine
+# text = ᡨᡝᠷᡝ ᡨᠠᠴᡞᠨ ᠰᠠᠷᠠᠰᡠ ᡝᠷᡩᡝᠮᡠ ᠮᡠᡨᡝᠨ ᠮᡞᠨᠴᡞ ᡪᡠᠸᠠᠨ ᡠᠪᡠ ᡫᡠᠯᡠ 。
+# text[tran] = tere tacin sarasu erdemu muten minci juwan ubu fulu
+# text[eng] = His intellectual virtue is ten times better than mine
 1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
 2	ᡨᠠᠴᡞᠨ	_	_	_	_	_	_	_	Translit=
 3	ᠰᠠᠷᠠᠰᡠ	_	_	_	_	_	_	_	Translit=
@@ -1244,9 +1244,9 @@
 10	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_89
-# sent = ᡞᠯᠠᠨ ᡠᠪᡠ ᠨᡞᠶᠠᠯᠮᠠ ᡩᡝ ᠠᡩᠠᠯᡞᡧᠠᠮᠪᡞ , ᠨᠠᡩᠠᠨ ᡠᠪᡠ ᡥᡠᡨᡠ ᡩᡝ ᠠᡩᠠᠯᡞᡧᠠᠮᠪᡞ 。
-# sent[phon] = ilan ubu niyalma de adališambi, nadan ubu hutu de adališambi
-# sent[eng] = Thirty percent like a human, seventy percent like a ghost
+# text = ᡞᠯᠠᠨ ᡠᠪᡠ ᠨᡞᠶᠠᠯᠮᠠ ᡩᡝ ᠠᡩᠠᠯᡞᡧᠠᠮᠪᡞ , ᠨᠠᡩᠠᠨ ᡠᠪᡠ ᡥᡠᡨᡠ ᡩᡝ ᠠᡩᠠᠯᡞᡧᠠᠮᠪᡞ 。
+# text[tran] = ilan ubu niyalma de adališambi, nadan ubu hutu de adališambi
+# text[eng] = Thirty percent like a human, seventy percent like a ghost
 1	ᡞᠯᠠᠨ	_	_	_	_	_	_	_	Translit=
 2	ᡠᠪᡠ	_	_	_	_	_	_	_	Translit=
 3	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
@@ -1261,9 +1261,9 @@
 12	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_90
-# sent = ᡝᠮᡠ ᠠᠮᠪᠠ ᡤᠠᡧᠠᠨ ᡨᠣᡣᠰᠣ ᡩᡝ ᠮᡠᠷᡠᡧᡝᠮᡝ ᡠᡩᡠ ᡨᠠᡢᡤᡡ ᠪᠣᡞᡤᡡᠨ ᠪᡞ 。
-# sent[phon] = emu amba gašan tokso de murušeme utu tanggv boigvn bi
-# sent[eng] = There are about hundreds of households in a big county
+# text = ᡝᠮᡠ ᠠᠮᠪᠠ ᡤᠠᡧᠠᠨ ᡨᠣᡣᠰᠣ ᡩᡝ ᠮᡠᠷᡠᡧᡝᠮᡝ ᡠᡩᡠ ᡨᠠᡢᡤᡡ ᠪᠣᡞᡤᡡᠨ ᠪᡞ 。
+# text[tran] = emu amba gašan tokso de murušeme utu tanggv boigvn bi
+# text[eng] = There are about hundreds of households in a big county
 1	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
 2	ᠠᠮᠪᠠ	_	_	_	_	_	_	_	Translit=
 3	ᡤᠠᡧᠠᠨ	_	_	_	_	_	_	_	Translit=
@@ -1277,9 +1277,9 @@
 11	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_91
-# sent = ᠮᡞᠨᡞ ᡝᠶᡠᠨ ᠪᠣᡠ ᡩᡝ ᠰᡠᠰᠠᡞ ᡫᡠᠨᠴᡝᠷᡝ ᠴᠣᡣᠣ ᠨᡞᠶᡝᡥᡝ ᠪᡞ , ᡥᠣᠨᡞᠨ ᠨᡞᠨᡪᡠ ᡩᡝ ᡥᠠᠮᡞᠮᠪᡞ , ᡞᡥᠠᠨ ᡞᠨᡠ ᠣᠷᡞᠨ ᡩᡝ ᡞᠰᡞᠮᠪᡞ 。
-# sent[phon] = mini eyun boo de susai funcere coko niyehe bi, honin ninju de hamimbi, inha inu orin de isimbi
-# sent[eng] = My sister has more than fifty chicken and ducks, almost 60 sheep and almost 20 cows
+# text = ᠮᡞᠨᡞ ᡝᠶᡠᠨ ᠪᠣᡠ ᡩᡝ ᠰᡠᠰᠠᡞ ᡫᡠᠨᠴᡝᠷᡝ ᠴᠣᡣᠣ ᠨᡞᠶᡝᡥᡝ ᠪᡞ , ᡥᠣᠨᡞᠨ ᠨᡞᠨᡪᡠ ᡩᡝ ᡥᠠᠮᡞᠮᠪᡞ , ᡞᡥᠠᠨ ᡞᠨᡠ ᠣᠷᡞᠨ ᡩᡝ ᡞᠰᡞᠮᠪᡞ 。
+# text[tran] = mini eyun boo de susai funcere coko niyehe bi, honin ninju de hamimbi, inha inu orin de isimbi
+# text[eng] = My sister has more than fifty chicken and ducks, almost 60 sheep and almost 20 cows
 1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡝᠶᡠᠨ	_	_	_	_	_	_	_	Translit=
 3	ᠪᠣᡠ	_	_	_	_	_	_	_	Translit=
@@ -1303,9 +1303,9 @@
 21	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_92
-# sent = ᠨᡝ ᡩᡞᠶᠠᠨ ᠨᠠᡠ  ᡞ ᡥᡡᡩᠠ ᠠᠮᠪᠠ ᠮᡠᠷᡠ ᡞᠯᠠᠨ ᡩᡠᡞᠨ ᠮᡞᡢᡤᠠᠨ ᠶᡠᠸᠠᠨ ᡧᡠᠷᡩᡝᠮᡝ ᡞᠰᡞᠮᠪᡞ 。
-# sent[phon] = ne diyan nao i hvda amba muru ilan duin mingga juwan šurdeme isimbi
-# sent[eng] = The price of a computer now is about three or four thousand yuan
+# text = ᠨᡝ ᡩᡞᠶᠠᠨ ᠨᠠᡠ  ᡞ ᡥᡡᡩᠠ ᠠᠮᠪᠠ ᠮᡠᠷᡠ ᡞᠯᠠᠨ ᡩᡠᡞᠨ ᠮᡞᡢᡤᠠᠨ ᠶᡠᠸᠠᠨ ᡧᡠᠷᡩᡝᠮᡝ ᡞᠰᡞᠮᠪᡞ 。
+# text[tran] = ne diyan nao i hvda amba muru ilan duin mingga juwan šurdeme isimbi
+# text[eng] = The price of a computer now is about three or four thousand yuan
 1	ᠨᡝ	_	_	_	_	_	_	_	Translit=
 2	ᡩᡞᠶᠠᠨ	_	_	_	_	_	_	_	Translit=
 3	ᠨᠠᡠ	_	_	_	_	_	_	_	Translit=
@@ -1322,9 +1322,9 @@
 14	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_93
-# sent = ᠮᡝᠨᡞ ᡪᡠᠸᡝ ᠨᡞᠶᠠᠯᠮᠠᡞ ᠪᡞᠶᠠ ᡨᠣᠮᡝ ᠪᠠᡥᠠᠷᠠ ᠴᠠᠯᡞᠶᠠᠨ ᠪᠠᠨᡪᡞᠨ ᡩᡝ ᡨᡝᠰᡠᠮᠪᡞ 。
-# sent[phon] = mini juwe niyalmai biya tome bahara caliyan banjin de tesumbi
-# sent[eng] = Our monthly salaries are enough for living expenses
+# text = ᠮᡝᠨᡞ ᡪᡠᠸᡝ ᠨᡞᠶᠠᠯᠮᠠᡞ ᠪᡞᠶᠠ ᡨᠣᠮᡝ ᠪᠠᡥᠠᠷᠠ ᠴᠠᠯᡞᠶᠠᠨ ᠪᠠᠨᡪᡞᠨ ᡩᡝ ᡨᡝᠰᡠᠮᠪᡞ 。
+# text[tran] = mini juwe niyalmai biya tome bahara caliyan banjin de tesumbi
+# text[eng] = Our monthly salaries are enough for living expenses
 1	ᠮᡝᠨᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡪᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
 3	ᠨᡞᠶᠠᠯᠮᠠᡞ	_	_	_	_	_	_	_	Translit=
@@ -1338,9 +1338,9 @@
 11	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_94
-# sent = ᠠᠪᡣᠠᡞ ᠸᡝᡥᡞᠶᡝᡥᡝ  ᡞ ᠣᠷᡞᠨ ᡠᠶᡠᠴᡞ ᠠᠨᡞᠶᠠ ᡩᡠᡞᠨ ᠪᡞᠶᠠᡞ ᡪᡠᠸᠠᠨ ᡪᠠᡞ ᡪᡠᠸᠠᠨ ᡠᠶᡠᠨ ᡩᡝ , ᡞᠯᠠᠨ ᡫᡠᠨᠴᡝᠷᡝ ᠰᡞᠪᡝ ᡠᡣᠰᡠᠷᠠᡞ ᠴᠣᡠᡥᠠ ᡞᠷᡤᡝᠨ ᡥᡝᠰᡝᡞ ᠮᡠᡣᡨᡝᠨ ᡩᡝᠷᡞ ᡞᠯᡞ ᠴᡞ ᡤᡠᠷᡞᠨᡪᡞᡥᡝ 。
-# sent[phon] = abkai wehiyehe i orin uyuci aniya duin biyai juwan jai juwan uyun de, ilan funcere sibe uksurai cooha irgen hesei mukten deri ili ci gurinjihe
-# sent[eng] = On April 10 and 19, Qianlong 29 Years, more than 3000 Xibe soldiers and civilians were ordered to migrate from Shenyang to Ili
+# text = ᠠᠪᡣᠠᡞ ᠸᡝᡥᡞᠶᡝᡥᡝ  ᡞ ᠣᠷᡞᠨ ᡠᠶᡠᠴᡞ ᠠᠨᡞᠶᠠ ᡩᡠᡞᠨ ᠪᡞᠶᠠᡞ ᡪᡠᠸᠠᠨ ᡪᠠᡞ ᡪᡠᠸᠠᠨ ᡠᠶᡠᠨ ᡩᡝ , ᡞᠯᠠᠨ ᡫᡠᠨᠴᡝᠷᡝ ᠰᡞᠪᡝ ᡠᡣᠰᡠᠷᠠᡞ ᠴᠣᡠᡥᠠ ᡞᠷᡤᡝᠨ ᡥᡝᠰᡝᡞ ᠮᡠᡣᡨᡝᠨ ᡩᡝᠷᡞ ᡞᠯᡞ ᠴᡞ ᡤᡠᠷᡞᠨᡪᡞᡥᡝ 。
+# text[tran] = abkai wehiyehe i orin uyuci aniya duin biyai juwan jai juwan uyun de, ilan funcere sibe uksurai cooha irgen hesei mukten deri ili ci gurinjihe
+# text[eng] = On April 10 and 19, Qianlong 29 Years, more than 3000 Xibe soldiers and civilians were ordered to migrate from Shenyang to Ili
 1	ᠠᠪᡣᠠᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠸᡝᡥᡞᠶᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
 3	 ᡞ	_	_	_	_	_	_	_	Translit=
@@ -1370,9 +1370,9 @@
 27	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_95
-# sent = ᡠᡥᡝ ᠰᡠᠴᡠᡢᡤᠠ ᡝᠮᡠ ᠮᡞᡢᡤᠠᠨ ᡠᠶᡠᠨ ᡨᠠᡢᡤᡡ ᡩᡝᡥᡞ ᡠᠶᡠᠴᡞ ᠠᠨᡞᠶᠠ ᡪᡠᠸᠠᠨ ᠪᡞᠶᠠᡞ ᡞᠴᡝ ᡩᡝ ᡪᡠᡢ ᡥᡡᠸᠠ ᠨᡞᠶᠠᠯᠮᠠ ᡞᠷᡤᡝᠨ ᡤᡠᡢ ᡥᡝ ᡤᡠ ᡞᠯᡞᠮᡝ ᡧᠠᡢᡤᠠᡥᠠ 。
-# sent[phon] = uhe sucungga emu minggan uyun tanggv dehi uyuci aniya juwan biyai ice de jung hvwa niyalma irgen gung he gu ilime šanggaha
-# sent[eng] = The Peoples Republic of China was founded on October, 1, 1949
+# text = ᡠᡥᡝ ᠰᡠᠴᡠᡢᡤᠠ ᡝᠮᡠ ᠮᡞᡢᡤᠠᠨ ᡠᠶᡠᠨ ᡨᠠᡢᡤᡡ ᡩᡝᡥᡞ ᡠᠶᡠᠴᡞ ᠠᠨᡞᠶᠠ ᡪᡠᠸᠠᠨ ᠪᡞᠶᠠᡞ ᡞᠴᡝ ᡩᡝ ᡪᡠᡢ ᡥᡡᠸᠠ ᠨᡞᠶᠠᠯᠮᠠ ᡞᠷᡤᡝᠨ ᡤᡠᡢ ᡥᡝ ᡤᡠ ᡞᠯᡞᠮᡝ ᡧᠠᡢᡤᠠᡥᠠ 。
+# text[tran] = uhe sucungga emu minggan uyun tanggv dehi uyuci aniya juwan biyai ice de jung hvwa niyalma irgen gung he gu ilime šanggaha
+# text[eng] = The Peoples Republic of China was founded on October, 1, 1949
 1	ᡠᡥᡝ	_	_	_	_	_	_	_	Translit=
 2	ᠰᡠᠴᡠᡢᡤᠠ	_	_	_	_	_	_	_	Translit=
 3	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
@@ -1398,9 +1398,9 @@
 23	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_96
-# sent = ᡠᡩᡠᡩᡠ ᠮᠠᠷᡞ ᡪᡞᡫᡞ , ᡧᡠᠸᡝ ᠪᠠᡥᠠᡫᡞ ᡩᡝᠷᡝ ᠠᠴᠠᡥᠠᡣᡡ 。
-# sent[phon] = ududu mari jifi, šuwe bahafi dere acahakv
-# sent[eng] = I came for several times but we never met
+# text = ᡠᡩᡠᡩᡠ ᠮᠠᠷᡞ ᡪᡞᡫᡞ , ᡧᡠᠸᡝ ᠪᠠᡥᠠᡫᡞ ᡩᡝᠷᡝ ᠠᠴᠠᡥᠠᡣᡡ 。
+# text[tran] = ududu mari jifi, šuwe bahafi dere acahakv
+# text[eng] = I came for several times but we never met
 1	ᡠᡩᡠᡩᡠ	_	_	_	_	_	_	_	Translit=
 2	ᠮᠠᠷᡞ	_	_	_	_	_	_	_	Translit=
 3	ᡪᡞᡫᡞ	_	_	_	_	_	_	_	Translit=
@@ -1412,9 +1412,9 @@
 9	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_97
-# sent = ᡞᠯᠠᠴᡞ ᠨᡞᠷᡠᡞ ᠠᠮᠪᠠ ᡠᠯᠠᠨ  ᡞ ᡝᠮᡠ ᡤᡞᠷᡞᠨ ᠪᠠ , ᠮᡠᡩᠠᠨ ᡩᠠᠷᡞ ᠮᡠᡣᡝᡞ ᡤᠠᠰᡥᠠᠨ ᡩᡝ ᡨᡠᡧᠠᠮᠪᡞ 。
-# sent[phon] = ilaci nirui amba ulan i emu girin ba, mudan deri mukei gasaha de tušambi
-# sent[eng] = San Niulu Great Ditch area always suffered from flood
+# text = ᡞᠯᠠᠴᡞ ᠨᡞᠷᡠᡞ ᠠᠮᠪᠠ ᡠᠯᠠᠨ  ᡞ ᡝᠮᡠ ᡤᡞᠷᡞᠨ ᠪᠠ , ᠮᡠᡩᠠᠨ ᡩᠠᠷᡞ ᠮᡠᡣᡝᡞ ᡤᠠᠰᡥᠠᠨ ᡩᡝ ᡨᡠᡧᠠᠮᠪᡞ 。
+# text[tran] = ilaci nirui amba ulan i emu girin ba, mudan deri mukei gasaha de tušambi
+# text[eng] = San Niulu Great Ditch area always suffered from flood
 1	ᡞᠯᠠᠴᡞ	_	_	_	_	_	_	_	Translit=
 2	ᠨᡞᠷᡠᡞ	_	_	_	_	_	_	_	Translit=
 3	ᠠᠮᠪᠠ	_	_	_	_	_	_	_	Translit=
@@ -1433,9 +1433,9 @@
 16	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_98
-# sent = ᡤᡠᠪᠴᡞ ᡤᡠᠷᡠᠨ  ᡞ ᠰᡞᠪᡝ ᡠᡣᠰᡠᠷᠠᡞ ᠨᡞᠶᠠᠯᠮᠠ ᠠᡢᡤᠠᠯᠠ , ᠮᡠᠷᡠᡧᡝᠮᡝ ᡪᡠᠸᠠᠨ ᡪᠠᡣᡡᠨ ᡨᡠᠮᡝᠨ ᡫᡠᠨᠴᡝᠮᠪᡞ 。
-# sent[phon] = gubci gurun i sibe uksurai niyalma anggala, murušeme juwan jakvn tumen funcembi
-# sent[eng] = The population of Xibe people throughout the country is more than 180 thousands
+# text = ᡤᡠᠪᠴᡞ ᡤᡠᠷᡠᠨ  ᡞ ᠰᡞᠪᡝ ᡠᡣᠰᡠᠷᠠᡞ ᠨᡞᠶᠠᠯᠮᠠ ᠠᡢᡤᠠᠯᠠ , ᠮᡠᠷᡠᡧᡝᠮᡝ ᡪᡠᠸᠠᠨ ᡪᠠᡣᡡᠨ ᡨᡠᠮᡝᠨ ᡫᡠᠨᠴᡝᠮᠪᡞ 。
+# text[tran] = gubci gurun i sibe uksurai niyalma anggala, murušeme juwan jakvn tumen funcembi
+# text[eng] = The population of Xibe people throughout the country is more than 180 thousands
 1	ᡤᡠᠪᠴᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡤᡠᠷᡠᠨ	_	_	_	_	_	_	_	Translit=
 3	 ᡞ	_	_	_	_	_	_	_	Translit=
@@ -1452,9 +1452,9 @@
 14	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_99
-# sent = ᡨᡝᠰᡝ ᡪᡞᡢ ᠠᠮᡤᠠᠮᡝ ᡞᠯᡞᡥᠠᠪᡞ 。
-# sent[phon] = tese jing amgame ilihabi
-# sent[eng] = They are sleeping
+# text = ᡨᡝᠰᡝ ᡪᡞᡢ ᠠᠮᡤᠠᠮᡝ ᡞᠯᡞᡥᠠᠪᡞ 。
+# text[tran] = tese jing amgame ilihabi
+# text[eng] = They are sleeping
 1	ᡨᡝᠰᡝ	_	_	_	_	_	_	_	Translit=
 2	ᡪᡞᡢ	_	_	_	_	_	_	_	Translit=
 3	ᠠᠮᡤᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
@@ -1462,9 +1462,9 @@
 5	。	_	_	_	_	_	_	_	Translit=
 
 # sent_id = grammarbook_sjo_p2_100
-# sent = ᠰᡞ ᡨᡝᡞᡣᡝ ᠶᠠᠪᡠᠮᡝ ᠰᠠᡣᠠ , ᠰᡞᠨᡞ ᠠᡥᡡᠨ ᡩᡝᠷᡞᠪᡠᡥᡝ 。
-# sent[phon] = si teike yabume saka, sini ahvn deribuhe
-# sent[eng] = No sooner had you left than your brother arrived
+# text = ᠰᡞ ᡨᡝᡞᡣᡝ ᠶᠠᠪᡠᠮᡝ ᠰᠠᡣᠠ , ᠰᡞᠨᡞ ᠠᡥᡡᠨ ᡩᡝᠷᡞᠪᡠᡥᡝ 。
+# text[tran] = si teike yabume saka, sini ahvn deribuhe
+# text[eng] = No sooner had you left than your brother arrived
 1	ᠰᡞ	_	_	_	_	_	_	_	Translit=
 2	ᡨᡝᡞᡣᡝ	_	_	_	_	_	_	_	Translit=
 3	ᠶᠠᠪᡠᠮᡝ	_	_	_	_	_	_	_	Translit=
