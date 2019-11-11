@@ -1371,9 +1371,9 @@
 # text = ᠮᡞᠨᡞ ᡝᠨᡩᡝᠪᡠᡣᡠ ᡨᠠᡧᠠᠨ ᠪᡝ ᡤᡞᠯᡪᠠᠷᠠᡠ 。
 # text[tran] = mini endebuku tašan be giljarao.
 # text[eng] = Please forgive my fault.
-1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	3	nmod:poss	_	Translit=mini
-2	ᡝᠨᡩᡝᠪᡠᡣᡠ	ᡝᠨᡩᡝᠪᡠᡣᡠ	NOUN	_	_	3	compound	_	Translit=endebuku
-3	ᡨᠠᡧᠠᠨ	ᡨᠠᡧᠠᠨ	ADJ	_	_	5	obj	_	Translit=tašan
+1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	2	nmod:poss	_	Translit=mini
+2	ᡝᠨᡩᡝᠪᡠᡣᡠ	ᡝᠨᡩᡝᠪᡠᡣᡠ	NOUN	_	_	5	obj	_	Translit=endebuku
+3	ᡨᠠᡧᠠᠨ	ᡨᠠᡧᠠᠨ	ADJ	_	_	2	compound:noun	_	Translit=tašan
 4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
 5	ᡤᡞᠯᡪᠠᠷᠠᡠ	ᡤᡞᠯᡪᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=giljarao
 6	。	。	PUNCT	_	_	5	punct	_	Translit=.
@@ -1618,114 +1618,114 @@
 
 # sent_id = grammarbook_sjo_p1_126
 # text = ᡨᡝᠷᡝ ᠪᡝ ᡠᡩᡠ ᡤᡝᠷᡞ ᡥᡡᠯᠠᠴᡞᠪᡝ , ᡧᡠᠸᡝ ᡪᡞᡥᡝᡣᡡ 。
-# text[tran] = tere be udu geri hvlacibe , šuwe jihekv
-# text[eng] = Although he is called for several times, he does not come
-1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡠᡩᡠ	_	_	_	_	_	_	_	Translit=
-4	ᡤᡝᠷᡞ	_	_	_	_	_	_	_	Translit=
-5	ᡥᡡᠯᠠᠴᡞᠪᡝ	_	_	_	_	_	_	_	Translit=
-6	,	_	_	_	_	_	_	_	Translit=
-7	ᡧᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
-8	ᡪᡞᡥᡝᡣᡡ	_	_	_	_	_	_	_	Translit=
-9	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tere be udu geri hvlacibe , šuwe jihekv.
+# text[eng] = Although he is called for several times, he does not come.
+1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	5	obj	_	Translit=tere
+2	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	1	case	_	Translit=be
+3	ᡠᡩᡠ	ᡠᡩᡠ	NUM	_	NumType=Mult	4	nummod	_	Translit=udu
+4	ᡤᡝᠷᡞ	ᡤᡝᠷᡞ	NOUN	_	_	5	obl	_	Translit=geri
+5	ᡥᡡᠯᠠᠴᡞᠪᡝ	ᡥᡡᠯᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Cnd	7	advcl	_	Translit=hvlacibe
+6	,	,	PUNCT	_	_	5	punct	_	Translit=,
+7	ᡧᡠᠸᡝ	ᡧᡠᠸᡝ	ADV	_	_	8	advmod	_	Translit=šuwe
+8	ᡪᡞᡥᡝᡣᡡ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=jihekv
+9	。	。	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_127
-# text = ᡞ ᡠᡩᡠ ᡤᡞᠰᡠᠨ ᠯᠠᠪᡩᡠ ᡤᡞᠰᡠᠷᡝᠷᠠᡣᡡ ᠰᡝᠴᡞᠪᡝ , ᠪᠠᡞᡨᠠ ᡞᠴᡞᡥᡞᠶᠠᠷᠠᡢᡤᡝ ᡠᠮᡝᠰᡞ ᠨᡞᠷᡥᡡᠨ ᠪᡞᠮᡝ ᡤᡝᡢᡤᡞᠶᡝᠨ 。
-# text[tran] = i udu gisun labdu gisurerakv secibe , baita icihiyaranggi umesi nirhvn bime genggiyen
-# text[eng] = Though he does not talk much, he is shrewd in doing things
-1	ᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡠᡩᡠ	_	_	_	_	_	_	_	Translit=
-3	ᡤᡞᠰᡠᠨ	_	_	_	_	_	_	_	Translit=
-4	ᠯᠠᠪᡩᡠ	_	_	_	_	_	_	_	Translit=
-5	ᡤᡞᠰᡠᠷᡝᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-6	ᠰᡝᠴᡞᠪᡝ	_	_	_	_	_	_	_	Translit=
-7	,	_	_	_	_	_	_	_	Translit=
-8	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-9	ᡞᠴᡞᡥᡞᠶᠠᠷᠠᡢᡤᡝ	_	_	_	_	_	_	_	Translit=
-10	ᡠᠮᡝᠰᡞ	_	_	_	_	_	_	_	Translit=
-11	ᠨᡞᠷᡥᡡᠨ	_	_	_	_	_	_	_	Translit=
-12	ᠪᡞᠮᡝ	_	_	_	_	_	_	_	Translit=
-13	ᡤᡝᡢᡤᡞᠶᡝᠨ	_	_	_	_	_	_	_	Translit=
-14	。	_	_	_	_	_	_	_	Translit=
+# text = ᡞ ᡠᡩᡠ ᡤᡞᠰᡠᠨ ᠯᠠᠪᡩᡠ ᡤᡞᠰᡠᠷᡝᠷᠠᡣᡡ ᠰᡝᠴᡞᠪᡝ , ᠪᠠᡞᡨᠠ ᡞᠴᡞᡥᡞᠶᠠᠷᠠᡢᡤᡝ ᡠᠮᡝᠰᡞ ᠨᠠᠷᡥᡡᠨ ᠪᡞᠮᡝ ᡤᡝᡢᡤᡞᠶᡝᠨ 。
+# text[tran] = i udu gisun labdu gisurerakv secibe , baita icihiyarangge umesi narhvn bime genggiyen.
+# text[eng] = Though he does not talk much, he is shrewd in doing things.
+1	ᡞ	ᡞ	PRON	_	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Translit=i
+2	ᡠᡩᡠ	ᡠᡩᡠ	NUM	_	NumType=Mult	3	nummod	_	Translit=udu
+3	ᡤᡞᠰᡠᠨ	ᡤᡞᠰᡠᠨ	NOUN	_	_	5	obj	_	Translit=gisun
+4	ᠯᠠᠪᡩᡠ	ᠯᠠᠪᡩᡠ	ADJ	_	_	5	advmod	_	Translit=landu
+5	ᡤᡞᠰᡠᠷᡝᠷᠠᡣᡡ	ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Polarity=Neg	11	advcl	_	Translit=gisurerakv
+6	ᠰᡝᠴᡞᠪᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Fin|Mood=Cnd	5	aux	_	Translit=secibe
+7	,	,	PUNCT	_	_	5	punct	_	Translit=,
+8	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	9	obj	_	Translit=baita
+9	ᡞᠴᡞᡥᡞᠶᠠᠷᠠᡢᡤᡝ	ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Vnoun	11	csubj	_	Translit=icihiyarangge
+10	ᡠᠮᡝᠰᡞ	ᡠᠮᡝᠰᡞ	ADV	_	_	11	advmod	_	Translit=umesi
+11	ᠨᠠᠷᡥᡡᠨ	ᠨᠠᠷᡥᡡᠨ	ADJ	_	_	0	root	_	Translit=narhvn
+12	ᠪᡞᠮᡝ	ᠪᡞᠮᡝ	CONJ	_	_	13	cc	_	Translit=bime
+13	ᡤᡝᡢᡤᡞᠶᡝᠨ	ᡤᡝᡢᡤᡞᠶᡝᠨ	ADJ	_	_	11	conj	_	Translit=genggiyen
+14	。	。	PUNCT	_	_	11	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_128
-# text = ᠸᡝᡞᠯᡝᠷᠠᠨ ᡩᡝ ᡠᡩᡠ ᠠᡩᡝᠪᡠᡣᡠ ᡨᠠᡧᠠᠨ ᠠᡣᡡ ᠰᡝᠴᡞᠪᡝ , ᡨᡠᠮᡝᠨ ᡩᡝ ᠣᡞᡥᠣᠷᡞᠯᠠᠮᡝ ᠴᠣᡣᡨᠣᠯᠣᠮᡝ ᠣᡪᠣᠷᠠᡣᡡ 。
-# text[tran] = weileran de udu adebuku tašan akv secibe , tumen de oihorilame coktolome ojorakv
+# text = ᠸᡝᡞᠯᡝᠷᠠᠨ ᡩᡝ ᡠᡩᡠ ᡝᠨᡩᡝᠪᡠᡣᡠ ᡨᠠᡧᠠᠨ ᠠᡣᡡ ᠰᡝᠴᡞᠪᡝ , ᡨᡠᠮᡝᠨ ᡩᡝ ᠣᡞᡥᠣᠷᡞᠯᠠᠮᡝ ᠴᠣᡣᡨᠣᠯᠣᠮᡝ ᠣᡪᠣᠷᠠᡣᡡ 。
+# text[tran] = weileran de udu endebuku tašan akv secibe , tumen de oihorilame coktolome ojorakv
 # text[eng] = There is no error in work, but you can never be proud or neglect
-1	ᠸᡝᡞᠯᡝᠷᠠᠨ	_	_	_	_	_	_	_	Translit=
-2	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡠᡩᡠ	_	_	_	_	_	_	_	Translit=
-4	ᠠᡩᡝᠪᡠᡣᡠ	_	_	_	_	_	_	_	Translit=
-5	ᡨᠠᡧᠠᠨ	_	_	_	_	_	_	_	Translit=
-6	ᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-7	ᠰᡝᠴᡞᠪᡝ	_	_	_	_	_	_	_	Translit=
-8	,	_	_	_	_	_	_	_	Translit=
-9	ᡨᡠᠮᡝᠨ	_	_	_	_	_	_	_	Translit=
-10	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-11	ᠣᡞᡥᠣᠷᡞᠯᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-12	ᠴᠣᡣᡨᠣᠯᠣᠮᡝ	_	_	_	_	_	_	_	Translit=
-13	ᠣᡪᠣᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-14	。	_	_	_	_	_	_	_	Translit=
+1	ᠸᡝᡞᠯᡝᠷᠠᠨ	ᠸᡝᡞᠯᡝᠷᠠᠨ	NOUN	_	_	6	obl:loc	_	Translit=weileran
+2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
+3	ᡠᡩᡠ	ᡠᡩᡠ	NUM	_	NumType=Mult	4	nummod	_	Translit=udu
+4	ᡝᠨᡩᡝᠪᡠᡣᡠᡠ	ᡝᠨᡩᡝᠪᡠᡣᡠ	NOUN	_	_	6	cop:exist	_	Translit=endebuku
+5	ᡨᠠᡧᠠᠨ	ᡨᠠᡧᠠᠨ	ADJ	_	_	4	compound:noun	_	Translit=tašan
+6	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	VerbForm=Inf|Polarity=Neg	12	advcl	_	Translit=akv
+7	ᠰᡝᠴᡞᠪᡝ	ᠰᡝᠮᠪᡞ	AUX	_	VerbForm=Fin|Mood=Cnd	6	aux	_	Translit=secibe
+8	,	,	PUNCT	_	_	6	punct	_	Translit=,
+9	ᡨᡠᠮᡝᠨ	ᡨᡠᠮᡝᠨ	NUM	_	NumType=Card	12	obl	_	Translit=tumen
+10	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	9	case	_	Translit=de
+11	ᠣᡞᡥᠣᠷᡞᠯᠠᠮᡝ	ᠣᡞᡥᠣᠷᡞᠯᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	12	conj	_	Translit=oihorilame
+12	ᠴᠣᡣᡨᠣᠯᠣᠮᡝ	ᠴᠣᡣᡨᠣᠯᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	0	root	_	Translit=coktolome
+13	ᠣᡪᠣᠷᠠᡣᡡ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	12	aux	_	Translit=ojorakv
+14	。	。	PUNCT	_	_	12	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_129
-# text = ᡞᠨᡩᡝ ᡠᡩᡠ ᡨᡠᠮᡝᠨ ᡠᠯᡞᠨ ᠨᠠᡩᠠᠨ ᠠᡣᡡᠴᡞᠪᡝ , ᠪᡞ ᡞᠮᠪᡝ ᡠᠨᡝᡢᡤᡞ ᠮᡠᡪᡞᠮᡝᠨ  ᡞ ᡥᠠᡞᠷᠠᠮᠪᡞ 。
-# text[tran] = inde udu tumen ulin nadan akvcibe , bi imbe unenggi mujimen i hairambi
-# text[eng] = Although he does not have lots of wealth, I still love him
-1	ᡞᠨᡩᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡠᡩᡠ	_	_	_	_	_	_	_	Translit=
-3	ᡨᡠᠮᡝᠨ	_	_	_	_	_	_	_	Translit=
-4	ᡠᠯᡞᠨ	_	_	_	_	_	_	_	Translit=
-5	ᠨᠠᡩᠠᠨ	_	_	_	_	_	_	_	Translit=
-6	ᠠᡣᡡᠴᡞᠪᡝ	_	_	_	_	_	_	_	Translit=
-7	,	_	_	_	_	_	_	_	Translit=
-8	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-9	ᡞᠮᠪᡝ	_	_	_	_	_	_	_	Translit=
-10	ᡠᠨᡝᡢᡤᡞ	_	_	_	_	_	_	_	Translit=
-11	ᠮᡠᡪᡞᠮᡝᠨ	_	_	_	_	_	_	_	Translit=
-12	 ᡞ	_	_	_	_	_	_	_	Translit=
-13	ᡥᠠᡞᠷᠠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-14	。	_	_	_	_	_	_	_	Translit=
+# text = ᡞᠨᡩᡝ ᡠᡩᡠ ᡨᡠᠮᡝᠨ ᡠᠯᡞᠨ ᠨᠠᡩᠠᠨ ᠠᡣᡡᠴᡞᠪᡝ , ᠪᡞ ᡞᠮᠪᡝ ᡠᠨᡝᡢᡤᡞ ᠮᡠᡪᡞᠯᡝᠨ %u202F%u185E ᡥᠠᡞᠷᠠᠮᠪᡞ 。
+# text[tran] = inde udu tumen ulin nadan akvcibe , bi imbe unenggi mujilen i hairambi.
+# text[eng] = Although he does not have lots of wealth, I still love him.
+1	ᡞᠨᡩᡝ	ᡞᠨᡩᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs|Case=Dat	6	obl:beneficiary	_	Translit=inde
+2	ᡠᡩᡠ	ᡠᡩᡠ	NUM	_	NumType=Mult	3	nummod	_	Translit=udu
+3	ᡨᡠᠮᡝᠨ	ᡨᡠᠮᡝᠨ	NUM	_	NumType=Card	5	nummod	_	Translit=tumen
+4	ᡠᠯᡞᠨ	ᡠᠯᡞᠨ	NOUN	_	_	5	compound:noun	_	Translit=ulin
+5	ᠨᠠᡩᠠᠨ	ᠨᠠᡩᠠᠨ	NOUN	_	_	6	cop:exist	_	Translit=nadan
+6	ᠠᡣᡡᠴᡞᠪᡝ	ᠠᡣᡡ	VERB	_	VerbForm=Fin|Polarity=Neg|Mood=Cnd	13	advcl	_	Translit=akvcibe
+7	,	,	PUNCT	_	_	6	punct	_	Translit=,
+8	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	Translit=bi
+9	ᡞᠮᠪᡝ	ᡞᠮᠪᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs|Case=Acc	13	obj	_	Translit=imbe
+10	ᡠᠨᡝᡢᡤᡞ	ᡠᠨᡝᡢᡤᡞ	ADJ	_	_	11	amod	_	Translit=unenggi
+11	ᠮᡠᡪᡞᠯᡝᠨ	ᠮᡠᡪᡞᠯᡝᠨ	NOUN	_	_	13	obl	_	Translit=mujilen
+12	ᡞ	%u202F%u185E	ADP	_	_	11	case	_	Translit=i
+13	ᡥᠠᡞᠷᠠᠮᠪᡞ	ᡥᠠᡞᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Ind    	0	root	_	Translit=hairambi
+14	。	。	PUNCT	_	_	13	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_130
-# text = ᠪᡞ ᡠᡩᡠ ᠮᠠᡪᡞᡤᡝ ᠰᡝᠷ ᠰᡝᠷᡝ ᡝᡨᡝᠨ ᡧᠠᡢᡤᠠᠨ ᠪᠠᡥᠠ ᠪᡞᠴᡞᠪᡝ , ᠠᡞ ᡤᡝᠯᡥᡠᠨ ᠠᡣᡡ ᠪᡝᠶᡝᠪᡝ ᠠᠮᠪᡝᡣᡞᠯᠠᠮᡝ ᠴᠣᡣᡨᠣᠯᠣᠷᠣ ᠪᠠ ᠪᡞᠨᡞ  !
-# text[tran] = bi udu majige ser sere eten šanggan baha bicibe , ai gelhun akv beyebe ambekilame coktoloro ba bini !
-# text[eng] = Although I made a little achievement in work, how dare I be proud and arrogant
-1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡠᡩᡠ	_	_	_	_	_	_	_	Translit=
-3	ᠮᠠᡪᡞᡤᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠰᡝᠷ	_	_	_	_	_	_	_	Translit=
-5	ᠰᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-6	ᡝᡨᡝᠨ	_	_	_	_	_	_	_	Translit=
-7	ᡧᠠᡢᡤᠠᠨ	_	_	_	_	_	_	_	Translit=
-8	ᠪᠠᡥᠠ	_	_	_	_	_	_	_	Translit=
-9	ᠪᡞᠴᡞᠪᡝ	_	_	_	_	_	_	_	Translit=
-10	,	_	_	_	_	_	_	_	Translit=
-11	ᠠᡞ	_	_	_	_	_	_	_	Translit=
-12	ᡤᡝᠯᡥᡠᠨ	_	_	_	_	_	_	_	Translit=
-13	ᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-14	ᠪᡝᠶᡝᠪᡝ	_	_	_	_	_	_	_	Translit=
-15	ᠠᠮᠪᡝᡣᡞᠯᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-16	ᠴᠣᡣᡨᠣᠯᠣᠷᠣ	_	_	_	_	_	_	_	Translit=
-17	ᠪᠠ	_	_	_	_	_	_	_	Translit=
-18	ᠪᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-19	_	_	_	_	_	_	_	_	_
-20	!	_	_	_	_	_	_	_	Translit=
+# text = ᠪᡞ ᡠᡩᡠ ᠮᠠᡪᡞᡤᡝ ᠰᡝᠷ ᠰᡝᠷᡝ ᡝᡨᡝᠨ ᡧᠠᡢᡤᠠᠨ ᠪᠠᡥᠠ ᠪᡞᠴᡞᠪᡝ , ᠠᡞ ᡤᡝᠯᡥᡠᠨ ᠠᡣᡡ ᠪᡝᠶᡝᠪᡝ ᠠᠮᠪᠠᡣᡞᠯᠠᠮᡝ ᠴᠣᡣᡨᠣᠯᠣᠷᠣ ᠪᠠ ᠪᡞᠨᡞ  !
+# text[tran] = bi udu majige ser sere eten šanggan baha bicibe , ai gelhun akv beyebe ambakilame coktoloro ba bini!
+# text[eng] = Although I made a little achievement in work, how dare I be proud and arrogant!
+1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Translit=bi
+2	ᡠᡩᡠ	ᡠᡩᡠ	NUM	_	NumType=Mult	8	nummod	_	Translit=udu
+3	ᠮᠠᡪᡞᡤᡝ	ᠮᠠᡪᡞᡤᡝ	ADJ	_	_	5	conj	_	Translit=majige
+4	ᠰᡝᠷ	ᠰᡝᠷ	ADJ	_	_	5	compound:adj	_	Translit=ser
+5	ᠰᡝᠷᡝ	ᠰᡝᠷᡝ	X	_	_	8	amod	_	Translit=sere
+6	ᡝᡨᡝᠨ	ᡝᡨᡝᠨ	NOUN	_	_	7	compound:noun	_	Translit=eten
+7	ᡧᠠᡢᡤᠠᠨ	ᡧᠠᡢᡤᠠᠨ	NOUN	_	_	8	conj	_	Translit=šanggan
+8	ᠪᠠᡥᠠ	ᠪᠠᡥᠠ	NOUN	_	_	9	cop:exist	_	Translit=baha
+9	ᠪᡞᠴᡞᠪᡝ	ᠪᡞ	VERB	_	VerbForm=Fin|Mood=Cnd	18	advcl	_	Translit=bicibe
+10	,	,	PUNCT	_	_	9	punct	_	Translit=,
+11	ᠠᡞ	ᠠᡞ	PRON	_	PronType=Int	12	advmod	_	Translit=ai
+12	ᡤᡝᠯᡥᡠᠨ	ᡤᡝᠯᡥᡠᠨ	ADV	_	_	18	advmod	_	Translit=gelhun
+13	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	_	12	compound:adv	_	Translit=akv
+14	ᠪᡝᠶᡝᠪᡝ	ᠪᡝᠶᡝᠪᡝ	PRON	_	Number=Sing|Person=1|PronType=Prs|Case=Acc	15	obj	_	Translit=beyebe
+15	ᠠᠮᠪᠠᡣᡞᠯᠠᠮᡝ	ᠠᠮᠪᠠᡣᡞᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	16	advcl	_	Translit=ambakilame
+16	ᠴᠣᡣᡨᠣᠯᠣᠷᠣ	ᠴᠣᡣᡨᠣᠯᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Part	17	acl:relcl	_	Translit=coktoloro
+17	ᠪᠠ	ᠪᠠ	NOUN	_	_	18	cop:exist	_	Translit=ba
+18	ᠪᡞᠨᡞ	ᠪᡞ	VERB	_	VerbForm=Fin|Mood=Exc	0	root	_	Translit=bini
+19	!	!	PUNCT	_	_	18	punct	_	Translit=!
 
 # sent_id = grammarbook_sjo_p1_131
-# text = ᡝᠷᡝ ᠮᠣᠷᡞᠨ ᡠᡩᡠ ᡫᡝᡣᠰᡞᠷᡝᡢᡤᡞ ᡨᡝᠨᡨᡝᡣᡝ ᡥᡡᡩᡠᠨ ᠸᠠᡣᠠ ᠰᡝᡪᡞᠪᡝ ,ᠨᠣᠮᡥᠣᠨ ᠨᡝᠰᡠᡣᡝᠨ ᠶᠠᠯᡠᠴᡞ ᠣᠮᠪᡞ 。
-# text[tran] = ere morin udu feksirenggi tenteke hvdun waka sejibe , umhon nesuken yaluci ombi
-# text[eng] = This horse is not fast, but it is tame enough to ride
-1	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠮᠣᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
-3	ᡠᡩᡠ	_	_	_	_	_	_	_	Translit=
-4	ᡫᡝᡣᠰᡞᠷᡝᡢᡤᡞ	_	_	_	_	_	_	_	Translit=
-5	ᡨᡝᠨᡨᡝᡣᡝ	_	_	_	_	_	_	_	Translit=
-6	ᡥᡡᡩᡠᠨ	_	_	_	_	_	_	_	Translit=
-7	ᠸᠠᡣᠠ	_	_	_	_	_	_	_	Translit=
-8	ᠰᡝᡪᡞᠪᡝ	_	_	_	_	_	_	_	Translit=
-9	,ᠨᠣᠮᡥᠣᠨ	_	_	_	_	_	_	_	Translit=
-10	ᠨᡝᠰᡠᡣᡝᠨ	_	_	_	_	_	_	_	Translit=
-11	ᠶᠠᠯᡠᠴᡞ	_	_	_	_	_	_	_	Translit=
-12	ᠣᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-13	。	_	_	_	_	_	_	_	Translit=
+# text = ᡝᠷᡝ ᠮᠣᠷᡞᠨ ᡠᡩᡠ ᡫᡝᡣᠰᡞᠷᡝᡢᡤᡝ ᡨᡝᠨᡨᡝᡣᡝ ᡥᡡᡩᡠᠨ ᠸᠠᡣᠠ ᠰᡝᠴᡞᠪᡝ , ᠨᠣᠮᡥᠣᠨ ᠨᡝᠰᡠᡣᡝᠨ ᠶᠠᠯᡠᠴᡞ ᠣᠮᠪᡞ 。
+# text[tran] = ere morin udu feksirengge tenteke hvdun waka secibe , nomhon nesuken yaluci ombi.
+# text[eng] = This horse is not fast, but it is tame enough to ride.
+1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	2	det	_	Translit=ere
+2	ᠮᠣᠷᡞᠨ	ᠮᠣᠷᡞᠨ	NOUN	_	_	4	nsubj	_	Translit=morin
+3	ᡠᡩᡠ	ᡠᡩᡠ	NUM	_	NumType=Mult	4	advmod	_	Translit=udu
+4	ᡫᡝᡣᠰᡞᠷᡝᡢᡤᡝ	ᡫᡝᡣᠰᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Vnoun	6	csubj	_	Translit=feksirengge
+5	ᡨᡝᠨᡨᡝᡣᡝ	ᡨᡝᠨᡨᡝᡣᡝ	PRON	_	PronType=Dem	6	advmod	_	Translit=tenteke
+6	ᡥᡡᡩᡠᠨ	ᡥᡡᡩᡠᠨ	ADJ	_	_	7	cop	_	Translit=hvdun
+7	ᠸᠠᡣᠠ	ᠸᠠᡣᠠ	VERB	_	VerbForm=Fin|Polarity=Neg	12	advcl	_	Translit=waka
+8	ᠰᡝᡪᡞᠪᡝ	ᠰᡝᠮᠪᡞ	AUX	_	_	7	aux	_	Translit=secibe
+9	,	,	PUNCT	_	_	7	punct	_	Translit=,
+10	ᠨᠣᠮᡥᠣᠨ	ᠨᠣᠮᡥᠣᠨ	ADJ	_	_	11	conj	_	Translit=nomhon
+11	ᠨᡝᠰᡠᡣᡝᠨ	ᠨᡝᠰᡠᡣᡝᠨ	ADJ	_	_	12	advmod	_	Translit=nesuken
+12	ᠶᠠᠯᡠᠴᡞ	ᠶᠠᠯᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Mood=Cnd	0	root	_	Translit=yaluci
+13	ᠣᠮᠪᡞ	ᠣᠮᠪᡞ	AUX	_	VerbForm=Fin|Mood=Ind	12	aux	_	Translit=ombi
+14	。	。	PUNCT	_	_	12	punct	_	Translit=.
