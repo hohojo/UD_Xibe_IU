@@ -351,175 +351,175 @@
 20	。	。	PUNCT	_	_	12	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_28
-# text = ᡞᠯᠠᠴᡞ ᡤᡞᡢ  ᡞ ᠣᡨᠣᠯᠣ ᡨᡝᠨᡞ ᠠᠮᡤᠠᡥᠠ 。
-# text[tran] = ilaci ging i otolo teni alagaha
-# text[eng] = I went to sleep late at night
-1	ᡞᠯᠠᠴᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡤᡞᡢ	_	_	_	_	_	_	_	Translit=
-3	 ᡞ	_	_	_	_	_	_	_	Translit=
-4	ᠣᡨᠣᠯᠣ	_	_	_	_	_	_	_	Translit=
-5	ᡨᡝᠨᡞ	_	_	_	_	_	_	_	Translit=
-6	ᠠᠮᡤᠠᡥᠠ	_	_	_	_	_	_	_	Translit=
-7	。	_	_	_	_	_	_	_	Translit=
+# text = ᡞᠯᠠᠴᡞ ᡤᡞᡢ ᡞ ᠣᡨᠣᠯᠣ ᡨᡝᠨᡞ ᠠᠮᡤᠠᡥᠠ 。
+# text[tran] = ilaci ging i otolo teni amgaha.
+# text[eng] = I went to sleep until 1am at night.
+1	ᡞᠯᠠᠴᡞ	ᡞᠯᠠᠴᡞ	ADJ	_	NumType=Ord	2	amod	_	Translit=ilaci
+2	ᡤᡞᡢ	ᡤᡞᡢ	NOUN	_	_	4	aux	_	Translit=ging
+3	ᡞ	ᡞ	ADP	_	Case=Gen	2	case	_	Translit=i
+4	ᠣᡨᠣᠯᠣ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres|VerbType=Conv	6	advcl	_	Translit=otolo
+5	ᡨᡝᠨᡞ	ᡨᡝᠨᡞ	ADV	_	_	6	advmod	_	Translit=teni
+6	ᠠᠮᡤᠠᡥᠠ	ᠠᠮᡤᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbType=Fin	0	root	_	Translit=amgaha
+7	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_29
-# text = ᡪᡠᡤᡡᠨ ᡠᠨᡩᡠᠷᡞ ᠶᠠᠪᡠᠷᠠᠯᠠᠮᡝ ᡥᠠᠷᡤᠠᡧᠠᡥᠠᡞ , ᠰᡝᠷᡝᠪᡠᡥᡝᡣᡡ ᡠᡠᠨᡥᠠᡞ ᠪᠣᡠ ᡩᡝ ᡞᠰᡞᠨᠠᡥᠠ 。
-# text[tran] = jugvn unduri yaburalame hargašahai, serebuhekv uthai boo de isinaha
-# text[eng] = Walking and swimming along the way, unconsciously arrived at home
-1	ᡪᡠᡤᡡᠨ	_	_	_	_	_	_	_	Translit=
-2	ᡠᠨᡩᡠᠷᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠶᠠᠪᡠᠷᠠᠯᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡥᠠᠷᡤᠠᡧᠠᡥᠠᡞ	_	_	_	_	_	_	_	Translit=
-5	,	_	_	_	_	_	_	_	Translit=
-6	ᠰᡝᠷᡝᠪᡠᡥᡝᡣᡡ	_	_	_	_	_	_	_	Translit=
-7	ᡠᡠᠨᡥᠠᡞ	_	_	_	_	_	_	_	Translit=
-8	ᠪᠣᡠ	_	_	_	_	_	_	_	Translit=
-9	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-10	ᡞᠰᡞᠨᠠᡥᠠ	_	_	_	_	_	_	_	Translit=
-11	。	_	_	_	_	_	_	_	Translit=
+# text = ᡪᡠᡤᡡᠨ ᡠᠨᡩᡠᠷᡞ ᠶᠠᠪᡠᠷᠠᠯᠠᠮᡝ ᡥᠠᠷᡤᠠᡧᠠᡥᠠᡞ , ᠰᡝᠷᡝᠪᡠᡥᡝᡣᡡ ᡠᡨᡥᠠᡞ ᠪᠣᡠ ᡩᡝ ᡞᠰᡞᠨᠠᡥᠠ 。
+# text[tran] = jugvn unduri yaburalame hargašahai, serebuhekv uthai boo de isinaha.
+# text[eng] = Walking and swimming along the way, unconsciously arrived at home.
+1	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	2	nmod	_	Translit=jugvn
+2	ᡠᠨᡩᡠᠷᡞ	ᡠᠨᡩᡠᠷᡞ	NOUN	_	_	4	obl:loc	_	Translit=unduri
+3	ᠶᠠᠪᡠᠷᠠᠯᠠᠮᡝ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	4	advcl	_	Translit=yaburalame
+4	ᡥᠠᠷᡤᠠᡧᠠᡥᠠᡞ	ᡥᠠᠷᡤᠠᡧᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	10	advcl	_	Translit=hargašahai
+5	,	,	PUNCT	_	_	4	punct	_	Translit=,
+6	ᠰᡝᠷᡝᠪᡠᡥᡝᡣᡡ	ᠰᡝᠷᡝᠪᡠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Inf|Polarity=Neg	10	advcl	_	Translit=serebuhekv
+7	ᡠᡨᡥᠠᡞ	ᡠᡨᡥᠠᡞ	ADV	_	_	10	advmod	_	Translit=uthai
+8	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	10	obl:loc	_	Translit=boo
+9	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	8	case	_	Translit=de
+10	ᡞᠰᡞᠨᠠᡥᠠ	ᡞᠰᡞᠨᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=isinaha
+11	。	。	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_30
-# text = ᠪᡞᡠᠨᡥᡝ ᠪᡝ ᡥᡡᠯᠠᠷᠠᠯᠠᠮᡝ ᠠᠷᠠᠴᡞ , ᡪᠠ  ᡞ ᠠᠮᡠ ᡪᡞᠷᠠᡣᡡ 。
-# text[tran] = bithe be hvlaralame araci, wa i amu jirakv
-# text[eng] = Reading while writing, it is not easy to fall asleep
-1	ᠪᡞᡠᠨᡥᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡥᡡᠯᠠᠷᠠᠯᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠠᠷᠠᠴᡞ	_	_	_	_	_	_	_	Translit=
-5	,	_	_	_	_	_	_	_	Translit=
-6	ᡪᠠ	_	_	_	_	_	_	_	Translit=
-7	 ᡞ	_	_	_	_	_	_	_	Translit=
-8	ᠠᠮᡠ	_	_	_	_	_	_	_	Translit=
-9	ᡪᡞᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-10	。	_	_	_	_	_	_	_	Translit=
+# text = ᠪᡞᡠᠨᡥᡝ ᠪᡝ ᡥᡡᠯᠠᠷᠠᠯᠠᠮᡝ ᠠᠷᠠᠴᡞ , ᡪᠠ ᡞ ᠠᠮᡠ ᡪᡞᠷᠠᡣᡡ 。
+# text[tran] = bithe be hvlaralame araci, wa i amu jirakv.
+# text[eng] = Reading while writing, it is not easy to fall asleep.
+1	ᠪᡞᡠᠨᡥᡝ	ᠪᡞᡠᠨᡥᡝ	NOUN	_	_	3	obj	_	Translit=bithe
+2	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	1	case	_	Translit=be
+3	ᡥᡡᠯᠠᠷᠠᠯᠠᠮᡝ	ᡥᡡᠯᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	4	advcl	_	Translit=hvlaralame
+4	ᠠᠷᠠᠴᡞ	ᠠᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv|Mood=Cnd	9	advcl	_	Translit=araci
+5	,	,	PUNCT	_	_	4	punct	_	Translit=,
+6	ᡪᠠ	ᡪᠠ	NOUN	_	_	8	nmod	_	Translit=wa
+7	ᡞ	ᡞ	ADP	_	Case=Gen	6	case	_	Translit=i
+8	ᠠᠮᡠ	ᠠᠮᡠ	NOUN	_	_	9	nsubj	_	Translit=amu
+9	ᡪᡞᠷᠠᡣᡡ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=jirakv
+10	。	。	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_31
 # text = ᡨᡝᠷᡝ ᡠᡪᡠ ᠪᡝ ᡤᡞᡩᠠᡫᡞ ᠪᠣᡩᠣᠷᠣᠯᠠᠮᡝ ᠶᠠᠪᡠᠮᠪᡞ 。
-# text[tran] = tere uju be gidafi bodorolame yabumbi
-# text[eng] = He walks while thinking with his head down
-1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡠᡪᡠ	_	_	_	_	_	_	_	Translit=
-3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡤᡞᡩᠠᡫᡞ	_	_	_	_	_	_	_	Translit=
-5	ᠪᠣᡩᠣᠷᠣᠯᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-6	ᠶᠠᠪᡠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-7	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tere uju be gidafi bodorolame yabumbi.
+# text[eng] = He walks while thinking with his head down.
+1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=tere
+2	ᡠᡪᡠ	ᡠᡪᡠ	NOUN	_	_	4	obj	_	Translit=uju
+3	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	2	case	_	Translit=be
+4	ᡤᡞᡩᠠᡫᡞ	ᡤᡞᡩᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	6	advcl	_	Translit=gidafi
+5	ᠪᠣᡩᠣᠷᠣᠯᠠᠮᡝ	ᡩᠣᠷᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	6	advcl	_	Translit=bodorolame
+6	ᠶᠠᠪᡠᠮᠪᡞ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=yabumbi
+7	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_32
 # text = ᡤᡞᠰᡠᠨ ᠸᠠᡪᡞᡢᡤᠠᠯᠠ , ᡠᡠᠨᡥᠠᡞ ᡪᡞᠯᡞ ᡩᠠᡫᡞ ᠶᠠᠪᡠᡥᠠ 。
-# text[tran] = gisun wajinggala, uthai jili dafi yabuha
-# text[eng] = Before the words were finished, he got angry and left
-1	ᡤᡞᠰᡠᠨ	_	_	_	_	_	_	_	Translit=
-2	ᠸᠠᡪᡞᡢᡤᠠᠯᠠ	_	_	_	_	_	_	_	Translit=
-3	,	_	_	_	_	_	_	_	Translit=
-4	ᡠᡠᠨᡥᠠᡞ	_	_	_	_	_	_	_	Translit=
-5	ᡪᡞᠯᡞ	_	_	_	_	_	_	_	Translit=
-6	ᡩᠠᡫᡞ	_	_	_	_	_	_	_	Translit=
-7	ᠶᠠᠪᡠᡥᠠ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = gisun wajinggala, uthai jili dafi yabuha.
+# text[eng] = Before the words were finished, he got angry and left.
+1	ᡤᡞᠰᡠᠨ	ᡤᡞᠰᡠᠨ	NOUN	_	_	2	nsubj	_	Translit=gisun
+2	ᠸᠠᡪᡞᡢᡤᠠᠯᠠ	ᠸᠠᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	7	advcl	_	Translit=wajinggala
+3	,	,	PUNCT	_	_	2	punct	_	Translit=,
+4	ᡠᡠᠨᡥᠠᡞ	ᡠᡠᠨᡥᠠᡞ	ADV	_	_	7	advmod	_	Translit=uthai
+5	ᡪᡞᠯᡞ	ᡪᡞᠯᡞ	NOUN	_	_	6	obj	_	Translit=jili
+6	ᡩᠠᡫᡞ	ᡩᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	7	advcl	_	Translit=dafi
+7	ᠶᠠᠪᡠᡥᠠ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=yabuha
+8	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_33
 # text = ᠪᠠᡞᡨᠠ ᡨᡠᠴᡞᡢᡤᡝᠯᡝ ᡩᠣᡞᡤᠣᠨᡩᡝ ᡤᡞᠶᠠᠨᡞ ᡪᡝᠪᡣᡝᠯᡝᠮᠪᡞ 。
-# text[tran] = baita tucinggele giyani jebkelembi
-# text[eng] = Prior to an accident, precautions should be taken
-1	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-2	ᡨᡠᠴᡞᡢᡤᡝᠯᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡩᠣᡞᡤᠣᠨᡩᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡤᡞᠶᠠᠨᡞ	_	_	_	_	_	_	_	Translit=
-5	ᡪᡝᠪᡣᡝᠯᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = baita tucinggele doigonde giyani jebkelembi.
+# text[eng] = Prior to an accident, precautions should be taken.
+1	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	2	nsubj	_	Translit=baita
+2	ᡨᡠᠴᡞᡢᡤᡝᠯᡝ	ᡨᡠᠴᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=tucinggele
+3	ᡩᠣᡞᡤᠣᠨᡩᡝ	ᡩᠣᡞᡤᠣᠨ	NOUN	_	_	5	obl	_	Translit=doigonde
+4	ᡤᡞᠶᠠᠨᡞ	ᡤᡞᠶᠠᠨᡞ	ADV	_	_	5	advmod	_	Translit=giyani
+5	ᡪᡝᠪᡣᡝᠯᡝᠮᠪᡞ	ᡪᡝᠪᡣᡝᠯᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=jebkelembi
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_34
-# text = ᠰᡞ ᠶᠠᠪᡠᠮᠰᠠᡣᠠ , ᠰᡞᠨᡞ ᡩᡝᡠ ᠰᡞᠮᠪᡝ ᠪᠠᡞᡨᠠ ᡪᡞᡥᡝ 。
-# text[tran] = si yabumsaka, sini deo simbe baita jihe
-# text[eng] = You just left, your brother came to find you
-1	ᠰᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠶᠠᠪᡠᠮᠰᠠᡣᠠ	_	_	_	_	_	_	_	Translit=
-3	,	_	_	_	_	_	_	_	Translit=
-4	ᠰᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-5	ᡩᡝᡠ	_	_	_	_	_	_	_	Translit=
-6	ᠰᡞᠮᠪᡝ	_	_	_	_	_	_	_	Translit=
-7	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-8	ᡪᡞᡥᡝ	_	_	_	_	_	_	_	Translit=
-9	。	_	_	_	_	_	_	_	Translit=
+# text = ᠰᡞ ᠶᠠᠪᡠᠮᠰᠠᡣᠠ , ᠰᡞᠨᡞ ᡩᡝᡠ ᠰᡞᠮᠪᡝ ᠪᠠᡞᠮᡝ ᡪᡞᡥᡝ 。
+# text[tran] = si yabumsaka, sini deo simbe baime jihe.
+# text[eng] = You just left, your brother came to find you.
+1	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Translit=si
+2	ᠶᠠᠪᡠᠮᠰᠠᡣᠠ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	8	advcl	_	Translit=yabumsaka
+3	,	,	PUNCT	_	_	2	punct	_	Translit=,
+4	ᠰᡞᠨᡞ	ᠰᡞᠨᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs|Poss=Yes	5	nmod:poss	_	Translit=sini
+5	ᡩᡝᡠ	ᡩᡝᡠ	NOUN	_	_	8	nsubj	_	Translit=deo
+6	ᠰᡞᠮᠪᡝ	ᠰᡞᠮᠪᡝ	PRON	_	Number=Sing|Person=2|PronType=Prs|Case=Acc	8	obl	_	Translit=simbe
+7	ᠪᠠᡞᠮᡝ	ᠪᠠᡞᠮᡝ	ADP	_	Case=All	6	case	_	Translit=baime
+8	ᡪᡞᡥᡝ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=jihe
+9	。	。	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_35
-# text = ᡠᠷᡝᠪᡝᠰᡠ ᠪᡝ ᠠᠷᠠᠮᡝ ᠸᠠᡪᡞᠮᡝ ᠰᠠᡣᠠ , ᡠᡠᠨᡥᠠᡞ ᡞᠰᠠᠨ ᠨᡝᡞᠮᠪᡞ ᠰᡝᠮᡝ ᡠᠯᡥᡞᠪᡠᠨᡪᡞᡥᡝ 。
-# text[tran] = urebesu be arame wajime saka, uthai isan neimbi seme ulhibunjihe
-# text[eng] = No sooner had you finished your homework than you came to inform the meeting
-1	ᡠᠷᡝᠪᡝᠰᡠ	_	_	_	_	_	_	_	Translit=
-2	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠠᠷᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠸᠠᡪᡞᠮᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠰᠠᡣᠠ	_	_	_	_	_	_	_	Translit=
-6	,	_	_	_	_	_	_	_	Translit=
-7	ᡠᡠᠨᡥᠠᡞ	_	_	_	_	_	_	_	Translit=
-8	ᡞᠰᠠᠨ	_	_	_	_	_	_	_	Translit=
-9	ᠨᡝᡞᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-10	ᠰᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-11	ᡠᠯᡥᡞᠪᡠᠨᡪᡞᡥᡝ	_	_	_	_	_	_	_	Translit=
-12	。	_	_	_	_	_	_	_	Translit=
+# text = ᡠᠷᡝᠪᡠᠰᡠ ᠪᡝ ᠠᠷᠠᠮᡝ ᠸᠠᡪᡞᠮᡝ ᠰᠠᡣᠠ , ᡠᡨᡥᠠᡞ ᡞᠰᠠᠨ ᠨᡝᡞᠮᠪᡞ ᠰᡝᠮᡝ ᡠᠯᡥᡞᠪᡠᠨᡪᡞᡥᡝ 。
+# text[tran] = urebusu be arame wajime saka, uthai isan neimbi seme ulhibunjihe.
+# text[eng] = No sooner had you finished your homework than you came to inform the meeting.
+1	ᡠᠷᡝᠪᡠᠰᡠ	ᡠᠷᡝᠪᡠᠰᡠ	NOUN	_	_	3	obj	_	Translit=urebusu
+2	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	1	case	_	Translit=be
+3	ᠠᠷᠠᠮᡝ	ᠠᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	4	advcl	_	Translit=arame
+4	ᠸᠠᡪᡞᠮᡝ	ᠸᠠᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	11	advcl	_	Translit=wajime
+5	ᠰᠠᡣᠠ	ᠰᠠᡣᠠ	AUX	_	VerbForm=Fin	4	aux	_	Translit=saka
+6	,	,	PUNCT	_	_	4	punct	_	Translit=,
+7	ᡠᡨᡥᠠᡞ	ᡠᡨᡥᠠᡞ	ADV	_	_	11	advmod	_	Translit=uthai
+8	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	9	obj	_	Translit=isan
+9	ᠨᡝᡞᠮᠪᡞ	ᠨᡝᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	10	ccomp	_	Translit=neimbi
+10	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	11	advcl	_	Translit=seme
+11	ᡠᠯᡥᡞᠪᡠᠨᡪᡞᡥᡝ	ᡠᠯᡥᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=ulhibunjihe
+12	。	。	PUNCT	_	_	11	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_36
 # text = ᠶᠠᠰᠠ ᠨᡞᠴᡠᠮᠰᠠᡣᠠ , ᡪᡞᠯᡤᠠᠨ ᠰᡞᠨᡩᠠᠮᡝ ᡣᠠᡞᠴᠠᠷᠠ ᡩᡝ ᠰᡝᠰᡠᠯᡝᡫᡞ ᡤᡝᡨᡝᡥᡝ 。
-# text[tran] = yasa nicumsaka, jilgan sindame kaicara de sesulefi getehe
-# text[eng] = Hardly had I closed my eyes when I was awakened by a loud shout
-1	ᠶᠠᠰᠠ	_	_	_	_	_	_	_	Translit=
-2	ᠨᡞᠴᡠᠮᠰᠠᡣᠠ	_	_	_	_	_	_	_	Translit=
-3	,	_	_	_	_	_	_	_	Translit=
-4	ᡪᡞᠯᡤᠠᠨ	_	_	_	_	_	_	_	Translit=
-5	ᠰᡞᠨᡩᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-6	ᡣᠠᡞᠴᠠᠷᠠ	_	_	_	_	_	_	_	Translit=
-7	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-8	ᠰᡝᠰᡠᠯᡝᡫᡞ	_	_	_	_	_	_	_	Translit=
-9	ᡤᡝᡨᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
-10	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = yasa nicumsaka, jilgan sindame kaicara de sesulefi getehe.
+# text[eng] = Hardly had I closed my eyes when I was awakened by a loud shout.
+1	ᠶᠠᠰᠠ	ᠶᠠᠰᠠ	NOUN	_	_	2	nsubj	_	Translit=yasa
+2	ᠨᡞᠴᡠᠮᠰᠠᡣᠠ	ᠨᡞᠴᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	9	advcl	_	Translit=nicumsaka
+3	,	,	PUNCT	_	_	2	punct	_	Translit=,
+4	ᡪᡞᠯᡤᠠᠨ	ᡪᡞᠯᡤᠠᠨ	NOUN	_	_	5	nsubj	_	Translit=jilgan
+5	ᠰᡞᠨᡩᠠᠮᡝ	ᠰᡞᠨᡩᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	6	advcl	_	Translit=sindame
+6	ᡣᠠᡞᠴᠠᠷᠠ	ᡣᠠᡞᠴᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Vnoun	8	obl	_	Translit=kaicara
+7	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	6	case	_	Translit=de
+8	ᠰᡝᠰᡠᠯᡝᡫᡞ	ᠰᡝᠰᡠᠯᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	9	advcl	_	Translit=sesulefi
+9	ᡤᡝᡨᡝᡥᡝ	ᡤᡝᡨᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=getehe
+10	。	。	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_37
 # text = ᡪᡠᡤᡡᠨ ᡩᡝ ᡠᠴᠠᠷᠠᡥᠠ ᠨᡞᠶᠠᠯᠮᠠ 。
-# text[tran] = jugvn de ucaraha niyalma
-# text[eng] = The person I met on street
-1	ᡪᡠᡤᡡᠨ	_	_	_	_	_	_	_	Translit=
-2	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡠᠴᠠᠷᠠᡥᠠ	_	_	_	_	_	_	_	Translit=
-4	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
-5	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = jugvn de ucaraha niyalma.
+# text[eng] = The person I met on street.
+1	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	3	obl:loc	_	Translit=jugvn
+2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
+3	ᡠᠴᠠᠷᠠᡥᠠ	ᡠᠴᠠᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Vnoun	4	acl:relcl	_	Translit=ucaraha
+4	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	0	root	_	Translit=niyalma
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_38
-# text = ᡩᡠᠯᡝᡣᡝ ᠠᠨᡞᠶᠠᡞ ᡨᡠᡪᡞᡣᡝ ᠪᠠᡞᡨᠠ 。
-# text[tran] = tuleke aniyai tujike baita
-# text[eng] = Things happened last year
-1	ᡩᡠᠯᡝᡣᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠠᠨᡞᠶᠠᡞ	_	_	_	_	_	_	_	Translit=
-3	ᡨᡠᡪᡞᡣᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-5	。	_	_	_	_	_	_	_	Translit=
+# text = ᡩᡠᠯᡝᡣᡝᡝ ᠠᠨᡞᠶᠠᡞ ᡨᡠᠴᡞᡣᡝ ᠪᠠᡞᡨᠠ 。
+# text[tran] = duleke aniyai tucike baita.
+# text[eng] = Things happened last year.
+1	ᡩᡠᠯᡝᡣᡝ	ᡩᡠᠯᡝᡣᡝ	VERB	_	Tense=Pres|VerbForm=Vnoun	2	acl:relcl	_	Translit=duleke
+2	ᠠᠨᡞᠶᠠᡞ	ᠠᠨᡞᠶᠠ	NOUN	_	Case=Gen	4	nmod	_	Translit=aniyai
+3	ᡨᡠᠴᡞᡣᡝ	ᡨᡠᠴᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Vnoun	4	acl:relcl	_	Translit=tucike
+4	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	0	root	_	Translit=baita
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_39
-# text = ᡝᠮᡝ  ᡞ ᡥᡡᠸᠠᡧᠠᠪᡠᡥᠠ ᠪᠠᡞᠯᡞ ᠪᡝ ᡣᠠᠷᡠᠯᠠᠮᡝ ᠸᠠᡪᡞᠷᠠᡣᡡ 。
-# text[tran] = ere i hvwašabuha baili be karulame wajirakv
-# text[eng] = I can never repay my mothers upbringing
-1	ᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-2	 ᡞ	_	_	_	_	_	_	_	Translit=
-3	ᡥᡡᠸᠠᡧᠠᠪᡠᡥᠠ	_	_	_	_	_	_	_	Translit=
-4	ᠪᠠᡞᠯᡞ	_	_	_	_	_	_	_	Translit=
-5	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-6	ᡣᠠᠷᡠᠯᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-7	ᠸᠠᡪᡞᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+# text = ᡝᠮᡝ ᡞ ᡥᡡᠸᠠᡧᠠᠪᡠᡥᠠ ᠪᠠᡞᠯᡞ ᠪᡝ ᡣᠠᠷᡠᠯᠠᠮᡝ ᠸᠠᡪᡞᠷᠠᡣᡡ 。
+# text[tran] = eme i hvwašabuha baili be karulame wajirakv.
+# text[eng] = I can never repay my mothers upbringing.
+1	ᡝᠮᡝ	ᡝᠮᡝ	NOUN	_	_	4	nmod	_	Translit=eme
+2	ᡞ	ᡞ	ADP	_	Case=Gen	1	case	_	Translit=i
+3	ᡥᡡᠸᠠᡧᠠᠪᡠᡥᠠ	ᡥᡡᠸᠠᡧᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Vnoun|Voice=Cau	4	acl:relcl	_	Translit=hvwašabuha
+4	ᠪᠠᡞᠯᡞ	ᠪᠠᡞᠯᡞ	NOUN	_	_	6	obj	_	Translit=baili
+5	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	4	case	_	Translit=be
+6	ᡣᠠᠷᡠᠯᠠᠮᡝ	ᡣᠠᠷᡠᠯᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	7	advcl	_	Translit=karulame
+7	ᠸᠠᡪᡞᠷᠠᡣᡡ	ᠸᠠᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=wajirakv
+8	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_40
 # text = ᡪᡠᠯᡤᡝ ᠴᡞ ᠠᠪᠰᡞ ᡥᠠᠯᠠᠷᠠᡣᡡ ᡨᠣᡣᡨᠣᡥᠣ ᡣᠣᡠᠯᡞ ᠪᡞᡠ ?
 # text[tran] = julge ci absi halarakv toktoho kooli bio?
-# text[eng] = Is there an invariable regulation since ancient times
-1	ᡪᡠᠯᡤᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠴᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠠᠪᠰᡞ	_	_	_	_	_	_	_	Translit=
-4	ᡥᠠᠯᠠᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-5	ᡨᠣᡣᡨᠣᡥᠣ	_	_	_	_	_	_	_	Translit=
-6	ᡣᠣᡠᠯᡞ	_	_	_	_	_	_	_	Translit=
-7	ᠪᡞᡠ	_	_	_	_	_	_	_	Translit=
-8	?	_	_	_	_	_	_	_	Translit=
+# text[eng] = Is there an invariable regulation since ancient times?
+1	ᡪᡠᠯᡤᡝ	ᡪᡠᠯᡤᡝ	NOUN	_	_	7	obl:temp	_	Translit=julge
+2	ᠴᡞ	ᠴᡞ	ADP	_	Case=Abl	1	case	_	Translit=ci
+3	ᠠᠪᠰᡞ	ᠠᠪᠰᡞ	ADV	_	_	7	advmod	_	Translit=absi
+4	ᡥᠠᠯᠠᠷᠠᡣᡡ	ᡥᠠᠯᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Vnoun|Polarity=Neg	6	acl:relcl	_	Translit=halarakv
+5	ᡨᠣᡣᡨᠣᡥᠣ	ᡨᠣᡣᡨᠣᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Vnoun	6	acl:relcl	_	Translit=toktoho
+6	ᡣᠣᡠᠯᡞ	ᡣᠣᡠᠯᡞ	NOUN	_	_	7	cop:exist	_	Translit=kooli
+7	ᠪᡞᡠ	ᠪᡞ	VERB	_	VerbForm=Fin	0	root	_	Translit=bio
+8	?	?	PUNCT	_	_	7	punct	_	Translit=?
 
 # sent_id = grammarbook_sjo_p2_41
 # text = ᡪᡞᡢᡣᡞᠨᡞ ᡪᠠᠯᠠᠨ ᡩᡝ ᡩᠣᠨᡪᡞᡥᠠᡣᡡ ᡫᡝᠷᡤᡠᠸᡝᠴᡠᡣᡝ ᠪᠠᡞᡨᠠ 。
