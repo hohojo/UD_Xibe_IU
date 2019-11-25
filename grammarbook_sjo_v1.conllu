@@ -128,8 +128,8 @@
 
 # sent_id = grammarbook_sjo_p1_10
 # text = ᡞᠨᡞ ᡥᠠᡥᠠᡪᡠᡞ ᠪᡝᡞᡪᡞᡢ ᡩᡝᠷᡞ ᠪᡝᡩᡝᠷᡝᠮᡝ ᡪᡞᡥᡝᠪᡞ 。
-# text[tran] = ini hahajui beijing deri bedereme jihebi
-# text[eng] = His son came back from Beijing
+# text[tran] = ini hahajui beijing deri bedereme jihebi.
+# text[eng] = His son came back from Beijing.
 1	ᡞᠨᡞ	ᡞᠨᡞ	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	Translit=ini
 2	ᡥᠠᡥᠠᡪᡠᡞ	ᡥᠠᡥᠠᡪᡠᡞ	NOUN	_	Number=Sing	6	nsubj	_	Translit=hahajui
 3	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	5	obl:loc	_	Translit=beijing

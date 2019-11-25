@@ -1,0 +1,13 @@
+acl:relcl
+cop:exist
+nmod:poss
+obl:loc
+obl:temp
+obl:comitative
+obl:reason
+obl:beneficiary
+compound:adj
+compound:noun
+compound:adv
+compound:verb
+nmod:case
