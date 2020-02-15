@@ -579,7 +579,7 @@
 # sent_id = grammarbook_sjo_p2_46
 # text = ᡨᡠᠷᠠᠷᠠ ᠠᡤᠠ ᡩᠣᡣᠰᡞᠨ ᡝᡩᡠᠨ ᠰᠠᠰᠠ ᡪᡞᠷᡝ ᡪᠠᡣᠠᡩᡝ , ᡩᡠᠯᡝᠷᡤᡞ ᡩᡝ ᠸᡝᡞᠯᡝᠮᡝ ᡞᠯᡞᡥᠠ ᡠᠷᠰᡝ ᡤᡝᠮᡠ ᠮᠠᡞᡣᠠᠨ ᠴᡞ ᡫᡝᡣᠰᡞᠮᡝ ᡩᠣᠰᡞᡥᠠ 。
 # text[tran] = turara aga doksin edun sasa jire jakade, tulergi de weileme iliha urse gemu maikan ci feksime dosiha.
-# text[eng] = Because of the sudden storm, all the workers outside went into their tents
+# text[eng] = Because of the sudden storm, all the workers outside went into their tents.
 1	ᡨᡠᠷᠠᠷᠠ	ᡨᡠᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Vnoun	2	acl:relcl	_	Translit=turara
 2	ᠠᡤᠠ	ᠠᡤᠠ	NOUN	_	_	6	nsubj	_	Translit=aga
 3	ᡩᠣᡣᠰᡞᠨ	ᡩᠣᡣᠰᡞᠨ	ADJ	_	_	4	amod	_	Translit=doksin
@@ -662,815 +662,818 @@
 
 # sent_id = grammarbook_sjo_p2_51
 # text = ᡨᡝᠷᡝ ᠶᠠᠪᡠᠷᠠᡣᡡ ᠰᡝᡥᡝᡣᡡ 。
-# text[tran] = tere yabumakv sehekv
-# text[eng] = He did not say that he did not go
-1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠶᠠᠪᡠᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-3	ᠰᡝᡥᡝᡣᡡ	_	_	_	_	_	_	_	Translit=
-4	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tere yaburakv sehekv.
+# text[eng] = He did not say that he did not go.
+1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=tere
+2	ᠶᠠᠪᡠᠷᠠᡣᡡ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Polarity=Neg	3	advcl	_	Translit=yaburakv
+3	ᠰᡝᡥᡝᡣᡡ	ᠰᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=sehekv
+4	。	。	PUNCT	_	_	3	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_52
-# text = ᡨᡝᠷᡝ ᠶᠠᠪᡠᠮᠪᡞ ᠰᡝᠴᡞ , ᠶᠠᠪᡠᡤᡞᠨᡞ 。
-# text[tran] = tere yabumbi seci, yabugini
-# text[eng] = If he says to go, let him go
-1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠶᠠᠪᡠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠰᡝᠴᡞ	_	_	_	_	_	_	_	Translit=
-4	,	_	_	_	_	_	_	_	Translit=
-5	ᠶᠠᠪᡠᡤᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text = ᡨᡝᠷᡝ ᠶᠠᠪᡠᠮᠪᡞ ᠰᡝᠴᡞ , ᠶᠠᠪᡠᡣᡞᠨᡞ 。
+# text[tran] = tere yabumbi seci, yabukini.
+# text[eng] = If he says to go, let him go.
+1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=tere
+2	ᠶᠠᠪᡠᠮᠪᡞ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres	3	advcl	_	Translit=yabumbi
+3	ᠰᡝᠴᡞ	ᠰᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv|Mood=Cnd	5	advcl	_	Translit=seci
+4	,	,	PUNCT	_	_	3	punct	_	Translit=,
+5	ᠶᠠᠪᡠᡣᡞᠨᡞ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=yabukini
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_53
 # text = ᠮᡞᠨᡞ ᡤᡝᠪᡠ ᠪᡝ ᠮᡠᡨᡝᡧᠠᠨ ᠰᡝᠮᠪᡞ 。
-# text[tran] = mini gebu be mutešan sembi
-# text[eng] = My name is Muteshan
-1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡤᡝᠪᡠ	_	_	_	_	_	_	_	Translit=
-3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠮᡠᡨᡝᡧᠠᠨ	_	_	_	_	_	_	_	Translit=
-5	ᠰᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = mini gebu be mutešan sembi.
+# text[eng] = My name is Muteshan.
+1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	2	nmod:poss	_	Translit=mini
+2	ᡤᡝᠪᡠ	ᡤᡝᠪᡠ	NOUN	_	_	5	nsubj	_	Translit=gebu
+3	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	2	case	_	Translit=be
+4	ᠮᡠᡨᡝᡧᠠᠨ	ᠮᡠᡨᡝᡧᠠᠨ	PROPN	_	_	5	obj	_	Translit=mutešan
+5	ᠰᡝᠮᠪᡞ	ᠰᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=sembi
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_54
-# text = ᠴᠠᠪᠴᠠᠯ  ᡞ ᠠᠮᠠᠷᡤᡞ ᡤᡡᠯᡪᠠ  ᡞ ᡪᡠᠯᡝᠷᡤᡞ , ᡩᡝᠷᡤᡞ ᠴᡞ ᠸᠠᠰᡞ ᡝᠶᡝᡥᡝ ᠪᡞᠷᠠ ᠪᡝ ᡞᠯᡞ ᠪᡞᠷᠠ ᠰᡝᠮᠪᡞ 。
-# text[tran] = cabcal i amargi gvlin i julergi, dergi ci wasi eyehe bira be ili bira sembi
-# text[eng] = North to Cabcal and south to Ining, the river flowing from east to west is called Ili River
-1	ᠴᠠᠪᠴᠠᠯ	_	_	_	_	_	_	_	Translit=
-2	 ᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠠᠮᠠᠷᡤᡞ	_	_	_	_	_	_	_	Translit=
-4	ᡤᡡᠯᡪᠠ	_	_	_	_	_	_	_	Translit=
-5	 ᡞ	_	_	_	_	_	_	_	Translit=
-6	ᡪᡠᠯᡝᠷᡤᡞ	_	_	_	_	_	_	_	Translit=
-7	,	_	_	_	_	_	_	_	Translit=
-8	ᡩᡝᠷᡤᡞ	_	_	_	_	_	_	_	Translit=
-9	ᠴᡞ	_	_	_	_	_	_	_	Translit=
-10	ᠸᠠᠰᡞ	_	_	_	_	_	_	_	Translit=
-11	ᡝᠶᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
-12	ᠪᡞᠷᠠ	_	_	_	_	_	_	_	Translit=
-13	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-14	ᡞᠯᡞ	_	_	_	_	_	_	_	Translit=
-15	ᠪᡞᠷᠠ	_	_	_	_	_	_	_	Translit=
-16	ᠰᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-17	。	_	_	_	_	_	_	_	Translit=
+# text = ᠴᠠᠪᠴᠠᠯ ᡞ ᠠᠮᠠᠷᡤᡞ ᡤᡡᠯᡪᠠ  ᡞ ᡪᡠᠯᡝᠷᡤᡞ , ᡩᡝᠷᡤᡞ ᠴᡞ ᠸᠠᠰᡞ ᡝᠶᡝᡥᡝ ᠪᡞᠷᠠ ᠪᡝ ᡞᠯᡞ ᠪᡞᠷᠠ ᠰᡝᠮᠪᡞ 。
+# text[tran] = cabcal i amargi gvlja i julergi, dergi ci wasi eyehe bira be ili bira sembi.
+# text[eng] = North to Cabcal and south to Ining, the river flowing from east to west is called Ili River.
+1	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	3	nmod	_	Translit=cabcal
+2	ᡞ	ᡞ	ADP	_	Case=Gen	1	case	_	Translit=i
+3	ᠠᠮᠠᠷᡤᡞ	ᠠᠮᠠᠷᡤᡞ	NOUN	_	_	12	obl:loc	_	Translit=amargi
+4	ᡤᡡᠯᡪᠠ	ᡤᡡᠯᡪᠠ	PROPN	_	_	6	nmod	_	Translit=gvlja
+5	ᡞ	ᡞ	ADP	_	Case=Gen	4	case	_	Translit=i
+6	ᡪᡠᠯᡝᠷᡤᡞ	ᡪᡠᠯᡝᠷᡤᡞ	NOUN	_	_	3	conj	_	Translit=julergi
+7	,	,	PUNCT	_	_	6	punct	_	Translit=,
+8	ᡩᡝᠷᡤᡞ	ᡩᡝᠷᡤᡞ	NOUN	_	_	11	obl:loc	_	Translit=dergi
+9	ᠴᡞ	ᠴᡞ	ADP	_	Case=Abl	8	case	_	Translit=ci
+10	ᠸᠠᠰᡞ	ᠸᠠᠰᡞ	NOUN	_	_	11	obl:loc	_	Translit=wasi
+11	ᡝᠶᡝᡥᡝ	ᡝᠶᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Vnoun	12	acl	_	Translit=eyehe
+12	ᠪᡞᠷᠠ	ᠪᡞᠷᠠ	NOUN	_	_	16	nsubj	_	Translit=bira
+13	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	12	case	_	Translit=be
+14	ᡞᠯᡞ	ᡞᠯᡞ	PROPN	_	_	15	compound	_	Translit=ili
+15	ᠪᡞᠷᠠ	ᠪᡞᠷᠠ	NOUN	_	_	16	obj	_	Translit=bira
+16	ᠰᡝᠮᠪᡞ	ᠰᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=sembi
+17	。	。	PUNCT	_	_	16	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_55
 # text = ᠠᠨ  ᡞ ᡤᡞᠰᡠᠨ ᡩᡝ ᡤᡞᠰᡠᠷᡝᡥᡝᡢᡤᡝ : ᡪᡠᡤᡡᠨ ᡤᠣᠷᠣ ᡩᡝ ᠮᠣᠷᡞᠨ ᡥᡡᠰᡠᠨ ᠪᡝ ᠰᠠᠮᠪᡞ , ᡞᠨᡝᡢᡤᡞ ᡤᠣᡞᡩᠠᠴᡞ ᠨᡞᠶᠠᠯᠮᠠᡞ ᠮᡠᡪᡞᠯᡝᠨ ᠪᡝ ᡨᠠᡣᠠᠮᠪᡞ ᠰᡝᠮᠪᡞ 。
-# text[tran] = ai i gisun de gisurehengge: jugvn goro de murin hvsun be sambi, inenggi goidaci niyalmai mujilen be takambi sembi
-# text[eng] = As the saying goes, time reveals a persons heart
-1	ᠠᠨ	_	_	_	_	_	_	_	Translit=
-2	 ᡞ	_	_	_	_	_	_	_	Translit=
-3	ᡤᡞᠰᡠᠨ	_	_	_	_	_	_	_	Translit=
-4	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡤᡞᠰᡠᠷᡝᡥᡝᡢᡤᡝ	_	_	_	_	_	_	_	Translit=
-6	:	_	_	_	_	_	_	_	Translit=
-7	ᡪᡠᡤᡡᠨ	_	_	_	_	_	_	_	Translit=
-8	ᡤᠣᠷᠣ	_	_	_	_	_	_	_	Translit=
-9	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-10	ᠮᠣᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
-11	ᡥᡡᠰᡠᠨ	_	_	_	_	_	_	_	Translit=
-12	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-13	ᠰᠠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-14	,	_	_	_	_	_	_	_	Translit=
-15	ᡞᠨᡝᡢᡤᡞ	_	_	_	_	_	_	_	Translit=
-16	ᡤᠣᡞᡩᠠᠴᡞ	_	_	_	_	_	_	_	Translit=
-17	ᠨᡞᠶᠠᠯᠮᠠᡞ	_	_	_	_	_	_	_	Translit=
-18	ᠮᡠᡪᡞᠯᡝᠨ	_	_	_	_	_	_	_	Translit=
-19	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-20	ᡨᠠᡣᠠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-21	ᠰᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-22	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = ai i gisun de gisurehengge: jugvn goro de morin hvsun be sambi, inenggi goidaci niyalmai mujilen be takambi sembi.
+# text[eng] = As the saying goes, time reveals a persons heart.
+1	ᠠᠨ	ᠠᠨ	PRON	_	PronType=Int	3	det	_	Translit=ai
+2	ᡞ	ᡞ	ADP	_	Case=Gen	1	case	_	Translit=i
+3	ᡤᡞᠰᡠᠨ	ᡤᡞᠰᡠᠨ	NOUN	_	_	5	obl	_	Translit=gisun
+4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
+5	ᡤᡞᠰᡠᠷᡝᡥᡝᡢᡤᡝ	ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Tense=Imp|VerbForm=Vnoun	0	root	_	Translit=gisurengge
+6	:	:	PUNCT	_	_	5	punct	_	Translit=:
+7	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	8	nmod	_	Translit=jugvn
+8	ᡤᠣᠷᠣ	ᡤᠣᠷᠣ	ADJ	_	_	13	obl	_	Translit=goro
+9	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	8	case	_	Translit=de
+10	ᠮᠣᠷᡞᠨ	ᠮᠣᠷᡞᠨ	NOUN	_	_	11	nmod	_	Translit=morin
+11	ᡥᡡᠰᡠᠨ	ᡥᡡᠰᡠᠨ	NOUN	_	_	13	obj	_	Translit=hvsun
+12	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	11	case	_	Translit=be
+13	ᠰᠠᠮᠪᡞ	ᠰᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	5	ccomp	_	Translit=sambi
+14	,	,	PUNCT	_	_	13	punct	_	Translit=,
+15	ᡞᠨᡝᡢᡤᡞ	ᡞᠨᡝᡢᡤᡞ	NOUN	_	_	16	nmod	_	Translit=inenggi
+16	ᡤᠣᡞᡩᠠᠴᡞ	ᡤᠣᡞᡩᠠ	NOUN	_	Case=Abl	20	obl	_	Translit=goidaci
+17	ᠨᡞᠶᠠᠯᠮᠠᡞ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	Case=Gen	18	nmod	_	Translit=niyalmai
+18	ᠮᡠᡪᡞᠯᡝᠨ	ᠮᡠᡪᡞᠯᡝᠨ	NOUN	_	_	_	20	obj	Translit=mujilen
+19	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	18	case	_	Translit=be
+20	ᡨᠠᡣᠠᠮᠪᡞ	ᡨᠠᡣᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf	13	conj	_	Translit=takambi
+21	ᠰᡝᠮᠪᡞ	ᠰᡝᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Fin	5	aux	_	Translit=sembi
+22	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_56
 # text = ᠪᠠᡞᡨᠠ ᠪᡝ ᡞᠨᡩᡝ ᡫᠣᠨᡪᡞᠴᡞ , ᠰᠠᠷᠠᡣᡡ ᠰᡝᡥᡝ 。
-# text[tran] = baita be inde fonjici, sarakv sehe
-# text[eng] = If ask him this time, he said he did not know
-1	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-2	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡞᠨᡩᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡫᠣᠨᡪᡞᠴᡞ	_	_	_	_	_	_	_	Translit=
-5	,	_	_	_	_	_	_	_	Translit=
-6	ᠰᠠᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-7	ᠰᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = baita be inde fonjici, sarakv sehe.
+# text[eng] = If ask him this time, he said he did not know.
+1	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	4	obj	_	Translit=baita
+2	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	1	case	_	Translit=be
+3	ᡞᠨᡩᡝ	ᡞᠨᡩᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs|Case=Dat	4	obl	_	Translit=inde
+4	ᡫᠣᠨᡪᡞᠴᡞ	ᡫᠣᠨᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv|Mood=Cnd	6	advcl	_	Translit=fonjici
+5	,	,	PUNCT	_	_	4	punct	_	Translit=,
+6	ᠰᠠᠷᠠᡣᡡ	ᠰᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Polarity=Neg	0	root	_	Translit=sarakv
+7	ᠰᡝᡥᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Tense=Past|VerbForm=Fin	6	aux	_	Translit=sehe
+8	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_57
 # text = ᡨᡝᠷᡝ ᠶᠠᠪᡠᡣᡞ ᠰᡝᠮᠪᡞ 。
-# text[tran] = tere yabuki sembi
-# text[eng] = He wants to leave
-1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠶᠠᠪᡠᡣᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠰᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-4	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tere yabuki sembi.
+# text[eng] = He wants to leave.
+1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=tere
+2	ᠶᠠᠪᡠᡣᡞ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Mood=Imp	0	root	_	Translit=yabuki
+3	ᠰᡝᠮᠪᡞ	ᠰᡝᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Fin	2	aux	_	Translit=sembi
+4	。	。	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_58
 # text = ᡩᠠᠯᡩᠠᡣᡞ ᠰᡝᡥᡝᡞ ᡞᠯᡝᡨᡠᠯᡝᠮᠪᡞ ᡣᠠᡞ , ᡪᠠᠪᡧᠠᡣᡞ ᠰᡝᡥᡝᡞ ᡠᡫᠠᠷᠠᠮᠪᡞ ᡣᠠᡞ 。
-# text[tran] = daldaki sehei iletulembi kai, jabšaki sehei ufarambi kai
-# text[eng] = The more that you want to conceal, the more you expose; the more you want to gain, the more you lose
-1	ᡩᠠᠯᡩᠠᡣᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠰᡝᡥᡝᡞ	_	_	_	_	_	_	_	Translit=
-3	ᡞᠯᡝᡨᡠᠯᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-4	ᡣᠠᡞ	_	_	_	_	_	_	_	Translit=
-5	,	_	_	_	_	_	_	_	Translit=
-6	ᡪᠠᠪᡧᠠᡣᡞ	_	_	_	_	_	_	_	Translit=
-7	ᠰᡝᡥᡝᡞ	_	_	_	_	_	_	_	Translit=
-8	ᡠᡫᠠᠷᠠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-9	ᡣᠠᡞ	_	_	_	_	_	_	_	Translit=
-10	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = daldaki sehei iletulembi kai, jabšaki sehei ufarambi kai.
+# text[eng] = The more that you want to conceal, the more you expose; the more you want to gain, the more you lose.
+1	ᡩᠠᠯᡩᠠᡣᡞ	ᡩᠠᠯᡩᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv|Mood=Imp	3	advcl	_	Translit=daldaki
+2	ᠰᡝᡥᡝᡞ	ᠰᡝᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Conv	1	aux	_	Translit=sehei
+3	ᡞᠯᡝᡨᡠᠯᡝᠮᠪᡞ	ᡞᠯᡝᡨᡠᠯᡝᠮᠪᡞ		VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=iletulembi
+4	ᡣᠠᡞ	ᡣᠠᡞ	INTJ	_	_	3	discourse	_	Translit=kai
+5	,	,	PUNCT	_	_	3	punct	_	Translit=,
+6	ᡪᠠᠪᡧᠠᡣᡞ	ᡪᠠᠪᡧᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv|Mood=Imp	8	advcl	_	Translit=jabšaki
+7	ᠰᡝᡥᡝᡞ	ᠰᡝᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Conv	6	aux	_	Translit=sehei
+8	ᡠᡫᠠᠷᠠᠮᠪᡞ	ᡠᡫᠠᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	3	conj	_	Translit=ufarambi
+9	ᡣᠠᡞ	ᡣᠠᡞ	INTJ	_	_	8	discourse	_	Translit=kai
+10	。	。	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_59
-# text = ᠠᠯᠠᡤᠠ ᡪᠠᠯᠠᠨ ᡩᡝ ᡥᡡᡨᡠᠷᡞ ᡫᡝᡢᡧᡝᠨ ᠸᡝᠷᡞᡣᡞ ᠰᡝᠮᠪᡞ 。
-# text[tran] = alaga jalan de hvturi fengšen weriki sembi
-# text[eng] = I want to leave a blessing for future generations
-1	ᠠᠯᠠᡤᠠ	_	_	_	_	_	_	_	Translit=
-2	ᡪᠠᠯᠠᠨ	_	_	_	_	_	_	_	Translit=
-3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡥᡡᡨᡠᠷᡞ	_	_	_	_	_	_	_	Translit=
-5	ᡫᡝᡢᡧᡝᠨ	_	_	_	_	_	_	_	Translit=
-6	ᠸᡝᠷᡞᡣᡞ	_	_	_	_	_	_	_	Translit=
-7	ᠰᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+# text = ᠠᠮᠠᡤᠠ ᡪᠠᠯᠠᠨ ᡩᡝ ᡥᡡᡨᡠᠷᡞ ᡫᡝᡢᡧᡝᠨ ᠸᡝᠷᡞᡣᡞ ᠰᡝᠮᠪᡞ 。
+# text[tran] = amaga jalan de hvturi fengšen weriki sembi.
+# text[eng] = I want to leave a blessing for future generations.
+1	ᠠᠮᠠᡤᠠ	ᠠᠮᠠᡤᠠ	ADJ	_	_	2	amod	_	Translit=amaga
+2	ᡪᠠᠯᠠᠨ	ᡪᠠᠯᠠᠨ	NOUN	_	_	6	obl	_	Translit=jalan
+3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
+4	ᡥᡡᡨᡠᠷᡞ	ᡥᡡᡨᡠᠷᡞ	NOUN	_	_	5	compound	_	Translit=hvturi
+5	ᡫᡝᡢᡧᡝᠨ	ᡫᡝᡢᡧᡝᠨ	NOUN	_	_	6	obj	_	Translit=fengšen
+6	ᠸᡝᠷᡞᡣᡞ	ᠸᡝᠷᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv|Mood=Imp	0	root	_	Translit=weriki
+7	ᠰᡝᠮᠪᡞ	ᠰᡝᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Fin	6	aux	_	Translit=sembi
+8	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_60
 # text = ᡞᠴᡞᡥᡞᠶᠠᠮᡝ ᠮᡠᡨᡝᠷᠠᡥᡡ ᠰᡝᠮᠪᡞ 。
-# text[tran] = icihiyame muterahv sembi
-# text[eng] = I am afraid I cannot make it
-1	ᡞᠴᡞᡥᡞᠶᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠮᡠᡨᡝᠷᠠᡥᡡ	_	_	_	_	_	_	_	Translit=
-3	ᠰᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-4	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = icihiyame muterahv sembi.
+# text[eng] = I am afraid I cannot make it.
+1	ᡞᠴᡞᡥᡞᠶᠠᠮᡝ	ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	2	advcl	_	Translit=icihiyame
+2	ᠮᡠᡨᡝᠷᠠᡥᡡ	ᠮᡠᡨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Polarity=Neg	0	root	_	Translit=muterakv
+3	ᠰᡝᠮᠪᡞ	ᠰᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	2	aux	_	Translit=sembi
+4	。	。	PUNCT	_	_	2	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_61
 # text = ᠮᡞᠨᡞ ᠪᠠᡞᡨᠠ ᡩᡝ ᠰᡝᡥᡝᡞ , ᠰᡞᠨᡞ ᠪᠠᡞᡨᠠ ᠪᡝ ᠰᠠᠷᡨᠠᠪᡠᡥᠠ 。
-# text[tran] = mini baita de sehei, sini baita be sartabuha
-# text[eng] = Because of my things, your things are delayed
-1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠰᡝᡥᡝᡞ	_	_	_	_	_	_	_	Translit=
-5	,	_	_	_	_	_	_	_	Translit=
-6	ᠰᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-7	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-8	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-9	ᠰᠠᠷᡨᠠᠪᡠᡥᠠ	_	_	_	_	_	_	_	Translit=
-10	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = mini baita de sehei, sini baita be sartabuha.
+# text[eng] = Because of my things, your things are delayed.
+1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	2	amod	_	Translit=mini
+2	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	4	obl	_	Translit=baita
+3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
+4	ᠰᡝᡥᡝᡞ	ᠰᡝᠮᠪᡞ	AUX	_	Tense=Pres|VerbType=Conv	9	advcl	_	Translit=sehei
+5	,	,	PUNCT	_	_	9	punct	_	Translit=,
+6	ᠰᡞᠨᡞ	ᠰᡞᠨᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs|Poss=Yes	7	amod	_	Translit=sini
+7	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	9	obj	_	Translit=baita
+8	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	7	case	_	Translit=be
+9	ᠰᠠᠷᡨᠠᠪᡠᡥᠠ	ᠰᠠᠷᡨᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Past|VerbType=Fin|Voice=Cau	0	root	_	Translit=sartabuha
+10	。	。	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_62
 # text = ᡞᠯᠠᠨ ᠨᡞᠶᠠᠯᠮᠠ ᡝᠮᡠ ᠮᡠᡪᡞᠯᡝᠨ ᠣᠴᡞ , ᠰᡠᠸᠠᠶᠠᠨ ᠪᠣᡞᡥᠣᠨ ᡞᠨᡠ ᠠᡞᠰᡞᠨ ᠣᠮᠪᡞ 。
-# text[tran] = ilan niyalma emu mujilen oci, suwayan boihon inu aisin ombi
-# text[eng] = All people cooperate with each other, yellow earth turns to gold
-1	ᡞᠯᠠᠨ	_	_	_	_	_	_	_	Translit=
-2	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
-3	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-4	ᠮᡠᡪᡞᠯᡝᠨ	_	_	_	_	_	_	_	Translit=
-5	ᠣᠴᡞ	_	_	_	_	_	_	_	Translit=
-6	,	_	_	_	_	_	_	_	Translit=
-7	ᠰᡠᠸᠠᠶᠠᠨ	_	_	_	_	_	_	_	Translit=
-8	ᠪᠣᡞᡥᠣᠨ	_	_	_	_	_	_	_	Translit=
-9	ᡞᠨᡠ	_	_	_	_	_	_	_	Translit=
-10	ᠠᡞᠰᡞᠨ	_	_	_	_	_	_	_	Translit=
-11	ᠣᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-12	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = ilan niyalma emu mujilen oci, suwayan boihon inu aisin ombi.
+# text[eng] = All people cooperate with each other, yellow earth turns to gold.
+1	ᡞᠯᠠᠨ	ᡞᠯᠠᠨ	NUM	_	NumType=Card	2	nummod	_	Translit=ilan
+2	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	5	nsubj	_	Translit=niyalma
+3	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	4	nummod	_	Translit=emu
+4	ᠮᡠᡪᡞᠯᡝᠨ	ᠮᡠᡪᡞᠯᡝᠨ	NOUN	_	_	5	obj	_	Translit=mujilen
+5	ᠣᠴᡞ	ᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbType=Conv|Mood=Cnd	10	advcl	_	Translit=oci
+6	,	,	PUNCT	_	_	5	punct	_	Translit=,
+7	ᠰᡠᠸᠠᠶᠠᠨ	ᠰᡠᠸᠠᠶᠠᠨ	ADJ	_	_	8	amod	_	Translit=suwayan
+8	ᠪᠣᡞᡥᠣᠨ	ᠪᠣᡞᡥᠣᠨ	NOUN	_	_	10	nsubj	_	Translit=boihon
+9	ᡞᠨᡠ	ᡞᠨᡠ	ADV	_	_	10	advmod	_	Translit=inu
+10	ᠠᡞᠰᡞᠨ	ᠠᡞᠰᡞᠨ	NOUN	_	_	0	root	_	Translit=aisin
+11	ᠣᠮᠪᡞ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres|VerbType=Fin	10	cop	_	Translit=ombi
+12	。	。	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_63
-# text = ᡣᡝᡣᡨᡝ ᡣᠠᡣᡨᠠ ᡪᡠᡤᡡᠨ ᠪᡝ ᡩᠠᠰᠠᡫᡞ , ᡝᠮᡤᡝᠷᡞᠨ ᠨᡝᠴᡞᠨ ᠣᠨᠴᠣ ᠣᡥᠣ 。
-# text[tran] = kekte kekta jugvn be dasafi, emgerin necin onco oho
-# text[eng] = The roads that used to be rugged turned to be flat and wide
-1	ᡣᡝᡣᡨᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡣᠠᡣᡨᠠ	_	_	_	_	_	_	_	Translit=
-3	ᡪᡠᡤᡡᠨ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡩᠠᠰᠠᡫᡞ	_	_	_	_	_	_	_	Translit=
-6	,	_	_	_	_	_	_	_	Translit=
-7	ᡝᠮᡤᡝᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
-8	ᠨᡝᠴᡞᠨ	_	_	_	_	_	_	_	Translit=
-9	ᠣᠨᠴᠣ	_	_	_	_	_	_	_	Translit=
-10	ᠣᡥᠣ	_	_	_	_	_	_	_	Translit=
-11	。	_	_	_	_	_	_	_	Translit=
+# text = ᡣᡝᡣᡨᡝ ᡣᠠᡣᡨᠠ ᡪᡠᡤᡡᠨ ᠪᡝ ᡩᠠᠰᠠᡫᡞ , ᡝᠮᡤᡝᠷᡞ ᠨᡝᠴᡞᠨ ᠣᠨᠴᠣ ᠣᡥᠣ 。
+# text[tran] = kekte kekta jugvn be dasafi, emgeri necin onco oho.
+# text[eng] = The roads that used to be rugged turned to be flat and wide.
+1	ᡣᡝᡣᡨᡝ	ᡣᡝᡣᡨᡝ	ADJ	_	_	2	compound	_	Translit=kekte
+2	ᡣᠠᡣᡨᠠ	ᡣᠠᡣᡨᠠ	ADJ	_	_	3	amod	_	Translit=kekta
+3	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	5	obj	_	Translit=jugvn
+4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
+5	ᡩᠠᠰᠠᡫᡞ	ᡩᠠᠰᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	8	advcl	_	Translit=dasafi
+6	,	,	PUNCT	_	_	5	punct	_	Translit=,
+7	ᡝᠮᡤᡝᠷᡞ	ᡝᠮᡤᡝᠷᡞ	ADV	_	_	8	advmod	_	Translit=emgeri
+8	ᠨᡝᠴᡞᠨ	ᠨᡝᠴᡞᠨ	ADJ	_	_	0	root	_	Translit=necin
+9	ᠣᠨᠴᠣ	ᠣᠨᠴᠣ	ADJ	_	_	8	compound	_	Translit=onco
+10	ᠣᡥᠣ	ᠣᠮᠪᡞ	AUX	_	Tense=Past|VerbForm=Fin	8	cop	_	Translit=oho
+11	。	。	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_64
 # text = ᠮᡞᠨᡞ ᠠᠮᠠ ᠮᡞᠮᠪᡝ ᠰᡞᠷᠠᠮᡝ ᠰᡝᡫᡠ ᠣᠰᠣ ᠰᡝᡥᡝ 。
-# text[tran] = mini ama mimbe sirame sefu oso sehe
-# text[eng] = My father wants me to be a teacher in future
-1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠠᠮᠠ	_	_	_	_	_	_	_	Translit=
-3	ᠮᡞᠮᠪᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠰᡞᠷᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠰᡝᡫᡠ	_	_	_	_	_	_	_	Translit=
-6	ᠣᠰᠣ	_	_	_	_	_	_	_	Translit=
-7	ᠰᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = mini ama mimbe sirame sefu oso sehe.
+# text[eng] = My father wants me to be a teacher in future.
+1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	2	amod	_	Translit=mini
+2	ᠠᠮᠠ	ᠠᠮᠠ	NOUN	_	_	7	nsubj	_	Translit=ama
+3	ᠮᡞᠮᠪᡝ	ᠮᡞᠮᠪᡝ	PRON	_	Number=Sing|Person=1|PronType=Prs|Case=Acc	7	obj	_	Translit=mimbe
+4	ᠰᡞᠷᠠᠮᡝ	ᠰᡞᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=sirame
+5	ᠰᡝᡫᡠ	ᠰᡝᡫᡠ	NOUN	_	_	7	xcomp	_	Translit=sefu
+6	ᠣᠰᠣ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Conv	5	cop	_	Translit=oso
+7	ᠰᡝᡥᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=sehe
+8	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_65
 # text = ᡝᠷᡝ ᠮᠣᠷᡞᠨ ᠪᡝ ᠶᠠᠯᡠᠴᡞ ᠣᠮᠪᡞ 。
-# text[tran] = ere morin be yaluci ombi
-# text[eng] = This horse is rideable
-1	ᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠮᠣᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
-3	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠶᠠᠯᡠᠴᡞ	_	_	_	_	_	_	_	Translit=
-5	ᠣᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = ere morin be yaluci ombi.
+# text[eng] = This horse is rideable.
+1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	2	det	_	Translit=ere
+2	ᠮᠣᠷᡞᠨ	ᠮᠣᠷᡞᠨ	NOUN	_	_	4	obj	_	Translit=morin
+3	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	2	case	_	Translit=be
+4	ᠶᠠᠯᡠᠴᡞ	ᠶᠠᠯᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv|Mood=Cnd	0	root	_	Translit=yaluci
+5	ᠣᠮᠪᡞ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Fin	4	aux	_	Translit=ombi
+6	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_66
-# text = ᡠᠯᡥᡞᠴᡠᠨ ᠮᡝᠨᡞ ᠪᠠᠨᠰᡝ  ᡞ ᠪᠠᠨᠰᡝ ᡩᠠ ᠣᡥᠣᠪᡞ 。
-# text[tran] = ulhicun mini banse i banse da ohobi
-# text[eng] = He serves as monitor of our class
-1	ᡠᠯᡥᡞᠴᡠᠨ	_	_	_	_	_	_	_	Translit=
-2	ᠮᡝᠨᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠪᠠᠨᠰᡝ	_	_	_	_	_	_	_	Translit=
-4	 ᡞ	_	_	_	_	_	_	_	Translit=
-5	ᠪᠠᠨᠰᡝ	_	_	_	_	_	_	_	Translit=
-6	ᡩᠠ	_	_	_	_	_	_	_	Translit=
-7	ᠣᡥᠣᠪᡞ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+# text = ᡠᠯᡥᡞᠴᡠᠨ ᠮᡝᠨᡞ ᠪᠠᠨᠰᡝ ᡞ ᠪᠠᠨᠰᡝ ᡩᠠ ᠣᡥᠣᠪᡞ 。
+# text[tran] = ulhicun mini banse i banse da ohobi.
+# text[eng] = Ulhicun serves as monitor of our class.
+1	ᡠᠯᡥᡞᠴᡠᠨ	ᡠᠯᡥᡞᠴᡠᠨ	PROPN	_	_	6	nsubj	_	Translit=ulhicun
+2	ᠮᡝᠨᡞ	ᠮᡝᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	3	amod	_	Translit=mini
+3	ᠪᠠᠨᠰᡝ	ᠪᠠᠨᠰᡝ	NOUN	_	_	6	nmod	_	Translit=banse
+4	ᡞ	ᡞ	ADP	_	Case=Gen	3	case	_	Translit=i
+5	ᠪᠠᠨᠰᡝ	ᠪᠠᠨᠰᡝ	NOUN	_	_	6	compound	_	Translit=banse
+6	ᡩᠠ	ᡩᠠ	NOUN	_	_	0	root	_	Translit=da
+7	ᠣᡥᠣᠪᡞ	ᠣᠮᠪᡞ	AUX	_	Tense=Past|VerbForm=Fin	6	aux	_	Translit=ohobi
+8	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_67
 # text = ᠰᡞᠨᡞ ᠶᠠᠨᡩᡠᡥᠠ ᠪᠠᡞᡨᠠ ᠪᡝ , ᡨᡝᠷᡝ ᠣᠮᠪᡞ ᠰᡝᡥᡝ 。
-# text[tran] = sini yanduha baita be, tere ombi sehe
-# text[eng] = He said yes to what you entrusted
-1	ᠰᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠶᠠᠨᡩᡠᡥᠠ	_	_	_	_	_	_	_	Translit=
-3	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	,	_	_	_	_	_	_	_	Translit=
-6	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-7	ᠣᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-8	ᠰᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
-9	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = sini yanduha baita be, tere ombi sehe.
+# text[eng] = He said yes to what you entrusted.
+1	ᠰᡞᠨᡞ	ᠰᡞᠨᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs|Poss=Yes	3	amod	_	Translit=sini
+2	ᠶᠠᠨᡩᡠᡥᠠ	ᠶᠠᠨᡩᡠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Vnoun	3	acl:relcl	_	Translit=yanduha
+3	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	8	obj	_	Translit=baita
+4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
+5	,	,	PUNCT	_	_	8	punct	_	Translit=,
+6	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Translit=tere
+7	ᠣᠮᠪᡞ	ᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	8	ccomp	_	Translit=ombi
+8	ᠰᡝᡥᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=sehe
+9	。	。	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_68
 # text = ᠮᡠᠰᡝᡞ ᡤᡞᠰᡠᠷᡝᡥᡝ ᠪᠠᡞᡨᠠ , ᠣᡪᠣᠷᠣ ᠮᡠᠷᡠ ᠪᡞ 。
-# text[tran] = musei gisurehe baita, ojoro muru bi
-# text[eng] = What we said seem to work
-1	ᠮᡠᠰᡝᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡤᡞᠰᡠᠷᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-4	,	_	_	_	_	_	_	_	Translit=
-5	ᠣᡪᠣᠷᠣ	_	_	_	_	_	_	_	Translit=
-6	ᠮᡠᠷᡠ	_	_	_	_	_	_	_	Translit=
-7	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-8	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = musei gisurehe baita, ojoro muru bi.
+# text[eng] = What we said seem to work.
+1	ᠮᡠᠰᡝᡞ	ᠮᡠᠰᡝ	PRON	_	Number=Plur|Person=1|PronType=Prs|Case=Gen	3	amod	_	Translit=musei
+2	ᡤᡞᠰᡠᠷᡝᡥᡝ	ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Vnoun	3	acl:relcl	_	Translit=gisurehe
+3	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	7	nsubj	_	Translit=baita
+4	,	,	PUNCT	_	_	7	punct	_	Translit=,
+5	ᠣᡪᠣᠷᠣ	ᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Vnoun	6	acl:relcl	_	Translit=ojoro
+6	ᠮᡠᠷᡠ	ᠮᡠᠷᡠ	NOUN	_	_	7	obj	_	Translit=muru
+7	ᠪᡞ	ᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=bi
+8	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_69
-# text = ᡠᡩᡠ ᡞᠨᡝᡢᡤᡞ ᠣᡥᠠᡣᡡ , ᡞᠴᡝ ᡨᠠᠴᡞᠰᠠ ᠰᡞᠷᠠᠨ ᠰᡞᠷᠠᠨ  ᡞ ᠪᠣᡠᠯᠠᠨᡪᡞᡥᡝ 。
-# text[tran] = udu inenggi ohokv, ice tacisa siran siran i boolanjihe
-# text[eng] = A few days later, new students began to register one by one
-1	ᡠᡩᡠ	_	_	_	_	_	_	_	Translit=
-2	ᡞᠨᡝᡢᡤᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠣᡥᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-4	,	_	_	_	_	_	_	_	Translit=
-5	ᡞᠴᡝ	_	_	_	_	_	_	_	Translit=
-6	ᡨᠠᠴᡞᠰᠠ	_	_	_	_	_	_	_	Translit=
-7	ᠰᡞᠷᠠᠨ	_	_	_	_	_	_	_	Translit=
-8	ᠰᡞᠷᠠᠨ	_	_	_	_	_	_	_	Translit=
-9	 ᡞ	_	_	_	_	_	_	_	Translit=
-10	ᠪᠣᡠᠯᠠᠨᡪᡞᡥᡝ	_	_	_	_	_	_	_	Translit=
-11	。	_	_	_	_	_	_	_	Translit=
+# text = ᡠᡩᡠ ᡞᠨᡝᡢᡤᡞ ᠣᡥᠠᡣᡡ , ᡞᠴᡝ ᡨᠠᠴᡞᠰᡞ ᠰᡞᠷᠠᠨ ᠰᡞᠷᠠᠨ ᡞ ᠪᠣᡠᠯᠠᠨᡪᡞᡥᡝ 。
+# text[tran] = udu inenggi ohakv, ice tacisi siran siran i boolanjihe.
+# text[eng] = A few days later, new students began to register one by one.
+1	ᡠᡩᡠ	ᡠᡩᡠ	DET	_	PronType=Dem	2	det	_	Translit=udu
+2	ᡞᠨᡝᡢᡤᡞ	ᡞᠨᡝᡢᡤᡞ	NOUN	_	_	10	obl	_	Translit=inenggi
+3	ᠣᡥᠠᡣᡡ	ᠣᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	2	cop	_	Translit=ohakv
+4	,	,	PUNCT	_	_	2	punct	_	Translit=,
+5	ᡞᠴᡝ	ᡞᠴᡝ	ADJ	_	_	6	amod	_	Translit=ice
+6	ᡨᠠᠴᡞᠰᡞ	ᡨᠠᠴᡞᠰᡞ	NOUN	_	_	10	nsubj	_	Translit=tacisa
+7	ᠰᡞᠷᠠᠨ	ᠰᡞᠷᠠᠨ	NOUN	_	_	8	compound	_	Translit=siran
+8	ᠰᡞᠷᠠᠨ	ᠰᡞᠷᠠᠨ	NOUN	_	_	10	advmod	_	Translit=siran
+9	ᡞ	ᡞ	ADP	_	Case=Gen	8	case	_	Translit=i
+10	ᠪᠣᡠᠯᠠᠨᡪᡞᡥᡝ	ᠪᠣᡠᠯᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=boolanjihe
+11	。	。	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_70
 # text = ᠪᡞ ᡤᡡᠯᡪᠠ ᡩᡝ ᡞᠰᡞᠨᡪᡞᡫᡞ , ᡣᡝᡪᡞᠨᡝ ᡠᡩᡠ ᡞᠨᡝᡢᡤᡞ ᠣᡥᠣ 。
-# text[tran] = bi gvlja de isinjifi, kejine udu inenggi oho
-# text[eng] = I have been to Ining for several days
-1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡤᡡᠯᡪᠠ	_	_	_	_	_	_	_	Translit=
-3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡞᠰᡞᠨᡪᡞᡫᡞ	_	_	_	_	_	_	_	Translit=
-5	,	_	_	_	_	_	_	_	Translit=
-6	ᡣᡝᡪᡞᠨᡝ	_	_	_	_	_	_	_	Translit=
-7	ᡠᡩᡠ	_	_	_	_	_	_	_	Translit=
-8	ᡞᠨᡝᡢᡤᡞ	_	_	_	_	_	_	_	Translit=
-9	ᠣᡥᠣ	_	_	_	_	_	_	_	Translit=
-10	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = bi gvlja de isinjifi, kejine udu inenggi oho.
+# text[eng] = I have been to Ining for several days.
+1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=bi
+2	ᡤᡡᠯᡪᠠ	ᡤᡡᠯᡪᠠ	PROPN	_	_	4	obl	_	Translit=gvlja
+3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
+4	ᡞᠰᡞᠨᡪᡞᡫᡞ	ᡞᠰᡞᠨᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	8	advcl	_	Translit=isinjifi
+5	,	,	PUNCT	_	_	4	punct	_	Translit=,
+6	ᡣᡝᡪᡞᠨᡝ	ᡣᡝᡪᡞᠨᡝ	ADV	_	_	8	advmod	_	Translit=kejine
+7	ᡠᡩᡠ	ᡠᡩᡠ	DET	_	PronType=Dem	8	det	_	Translit=udu
+8	ᡞᠨᡝᡢᡤᡞ	ᡞᠨᡝᡢᡤᡞ	NOUN	_	_	0	root	_	Translit=inenggi
+9	ᠣᡥᠣ	ᠣᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	8	cop	_	Translit=oho
+10	。	。	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_71
-# text = ᡩᠣᠪᠣᠷᡞ ᠣᠮᡝ , ᡥᠣᡨᠣᠨ ᡩᠣᠷᡤᡞ ᠠᠮᠪᠠ ᡪᡠᡤᡡᠨ  ᡞ ᡪᡠᠸᡝ ᡝᠷᡤᡞ  ᡞ ᡩᡝᡢᡪᠠᠨ , ᠠᡞᠮᠠᡣᠠ ᡞᠨᡝᡢᡤᡞ ᡧᡠᠨ  ᡞ ᠠᡩᠠᠯᡞ ᡝᠯᡩᡝᡧᡝᠮᠪᡞ 。
-# text[tran] = dobori ome, hoton dorgi amba jugvn i juwe ergi i dengjan šun i adali eldešembi
-# text[eng] = When it comes to night, the street lamps on both sides of the city streets light up as they do in the daytime
-1	ᡩᠣᠪᠣᠷᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠣᠮᡝ	_	_	_	_	_	_	_	Translit=
-3	,	_	_	_	_	_	_	_	Translit=
-4	ᡥᠣᡨᠣᠨ	_	_	_	_	_	_	_	Translit=
-5	ᡩᠣᠷᡤᡞ	_	_	_	_	_	_	_	Translit=
-6	ᠠᠮᠪᠠ	_	_	_	_	_	_	_	Translit=
-7	ᡪᡠᡤᡡᠨ	_	_	_	_	_	_	_	Translit=
-8	 ᡞ	_	_	_	_	_	_	_	Translit=
-9	ᡪᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
-10	ᡝᠷᡤᡞ	_	_	_	_	_	_	_	Translit=
-11	 ᡞ	_	_	_	_	_	_	_	Translit=
-12	ᡩᡝᡢᡪᠠᠨ	_	_	_	_	_	_	_	Translit=
-13	,	_	_	_	_	_	_	_	Translit=
-14	ᠠᡞᠮᠠᡣᠠ	_	_	_	_	_	_	_	Translit=
-15	ᡞᠨᡝᡢᡤᡞ	_	_	_	_	_	_	_	Translit=
-16	ᡧᡠᠨ	_	_	_	_	_	_	_	Translit=
-17	 ᡞ	_	_	_	_	_	_	_	Translit=
-18	ᠠᡩᠠᠯᡞ	_	_	_	_	_	_	_	Translit=
-19	ᡝᠯᡩᡝᡧᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-20	。	_	_	_	_	_	_	_	Translit=
+# text = ᡩᠣᠪᠣᠷᡞ ᠣᠮᡝ , ᡥᠣᡨᠣᠨ ᡩᠣᠷᡤᡞ ᠠᠮᠪᠠ ᡪᡠᡤᡡᠨ ᡞ ᡪᡠᠸᡝ ᡝᠷᡤᡞ ᡞ ᡩᡝᡢᡪᠠᠨ , ᠠᡞᠮᠠᡣᠠ ᡞᠨᡝᡢᡤᡞ ᡧᡠᠨ ᡞ ᠠᡩᠠᠯᡞ ᡝᠯᡩᡝᡧᡝᠮᠪᡞ 。
+# text[tran] = dobori ome, hoton dorgi amba jugvn i juwe ergi i dengjan, aimaka inenggi šun i adali eldešembi.
+# text[eng] = When it comes to night, the street lamps on both sides of the city streets light up as they do in the daytime.
+1	ᡩᠣᠪᠣᠷᡞ	ᡩᠣᠪᠣᠷᡞ	NOUN	_	_	19	advcl	_	Translit=dobori
+2	ᠣᠮᡝ	ᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	1	cop	_	Translit=ome
+3	,	,	PUNCT	_	_	19	punct	_	Translit=,
+4	ᡥᠣᡨᠣᠨ	ᡥᠣᡨᠣᠨ	NOUN	_	_	5	compound	_	Translit=hoton
+5	ᡩᠣᠷᡤᡞ	ᡩᠣᠷᡤᡞ	NOUN	_	_	7	nmod	_	Translit=dorgi
+6	ᠠᠮᠪᠠ	ᠠᠮᠪᠠ	ADJ	_	_	7	amod	_	Translit=amba
+7	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	10	nmod	_	Translit=jugvn
+8	ᡞ	ᡞ	ADP	_	Case=Gen	7	case	_	Translit=i
+9	ᡪᡠᠸᡝ	ᡪᡠᠸᡝ	NUM	_	NumType=Ord	10	nummod	_	Translit=juwe
+10	ᡝᠷᡤᡞ	ᡝᠷᡤᡞ	NOUN	_	_	12	nmod	_	Translit=ergi
+11	ᡞ	ᡞ	ADP	_	Case=Gen	10	case	_	Translit=i
+12	ᡩᡝᡢᡪᠠᠨ	ᡩᡝᡢᡪᠠᠨ	NOUN	_	_	19	nsubj	_	Translit=dengjan
+13	,	,	PUNCT	_	_	19	punct	_	Translit=,
+14	ᠠᡞᠮᠠᡣᠠ	ᠠᡞᠮᠠᡣᠠ	ADV	_	_	15	advmod	_	Translit=aimaka
+15	ᡞᠨᡝᡢᡤᡞ	ᡞᠨᡝᡢᡤᡞ	NOUN	_	_	16	nmod	_	Translit=inenggi
+16	ᡧᡠᠨ	ᡧᡠᠨ	NOUN	_	_	19	obl	_	Translit=šun
+17	ᡞ	ᡞ	ADP	_	Case=Gen	16	case	_	Translit=i
+18	ᠠᡩᠠᠯᡞ	ᠠᡩᠠᠯᡞ	ADJ	_	_	16	case	_	Translit=adali
+19	ᡝᠯᡩᡝᡧᡝᠮᠪᡞ	ᡝᠯᡩᡝᡧᡝᠮᠪᡞ	VERB	_	_	0	root	_	Translit=eldešembi
+20	。	。	PUNCT	_	_	19	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_72
 # text = ᡪᠠᠯᠠᠨ ᠪᡝ ᡤᡞᠰᡠᠷᡝᠴᡞ , ᠰᡞ ᠮᡞᠨᡩᡝ ᡠᡢᡤᠠᠨ ᠣᠮᠪᡞ 。
-# text[tran] = jalan be gisureci, si minde unggan ombi
-# text[eng] = In terms of seniority, you are my elder
-1	ᡪᠠᠯᠠᠨ	_	_	_	_	_	_	_	Translit=
-2	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡤᡞᠰᡠᠷᡝᠴᡞ	_	_	_	_	_	_	_	Translit=
-4	,	_	_	_	_	_	_	_	Translit=
-5	ᠰᡞ	_	_	_	_	_	_	_	Translit=
-6	ᠮᡞᠨᡩᡝ	_	_	_	_	_	_	_	Translit=
-7	ᡠᡢᡤᠠᠨ	_	_	_	_	_	_	_	Translit=
-8	ᠣᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-9	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = jalan be gisureci, si minde unggan ombi.
+# text[eng] = In terms of seniority, you are my elder.
+1	ᡪᠠᠯᠠᠨ	ᡪᠠᠯᠠᠨ	NOUN	_	_	3	obj	_	Translit=jalan
+2	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	1	case	_	Translit=be
+3	ᡤᡞᠰᡠᠷᡝᠴᡞ	ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv|Mood=Cnd	7	advcl	_	Translit=gisureci
+4	,	,	PUNCT	_	_	3	punct	_	Translit=,
+5	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Translit=si
+6	ᠮᡞᠨᡩᡝ	ᠮᡞᠨᡩᡝ	PRON	_	Number=Sing|Person=1|PronType=Prs|Case=Dat	7	obl	_	Translit=minde
+7	ᡠᡢᡤᠠᠨ	ᡠᡢᡤᠠᠨ	NOUN	_	_	0	root	_	Translit=unggan
+8	ᠣᠮᠪᡞ	ᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	7	cop	_	Translit=ombi
+9	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_73
-# text = ᡪᡠᡤᡡᠨ ᡪᡠᡩᡠ ᡥᠠᠨᠴᡞ , ᡠᡪᡠᡞ ᠣᡣᠰᠣᠨ ᠪᡝ ᠣᡣᠰᠣᠷᠠᡣᡡ ᠣᠴᡞ , ᠠᡩᠠᠷᠠᠮᡝ ᡞᠰᡞᠨᠠᠴᡞ ᠣᠮᠪᡞ 。
-# text[tran] = jugvn judu hanci, ujui okson be oksorakv oci, adarame isinaci ombi
-# text[eng] = Though the road is nearby, we cannot reach it unless we take the first step
-1	ᡪᡠᡤᡡᠨ	_	_	_	_	_	_	_	Translit=
-2	ᡪᡠᡩᡠ	_	_	_	_	_	_	_	Translit=
-3	ᡥᠠᠨᠴᡞ	_	_	_	_	_	_	_	Translit=
-4	,	_	_	_	_	_	_	_	Translit=
-5	ᡠᡪᡠᡞ	_	_	_	_	_	_	_	Translit=
-6	ᠣᡣᠰᠣᠨ	_	_	_	_	_	_	_	Translit=
-7	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-8	ᠣᡣᠰᠣᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-9	ᠣᠴᡞ	_	_	_	_	_	_	_	Translit=
-10	,	_	_	_	_	_	_	_	Translit=
-11	ᠠᡩᠠᠷᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-12	ᡞᠰᡞᠨᠠᠴᡞ	_	_	_	_	_	_	_	Translit=
-13	ᠣᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-14	。	_	_	_	_	_	_	_	Translit=
+# text = ᡪᡠᡤᡡᠨ ᡠᡩᡠ ᡥᠠᠨᠴᡞ ᠣᡣᡞᠨᡞ , ᡠᡪᡠᡞ ᠣᡣᠰᠣᠨ ᠪᡝ ᠣᡣᠰᠣᠷᠠᡣᡡ ᠣᠴᡞ , ᠠᡩᠠᠷᠠᠮᡝ ᡞᠰᡞᠨᠠᠴᡞ ᠣᠮᠪᡞ 。
+# text[tran] = jugvn udu hanci okini, ujui okson be oksorakv oci, adarame isinaci ombi.
+# text[eng] = Though the road is nearby, we cannot reach it unless we take the first step.
+1	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	3	nsubj	_	Translit=jugvn
+2	ᡠᡩᡠ	ᡠᡩᡠ	SCONJ	_	_	3	mark	_	Translit=udu
+3	ᡥᠠᠨᠴᡞ	ᡥᠠᠨᠴᡞ	ADJ	_	_	13	advcl	_	Translit=hanci
+4	ᠣᡣᡞᠨᡞ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Conv|Mood=Imp	3	aux	_	Translit=okini
+5	,	,	PUNCT	_	_	3	punct	_	Translit=,
+6	ᡠᡪᡠᡞ	ᡠᡪᡠ	NOUN	_	Case=Gen	7	nmod	_	Translit=ujui
+7	ᠣᡣᠰᠣᠨ	ᠣᡣᠰᠣᠨ	NOUN	_	_	9	obj	_	Translit=okson
+8	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	7	case	_	Translit=be
+9	ᠣᡣᠰᠣᠷᠠᡣᡡ	ᠣᡣᠰᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Inf|Polarity=Neg	13	advcl	_	Translit=oksorakv
+10	ᠣᠴᡞ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Fin|Mood=Cnd	9	aux	_	Translit=oci
+11	,	,	PUNCT	_	_	9	punct	_	Translit=,
+12	ᠠᡩᠠᠷᠠᠮᡝ	ᠠᡩᠠᠷᠠᠮᡝ	ADV	_	_	13	advmod	_	Translit=adarame
+13	ᡞᠰᡞᠨᠠᠴᡞ	ᡞᠰᡞᠨᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv|Mood=Cnd	0	root	_	Translit=isinaci
+14	ᠣᠮᠪᡞ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Fin	13	aux	_	Translit=ombi
+15	。	。	PUNCT	_	_	13	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_74
 # text = ᠪᠠᡞᡨᠠᡞ ᠣᡢᡤᠣᠯᠣ ᡤᡡᠨᡞᠨ ᠸᡝᠷᡝᡧᡝᡥᡝ ᠪᡞᠴᡞ , ᡨᡝᠨᡨᡝᡣᡝ ᠠᠮᠪᠠ ᡠᡫᠠᠷᠠᠷᠠᡣᡡ ᠪᡞᡥᡝ 。
-# text[tran] = baitai onggolo gvnin werešehe bici, tenteke amba ufararakv bihe
-# text[eng] = If we had noticed beforehand, the loss would not have been so great
-1	ᠪᠠᡞᡨᠠᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠣᡢᡤᠣᠯᠣ	_	_	_	_	_	_	_	Translit=
-3	ᡤᡡᠨᡞᠨ	_	_	_	_	_	_	_	Translit=
-4	ᠸᡝᠷᡝᡧᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠪᡞᠴᡞ	_	_	_	_	_	_	_	Translit=
-6	,	_	_	_	_	_	_	_	Translit=
-7	ᡨᡝᠨᡨᡝᡣᡝ	_	_	_	_	_	_	_	Translit=
-8	ᠠᠮᠪᠠ	_	_	_	_	_	_	_	Translit=
-9	ᡠᡫᠠᠷᠠᠷᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-10	ᠪᡞᡥᡝ	_	_	_	_	_	_	_	Translit=
-11	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = baitai onggolo gvnin werišehe bici, tenteke amba ufararakv bihe.
+# text[eng] = If we had noticed beforehand, the loss would not have been so great.
+1	ᠪᠠᡞᡨᠠᡞ	ᠪᠠᡞᡨᠠ	NOUN	_	Case=Gen	4	obl	_	Translit=baitai
+2	ᠣᡢᡤᠣᠯᠣ	ᠣᡢᡤᠣᠯᠣ	ADP	_	_	1	case	_	Translit=onggolo
+3	ᡤᡡᠨᡞᠨ	ᡤᡡᠨᡞᠨ	NOUN	_	_	4	compound	_	Translit=gvnin
+4	ᠸᡝᠷᡞᡧᡝᡥᡝ	ᠸᡝᠷᡞᡧᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	9	advcl	_	Translit=werišehe
+5	ᠪᡞᠴᡞ	ᠪᡞᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Conv|Mood=Cnd	4	aux	_	Translit=bici
+6	,	,	PUNCT	_	_	4	punct	_	Translit=,
+7	ᡨᡝᠨᡨᡝᡣᡝ	ᡨᡝᠨᡨᡝᡣᡝ	ADV	_	_	8	advmod	_	Translit=tenteke
+8	ᠠᠮᠪᠠ	ᠠᠮᠪᠠ	ADJ	_	_	9	advmod	_	Translit=amba
+9	ᡠᡫᠠᠷᠠᠷᠠᡣᡡ	ᡠᡫᠠᠷᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=ufararakv
+10	ᠪᡞᡥᡝ	ᠪᡞᠮᠪᡞ	AUX	_	Tense=Past|VerbForm=Fin	9	aux	_	Translit=bihe
+11	。	。	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_75
 # text = ᠮᡞᠨᡞ ᡪᡠᠸᡝ ᠠᡥᡡᠨ ᡤᡝᠮᡠ ᡠᠰᡞᠰᠠ ᠪᡞᡥᡝ 。
-# text[tran] = mini juwe ahvn gemu usisa bihe
-# text[eng] = My two elder brothers are all farmers
-1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡪᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠠᡥᡡᠨ	_	_	_	_	_	_	_	Translit=
-4	ᡤᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-5	ᡠᠰᡞᠰᠠ	_	_	_	_	_	_	_	Translit=
-6	ᠪᡞᡥᡝ	_	_	_	_	_	_	_	Translit=
-7	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = mini juwe ahvn gemu usisa bihe.
+# text[eng] = My two elder brothers are all farmers.
+1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	3	amod	_	Translit=mini
+2	ᡪᡠᠸᡝ	ᡪᡠᠸᡝ	NUM	_	NumType=Card	3	nummod	_	Translit=juwe
+3	ᠠᡥᡡᠨ	ᠠᡥᡡᠨ	NOUN	_	_	5	nsubj	_	Translit=ahvn
+4	ᡤᡝᠮᡠ	ᡤᡝᠮᡠ	ADV	_	_	5	advmod	_	Translit=gemu
+5	ᡠᠰᡞᠰᠠ	ᡠᠰᡞᠰᠠ	NOUN	_	_	0	root	_	Translit=usisa
+6	ᠪᡞᡥᡝ	ᠪᡞᠮᠪᡞ	AUX	_	Tense=Past	5	aux	_	Translit=bihe
+7	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_76
 # text = ᡝᠮᡠ ᠨᡞᠶᠠᠯᠮᠠᡞ ᠪᠠᡞᡨᠠ ᠣᠴᡞ , ᡤᡝᠮᡠᠨᡞ ᡪᠠ ᠪᡞᡥᡝ , ᡤᡝᠷᡝᠨ ᠨᡞᠶᠠᠯᠮᠠᡞ ᠪᠠᡞᡨᠠ ᠣᡫᡞ , ᡞᠴᡞᡥᡞᠶᠠᠷᠠ ᡩᡝ ᡪᠠᠴᡞ ᠮᠠᡢᡤᠠ 。
-# text[tran] = emu niyalmai baita oci, gemuni ja bihe, geren niyalmai baita ofi, icihiyara de jaci mangga
-# text[eng] = If it is an individuals business, it is easy, because it is everyones business, so it is difficult to do
-1	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-2	ᠨᡞᠶᠠᠯᠮᠠᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-4	ᠣᠴᡞ	_	_	_	_	_	_	_	Translit=
-5	,	_	_	_	_	_	_	_	Translit=
-6	ᡤᡝᠮᡠᠨᡞ	_	_	_	_	_	_	_	Translit=
-7	ᡪᠠ	_	_	_	_	_	_	_	Translit=
-8	ᠪᡞᡥᡝ	_	_	_	_	_	_	_	Translit=
-9	,	_	_	_	_	_	_	_	Translit=
-10	ᡤᡝᠷᡝᠨ	_	_	_	_	_	_	_	Translit=
-11	ᠨᡞᠶᠠᠯᠮᠠᡞ	_	_	_	_	_	_	_	Translit=
-12	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-13	ᠣᡫᡞ	_	_	_	_	_	_	_	Translit=
-14	,	_	_	_	_	_	_	_	Translit=
-15	ᡞᠴᡞᡥᡞᠶᠠᠷᠠ	_	_	_	_	_	_	_	Translit=
-16	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-17	ᡪᠠᠴᡞ	_	_	_	_	_	_	_	Translit=
-18	ᠮᠠᡢᡤᠠ	_	_	_	_	_	_	_	Translit=
-19	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = emu niyalmai baita oci, gemuni ja bihe, geren niyalmai baita ofi, icihiyara de jaci mangga。
+# text[eng] = If it is an individuals business, it is easy, because it is everyones business, so it is difficult to do。
+1	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	2	nummod	_	Translit=emu
+2	ᠨᡞᠶᠠᠯᠮᠠᡞ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	Case=Gen	3	nmod	_	Translit=niyalmai
+3	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	7	advcl	_	Translit=baita
+4	ᠣᠴᡞ	ᠣᠮᠪᡞ	AUX	_	VerbForm=Conv|Mood=Cnd	3	aux	_	Translit=oci
+5	,	,	PUNCT	_	_	3	punct	_	Translit=,
+6	ᡤᡝᠮᡠᠨᡞ	ᡤᡝᠮᡠᠨᡞ	ADV	_	_	7	advmod	_	Translit=gemuni
+7	ᡪᠠ	ᡪᠠ	ADJ	_	_	18	conj	_	Translit=ja
+8	ᠪᡞᡥᡝ	ᠪᡞᠮᠪᡞ	AUX	_	Tense=Past	7	aux	_	Translit=bihe
+9	,	,	PUNCT	_	_	7	punct	_	Translit=,
+10	ᡤᡝᠷᡝᠨ	ᡤᡝᠷᡝᠨ	DET	_	PronType=Dem	11	det	_	Translit=geren
+11	ᠨᡞᠶᠠᠯᠮᠠᡞ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	Case=Gen	12	nmod	_	Translit=niyalmai
+12	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	18	advcl	_	Translit=baita
+13	ᠣᡫᡞ	ᠣᠮᠪᡞ	AUX	_	VerbForm=Conv	12	aux	_	Translit=ofi
+14	,	,	PUNCT	_	_	12	punct	_	Translit=,
+15	ᡞᠴᡞᡥᡞᠶᠠᠷᠠ	ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Vnoun	18	obl	_	Translit=icihiyara
+16	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	15	case	_	Translit=de
+17	ᡪᠠᠴᡞ	ᡪᠠᠴᡞ	ADV	_	_	18	advmod	_	Translit=jaci
+18	ᠮᠠᡢᡤᠠ	ᠮᠠᡢᡤᠠ	ADJ	_	_	0	root	_	Translit=mangga
+19	。	。	PUNCT	_	_	18	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_77
 # text = ᡪᡠᠯᡤᡝᡞ ᡫᠣᠨᡩᡝ , ᡝᠮᡠ ᡨᠣᡣᠰᠣ ᡩᡝ ᡝᠮᡠ ᠰᠠᡞᡣᠠᠨ ᡤᡞᠷᡠ ᠰᠠᠷᡤᠠᠨᡪᡠᡞ ᠪᡞᠮᠪᡞ 。
-# text[tran] = julgei fonde, emu tokso de emu saikan giru sarganjui bimbi
-# text[eng] = Once upon a time, there was a beautiful girl in a village
-1	ᡪᡠᠯᡤᡝᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡫᠣᠨᡩᡝ	_	_	_	_	_	_	_	Translit=
-3	,	_	_	_	_	_	_	_	Translit=
-4	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-5	ᡨᠣᡣᠰᠣ	_	_	_	_	_	_	_	Translit=
-6	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-7	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-8	ᠰᠠᡞᡣᠠᠨ	_	_	_	_	_	_	_	Translit=
-9	ᡤᡞᠷᡠ	_	_	_	_	_	_	_	Translit=
-10	ᠰᠠᠷᡤᠠᠨᡪᡠᡞ	_	_	_	_	_	_	_	Translit=
-11	ᠪᡞᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-12	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = julgei fonde, emu tokso de emu saikan giru sarganjui bimbi.
+# text[eng] = Once upon a time, there was a beautiful girl in a village.
+1	ᡪᡠᠯᡤᡝᡞ	ᡪᡠᠯᡤᡝ	NOUN	_	Case=Gen	2	nmod	_	Translit=julgei
+2	ᡫᠣᠨᡩᡝ	ᡫᠣᠨᡩᡝ	NOUN	_	Case=Dat	10	obl	_	Translit=fonde
+3	,	,	PUNCT	_	_	10	punct	_	Translit=,
+4	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	5	nummod	_	Translit=emu
+5	ᡨᠣᡣᠰᠣ	ᡨᠣᡣᠰᠣ	NOUN	_	_	10	obl	_	Translit=tokso
+6	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	5	case	_	Translit=de
+7	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	10	nummod	_	Translit=emu
+8	ᠰᠠᡞᡣᠠᠨ	ᠰᠠᡞᡣᠠᠨ	ADJ	_	_	9	amod	_	Translit=saikan
+9	ᡤᡞᠷᡠ	ᡤᡞᠷᡠ	NOUN	_	_	10	nmod	_	Translit=giru
+10	ᠰᠠᠷᡤᠠᠨᡪᡠᡞ	ᠰᠠᠷᡤᠠᠨᡪᡠᡞ	NOUN	_	_	0	root	_	Translit=sarganjui
+11	ᠪᡞᠮᠪᡞ	ᠪᡞᠮᠪᡞ	Aux	_	Tense=Pres	10	aux	_	Translit=bimbi
+12	。	。	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_78
 # text = ᠪᠣᡞᡤᠣᠨ ᡨᠣᠮᡝ ᡩᡝᠨᡩᡝᠮᡝ ᠪᡠᡥᡝ ᠮᠣᠷᡞᠨ ᡝᠮᡣᡝ , ᠰᡝᡪᡝᠨ ᡝᠮᡣᡝ , ᡨᡝᠮᡝᠨ ᡝᠮᡣᡝ 。
-# text[tran] = boigon tome dendeme buhe morin emke, sejen emke, temen emke
-# text[eng] = Every household was given a horse, a car and a camel
-1	ᠪᠣᡞᡤᠣᠨ	_	_	_	_	_	_	_	Translit=
-2	ᡨᠣᠮᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡩᡝᠨᡩᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡠᡥᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠮᠣᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
-6	ᡝᠮᡣᡝ	_	_	_	_	_	_	_	Translit=
-7	,	_	_	_	_	_	_	_	Translit=
-8	ᠰᡝᡪᡝᠨ	_	_	_	_	_	_	_	Translit=
-9	ᡝᠮᡣᡝ	_	_	_	_	_	_	_	Translit=
-10	,	_	_	_	_	_	_	_	Translit=
-11	ᡨᡝᠮᡝᠨ	_	_	_	_	_	_	_	Translit=
-12	ᡝᠮᡣᡝ	_	_	_	_	_	_	_	Translit=
-13	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = boigon tome dendeme buhe morin emke, sejen emke, temen emke.
+# text[eng] = Every household was given a horse, a car and a camel.
+1	ᠪᠣᡞᡤᠣᠨ	ᠪᠣᡞᡤᠣᠨ	NOUN	_	_	4	obl	_	Translit=boigon
+2	ᡨᠣᠮᡝ	ᡨᠣᠮᡝ	PRON	_	PronType=Tot	1	amod	_	Translit=tome
+3	ᡩᡝᠨᡩᡝᠮᡝ	ᡩᡝᠨᡩᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	4	advcl	_	Translit=dendeme
+4	ᠪᡠᡥᡝ	ᠪᡠᠮᠪᡞ	VERB	_	Tense=Imp|VerbForm=Vnoun	5	nsubj	_	Translit=buhe
+5	ᠮᠣᠷᡞᠨ	ᠮᠣᠷᡞᠨ	NOUN	_	_	0	root	_	Translit=morin
+6	ᡝᠮᡣᡝ	ᡝᠮᡣᡝ	NUM	_	NumType=Card	5	nmod	_	Translit=emke
+7	,	,	PUNCT	_	_	6	punct	_	Translit=,
+8	ᠰᡝᡪᡝᠨ	ᠰᡝᡪᡝᠨ	NOUN	_	_	5	conj	_	Translit=sejen
+9	ᡝᠮᡣᡝ	ᡝᠮᡣᡝ	NUM	_	NumType=Card	8	nmod	_	Translit=emke
+10	,	,	PUNCT	_	_	9	punct	_	Translit=,
+11	ᡨᡝᠮᡝᠨ	ᡨᡝᠮᡝᠨ	NOUN	_	_	5	conj	_	Translit=temen
+12	ᡝᠮᡣᡝ	ᡝᠮᡣᡝ	NUM	_	NumType=Card	11	nmod	_	Translit=emke
+13	。	。	PUNCT	_	_	12	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_79
-# text = ᡨᡝᠰᡝ ᡩᡝ ᡤᡞᠶᠠᠨ  ᡞ ᡞᠴᡞᡥᡞᠶᠠᠷᠠ ᠪᠠᡞᡨᠠ ᠪᡝ ᡝᠮᡣᡝ ᡝᠮᡣᡝᠨ  ᡞ ᡤᡝᡨᡠᡣᡝᠯᡝᠮᡝ ᠠᡫᠠᠪᡠᡥᠠ 。
-# text[tran] = tese de giyan i icihiyara baita be emke emken i getukeleme afabuha
-# text[eng] = A clear account of what they should do is given
-1	ᡨᡝᠰᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-3	ᡤᡞᠶᠠᠨ	_	_	_	_	_	_	_	Translit=
-4	 ᡞ	_	_	_	_	_	_	_	Translit=
-5	ᡞᠴᡞᡥᡞᠶᠠᠷᠠ	_	_	_	_	_	_	_	Translit=
-6	ᠪᠠᡞᡨᠠ	_	_	_	_	_	_	_	Translit=
-7	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-8	ᡝᠮᡣᡝ	_	_	_	_	_	_	_	Translit=
-9	ᡝᠮᡣᡝᠨ	_	_	_	_	_	_	_	Translit=
-10	 ᡞ	_	_	_	_	_	_	_	Translit=
-11	ᡤᡝᡨᡠᡣᡝᠯᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-12	ᠠᡫᠠᠪᡠᡥᠠ	_	_	_	_	_	_	_	Translit=
-13	。	_	_	_	_	_	_	_	Translit=
+# text = ᡨᡝᠰᡝ ᡩᡝ ᡤᡞᠶᠠᠨ ᡞ ᡞᠴᡞᡥᡞᠶᠠᠷᠠ ᠪᠠᡞᡨᠠ ᠪᡝ ᡝᠮᡣᡝ ᡝᠮᡣᡝᠨ ᡞ ᡤᡝᡨᡠᡣᡝᠯᡝᠮᡝ ᠠᡫᠠᠪᡠᡥᠠ 。
+# text[tran] = tese de giyan i icihiyara baita be emke emken i getukeleme afabuha.
+# text[eng] = A clear account of what they should do is given.
+1	ᡨᡝᠰᡝ	ᡨᡝᠰᡝ	PRON	_	Number=Plur|Person=3|PronType=Prs	5	obl	_	Translit=tese
+2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
+3	ᡤᡞᠶᠠᠨ	ᡤᡞᠶᠠᠨ	NOUN	_	_	5	advmod	_	Translit=giyan
+4	ᡞ	ᡞ	ADP	_	Case=Gen	3	case	_	Translit=i
+5	ᡞᠴᡞᡥᡞᠶᠠᠷᠠ	ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	VERB	_	Tense=Imp|VerbForm=Vnoun	6	acl:relcl	_	Translit=icihiyara
+6	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	12	obj	_	Translit=baita
+7	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	6	case	_	Translit=be
+8	ᡝᠮᡣᡝ	ᡝᠮᡣᡝ	NUM	_	NumType=Card	9	compound	_	Translit=emke
+9	ᡝᠮᡣᡝᠨ	ᡝᠮᡣᡝᠨ	NUM	_	NumType=Card	12	advmod	_	Translit=emken
+10	ᡞ	ᡞ	ADP	_	Case=Gen	9	case	_	Translit=i
+11	ᡤᡝᡨᡠᡣᡝᠯᡝᠮᡝ	ᡤᡝᡨᡠᡣᡝᠯᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	12	advcl	_	Translit=getukeleme
+12	ᠠᡫᠠᠪᡠᡥᠠ	ᠠᡫᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=afabuha
+13	。	。	PUNCT	_	_	12	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_80
-# text = ᡝᠮᡣᡝ ᡝᠮᡣᡝᠨ  ᡞ ᡨᡠᠴᡞᠮᡝ ᠶᠠᠪᡠᡥᠠ 。
-# text[tran] = emke emken i tucime yabuha
-# text[eng] = One by one left
-1	ᡝᠮᡣᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡝᠮᡣᡝᠨ	_	_	_	_	_	_	_	Translit=
-3	 ᡞ	_	_	_	_	_	_	_	Translit=
-4	ᡨᡠᠴᡞᠮᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠶᠠᠪᡠᡥᠠ	_	_	_	_	_	_	_	Translit=
-6	。	_	_	_	_	_	_	_	Translit=
+# text = ᡝᠮᡣᡝ ᡝᠮᡣᡝᠨ ᡞ ᡨᡠᠴᡞᠮᡝ ᠶᠠᠪᡠᡥᠠ 。
+# text[tran] = emke emken i tucime yabuha.
+# text[eng] = One by one left.
+1	ᡝᠮᡣᡝ	ᡝᠮᡣᡝ	NUM	_	NumType=Card	2	compound	_	Translit=emke
+2	ᡝᠮᡣᡝᠨ	ᡝᠮᡣᡝᠨ	NUM	_	NumType=Card	5	advmod	_	Translit=emken
+3	ᡞ	ᡞ	ADP	_	Case=Gen	2	case	_	Translit=i
+4	ᡨᡠᠴᡞᠮᡝ	ᡨᡠᠴᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	5	advcl	_	Translit=tucime
+5	ᠶᠠᠪᡠᡥᠠ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=yabuha
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_81
 # text = ᡩᡠᡞᠴᡞ ᠪᡞᠯᡤᠠᠨ ᡤᡠᠪᠴᡞ ᡤᡠᠷᡠᠨ  ᡞ ᡣᠠᡨᡠᠷᡝᠪᡠᠨ ᡞᠰᠠᠷᡞᠨ ᡩᡝ , ᡤᡠᠮᡝᡞᡪᡝᠨ ᡰᡠᡤᡠᠸᠠᡢ ᠨᡞᠷᡠ ᠪᡝᠷᡞ ᡤᠠᠪᡨᠠᠷᠠ ᠮᡝᡣᡨᡝᠨ ᡩᡝ ᡠᡪᡠ ᡤᠠᡞᡥᠠ 。
-# text[tran] = duici bilaga gubci gurun i katurebun isarin de, gumeijen rruguwang niru beri gebtara mekten de uju geiha
-# text[eng] = At the fourth National Games, Guo Meizhen and Ru Guang won the first prize in shooting
-1	ᡩᡠᡞᠴᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠪᡞᠯᡤᠠᠨ	_	_	_	_	_	_	_	Translit=
-3	ᡤᡠᠪᠴᡞ	_	_	_	_	_	_	_	Translit=
-4	ᡤᡠᠷᡠᠨ	_	_	_	_	_	_	_	Translit=
-5	 ᡞ	_	_	_	_	_	_	_	Translit=
-6	ᡣᠠᡨᡠᠷᡝᠪᡠᠨ	_	_	_	_	_	_	_	Translit=
-7	ᡞᠰᠠᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
-8	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-9	,	_	_	_	_	_	_	_	Translit=
-10	ᡤᡠᠮᡝᡞᡪᡝᠨ	_	_	_	_	_	_	_	Translit=
-11	ᡰᡠᡤᡠᠸᠠᡢ	_	_	_	_	_	_	_	Translit=
-12	ᠨᡞᠷᡠ	_	_	_	_	_	_	_	Translit=
-13	ᠪᡝᠷᡞ	_	_	_	_	_	_	_	Translit=
-14	ᡤᠠᠪᡨᠠᠷᠠ	_	_	_	_	_	_	_	Translit=
-15	ᠮᡝᡣᡨᡝᠨ	_	_	_	_	_	_	_	Translit=
-16	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-17	ᡠᡪᡠ	_	_	_	_	_	_	_	Translit=
-18	ᡤᠠᡞᡥᠠ	_	_	_	_	_	_	_	Translit=
-19	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = duici bilgan gubci gurun i katurebun isarin de, gumeijen rruguwang niru beri gabtara mekten de uju gaiha.
+# text[eng] = At the fourth National Games, Guo Meizhen and Ru Guang won the first prize in shooting.
+1	ᡩᡠᡞᠴᡞ	ᡩᡠᡞᠴᡞ	NUM	_	NumType=Ord	2	nummod	_	Translit=duici
+2	ᠪᡞᠯᡤᠠᠨ	ᠪᡞᠯᡤᠠᠨ	NOUN	_	_	7	nmod	_	Translit=bilgan
+3	ᡤᡠᠪᠴᡞ	ᡤᡠᠪᠴᡞ	ADJ	_	_	4	amod	_	Translit=gubci
+4	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	7	nmod	_	Translit=gurun
+5	ᡞ	ᡞ	ADP	_	Case=Gen	4	case	_	Translit=i
+6	ᡣᠠᡨᡠᠷᡝᠪᡠᠨ	ᡣᠠᡨᡠᠷᡝᠪᡠᠨ	NOUN	_	_	7	nmod	_	Translit=katurebun
+7	ᡞᠰᠠᠷᡞᠨ	ᡞᠰᠠᠷᡞᠨ	NOUN	_	_	18	obl	_	Translit=isarin
+8	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	7	case	_	Translit=de
+9	,	,	PUNCT	_	_	7	punct	_	Translit=,
+10	ᡤᡠᠮᡝᡞᡪᡝᠨ	ᡤᡠᠮᡝᡞᡪᡝᠨ	PROPN	_	_	18	nsubj	_	Translit=gumeijen
+11	ᡰᡠᡤᡠᠸᠠᡢ	ᡰᡠᡤᡠᠸᠠᡢ	PROPN	_	_	10	conj	_	Translit=rruguwang
+12	ᠨᡞᠷᡠ	ᠨᡞᠷᡠ	NOUN	_	_	13	compound	_	Translit=niru
+13	ᠪᡝᠷᡞ	ᠪᡝᠷᡞ	NOUN	_	_	14	obj	_	Translit=beri
+14	ᡤᠠᠪᡨᠠᠷᠠ	ᡤᠠᠪᡨᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Vnoun	15	nmod	_	Translit=gabtara
+15	ᠮᡝᡣᡨᡝᠨ	ᠮᡝᡣᡨᡝᠨ	NOUN	_	_	18	obl	_	Translit=mekten
+16	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	15	case	_	Translit=de
+17	ᡠᡪᡠ	ᡠᡪᡠ	NOUN	_	_	18	obj	_	Translit=uju
+18	ᡤᠠᡞᡥᠠ	ᡤᠠᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=gaiha
+19	。	。	PUNCT	_	_	18	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_82
 # text = ᠪᡞ ᠪᡝᡞᡪᡞᡢ ᡩᡝ ᡠᡪᡠᡞ ᠮᡠᡩᠠᠨ ᡪᡞᠮᠪᡞ 。
-# text[tran] = bi beijing de ujui muden jimbi
-# text[eng] = It is my first time coming to Beijing
-1	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠪᡝᡞᡪᡞᡢ	_	_	_	_	_	_	_	Translit=
-3	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡠᡪᡠᡞ	_	_	_	_	_	_	_	Translit=
-5	ᠮᡠᡩᠠᠨ	_	_	_	_	_	_	_	Translit=
-6	ᡪᡞᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-7	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = bi beijing de ujui mudan jimbi.
+# text[eng] = It is my first time coming to Beijing.
+1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Translit=bi
+2	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	6	obl:loc	_	Translit=beijing
+3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
+4	ᡠᡪᡠᡞ	ᡠᡪᡠ	NOUN	_	Case=Gen	5	nmod	_	Translit=ujui
+5	ᠮᡠᡩᠠᠨ	ᠮᡠᡩᠠᠨ	NOUN	_	_	6	obl	_	Translit=mudan
+6	ᡪᡞᠮᠪᡞ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=jimbi
+7	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_83
 # text = ᡨᡝᠷᡝᡞ ᡨᠠᠴᡞᠨ ᡨᡝᠰᡝᡞ ᠪᠠᠨᠰᡝ ᡩᡝ , ᡠᡪᡠ ᠸᠠᡣᠠ ᠣᠴᡞ ᡤᡝᠯᡞ ᡪᠠᡞ ᠣᠮᠪᡞ 。
-# text[tran] = terei tacin tesei banse de, uju waka oci geli jai ombi
-# text[eng] = He ranks first or second in his class
-1	ᡨᡝᠷᡝᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡨᠠᠴᡞᠨ	_	_	_	_	_	_	_	Translit=
-3	ᡨᡝᠰᡝᡞ	_	_	_	_	_	_	_	Translit=
-4	ᠪᠠᠨᠰᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-6	,	_	_	_	_	_	_	_	Translit=
-7	ᡠᡪᡠ	_	_	_	_	_	_	_	Translit=
-8	ᠸᠠᡣᠠ	_	_	_	_	_	_	_	Translit=
-9	ᠣᠴᡞ	_	_	_	_	_	_	_	Translit=
-10	ᡤᡝᠯᡞ	_	_	_	_	_	_	_	Translit=
-11	ᡪᠠᡞ	_	_	_	_	_	_	_	Translit=
-12	ᠣᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-13	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = terei tacin tesei banse de, uju waka oci geli jai ombi.
+# text[eng] = He ranks first or second in his class.
+1	ᡨᡝᠷᡝᡞ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs|Case=Gen	2	amod	_	Translit=terei
+2	ᡨᠠᠴᡞᠨ	ᡨᠠᠴᡞᠨ	NOUN	_	_	11	nsubj	_	Translit=tacin
+3	ᡨᡝᠰᡝᡞ	ᡨᡝᠰᡝ	PRON	_	Number=Plur|Person=3|PronType=Prs|Case=Gen	4	amod	_	Translit=tesei
+4	ᠪᠠᠨᠰᡝ	ᠪᠠᠨᠰᡝ	NOUN	_	_	11	obl	_	Translit=banse
+5	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	4	case	_	Translit=de
+6	,	,	PUNCT	_	_	4	punct	_	Translit=,
+7	ᡠᡪᡠ	ᡠᡪᡠ	NOUN	_	_	11	advcl	_	Translit=uju
+8	ᠸᠠᡣᠠ	ᠸᠠᡣᠠ	VERB	_	_	7	cop	_	Translit=waka
+9	ᠣᠴᡞ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Conv|Mood=Cnd	7	aux	_	Translit=oci
+10	ᡤᡝᠯᡞ	ᡤᡝᠯᡞ	ADV	_	_	11	advmod	_	Translit=geli
+11	ᡪᠠᡞ	ᡪᠠᡞ	NUM	_	NumType=Card	0	root	_	Translit=jai
+12	ᠣᠮᠪᡞ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Fin	11	aux	_	Translit=ombi
+13	。	。	PUNCT	_	_	11	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_84
 # text = ᡞᠯᠠᠨᠣᡫᡞ ᠠᡞᠪᡞᡩᡝᠷᡞ ᡪᡞᡥᡝᡠ ?
 # text[tran] = ilanofi aibideri jiheo?
-# text[eng] = Where are you three from
-1	ᡞᠯᠠᠨᠣᡫᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠠᡞᠪᡞᡩᡝᠷᡞ	_	_	_	_	_	_	_	Translit=
-3	ᡪᡞᡥᡝᡠ	_	_	_	_	_	_	_	Translit=
-4	?	_	_	_	_	_	_	_	Translit=
+# text[eng] = Where are you three from?
+1	ᡞᠯᠠᠨᠣᡫᡞ	ᡞᠯᠠᠨᠣᡫᡞ	NUM	_	NumType=Sets	3	nsubj	_	Translit=ilanofi
+2	ᠠᡞᠪᡞᡩᡝᠷᡞ	ᠠᡞᠪᡞ	PRON	_	PronType=Int|Case=Abl	3	obl	_	Translit=aibideri
+3	ᡪᡞᡥᡝᡠ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=jiheo
+4	?	?	PUNCT	_	_	3	punct	_	Translit=?
 
 # sent_id = grammarbook_sjo_p2_85
-# text = ᠰᡠᠸᡝ ᡪᡠᠸᡝᠨᠣᡫᡞ ᠴᡞᠯᠠᠷᡞ ᡝᠷᡩᡝ ᠪᡠᡩᠠᡞ ᠠᠮᠠᠯᠠ , ᠰᡝᡪᡝᠨ ᡩᡝ ᡨᡝᡫᡞ ᡣᡠᠪᡠᠨ ᡨᡠᡢᡤᡞᠶᡝᠮᡝ ᡤᡝᠨᡝ 。
-# text[tran] = suwe juwenofi cilari erde budai amala, sejen de tefi kubun tunggiyeme gene
-# text[eng] = Tomorrow after breakfast, you ten take a car to picking cottons
-1	ᠰᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡪᡠᠸᡝᠨᠣᡫᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠴᡞᠯᠠᠷᡞ	_	_	_	_	_	_	_	Translit=
-4	ᡝᠷᡩᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠪᡠᡩᠠᡞ	_	_	_	_	_	_	_	Translit=
-6	ᠠᠮᠠᠯᠠ	_	_	_	_	_	_	_	Translit=
-7	,	_	_	_	_	_	_	_	Translit=
-8	ᠰᡝᡪᡝᠨ	_	_	_	_	_	_	_	Translit=
-9	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-10	ᡨᡝᡫᡞ	_	_	_	_	_	_	_	Translit=
-11	ᡣᡠᠪᡠᠨ	_	_	_	_	_	_	_	Translit=
-12	ᡨᡠᡢᡤᡞᠶᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-13	ᡤᡝᠨᡝ	_	_	_	_	_	_	_	Translit=
-14	。	_	_	_	_	_	_	_	Translit=
+# text = ᠰᡠᠸᡝ ᡪᡠᠸᡝᠨᠣᡫᡞ ᠴᡞᠮᠠᠷᡞ ᡝᠷᡩᡝ ᠪᡠᡩᠠᡞ ᠠᠮᠠᠯᠠ , ᠰᡝᡪᡝᠨ ᡩᡝ ᡨᡝᡫᡞ ᡣᡠᠪᡠᠨ ᡨᡠᡢᡤᡞᠶᡝᠮᡝ ᡤᡝᠨᡝ 。
+# text[tran] = suwe juwenofi cimari erde budai amala, sejen de tefi kubun tunggiyeme gene.
+# text[eng] = Tomorrow after breakfast, you ten take a car to picking cottons.
+1	ᠰᡠᠸᡝ	ᠰᡠᠸᡝ	PRON	_	Number=Plur|Person=2|PronType=Prs	13	nsubj	_	Translit=suwe
+2	ᡪᡠᠸᡝᠨᠣᡫᡞ	ᡪᡠᠸᡝᠨᠣᡫᡞ	NUM	_	NumType=Sets	1	appos	_	Translit=juwenofi
+3	ᠴᡞᠮᠠᠷᡞ	ᠴᡞᠮᠠᠷᡞ	NOUN	_	_	4	nmod	_	Translit=cimari
+4	ᡝᠷᡩᡝ	ᡝᠷᡩᡝ	NOUN	_	_	5	nmod	_	Translit=erde
+5	ᠪᡠᡩᠠᡞ	ᠪᡠᡩᠠ	NOUN	_	Case=Gen	13	obl	_	Translit=budai
+6	ᠠᠮᠠᠯᠠ	ᠠᠮᠠᠯᠠ	ADP	_	_	5	case	_	Translit=amala
+7	,	,	PUNCT	_	_	5	punct	_	Translit=,
+8	ᠰᡝᡪᡝᠨ	ᠰᡝᡪᡝᠨ	NOUN	_	_	10	obl	_	Translit=sejen
+9	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	8	case	_	Translit=de
+10	ᡨᡝᡫᡞ	ᡨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	13	advcl	_	Translit=tefi
+11	ᡣᡠᠪᡠᠨ	ᡣᡠᠪᡠᠨ	NOUN	_	_	12	obj	_	Translit=kubun
+12	ᡨᡠᡢᡤᡞᠶᡝᠮᡝ	ᡨᡠᡢᡤᡞᠶᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	13	advcl	_	Translit=tunggiyeme
+13	ᡤᡝᠨᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Mood=Imp	0	root	_	Translit=gene
+14	。	。	PUNCT	_	_	13	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_86
 # text = ᡞᠯᠠᠨᠣᡫᡞ ᡝᠮᡠ ᠮᡠᡪᡞᠨ , ᠰᡠᠸᠠᠶᠠᠨ ᠪᠣᡞᡥᠣᠨ ᡞᠨᡠ ᠠᡞᠰᡞᠨ ᠣᠮᠪᡞ 。
-# text[tran] = ilanofi emu mujin, suwayan boihon inu aisin ombi
-# text[eng] = Three people are of one mind, yellow earth can turn to gold
-1	ᡞᠯᠠᠨᠣᡫᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-3	ᠮᡠᡪᡞᠨ	_	_	_	_	_	_	_	Translit=
-4	,	_	_	_	_	_	_	_	Translit=
-5	ᠰᡠᠸᠠᠶᠠᠨ	_	_	_	_	_	_	_	Translit=
-6	ᠪᠣᡞᡥᠣᠨ	_	_	_	_	_	_	_	Translit=
-7	ᡞᠨᡠ	_	_	_	_	_	_	_	Translit=
-8	ᠠᡞᠰᡞᠨ	_	_	_	_	_	_	_	Translit=
-9	ᠣᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-10	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = ilanofi emu mujin, suwayan boihon inu aisin ombi.
+# text[eng] = Three people are of one mind, yellow earth can turn to gold.
+1	ᡞᠯᠠᠨᠣᡫᡞ	ᡞᠯᠠᠨᠣᡫᡞ	NUM	_	NumType=Sets	3	nsubj	_	Translit=ilanofi
+2	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	3	nummod	_	Translit=emu
+3	ᠮᡠᡪᡞᠨ	ᠮᡠᡪᡞᠨ	NOUN	_	_	8	advcl	_	Translit=mujin
+4	,	,	PUNCT	_	_	3	punct	_	Translit=,
+5	ᠰᡠᠸᠠᠶᠠᠨ	ᠰᡠᠸᠠᠶᠠᠨ	ADJ	_	_	6	amod	_	Translit=suwayan
+6	ᠪᠣᡞᡥᠣᠨ	ᠪᠣᡞᡥᠣᠨ	NOUN	_	_	8	nsubj	_	Translit=boihon
+7	ᡞᠨᡠ	ᡞᠨᡠ	ADV	_	_	8	advmod	_	Translit=inu
+8	ᠠᡞᠰᡞᠨ	ᠠᡞᠰᡞᠨ	NOUN	_	_	0	root	_	Translit=aisin
+9	ᠣᠮᠪᡞ	ᠣᠮᠪᡞ	AUX	_	Tense=Pres|VerbForm=Fin	8	aux	_	Translit=ombi
+10	。	。	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_87
 # text = ᠠᡣᡩᠠᠴᡠᠨ ᠮᡠᡪᡞᠯᡝᠨ ᡨᠠᡢᡤᡡ ᡠᠪᡠ ᠪᡞᠮᡝ ᡨᡠᡧᠠᠨᡠᠨ ᠪᡝ ᠠᠯᡞᠮᡝ ᡤᠠᡞᠮᠪᡞ 。
-# text[tran] = akdacun mujilen tanggv ubu bime tušanun be alime gaimbi
-# text[eng] = Confidently accept the tasks
-1	ᠠᡣᡩᠠᠴᡠᠨ	_	_	_	_	_	_	_	Translit=
-2	ᠮᡠᡪᡞᠯᡝᠨ	_	_	_	_	_	_	_	Translit=
-3	ᡨᠠᡢᡤᡡ	_	_	_	_	_	_	_	Translit=
-4	ᡠᠪᡠ	_	_	_	_	_	_	_	Translit=
-5	ᠪᡞᠮᡝ	_	_	_	_	_	_	_	Translit=
-6	ᡨᡠᡧᠠᠨᡠᠨ	_	_	_	_	_	_	_	Translit=
-7	ᠪᡝ	_	_	_	_	_	_	_	Translit=
-8	ᠠᠯᡞᠮᡝ	_	_	_	_	_	_	_	Translit=
-9	ᡤᠠᡞᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-10	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = akdacun mujilen tanggv ubu bime tušanun be alime gaimbi.
+# text[eng] = Confidently accept the tasks.
+1	ᠠᡣᡩᠠᠴᡠᠨ	ᠠᡣᡩᠠᠴᡠᠨ	NOUN	_	_	2	nmod	_	Translit=akdacun
+2	ᠮᡠᡪᡞᠯᡝᠨ	ᠮᡠᡪᡞᠯᡝᠨ	NOUN	_	_	4	nsubj	_	Translit=mujilen
+3	ᡨᠠᡢᡤᡡ	ᡨᠠᡢᡤᡡ	NUM	_	NumType=Card	4	nummod	_	Translit=tanggv
+4	ᡠᠪᡠ	ᡠᠪᡠ	NOUN	_	_	9	advcl	_	Translit=ubu
+5	ᠪᡞᠮᡝ	ᠪᡞᠮᠪᡞ	AUX	_	Tense=Pres|VerbType=Conv	4	aux	_	Translit=bime
+6	ᡨᡠᡧᠠᠨᡠᠨ	ᡨᡠᡧᠠᠨᡠᠨ	NOUN	_	_	9	obj	_	Translit=tušanun
+7	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	6	case	_	Translit=be
+8	ᠠᠯᡞᠮᡝ	ᠠᠯᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	9	advcl	_	Translit=alime
+9	ᡤᠠᡞᠮᠪᡞ	ᡤᠠᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=gaimbi
+10	。	。	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_88
 # text = ᡨᡝᠷᡝ ᡨᠠᠴᡞᠨ ᠰᠠᠷᠠᠰᡠ ᡝᠷᡩᡝᠮᡠ ᠮᡠᡨᡝᠨ ᠮᡞᠨᠴᡞ ᡪᡠᠸᠠᠨ ᡠᠪᡠ ᡫᡠᠯᡠ 。
-# text[tran] = tere tacin sarasu erdemu muten minci juwan ubu fulu
-# text[eng] = His intellectual virtue is ten times better than mine
-1	ᡨᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡨᠠᠴᡞᠨ	_	_	_	_	_	_	_	Translit=
-3	ᠰᠠᠷᠠᠰᡠ	_	_	_	_	_	_	_	Translit=
-4	ᡝᠷᡩᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-5	ᠮᡠᡨᡝᠨ	_	_	_	_	_	_	_	Translit=
-6	ᠮᡞᠨᠴᡞ	_	_	_	_	_	_	_	Translit=
-7	ᡪᡠᠸᠠᠨ	_	_	_	_	_	_	_	Translit=
-8	ᡠᠪᡠ	_	_	_	_	_	_	_	Translit=
-9	ᡫᡠᠯᡠ	_	_	_	_	_	_	_	Translit=
-10	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tere tacin sarasu erdemu muten minci juwan ubu fulu.
+# text[eng] = His intellectual virtue is ten times better than mine.
+1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Translit=tere
+2	ᡨᠠᠴᡞᠨ	ᡨᠠᠴᡞᠨ	NOUN	_	_	3	nmod	_	Translit=tacin
+3	ᠰᠠᠷᠠᠰᡠ	ᠰᠠᠷᠠᠰᡠ	NOUN	_	_	9	obl	_	Translit=sarasu
+4	ᡝᠷᡩᡝᠮᡠ	ᡝᠷᡩᡝᠮᡠ	NOUN	_	_	5	nmod	_	Translit=erdemu
+5	ᠮᡠᡨᡝᠨ	ᠮᡠᡨᡝᠨ	NOUN	_	_	3	conj	_	Translit=muten
+6	ᠮᡞᠨᠴᡞ	ᠮᡞᠨᠴᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Case=Cmp	9	obl	_	Translit=minci
+7	ᡪᡠᠸᠠᠨ	ᡪᡠᠸᠠᠨ	NUM	_	NumType=Card	8	nummod	_	Translit=juwan
+8	ᡠᠪᡠ	ᡠᠪᡠ	NOUN	_	_	9	obl	_	Translit=ubu
+9	ᡫᡠᠯᡠ	ᡫᡠᠯᡠ	ADJ	_	_	0	root	_	Translit=fulu
+10	。	。	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_89
 # text = ᡞᠯᠠᠨ ᡠᠪᡠ ᠨᡞᠶᠠᠯᠮᠠ ᡩᡝ ᠠᡩᠠᠯᡞᡧᠠᠮᠪᡞ , ᠨᠠᡩᠠᠨ ᡠᠪᡠ ᡥᡠᡨᡠ ᡩᡝ ᠠᡩᠠᠯᡞᡧᠠᠮᠪᡞ 。
-# text[tran] = ilan ubu niyalma de adališambi, nadan ubu hutu de adališambi
-# text[eng] = Thirty percent like a human, seventy percent like a ghost
-1	ᡞᠯᠠᠨ	_	_	_	_	_	_	_	Translit=
-2	ᡠᠪᡠ	_	_	_	_	_	_	_	Translit=
-3	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
-4	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠠᡩᠠᠯᡞᡧᠠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-6	,	_	_	_	_	_	_	_	Translit=
-7	ᠨᠠᡩᠠᠨ	_	_	_	_	_	_	_	Translit=
-8	ᡠᠪᡠ	_	_	_	_	_	_	_	Translit=
-9	ᡥᡠᡨᡠ	_	_	_	_	_	_	_	Translit=
-10	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-11	ᠠᡩᠠᠯᡞᡧᠠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-12	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = ilan ubu niyalma de adališambi, nadan ubu hutu de adališambi.
+# text[eng] = Thirty percent like a human, seventy percent like a ghost.
+1	ᡞᠯᠠᠨ	ᡞᠯᠠᠨ	NUM	_	NumType=Card	2	nummod	_	Translit=ilan
+2	ᡠᠪᡠ	ᡠᠪᡠ	NOUN	_	_	5	nsubj	_	Translit=ubu
+3	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	5	obl	_	Translit=niyalma
+4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
+5	ᠠᡩᠠᠯᡞᡧᠠᠮᠪᡞ	ᠠᡩᠠᠯᡞᡧᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=adališambi
+6	,	,	PUNCT	_	_	5	punct	_	Translit=,
+7	ᠨᠠᡩᠠᠨ	ᠨᠠᡩᠠᠨ	NUM	_	NumType=Card	8	nummod	_	Translit=nadan
+8	ᡠᠪᡠ	ᡠᠪᡠ	NOUN	_	_	11	nsubj	_	Translit=ubu
+9	ᡥᡠᡨᡠ	ᡥᡠᡨᡠ	NOUN	_	_	11	obl	_	Translit=hutu
+10	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	9	case	_	Translit=de
+11	ᠠᡩᠠᠯᡞᡧᠠᠮᠪᡞ	ᠠᡩᠠᠯᡞᡧᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	5	conj	_	Translit=adališambi
+12	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_90
-# text = ᡝᠮᡠ ᠠᠮᠪᠠ ᡤᠠᡧᠠᠨ ᡨᠣᡣᠰᠣ ᡩᡝ ᠮᡠᠷᡠᡧᡝᠮᡝ ᡠᡩᡠ ᡨᠠᡢᡤᡡ ᠪᠣᡞᡤᡡᠨ ᠪᡞ 。
-# text[tran] = emu amba gašan tokso de murušeme utu tanggv boigvn bi
-# text[eng] = There are about hundreds of households in a big county
-1	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-2	ᠠᠮᠪᠠ	_	_	_	_	_	_	_	Translit=
-3	ᡤᠠᡧᠠᠨ	_	_	_	_	_	_	_	Translit=
-4	ᡨᠣᡣᠰᠣ	_	_	_	_	_	_	_	Translit=
-5	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-6	ᠮᡠᠷᡠᡧᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-7	ᡠᡩᡠ	_	_	_	_	_	_	_	Translit=
-8	ᡨᠠᡢᡤᡡ	_	_	_	_	_	_	_	Translit=
-9	ᠪᠣᡞᡤᡡᠨ	_	_	_	_	_	_	_	Translit=
-10	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-11	。	_	_	_	_	_	_	_	Translit=
+# text = ᡝᠮᡠ ᠠᠮᠪᠠ ᡤᠠᡧᠠᠨ ᡨᠣᡣᠰᠣ ᡩᡝ ᠮᡠᠷᡠᡧᡝᠮᡝ ᡠᡩᡠ ᡨᠠᡢᡤᡡ ᠪᠣᡞᡤᠣᠨ ᠪᡞ 。
+# text[tran] = emu amba gašan tokso de murušeme udu tanggv boigon bi.
+# text[eng] = There are about hundreds of households in a big county.
+1	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	4	nummod	_	Translit=emu
+2	ᠠᠮᠪᠠ	ᠠᠮᠪᠠ	ADJ	_	_	4	amod	_	Translit=amba
+3	ᡤᠠᡧᠠᠨ	ᡤᠠᡧᠠᠨ	NOUN	_	_	4	nmod	_	Translit=gašan
+4	ᡨᠣᡣᠰᠣ	ᡨᠣᡣᠰᠣ	NOUN	_	_	10	obl	_	Translit=tokso
+5	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	4	case	_	Translit=de
+6	ᠮᡠᠷᡠᡧᡝᠮᡝ	ᠮᡠᠷᡠᡧᡝᠮᡝ	ADV	_	_	7	advmod	_	Translit=murušeme
+7	ᡠᡩᡠ	ᡠᡩᡠ	NOUN	_	_	9	nmod	_	Translit=udu
+8	ᡨᠠᡢᡤᡡ	ᡨᠠᡢᡤᡡ	NUM	_	NumType=Card	7	nummod	_	Translit=tanggv
+9	ᠪᠣᡞᡤᠣᠨ	ᠪᠣᡞᡤᠣᠨ	NOUN	_	_	10	obj	_	Translit=boigon
+10	ᠪᡞ	ᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=bi
+11	。	。	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_91
 # text = ᠮᡞᠨᡞ ᡝᠶᡠᠨ ᠪᠣᡠ ᡩᡝ ᠰᡠᠰᠠᡞ ᡫᡠᠨᠴᡝᠷᡝ ᠴᠣᡣᠣ ᠨᡞᠶᡝᡥᡝ ᠪᡞ , ᡥᠣᠨᡞᠨ ᠨᡞᠨᡪᡠ ᡩᡝ ᡥᠠᠮᡞᠮᠪᡞ , ᡞᡥᠠᠨ ᡞᠨᡠ ᠣᠷᡞᠨ ᡩᡝ ᡞᠰᡞᠮᠪᡞ 。
-# text[tran] = mini eyun boo de susai funcere coko niyehe bi, honin ninju de hamimbi, inha inu orin de isimbi
-# text[eng] = My sister has more than fifty chicken and ducks, almost 60 sheep and almost 20 cows
-1	ᠮᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡝᠶᡠᠨ	_	_	_	_	_	_	_	Translit=
-3	ᠪᠣᡠ	_	_	_	_	_	_	_	Translit=
-4	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-5	ᠰᡠᠰᠠᡞ	_	_	_	_	_	_	_	Translit=
-6	ᡫᡠᠨᠴᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-7	ᠴᠣᡣᠣ	_	_	_	_	_	_	_	Translit=
-8	ᠨᡞᠶᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
-9	ᠪᡞ	_	_	_	_	_	_	_	Translit=
-10	,	_	_	_	_	_	_	_	Translit=
-11	ᡥᠣᠨᡞᠨ	_	_	_	_	_	_	_	Translit=
-12	ᠨᡞᠨᡪᡠ	_	_	_	_	_	_	_	Translit=
-13	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-14	ᡥᠠᠮᡞᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-15	,	_	_	_	_	_	_	_	Translit=
-16	ᡞᡥᠠᠨ	_	_	_	_	_	_	_	Translit=
-17	ᡞᠨᡠ	_	_	_	_	_	_	_	Translit=
-18	ᠣᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
-19	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-20	ᡞᠰᡞᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-21	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = mini eyun boo de susai funcere coko niyehe bi, honin ninju de hamimbi, ihan inu orin de isimbi.
+# text[eng] = My sister has more than fifty chicken and ducks, almost 60 sheep and almost 20 cows.
+1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	2	amod	_	Translit=mini
+2	ᡝᠶᡠᠨ	ᡝᠶᡠᠨ	NOUN	_	_	3	nmod	_	Translit=eyun
+3	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	9	obl	_	Translit=boo
+4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
+5	ᠰᡠᠰᠠᡞ	ᠰᡠᠰᠠᡞ	NUM	_	NumType=Card	6	nummod	_	Translit=susai
+6	ᡫᡠᠨᠴᡝᠷᡝ	ᡫᡠᠨᠴᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Vnoun	7	acl:relcl	_	Translit=funcere
+7	ᠴᠣᡣᠣ	ᠴᠣᡣᠣ	NOUN	_	_	9	obj	_	Translit=coko
+8	ᠨᡞᠶᡝᡥᡝ	ᠨᡞᠶᡝᡥᡝ	NOUN	_	_	7	conj	_	Translit=niyehe
+9	ᠪᡞ	ᠪᡞ	VERB	_	VerbForm=Fin	0	root	_	Translit=bi
+10	,	,	PUNCT	_	_	9	punct	_	Translit=,
+11	ᡥᠣᠨᡞᠨ	ᡥᠣᠨᡞᠨ	NOUN	_	_	14	obl	_	Translit=honin
+12	ᠨᡞᠨᡪᡠ	ᠨᡞᠨᡪᡠ	NUM	_	NumType=Card	11	nummod	_	Translit=ninju
+13	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	11	case	_	Translit=de
+14	ᡥᠠᠮᡞᠮᠪᡞ	ᡥᠠᠮᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	9	conj	_	Translit=hamimbi
+15	,	,	PUNCT	_	_	14	punct	_	Translit=,
+16	ᡞᡥᠠᠨ	ᡞᡥᠠᠨ	NOUN	_	_	20	obl	_	Translit=ihan
+17	ᡞᠨᡠ	ᡞᠨᡠ	ADV	_	_	16	advmod	_	Translit=inu
+18	ᠣᠷᡞᠨ	ᠣᠷᡞᠨ	NUM	_	NumType=Card	16	nummod	_	Translit=orin
+19	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	16	case	_	Translit=de
+20	ᡞᠰᡞᠮᠪᡞ	ᡞᠰᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	14	conj	_	Translit=isimbi
+21	。	。	PUNCT	_	_	20	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_92
-# text = ᠨᡝ ᡩᡞᠶᠠᠨ ᠨᠠᡠ  ᡞ ᡥᡡᡩᠠ ᠠᠮᠪᠠ ᠮᡠᠷᡠ ᡞᠯᠠᠨ ᡩᡠᡞᠨ ᠮᡞᡢᡤᠠᠨ ᠶᡠᠸᠠᠨ ᡧᡠᠷᡩᡝᠮᡝ ᡞᠰᡞᠮᠪᡞ 。
-# text[tran] = ne diyan nao i hvda amba muru ilan duin mingga juwan šurdeme isimbi
-# text[eng] = The price of a computer now is about three or four thousand yuan
-1	ᠨᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡩᡞᠶᠠᠨ	_	_	_	_	_	_	_	Translit=
-3	ᠨᠠᡠ	_	_	_	_	_	_	_	Translit=
-4	 ᡞ	_	_	_	_	_	_	_	Translit=
-5	ᡥᡡᡩᠠ	_	_	_	_	_	_	_	Translit=
-6	ᠠᠮᠪᠠ	_	_	_	_	_	_	_	Translit=
-7	ᠮᡠᠷᡠ	_	_	_	_	_	_	_	Translit=
-8	ᡞᠯᠠᠨ	_	_	_	_	_	_	_	Translit=
-9	ᡩᡠᡞᠨ	_	_	_	_	_	_	_	Translit=
-10	ᠮᡞᡢᡤᠠᠨ	_	_	_	_	_	_	_	Translit=
-11	ᠶᡠᠸᠠᠨ	_	_	_	_	_	_	_	Translit=
-12	ᡧᡠᠷᡩᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-13	ᡞᠰᡞᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-14	。	_	_	_	_	_	_	_	Translit=
+# text = ᠨᡝ ᡩᡞᠶᠠᠨ ᠨᠠᡠ ᡞ ᡥᡡᡩᠠ ᠠᠮᠪᠠ ᠮᡠᠷᡠ ᡞᠯᠠᠨ ᡩᡠᡞᠨ ᠮᡞᡢᡤᠠᠨ ᠶᡠᠸᠠᠨ ᡧᡠᠷᡩᡝᠮᡝ ᡞᠰᡞᠮᠪᡞ 。
+# text[tran] = ne diyan nao i hvda amba muru ilan duin minggan yuwan šurdeme isimbi.
+# text[eng] = The price of a computer now is about three or four thousand yuan.
+1	ᠨᡝ	ᠨᡝ	NOUN	_	_	13	obl	_	Translit=ne
+2	ᡩᡞᠶᠠᠨ	ᡩᡞᠶᠠᠨ	NOUN	_	_	5	nmod	_	Translit=diyan
+3	ᠨᠠᡠ	ᠨᠠᡠ	NOUN	_	_	2	fixed	_	Translit=nao
+4	ᡞ	ᡞ	ADP	_	Case=Gen	2	case	_	Translit=i
+5	ᡥᡡᡩᠠ	ᡥᡡᡩᠠ	NOUN	_	_	13	nsubj	_	Translit=hvda
+6	ᠠᠮᠪᠠ	ᠠᠮᠪᠠ	ADJ	_	_	10	advmod	_	Translit=amba
+7	ᠮᡠᠷᡠ	ᠮᡠᠷᡠ	NOUN	_	_	6	fixed	_	Translit=muru
+8	ᡞᠯᠠᠨ	ᡞᠯᠠᠨ	NUM	_	NumType=Card	10	nummod	_	Translit=ilan
+9	ᡩᡠᡞᠨ	ᡩᡠᡞᠨ	NUM	_	NumType=Card	10	nummod	_	Translit=duin
+10	ᠮᡞᡢᡤᠠᠨ	ᠮᡞᡢᡤᠠᠨ	NUM	_	NumType=Card	11	nummod	_	Translit=minggan
+11	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	NOUN	_	_	13	obj	_	Translit=yuwan
+12	ᡧᡠᠷᡩᡝᠮᡝ	ᡧᡠᠷᡩᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbType=Conv	13	advcl	_	Translit=šurdeme
+13	ᡞᠰᡞᠮᠪᡞ	ᡞᠰᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbType=Fin	0	root	_	Translit=isimbi
+14	。	。	PUNCT	_	_	13	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_93
 # text = ᠮᡝᠨᡞ ᡪᡠᠸᡝ ᠨᡞᠶᠠᠯᠮᠠᡞ ᠪᡞᠶᠠ ᡨᠣᠮᡝ ᠪᠠᡥᠠᠷᠠ ᠴᠠᠯᡞᠶᠠᠨ ᠪᠠᠨᡪᡞᠨ ᡩᡝ ᡨᡝᠰᡠᠮᠪᡞ 。
-# text[tran] = mini juwe niyalmai biya tome bahara caliyan banjin de tesumbi
-# text[eng] = Our monthly salaries are enough for living expenses
-1	ᠮᡝᠨᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡪᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠨᡞᠶᠠᠯᠮᠠᡞ	_	_	_	_	_	_	_	Translit=
-4	ᠪᡞᠶᠠ	_	_	_	_	_	_	_	Translit=
-5	ᡨᠣᠮᡝ	_	_	_	_	_	_	_	Translit=
-6	ᠪᠠᡥᠠᠷᠠ	_	_	_	_	_	_	_	Translit=
-7	ᠴᠠᠯᡞᠶᠠᠨ	_	_	_	_	_	_	_	Translit=
-8	ᠪᠠᠨᡪᡞᠨ	_	_	_	_	_	_	_	Translit=
-9	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-10	ᡨᡝᠰᡠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-11	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = mini juwe niyalmai biya tome bahara caliyan banjin de tesumbi.
+# text[eng] = Our monthly salaries are enough for living expenses.
+1	ᠮᡝᠨᡞ	ᠮᡝᠨᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs|Poss=Yes	2	amod	_	Translit=mini
+2	ᡪᡠᠸᡝ	ᡪᡠᠸᡝ	NUM	_	NumType=Card	3	nummod	_	Translit=juwe
+3	ᠨᡞᠶᠠᠯᠮᠠᡞ	ᠨᡞᠶᠠᠯᠠᠮ	NOUN	_	Case=Gen	4	nmod	_	Translit=niyalmai
+4	ᠪᡞᠶᠠ	ᠪᡞᠶᠠ	NOUN	_	_	6	obj	_	Translit=biya
+5	ᡨᠣᠮᡝ	ᡨᠣᠮᡝ	ADP	_	_	4	case	_	Translit=tome
+6	ᠪᠠᡥᠠᠷᠠ	ᠪᠠᡥᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Vnoun	7	acl:relcl	_	Translit=bahara
+7	ᠴᠠᠯᡞᠶᠠᠨ	ᠴᠠᠯᡞᠶᠠᠨ	NOUN	_	_	10	nsubj	_	Translit=caliyan
+8	ᠪᠠᠨᡪᡞᠨ	ᠪᠠᠨᡪᡞᠨ	NOUN	_	_	10	obl	_	Translit=banjin
+9	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	8	case	_	Translit=de
+10	ᡨᡝᠰᡠᠮᠪᡞ	ᡨᡝᠰᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=tesumbi
+11	。	。	PUNCT	_	_	10	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_94
-# text = ᠠᠪᡣᠠᡞ ᠸᡝᡥᡞᠶᡝᡥᡝ  ᡞ ᠣᠷᡞᠨ ᡠᠶᡠᠴᡞ ᠠᠨᡞᠶᠠ ᡩᡠᡞᠨ ᠪᡞᠶᠠᡞ ᡪᡠᠸᠠᠨ ᡪᠠᡞ ᡪᡠᠸᠠᠨ ᡠᠶᡠᠨ ᡩᡝ , ᡞᠯᠠᠨ ᡫᡠᠨᠴᡝᠷᡝ ᠰᡞᠪᡝ ᡠᡣᠰᡠᠷᠠᡞ ᠴᠣᡠᡥᠠ ᡞᠷᡤᡝᠨ ᡥᡝᠰᡝᡞ ᠮᡠᡣᡨᡝᠨ ᡩᡝᠷᡞ ᡞᠯᡞ ᠴᡞ ᡤᡠᠷᡞᠨᡪᡞᡥᡝ 。
-# text[tran] = abkai wehiyehe i orin uyuci aniya duin biyai juwan jai juwan uyun de, ilan funcere sibe uksurai cooha irgen hesei mukten deri ili ci gurinjihe
-# text[eng] = On April 10 and 19, Qianlong 29 Years, more than 3000 Xibe soldiers and civilians were ordered to migrate from Shenyang to Ili
-1	ᠠᠪᡣᠠᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠸᡝᡥᡞᠶᡝᡥᡝ	_	_	_	_	_	_	_	Translit=
-3	 ᡞ	_	_	_	_	_	_	_	Translit=
-4	ᠣᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
-5	ᡠᠶᡠᠴᡞ	_	_	_	_	_	_	_	Translit=
-6	ᠠᠨᡞᠶᠠ	_	_	_	_	_	_	_	Translit=
-7	ᡩᡠᡞᠨ	_	_	_	_	_	_	_	Translit=
-8	ᠪᡞᠶᠠᡞ	_	_	_	_	_	_	_	Translit=
-9	ᡪᡠᠸᠠᠨ	_	_	_	_	_	_	_	Translit=
-10	ᡪᠠᡞ	_	_	_	_	_	_	_	Translit=
-11	ᡪᡠᠸᠠᠨ	_	_	_	_	_	_	_	Translit=
-12	ᡠᠶᡠᠨ	_	_	_	_	_	_	_	Translit=
-13	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-14	,	_	_	_	_	_	_	_	Translit=
-15	ᡞᠯᠠᠨ	_	_	_	_	_	_	_	Translit=
-16	ᡫᡠᠨᠴᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-17	ᠰᡞᠪᡝ	_	_	_	_	_	_	_	Translit=
-18	ᡠᡣᠰᡠᠷᠠᡞ	_	_	_	_	_	_	_	Translit=
-19	ᠴᠣᡠᡥᠠ	_	_	_	_	_	_	_	Translit=
-20	ᡞᠷᡤᡝᠨ	_	_	_	_	_	_	_	Translit=
-21	ᡥᡝᠰᡝᡞ	_	_	_	_	_	_	_	Translit=
-22	ᠮᡠᡣᡨᡝᠨ	_	_	_	_	_	_	_	Translit=
-23	ᡩᡝᠷᡞ	_	_	_	_	_	_	_	Translit=
-24	ᡞᠯᡞ	_	_	_	_	_	_	_	Translit=
-25	ᠴᡞ	_	_	_	_	_	_	_	Translit=
-26	ᡤᡠᠷᡞᠨᡪᡞᡥᡝ	_	_	_	_	_	_	_	Translit=
-27	。	_	_	_	_	_	_	_	Translit=
+# text = ᠠᠪᡣᠠᡞ ᠸᡝᡥᡞᠶᡝᡥᡝ ᡞ ᠣᠷᡞᠨ ᡠᠶᡠᠴᡞ ᠠᠨᡞᠶᠠ ᡩᡠᡞᠨ ᠪᡞᠶᠠᡞ ᡪᡠᠸᠠᠨ ᡪᠠᡞ ᡪᡠᠸᠠᠨ ᡠᠶᡠᠨ ᡩᡝ , ᡞᠯᠠᠨ ᠮᡞᡢᡤᠠᠨ ᡫᡠᠨᠴᡝᠷᡝ ᠰᡞᠪᡝ ᡠᡣᠰᡠᠷᠠᡞ ᠴᠣᡠᡥᠠ ᡞᠷᡤᡝᠨ ᡥᡝᠰᡝᡞ ᠮᡠᡣᡨᡝᠨ ᡩᡝᠷᡞ ᡞᠯᡞ ᠴᡞ ᡤᡠᠷᡞᠨᡪᡞᡥᡝ 。
+# text[tran] = abkai wehiyehe i orin uyuci aniya duin biyai juwan jai juwan uyun de, ilan minggan funcere sibe uksurai cooha irgen hesei mukden deri ili ci gurinjihe.
+# text[eng] = On April 10 and 19, Qianlong 29 Years, more than 3000 Xibe soldiers and civilians were ordered to migrate from Shenyang to Ili.
+1	ᠠᠪᡣᠠᡞ	ᠠᠪᡣᠠ	NOUN	_	Case=Gen	6	nmod	_	Translit=abkai
+2	ᠸᡝᡥᡞᠶᡝᡥᡝ	ᠸᡝᡥᡞᠶᡝᡥᡝ	NOUN	_	_	1	flat	_	Translit=wehiyehe
+3	ᡞ	ᡞ	ADP	_	Case=Gen	1	case	_	Translit=i
+4	ᠣᠷᡞᠨ	ᠣᠷᡞᠨ	NUM	_	NumType=Card	5	nummod	_	Translit=orin
+5	ᡠᠶᡠᠴᡞ	ᡠᠶᡠᠴᡞ	NUM	_	NumType=Ord	6	nummod	_	Translit=uyuci
+6	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	8	nmod	_	Translit=aniya
+7	ᡩᡠᡞᠨ	ᡩᡠᡞᠨ	NUM	_	NumType=Card	8	nummod	_	Translit=duin
+8	ᠪᡞᠶᠠᡞ	ᠪᡞᠶᠠ	NOUN	_	_	9	nmod	_	Translit=biyai
+9	ᡪᡠᠸᠠᠨ	ᡪᡠᠸᠠᠨ	NUM	_	NumType=Card	27	obl	_	Translit=juwan
+10	ᡪᠠᡞ	ᡪᠠᡞ	CONJ	_	_	12	cc	_	Translit=jai
+11	ᡪᡠᠸᠠᠨ	ᡪᡠᠸᠠᠨ	NUM	_	NumType=Card	12	nummod	_	Translit=juwan
+12	ᡠᠶᡠᠨ	ᡠᠶᡠᠨ	NUM	_	NumType=Card	9	conj	_	Translit=uyun
+13	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	9	case	_	Translit=de
+14	,	,	PUNCT	_	_	9	punct	_	Translit=,
+15	ᡞᠯᠠᠨ	ᡞᠯᠠᠨ	NUM	_	NumType=Card	16	nummod	_	Translit=ilan
+16	ᠮᡞᡢᡤᠠᠨ	ᠮᡞᡢᡤᠠᠨ	NUM	_	NumType=Card	17	obj	_	Translit=minggan
+17	ᡫᡠᠨᠴᡝᠷᡝ	ᡫᡠᠨᠴᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Vnoun	20	acl:relcl	_	Translit=funcere
+18	ᠰᡞᠪᡝ	ᠰᡞᠪᡝ	NOUN	_	_	19	nmod	_	Translit=sibe
+19	ᡠᡣᠰᡠᠷᠠᡞ	ᡠᡣᠰᡠᠷᠠ	NOUN	_	Case=Gen	20	nmod	_	Translit=uksurai
+20	ᠴᠣᡠᡥᠠ	ᠴᠣᡠᡥᠠ	NOUN	_	_	27	nsubj	_	Translit=cooha
+21	ᡞᠷᡤᡝᠨ	ᡞᠷᡤᡝᠨ	NOUN	_	_	20	compound	_	Translit=irgen
+22	ᡥᡝᠰᡝᡞ	ᡥᡝᠰᡝ	NOUN	_	Case=Gen	27	advmod	_	Translit=hesei
+23	ᠮᡠᡣᡨᡝᠨ	ᠮᡠᡣᡨᡝᠨ	PROPN	_	_	27	obl	_	Translit=mukden
+24	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	ADP	_	Case=Lat	23	case	_	Translit=deri
+25	ᡞᠯᡞ	ᡞᠯᡞ	PROPN	_	_	27	obl	_	Translit=ili
+26	ᠴᡞ	ᠴᡞ	ADP	_	Case=Abl	25	case	_	Translit=ci
+27	ᡤᡠᠷᡞᠨᡪᡞᡥᡝ	ᡤᡠᠷᡞᠨᡪᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=gurinjihe
+28	。	。	PUNCT	_	_	27	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_95
 # text = ᡠᡥᡝ ᠰᡠᠴᡠᡢᡤᠠ ᡝᠮᡠ ᠮᡞᡢᡤᠠᠨ ᡠᠶᡠᠨ ᡨᠠᡢᡤᡡ ᡩᡝᡥᡞ ᡠᠶᡠᠴᡞ ᠠᠨᡞᠶᠠ ᡪᡠᠸᠠᠨ ᠪᡞᠶᠠᡞ ᡞᠴᡝ ᡩᡝ ᡪᡠᡢ ᡥᡡᠸᠠ ᠨᡞᠶᠠᠯᠮᠠ ᡞᠷᡤᡝᠨ ᡤᡠᡢ ᡥᡝ ᡤᡠ ᡞᠯᡞᠮᡝ ᡧᠠᡢᡤᠠᡥᠠ 。
-# text[tran] = uhe sucungga emu minggan uyun tanggv dehi uyuci aniya juwan biyai ice de jung hvwa niyalma irgen gung he gu ilime šanggaha
-# text[eng] = The Peoples Republic of China was founded on October, 1, 1949
-1	ᡠᡥᡝ	_	_	_	_	_	_	_	Translit=
-2	ᠰᡠᠴᡠᡢᡤᠠ	_	_	_	_	_	_	_	Translit=
-3	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-4	ᠮᡞᡢᡤᠠᠨ	_	_	_	_	_	_	_	Translit=
-5	ᡠᠶᡠᠨ	_	_	_	_	_	_	_	Translit=
-6	ᡨᠠᡢᡤᡡ	_	_	_	_	_	_	_	Translit=
-7	ᡩᡝᡥᡞ	_	_	_	_	_	_	_	Translit=
-8	ᡠᠶᡠᠴᡞ	_	_	_	_	_	_	_	Translit=
-9	ᠠᠨᡞᠶᠠ	_	_	_	_	_	_	_	Translit=
-10	ᡪᡠᠸᠠᠨ	_	_	_	_	_	_	_	Translit=
-11	ᠪᡞᠶᠠᡞ	_	_	_	_	_	_	_	Translit=
-12	ᡞᠴᡝ	_	_	_	_	_	_	_	Translit=
-13	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-14	ᡪᡠᡢ	_	_	_	_	_	_	_	Translit=
-15	ᡥᡡᠸᠠ	_	_	_	_	_	_	_	Translit=
-16	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
-17	ᡞᠷᡤᡝᠨ	_	_	_	_	_	_	_	Translit=
-18	ᡤᡠᡢ	_	_	_	_	_	_	_	Translit=
-19	ᡥᡝ	_	_	_	_	_	_	_	Translit=
-20	ᡤᡠ	_	_	_	_	_	_	_	Translit=
-21	ᡞᠯᡞᠮᡝ	_	_	_	_	_	_	_	Translit=
-22	ᡧᠠᡢᡤᠠᡥᠠ	_	_	_	_	_	_	_	Translit=
-23	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = uhe sucungga emu minggan uyun tanggv dehi uyuci aniya juwan biyai ice de jung hvwa niyalma irgen gung he gu ilime šanggaha.
+# text[eng] = The Peoples Republic of China was founded on October, 1, 1949.
+1	ᡠᡥᡝ	ᡠᡥᡝ	ADJ	_	_	2	amod	_	Translit=uhe
+2	ᠰᡠᠴᡠᡢᡤᠠ	ᠰᡠᠴᡠᡢᡤᠠ	NOUN	_	_	9	nmod	_	Translit=sucungga
+3	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	4	nummod	_	Translit=emu
+4	ᠮᡞᡢᡤᠠᠨ	ᠮᡞᡢᡤᠠᠨ	NUM	_	NumType=Card	9	nummod	_	Translit=minggan
+5	ᡠᠶᡠᠨ	ᡠᠶᡠᠨ	NUM	_	NumType=Card	6	nummod	_	Translit=uyun
+6	ᡨᠠᡢᡤᡡ	ᡨᠠᡢᡤᡡ	NUM	_	NumType=Card	4	conj	_	Translit=tanggv
+7	ᡩᡝᡥᡞ	ᡩᡝᡥᡞ	NUM	_	NumType=Card	8	nummod	_	Translit=dehi
+8	ᡠᠶᡠᠴᡞ	ᡠᠶᡠᠴᡞ	NUM	_	NumType=Ord	4	conj	_	Translit=uyuci
+9	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	22	obl	_	Translit=aniya
+10	ᡪᡠᠸᠠᠨ	ᡪᡠᠸᠠᠨ	NUM	_	NumType=Card	11	nummod	_	Translit=juwan
+11	ᠪᡞᠶᠠᡞ	ᠪᡞᠶᠠ	NOUN	_	Case=Gen	9	compound	_	Translit=biyai
+12	ᡞᠴᡝ	ᡞᠴᡝ	NOUN	_	_	9	compound	_	Translit=ice
+13	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	9	case	_	Translit=de
+14	ᡪᡠᡢ	ᡪᡠᡢ	X	_	_	16	compound	_	Translit=jung
+15	ᡥᡡᠸᠠ	ᡥᡡᠸᠠ	X	_	_	14	flat	_	Translit=hvwa
+16	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	18	compound	_	Translit=niyalma
+17	ᡞᠷᡤᡝᠨ	ᡞᠷᡤᡝᠨ	NOUN	_	_	16	compound	_	Translit=irgen
+18	ᡤᡠᡢ	ᡤᡠᡢ	X	_	_	22	nsubj	_	Translit=gung
+19	ᡥᡝ	ᡥᡝ	X	_	_	18	flat	_	Translit=he
+20	ᡤᡠ	ᡤᡠ	X	_	_	18	flat	_	Translit=gu
+21	ᡞᠯᡞᠮᡝ	ᡞᠯᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	22	advcl	_	Translit=ilime
+22	ᡧᠠᡢᡤᠠᡥᠠ	ᡧᠠᡢᡤᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=šanggaha
+23	。	。	PUNCT	_	_	22	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_96
 # text = ᡠᡩᡠᡩᡠ ᠮᠠᠷᡞ ᡪᡞᡫᡞ , ᡧᡠᠸᡝ ᠪᠠᡥᠠᡫᡞ ᡩᡝᠷᡝ ᠠᠴᠠᡥᠠᡣᡡ 。
-# text[tran] = ududu mari jifi, šuwe bahafi dere acahakv
-# text[eng] = I came for several times but we never met
-1	ᡠᡩᡠᡩᡠ	_	_	_	_	_	_	_	Translit=
-2	ᠮᠠᠷᡞ	_	_	_	_	_	_	_	Translit=
-3	ᡪᡞᡫᡞ	_	_	_	_	_	_	_	Translit=
-4	,	_	_	_	_	_	_	_	Translit=
-5	ᡧᡠᠸᡝ	_	_	_	_	_	_	_	Translit=
-6	ᠪᠠᡥᠠᡫᡞ	_	_	_	_	_	_	_	Translit=
-7	ᡩᡝᠷᡝ	_	_	_	_	_	_	_	Translit=
-8	ᠠᠴᠠᡥᠠᡣᡡ	_	_	_	_	_	_	_	Translit=
-9	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = ududu mari jifi, šuwe bahafi dere acahakv.
+# text[eng] = I came for several times but we never met.
+1	ᡠᡩᡠᡩᡠ	ᡠᡩᡠᡩᡠ	ADJ	_	_	2	amod	_	Translit=ududu
+2	ᠮᠠᠷᡞ	ᠮᠠᠷᡞ	NOUN	_	_	3	obl	_	Translit=mari
+3	ᡪᡞᡫᡞ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	8	advcl	_	Translit=jifi
+4	,	,	PUNCT	_	_	3	punct	_	Translit=,
+5	ᡧᡠᠸᡝ	ᡧᡠᠸᡝ	ADV	_	_	6	advmod	_	Translit=šuwe
+6	ᠪᠠᡥᠠᡫᡞ	ᠪᠠᡥᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	8	advcl	_	Translit=bahafi
+7	ᡩᡝᠷᡝ	ᡩᡝᠷᡝ	NOUN	_	_	8	obj	_	Translit=dere
+8	ᠠᠴᠠᡥᠠᡣᡡ	ᠠᠴᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin|Polarity=Neg	0	root	_	Translit=acahakv
+9	。	。	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_97
-# text = ᡞᠯᠠᠴᡞ ᠨᡞᠷᡠᡞ ᠠᠮᠪᠠ ᡠᠯᠠᠨ  ᡞ ᡝᠮᡠ ᡤᡞᠷᡞᠨ ᠪᠠ , ᠮᡠᡩᠠᠨ ᡩᠠᠷᡞ ᠮᡠᡣᡝᡞ ᡤᠠᠰᡥᠠᠨ ᡩᡝ ᡨᡠᡧᠠᠮᠪᡞ 。
-# text[tran] = ilaci nirui amba ulan i emu girin ba, mudan deri mukei gasaha de tušambi
-# text[eng] = San Niulu Great Ditch area always suffered from flood
-1	ᡞᠯᠠᠴᡞ	_	_	_	_	_	_	_	Translit=
-2	ᠨᡞᠷᡠᡞ	_	_	_	_	_	_	_	Translit=
-3	ᠠᠮᠪᠠ	_	_	_	_	_	_	_	Translit=
-4	ᡠᠯᠠᠨ	_	_	_	_	_	_	_	Translit=
-5	 ᡞ	_	_	_	_	_	_	_	Translit=
-6	ᡝᠮᡠ	_	_	_	_	_	_	_	Translit=
-7	ᡤᡞᠷᡞᠨ	_	_	_	_	_	_	_	Translit=
-8	ᠪᠠ	_	_	_	_	_	_	_	Translit=
-9	,	_	_	_	_	_	_	_	Translit=
-10	ᠮᡠᡩᠠᠨ	_	_	_	_	_	_	_	Translit=
-11	ᡩᠠᠷᡞ	_	_	_	_	_	_	_	Translit=
-12	ᠮᡠᡣᡝᡞ	_	_	_	_	_	_	_	Translit=
-13	ᡤᠠᠰᡥᠠᠨ	_	_	_	_	_	_	_	Translit=
-14	ᡩᡝ	_	_	_	_	_	_	_	Translit=
-15	ᡨᡠᡧᠠᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-16	。	_	_	_	_	_	_	_	Translit=
+# text = ᡞᠯᠠᠴᡞ ᠨᡞᠷᡠᡞ ᠠᠮᠪᠠ ᡠᠯᠠᠨ ᡞ ᡝᠮᡠ ᡤᡞᠷᡞᠨ ᠪᠠ , ᠮᡠᡩᠠᠨ ᡩᠠᠷᡞ ᠮᡠᡣᡝᡞ ᡤᠠᠰᡥᠠᠨ ᡩᡝ ᡨᡠᡧᠠᠮᠪᡞ 。
+# text[tran] = ilaci nirui amba ulan i emu girin ba, mudan deri mukei gashan de tušambi.
+# text[eng] = San Niulu Great Ditch area always suffered from flood.
+1	ᡞᠯᠠᠴᡞ	ᡞᠯᠠᠴᡞ	NUM	_	NumType=Ord	2	nummod	_	Translit=ilaci
+2	ᠨᡞᠷᡠᡞ	ᠨᡞᠷᡠ	NOUN	_	_	4	nmod	_	Translit=nirui
+3	ᠠᠮᠪᠠ	ᠠᠮᠪᠠ	ADJ	_	_	4	amod	_	Translit=amba
+4	ᡠᠯᠠᠨ	ᡠᠯᠠᠨ	NOUN	_	_	7	nmod	_	Translit=ulan
+5	ᡞ	ᡞ	ADP	_	Case=Gen	4	case	_	Translit=i
+6	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	_	7	nummod	_	Translit=emu
+7	ᡤᡞᠷᡞᠨ	ᡤᡞᠷᡞᠨ	NOUN	_	_	15	nsubj	_	Translit=girin
+8	ᠪᠠ	ᠪᠠ	NOUN	_	_	7	compound	_	Translit=ba
+9	,	,	PUNCT	_	_	7	punct	_	Translit=,
+10	ᠮᡠᡩᠠᠨ	ᠮᡠᡩᠠᠨ	NOUN	_	_	15	obl	_	Translit=mudan
+11	ᡩᠠᠷᡞ	ᡩᠠᠷᡞ	ADP	_	Case=Abl	10	case	_	Translit=deri
+12	ᠮᡠᡣᡝᡞ	ᠮᡠᡣᡝ	NOUN	_	_	13	nmod	_	Translit=mukei
+13	ᡤᠠᠰᡥᠠᠨ	ᡤᠠᠰᡥᠠᠨ	NOUN	_	_	15	obl	_	Translit=gashan
+14	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	13	case	_	Translit=de
+15	ᡨᡠᡧᠠᠮᠪᡞ	ᡨᡠᡧᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=tušambi
+16	。	。	PUNCT	_	_	15	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_98
-# text = ᡤᡠᠪᠴᡞ ᡤᡠᠷᡠᠨ  ᡞ ᠰᡞᠪᡝ ᡠᡣᠰᡠᠷᠠᡞ ᠨᡞᠶᠠᠯᠮᠠ ᠠᡢᡤᠠᠯᠠ , ᠮᡠᠷᡠᡧᡝᠮᡝ ᡪᡠᠸᠠᠨ ᡪᠠᡣᡡᠨ ᡨᡠᠮᡝᠨ ᡫᡠᠨᠴᡝᠮᠪᡞ 。
-# text[tran] = gubci gurun i sibe uksurai niyalma anggala, murušeme juwan jakvn tumen funcembi
-# text[eng] = The population of Xibe people throughout the country is more than 180 thousands
-1	ᡤᡠᠪᠴᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡤᡠᠷᡠᠨ	_	_	_	_	_	_	_	Translit=
-3	 ᡞ	_	_	_	_	_	_	_	Translit=
-4	ᠰᡞᠪᡝ	_	_	_	_	_	_	_	Translit=
-5	ᡠᡣᠰᡠᠷᠠᡞ	_	_	_	_	_	_	_	Translit=
-6	ᠨᡞᠶᠠᠯᠮᠠ	_	_	_	_	_	_	_	Translit=
-7	ᠠᡢᡤᠠᠯᠠ	_	_	_	_	_	_	_	Translit=
-8	,	_	_	_	_	_	_	_	Translit=
-9	ᠮᡠᠷᡠᡧᡝᠮᡝ	_	_	_	_	_	_	_	Translit=
-10	ᡪᡠᠸᠠᠨ	_	_	_	_	_	_	_	Translit=
-11	ᡪᠠᡣᡡᠨ	_	_	_	_	_	_	_	Translit=
-12	ᡨᡠᠮᡝᠨ	_	_	_	_	_	_	_	Translit=
-13	ᡫᡠᠨᠴᡝᠮᠪᡞ	_	_	_	_	_	_	_	Translit=
-14	。	_	_	_	_	_	_	_	Translit=
+# text = ᡤᡠᠪᠴᡞ ᡤᡠᠷᡠᠨ ᡞ ᠰᡞᠪᡝ ᡠᡣᠰᡠᠷᠠᡞ ᠨᡞᠶᠠᠯᠮᠠ ᠠᡢᡤᠠᠯᠠ , ᠮᡠᠷᡠᡧᡝᠮᡝ ᡪᡠᠸᠠᠨ ᡪᠠᡣᡡᠨ ᡨᡠᠮᡝᠨ ᡫᡠᠨᠴᡝᠮᠪᡞ 。
+# text[tran] = gubci gurun i sibe uksurai niyalma anggala, murušeme juwan jakvn tumen funcembi.
+# text[eng] = The population of Xibe people throughout the country is more than 180 thousands.
+1	ᡤᡠᠪᠴᡞ	ᡤᡠᠪᠴᡞ	ADJ	_	_	2	amod	_	Translit=gubci
+2	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	6	nmod	_	Translit=gurun
+3	ᡞ	ᡞ	ADP	_	Case=Gen	2	case	_	Translit=i
+4	ᠰᡞᠪᡝ	ᠰᡞᠪᡝ	PROPN	_	_	5	nmod	_	Translit=sibe
+5	ᡠᡣᠰᡠᠷᠠᡞ	ᡠᡣᠰᡠᠷᠠ	NOUN	_	Case=Gen	6	nmod	_	Translit=uksurai
+6	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	13	nsubj	_	Translit=niyalma
+7	ᠠᡢᡤᠠᠯᠠ	ᠠᡢᡤᠠᠯᠠ	NOUN	_	_	6	compound	_	Translit=anggala
+8	,	,	PUNCT	_	_	6	punct	_	Translit=,
+9	ᠮᡠᠷᡠᡧᡝᠮᡝ	ᠮᡠᠷᡠᡧᡝᠮᡝ	ADV	_	_	10	advmod	_	Translit=murušeme
+10	ᡪᡠᠸᠠᠨ	ᡪᡠᠸᠠᠨ	NUM	_	NumType=Card	11	nummod	_	Translit=juwan
+11	ᡪᠠᡣᡡᠨ	ᡪᠠᡣᡡᠨ	NUM	_	NumType=Card	12	nummod	_	Translit=jakvn
+12	ᡨᡠᠮᡝᠨ	ᡨᡠᠮᡝᠨ	NUM	_	NumType=Card	13	obj	_	Translit=tumen
+13	ᡫᡠᠨᠴᡝᠮᠪᡞ	ᡫᡠᠨᠴᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=funcembi
+14	。	。	PUNCT	_	_	13	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_99
 # text = ᡨᡝᠰᡝ ᡪᡞᡢ ᠠᠮᡤᠠᠮᡝ ᡞᠯᡞᡥᠠᠪᡞ 。
-# text[tran] = tese jing amgame ilihabi
-# text[eng] = They are sleeping
-1	ᡨᡝᠰᡝ	_	_	_	_	_	_	_	Translit=
-2	ᡪᡞᡢ	_	_	_	_	_	_	_	Translit=
-3	ᠠᠮᡤᠠᠮᡝ	_	_	_	_	_	_	_	Translit=
-4	ᡞᠯᡞᡥᠠᠪᡞ	_	_	_	_	_	_	_	Translit=
-5	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = tese jing amgame ilihabi.
+# text[eng] = They are sleeping.
+1	ᡨᡝᠰᡝ	ᡨᡝᠰᡝ	PRON	_	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Translit=tese
+2	ᡪᡞᡢ	ᡪᡞᡢ	ADV	_	_	3	advmod	_	Translit=jing
+3	ᠠᠮᡤᠠᠮᡝ	ᠠᠮᡤᠠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	4	advcl	_	Translit=amgame
+4	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=ilihabi
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_100
 # text = ᠰᡞ ᡨᡝᡞᡣᡝ ᠶᠠᠪᡠᠮᡝ ᠰᠠᡣᠠ , ᠰᡞᠨᡞ ᠠᡥᡡᠨ ᡩᡝᠷᡞᠪᡠᡥᡝ 。
-# text[tran] = si teike yabume saka, sini ahvn deribuhe
-# text[eng] = No sooner had you left than your brother arrived
-1	ᠰᡞ	_	_	_	_	_	_	_	Translit=
-2	ᡨᡝᡞᡣᡝ	_	_	_	_	_	_	_	Translit=
-3	ᠶᠠᠪᡠᠮᡝ	_	_	_	_	_	_	_	Translit=
-4	ᠰᠠᡣᠠ	_	_	_	_	_	_	_	Translit=
-5	,	_	_	_	_	_	_	_	Translit=
-6	ᠰᡞᠨᡞ	_	_	_	_	_	_	_	Translit=
-7	ᠠᡥᡡᠨ	_	_	_	_	_	_	_	Translit=
-8	ᡩᡝᠷᡞᠪᡠᡥᡝ	_	_	_	_	_	_	_	Translit=
-9	。	_	_	_	_	_	_	_	Translit=
+# text[tran] = si teike yabume saka, sini ahvn deribuhe.
+# text[eng] = No sooner had you left than your brother arrived.
+1	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=si
+2	ᡨᡝᡞᡣᡝ	ᡨᡝᡞᡣᡝ	ADV	_	_	3	advmod	_	Translit=teike
+3	ᠶᠠᠪᡠᠮᡝ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Conv	8	advcl	_	Translit=yabume
+4	ᠰᠠᡣᠠ	ᠰᠠᡣᠠ	ADP	_	_	3	mark	_	Translit=saka
+5	,	,	PUNCT	_	_	3	punct	_	Translit=,
+6	ᠰᡞᠨᡞ	ᠰᡞᠨᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs|Poss=Yes	7	amod	_	Translit=sini
+7	ᠠᡥᡡᠨ	ᠠᡥᡡᠨ	NOUN	_	_	8	nsubj	_	Translit=ahvn
+8	ᡩᡝᠷᡞᠪᡠᡥᡝ	ᡩᡝᠷᡞᠪᡠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=deribuhe
+9	。	。	PUNCT	_	_	8	punct	_	Translit=.
+
