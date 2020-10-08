@@ -15,20 +15,3 @@ If you use this treebank in your work, please cite:
 # Changelog
 
 
-
-<pre>
-=== Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: 
-License: 
-Includes text: yes
-Genre: grammar examples, news
-Lemmas: manual native
-UPOS: manual native
-XPOS: not available
-Features: manual native
-Relations: manual native
-Contributors: Zhou, He; Chung, Juyeon; Kübler, Sandra; Tyers, Francis
-Contributing: here
-Contact: hzh1@iu.edu
-===============================================================================
-</pre>
