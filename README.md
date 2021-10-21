@@ -10,6 +10,7 @@ The treebank was manually annotated for lemmas, universal part-of-speech, morpho
 
 If you use this treebank in your work, please cite:
 
+<pre>
 @inproceedings{zhou2020universal,
   title={Universal Dependency Treebank for Xibe},
   author={Zhou, He and Chung, Juyeon and K{\"u}bler, Sandra and Tyers, Francis},
@@ -17,6 +18,8 @@ If you use this treebank in your work, please cite:
   pages={205--215},
   year={2020}
 }
+</pre>
+
 
 # Changelog
 
