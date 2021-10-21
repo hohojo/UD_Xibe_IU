@@ -26,6 +26,4 @@ If you use this treebank in your work, please cite:
 
 </pre>
 
-# Changelog
-
 
