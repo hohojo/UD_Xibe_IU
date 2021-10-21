@@ -13,7 +13,7 @@ If you use this treebank in your work, please cite:
 <pre>
 @inproceedings{zhou2020universal,
   title={Universal Dependency Treebank for Xibe},
-  author={Zhou, He and Chung, Juyeon and K{\"u}bler, Sandra and Tyers, Francis},
+  author={Zhou, He and Chung, Juyeon and Kübler, Sandra and Tyers, Francis},
   booktitle={Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020)},
   pages={205--215},
   year={2020}
