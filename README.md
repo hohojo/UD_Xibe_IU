@@ -4,11 +4,19 @@ The UD Xibe Treebank is a corpus of the Xibe language (ISO 639-3: *sjo*) contain
 
 # Introduction
 
-UD Xibe treebank is developed with the UD framework. It includes grammar book examples from *General Introduction to Xibe Grammar* (*sibe gisun i gisun kooli i hafupi leolen*,*锡伯语语法通论*) by Setuken (佘吐肯), and newspaper sentences from *Cabcal News*.
+The treebank was manually annotated for lemmas, universal part-of-speech, morphological features and dependency relations. 
 
 # Acknowledgements
 
 If you use this treebank in your work, please cite:
+
+@inproceedings{zhou2020universal,
+  title={Universal Dependency Treebank for Xibe},
+  author={Zhou, He and Chung, Juyeon and K{\"u}bler, Sandra and Tyers, Francis},
+  booktitle={Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020)},
+  pages={205--215},
+  year={2020}
+}
 
 # Changelog
 
