@@ -1,6 +1,6 @@
 # Summary
 
-The UD Xibe Treebank is a corpus of the Xibe language (ISO 639-3: *sjo*). The data come from two sources: grammar book examples and newspaper (Cabcal News). It is annotated natively under the UD annotation scheme.
+The UD Xibe Treebank is a corpus of the Xibe language (ISO 639-3: *sjo*) containing manually annotated syntactic trees under the Universal Dependencies. Sentences come from three sources: grammar book examples, newspaper (Cabcal News) and Xibe textbooks. 
 
 # Introduction
 
