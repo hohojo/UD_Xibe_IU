@@ -20,6 +20,11 @@ If you use this treebank in your work, please cite:
 }
 </pre>
 
+<pre>
+=== Machine-readable metadata (DO NOT REMOVE!) ================================
+
+
+</pre>
 
 # Changelog
 
