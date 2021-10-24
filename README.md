@@ -22,7 +22,7 @@ If you use this treebank in your work, please cite:
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.9
+Data available since: 
 License: CC BY-NC-SA 3.0
 Includes text: yes
 Genre: grammar-examples, news
@@ -31,7 +31,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Zhou, He; Chung, Juyeon; Tyers, Francis; Kübler, Sandra
+Contributors: Zhou, He; Chung, Juyeon; Klyachko, Elena; Tyers, Francis; Kübler, Sandra
 Contributing: elsewhere
 Contact: hzh1@iu.edu
 ===============================================================================
